@@ -1,0 +1,124 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-eed4fce082-025znb')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:44:82">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:44:82-1:1 Column:0">
+<h5 data-zesty-id="content:text:1:22"><strong>Headliner&nbsp;- $30,000</strong></h5>
+<p data-zesty-id="content:textarea:2:19">
+	The Headliner Sponsor receives the highest level of visibility, recognition, and hospitality associated with GameDay Café. This exclusive partnership positions your organization as a lead supporter of The Salvation Army of the Midlands while aligning your brand with one of the region’s most iconic live-music fundraising events.
+</p>
+<p data-zesty-id="content:textarea:3:69">
+	<strong>Benefits include:</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:4:46">
+	<li>Reserved <strong>VIP table seating for up to 10 guests</strong></li>
+	<li><strong>Meet &amp; Greet with the artists</strong></li>
+	<li>Heavy hors d’oeuvres by Southern Way Catering</li>
+	<li>Full bar prior to the show (6:30–8:00 p.m.)</li>
+	<li>Wine and beer service at the table during the show</li>
+	<li><strong>Top-tier logo recognition</strong> across all event platforms and locations</li>
+	<li>Inclusion in <strong>major network media promotions</strong></li>
+	<li>Prominent logo placement on all event promotional materials, including invitations</li>
+	<li>Table signage featuring your organization’s logo</li>
+	<li>Recognition in all GameDay Café social media event posts</li>
+	<li>Logo placement on <strong>The Salvation Army of the Midlands website</strong></li>
+	<li>Recognition in <strong>The Salvation Army of the Midlands June newsletter</strong></li>
+	<li>Marketing materials displayed at event check-in</li>
+	<li><strong>On-stage recognition </strong>with verbal acknowledgment by the emcee and Major Craddock prior to the show</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:77"></div>
+<h5 data-zesty-id="content:text:7:33"><strong>Opening Act - 20,000</strong></h5>
+<p data-zesty-id="content:textarea:8:79">
+	Opening Act Sponsors enjoy premium visibility and recognition while supporting the continued success of GameDay Café and its charitable mission.
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:9:11">
+	<li>Reserved <strong>VIP table seating for up to 10 guests</strong></li>
+	<li><strong>Meet &amp; Greet with the artists</strong></li>
+	<li>Heavy hors d’oeuvres by Southern Way Catering</li>
+	<li>Full bar prior to the show (6:30–8:00 p.m.)</li>
+	<li>Wine and beer service at the table during the show</li>
+	<li>Logo recognition across all major event platforms</li>
+	<li>Inclusion in major network media promotions</li>
+	<li>Logo placement on event promotional materials and invitations</li>
+	<li>Table signage with organization logo</li>
+	<li>Recognition in GameDay Café social media event posts</li>
+	<li>Logo placement on The Salvation Army of the Midlands website</li>
+	<li>Recognition in the June newsletter</li>
+	<li><strong>Verbal recognition</strong> by the emcee and Major Craddock prior to the show</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:10:66"></div>
+<h5 data-zesty-id="content:text:12:89"><strong>Green Room - $15,000</strong></h5>
+<p data-zesty-id="content:textarea:13:60">Green Room Sponsors receive a strong balance of hospitality and brand visibility in an intimate, high-energy setting.</p>
+<ul data-zesty-id="content:wysiwyg_basic:14:99">
+	<li>Reserved <strong>VIP table seating for up to 8 guests</strong></li>
+	<li>Heavy hors d’oeuvres by Southern Way Catering</li>
+	<li>Full bar prior to the show (6:30–8:00 p.m.)</li>
+	<li>Wine and beer service at the table during the show</li>
+	<li>Logo recognition across event platforms</li>
+	<li>Inclusion on event promotional materials and invitations</li>
+	<li>Table signage with organization logo</li>
+	<li>Recognition in a GameDay Café social media event post</li>
+	<li>Logo placement on The Salvation Army of the Midlands website</li>
+	<li>Recognition in the June newsletter</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:20"></div>
+<h5 data-zesty-id="content:text:17:84"><strong>Backstage Pass - $10,000</strong></h5>
+<p data-zesty-id="content:textarea:18:79">
+	Backstage Pass Sponsors enjoy elevated visibility and hospitality while supporting the mission behind GameDay Café.
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:19:25">
+	<li>Reserved <strong>VIP table seating for up to 6 guests</strong></li>
+	<li>Heavy hors d’oeuvres by Southern Way Catering</li>
+	<li>Full bar prior to the show (6:30–8:00 p.m.)</li>
+	<li>Logo recognition across select event platforms</li>
+	<li>Table signage with organization logo</li>
+	<li>Recognition in a GameDay Café social media event post</li>
+	<li>Logo placement on The Salvation Army of the Midlands website</li>
+	<li>Recognition in the June newsletter</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:20:38"></div>
+<h5 data-zesty-id="content:text:22:16"><strong>Spotlight - $5,000</strong></h5>
+<p data-zesty-id="content:textarea:23:79">
+	Spotlight Sponsors receive meaningful recognition and an opportunity to align their brand with a beloved community event.
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:24:77">
+	<li>Reserved<strong> VIP table seating for up to 6 guests</strong></li>
+	<li>Heavy hors d’oeuvres by Southern Way Catering</li>
+	<li>Full bar prior to the show (6:30–8:00 p.m.)</li>
+	<li>Logo recognition across select event platforms</li>
+	<li>Table signage with organization logo</li>
+	<li>Recognition in a GameDay Café social media event post</li>
+	<li>Logo placement on The Salvation Army of the Midlands website</li>
+	<li>Recognition in the June newsletter</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:25:9"></div>
+<h5 data-zesty-id="content:text:27:75"><br>
+<b>Encore - $2,000</b></h5>
+<p data-zesty-id="content:textarea:28:23">Encore Sponsors play an important role in sustaining GameDay Café and its impact in the Midlands.</p>
+<ul data-zesty-id="content:wysiwyg_basic:29:83">
+	<li>Reserved <strong>VIP table seating for up to 4 guests</strong></li>
+	<li>Hors d’oeuvres by Southern Way Catering</li>
+	<li>Full bar prior to the show (6:30–8:00 p.m.)</li>
+	<li>Logo recognition on select event signage</li>
+	<li>Recognition in a GameDay Café social media event post</li>
+	<li>Logo placement on The Salvation Army of the Midlands website</li>
+	<li>Recognition in the June newsletter</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:30:20"></div>
+<p data-zesty-id="content:wysiwyg_basic:32:50">
+	<strong><a href="https://give.salvationarmycarolinas.org/event/gameday-cafe-2026/e759258"><span class="btn btn-solid btn-red">SPONSOR</span></a></strong>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:33:65"></div>
+<h5 data-zesty-id="content:text:35:5"><strong>Individual Tickets&nbsp;- $250 each</strong></h5>
+<p data-zesty-id="content:textarea:36:68">
+	FOR INDIVUALS AND/OR SMALL GROUPS
+</p>
+<p data-zesty-id="content:wysiwyg_basic:37:88">
+	<strong><span class="btn btn-solid btn-teal">TICKETS</span></strong>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:38:27"></div>
+<p data-zesty-id="content:textarea:41:64">
+	Sponsorship Levels
+</p>
+		</div>
+	</div>
+</div>

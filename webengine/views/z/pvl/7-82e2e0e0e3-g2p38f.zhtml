@@ -1,0 +1,3 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-feddd889db-c19gz3')}}
+</div>

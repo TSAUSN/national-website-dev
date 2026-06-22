@@ -1,0 +1,69 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-b4aaacea80-bw7vfv')}}
+	<img width="100%" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/c97de85f-ba81-44d9-869d-eee85344b4b3_Red+Shield+Family+%281%29.jpg" alt="placeholder" / data-zesty-id="content:images:1:5168">
+	<p style="text-align:center;" data-zesty-id="content:textarea:1:35"><strong>RED SHIELD SERVICES</strong></p>
+	<p style="text-align:center;" data-zesty-id="content:textarea:2:46">469 Marietta Street</p>
+	<p style="text-align:center;" data-zesty-id="content:textarea:3:19">Atlanta, GA 30313</p>
+	<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:4:49"><span style="color:#ed1c2b;"><a href="tel:4044862700">404-486-2700</a></span></p>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:64"></div>
+	<p data-zesty-id="content:textarea:7:41">
+	<span style="color:#ed1c2b;"><strong>Purpose Statement</strong></span>
+</p>
+	<p data-zesty-id="content:textarea:8:10">
+	The purpose of The Salvation Army Metro Atlanta Red Shield Services Emergency and Transitional Housing Facility (Red Shield Shelter) is to provide strategic intervention, refuge and safe lodging for homeless men, women and families with children in crisis. Our focus is to provide emergency, transitional and recovery programs that empower people of all ages to begin their transition to stable independence; by discovering and overcoming the root causes of their homelessness.
+</p>
+	<div class="py-5" data-zesty-id="design:design:whitespace-xl:9:36"></div>
+	<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:10:14">
+	<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/29b7089f-673c-4f6f-a30d-81a29db8b508_Red+Shield+Shelter+Brochure+Updated+2024.pdf"><span class="btn btn-solid btn-red">Download The Red Shield Shelter Brochure</span></a>
+</p>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:72"></div>
+	<p data-zesty-id="content:textarea:13:71">
+	<span style="color:#ed1c2b;"><strong>HOUSING PROGRAMS PROVIDED:</strong></span>
+</p>
+	<p data-zesty-id="content:textarea:14:71">
+	<span style="color:#ed1c2b;">Cold Weather Program:&nbsp;</span>When the weather is below 40 degrees and if the applicant is not intoxicated.
+</p>
+	<p data-zesty-id="content:textarea:15:2">
+	<span style="color:#ed1c2b;">Emergency Assessment Program:&nbsp;</span>Individual applicants can access this program for a 30 day stay, once in a twelve-month period. Applicants must be homeless and need to present a valid form of identification.
+</p>
+	<p data-zesty-id="content:textarea:16:24">
+	<span style="color:#ed1c2b;">Family Emergency Program:&nbsp;</span>Applicants must be the head of household with documented proof of custody of children. Applicants can stay up to 60 days, once in a twelve-month period. Applicants must present a valid form of identification.
+</p>
+	<p data-zesty-id="content:textarea:17:55">
+	<span style="color:#ed1c2b;">Supportive Emergency Program:&nbsp;</span>Applicants can stay up to 90 days, must be homeless, need to present two forms of identification, and must have an income or sponsorship.
+</p>
+	<p data-zesty-id="content:textarea:18:43">
+	<span style="color:#ed1c2b;">Re-entry Program:</span>&nbsp;Applicants can stay up to three months and must be referred by the State Board of Pardons and the Paroles Housing Coordinator.
+</p>
+	<p data-zesty-id="content:textarea:19:96">
+	<span style="color:#ed1c2b;">Harbor Light Drug Treatment:</span>&nbsp;Applicants are entered into a 90-day program, must be homeless or referred through U.S. District Courts, must have qualifying medical paperwork prior to entry (call for details) and must complete a screening interview prior to entry. Most beds are fee-based, some are free or sponsored.
+</p>
+	<p data-zesty-id="content:textarea:20:77">
+	<span style="color:#ed1c2b;">Rapid Rehousing Programs:</span>&nbsp;Rapid Rehousing programs are designed to provide services to those who are in need of obtaining permanent housing or maintaining current housing. These services include financial assistance and a referral to the Furniture Bank (if needed), determined on a case by case basis. The Home Again program provides assistance to families that are categorized as either homeless, at risk of becoming homeless or are at imminent risk of losing their current housing.&nbsp; The Housing Stability program provides assistance to singles that are currently residing within The Salvation Army Red Shield Services on a referral basis. The DeKalb Rehousing program provides assistance after a coordinated assessment with security and utility deposits.
+</p>
+	<p data-zesty-id="content:textarea:21:87">
+	<span style="color:#ed1c2b;">S</span><span style="color:#ed1c2b;">upportive Emergency Family Program:</span>&nbsp;Applicants must be the head of household with documented proof of custody of children. Families can stay up to 90 days and must have income or sponsorship.
+</p>
+	<p data-zesty-id="content:textarea:22:11">
+	<span style="color:#ed1c2b;">Veterans on the Move:</span>&nbsp;Applicants can stay up to two years and must be referred through the Veterans Administration Homeless Program.
+</p>
+	<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:23:57">
+	<a href="https://www.amazon.com/hz/wishlist/ls/2018D2MG7RAVK?ref_=wl_share"><span class="btn btn-solid btn-red">View Red Shield's Amazon Wishlist</span></a>
+</p>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:24:76"></div>
+	<hr data-zesty-id="design:design:horizontalrule:26:7">
+	<div class="py-5" data-zesty-id="design:design:whitespace-xl:27:59"></div>
+	<h5 style="text-align:center;" data-zesty-id="content:text:28:17">donate&nbsp;in-kind items or gifts</h5>
+	<div class="row my-3" data-zesty-id="design:columns:2columns:31:73">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:31:73-1:2 Columns - Equal:0">
+<p data-zesty-id="content:textarea:29:9">
+	<span style="color:#ed1c2b;"><strong>Important Links:&nbsp;</strong></span>
+</p>
+		</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:31:73-1:2 Columns - Equal:1">
+<p style="text-align:center;" data-zesty-id="content:textarea:30:66">
+	<strong>Funding to Support Services Provided By</strong>
+</p>
+		</div>
+	</div>
+</div>

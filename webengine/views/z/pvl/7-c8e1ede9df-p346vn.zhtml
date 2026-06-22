@@ -1,0 +1,29 @@
+<div className={styles.pvlRoot}>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/45c43581-46e9-441c-9e00-69d7210bc879_Advent+%28Web+Banner%2C+v.6%29.png" alt="Theater Image" class="filter filter-none img-fluid rounded d-block mx-auto my-3" style="max-width: 100%; height: auto;" loading="lazy" data-zesty-id="content:wysiwyg_basic:0:50">
+
+<p style="text-align: center;" data-zesty-id="content:textarea:1:13">
+	<span style="font-size:20px;">Christmas is the perfect time to tell the story of Jesus, spread the Good News, and share the joy He brings.</span>
+</p>
+
+<p style="text-align: center;" data-zesty-id="content:textarea:2:25">
+	<span style="font-size:20px;">What better way to do this than our Advent devotional activity workbook!</span>
+</p>
+
+<p style="text-align: center;" data-zesty-id="content:textarea:3:94">
+	<span style="font-size:20px;">It is designed for kids of all ages to learn about Jesus through Arts &amp; Crafts projects and all of the stories of Jesus throughout the Advent season.</span>
+</p>
+
+<p style="text-align: center;" data-zesty-id="content:textarea:4:21">
+	<span style="font-size:20px;">Download the devotional activity book and share it with as many people as you can.</span>
+</p>
+
+<p style="text-align: center;" data-zesty-id="content:textarea:5:87">
+	<span style="font-size:20px;">This is a wonderful way to get our kids excited about Jesus and the reasons we celebrate Him.</span>
+</p>
+
+<h1 style="text-align: center;" data-zesty-id="content:wysiwyg_basic:6:0"><span class="btn btn-solid btn-red"><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/e3089e2c-308e-4af4-bc2a-c66bd791e10e_2025-advent.pdf">CLICK HERE to Download the Activity Book</a></span></h1>
+
+<div class="bg-white rounded p-4 mb-4" data-zesty-id="content:wysiwyg_basic:7:54"><p>
+	<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/e0d0b031-6f7a-4b51-8ea4-4048b22ea1dd_2025-advent.pdf"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a5b36b14-27ad-4e03-9e80-5dccc3029aa9_Advent+Workbook+Cover.png" style="display: block; margin-left: auto; margin-right: auto;"></a>
+</p></div>
+</div>

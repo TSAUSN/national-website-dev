@@ -1,0 +1,2063 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:HERO_PLACEHOLDER:0:0": {
+				"html": "<!-- hero-placeholder -->",
+				"content": "",
+				"name": "Hero Block",
+				"position": 0,
+				"fullName": "content:block:HERO_PLACEHOLDER:0:0",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:columns:1 Column:118:57": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:118:57",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:118:57-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:116:9": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:116:9",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:1:56": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">Creating a Brighter Future for North Texas</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Creating a Brighter Future for North Texas",
+								"position": 1,
+								"fullName": "content:text:1:56",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:1:56",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:2:26": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tFor more than 130 years, The Salvation Army of North Texas has demonstrated a proven history of doing the most good&nbsp;for the most people. As the region's largest social service provider,&nbsp;our impact radiates across North Texas.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "For more than 130 years, The Salvation Army of North Texas has demonstrated a proven history of doing the most good&nbsp;for the most people. As the region's largest social service provider,&nbsp;our impact radiates across North Texas.",
+								"position": 2,
+								"fullName": "content:textarea:2:26",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:2:26",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:3:83": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tWhile much of North Texas is flourishing, many are left behind. The needs are&nbsp;particularly acute in Dallas County, but we face a battle across multiple fronts.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "While much of North Texas is flourishing, many are left behind. The needs are&nbsp;particularly acute in Dallas County, but we face a battle across multiple fronts.",
+								"position": 3,
+								"fullName": "content:textarea:3:83",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:3:83",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:4:10": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t<a href=\"https://give.salvationarmytexas.org/One-Army-Many-Fronts\"><span class=\"btn btn-solid btn-red\">SUPPORT THE CAMPAIGN</span></a>\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t<a href=\"https://give.salvationarmytexas.org/One-Army-Many-Fronts\"><span class=\"btn btn-solid btn-red\">SUPPORT THE CAMPAIGN</span></a>\n</p>",
+								"model": "6",
+								"position": 4,
+								"fullName": "content:wysiwyg_basic:4:10",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:4:10",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:5:53": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 5,
+								"fullName": "design:design:whitespace-sm:5:53",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:12:99": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row g-3 my-3",
+								"html": "<div class=\"row g-3 my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 6,
+								"fullName": "design:columns:3 Columns:12:99",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:12:99-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:6:68": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h6>poverty</h6><p>\n\t628,000<span><span><br>\n\tNORTH TEXANS ARE EXPERIENCING FOOD INSECURITY<span><span>, AND 115,000 ARE AT RISK OF EVICTION.</span></span></span></span>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h6>poverty</h6><p>\n\t628,000<span><span><br>\n\tNORTH TEXANS ARE EXPERIENCING FOOD INSECURITY<span><span>, AND 115,000 ARE AT RISK OF EVICTION.</span></span></span></span>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:6:68",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:6:68",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:12:99-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:12:99-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:8:63": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h6>addiction</h6><p>\n\t1 in 5<span><span><br>\n\tNORTH TEXAS CHILDREN LIVE IN A HOME WHERE SOMEONE IS ABUSING DRUGS&nbsp;OR&nbsp;ALCOHOL.</span></span>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h6>addiction</h6><p>\n\t1 in 5<span><span><br>\n\tNORTH TEXAS CHILDREN LIVE IN A HOME WHERE SOMEONE IS ABUSING DRUGS&nbsp;OR&nbsp;ALCOHOL.</span></span>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:8:63",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:8:63",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:12:99-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:12:99-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:10:27": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h6>homelessness</h6><p>\n\t2 MILLION<span><span><br>\n\tNORTH TEXAS ADULTS&nbsp;HAVE DIFFICULTY AFFORDING BASIC HOUSEHOLD NEEDS.</span></span>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h6>homelessness</h6><p>\n\t2 MILLION<span><span><br>\n\tNORTH TEXAS ADULTS&nbsp;HAVE DIFFICULTY AFFORDING BASIC HOUSEHOLD NEEDS.</span></span>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:10:27",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:10:27",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:12:99-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							},
+							"content:text:13:22": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 id=\"about;\" style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">Bold Goals</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Bold Goals",
+								"position": 7,
+								"fullName": "content:text:13:22",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:13:22",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:14:23": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tTo help our neighbors in crisis and meet the growing demand for our services, we developed a comprehensive strategic plan with bold goals to revolutionize our people, programs, partnerships, and places to advance the well-being of North Texans for decades to come.&nbsp;This visionary campaign will drive maximum impact and sustainable growth, enabling us to more than double the number of individuals and families lifted out of homelessness each year.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "To help our neighbors in crisis and meet the growing demand for our services, we developed a comprehensive strategic plan with bold goals to revolutionize our people, programs, partnerships, and places to advance the well-being of North Texans for decades to come.&nbsp;This visionary campaign will drive maximum impact and sustainable growth, enabling us to more than double the number of individuals and families lifted out of homelessness each year.",
+								"position": 8,
+								"fullName": "content:textarea:14:23",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:14:23",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:text:15:68": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">A New Dallas Campus</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "A New Dallas Campus",
+								"position": 9,
+								"fullName": "content:text:15:68",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:15:68",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:16:37": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tAs the cornerstone of the campaign, we will create a new flagship campus on a generously donated 21-acre parcel of land, designed to provide centralized, high-capacity services. The Salvation Army of North Texas Dallas Social Service Center will feature emergency shelter, recovery programs, and family services, and will act as a hub for our enhanced programs and services, expanding our scope across North Texas.&nbsp;By addressing multiple needs under one roof, The Salvation Army aims to set a new standard for integrated social services, serving as a model for the region while fostering community engagement through volunteer opportunities and partnerships. This initiative reflects The Salvation Army's mission to serve without discrimination, reduce barriers to assistance, and provide comprehensive, life-changing support.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "As the cornerstone of the campaign, we will create a new flagship campus on a generously donated 21-acre parcel of land, designed to provide centralized, high-capacity services. The Salvation Army of North Texas Dallas Social Service Center will feature emergency shelter, recovery programs, and family services, and will act as a hub for our enhanced programs and services, expanding our scope across North Texas.&nbsp;By addressing multiple needs under one roof, The Salvation Army aims to set a new standard for integrated social services, serving as a model for the region while fostering community engagement through volunteer opportunities and partnerships. This initiative reflects The Salvation Army's mission to serve without discrimination, reduce barriers to assistance, and provide comprehensive, life-changing support.",
+								"position": 10,
+								"fullName": "content:textarea:16:37",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:16:37",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:columns:1 Column:18:45": {
+								"uid": "NaN",
+								"name": "1 Column",
+								"type": "columns",
+								"html": "<div style=\"display:flex\" class=\"row ratio ratio-16x9 d-flex\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"classes": "row ratio ratio-16x9 d-flex",
+								"droppable": "true",
+								"numberOfColumns": 1,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": 1,
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+										"classes": "column",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 11,
+								"fullName": "design:columns:1 Column:18:45",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:1 Column:18:45-1:1 Column:0": {
+										"width": 1,
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn} class=\"column\">*</div>",
+										"classes": "column",
+										"droppable": true,
+										"children": {
+											"content:embed:17:12": {
+												"icon": "embed",
+												"name": "Embed",
+												"type": "embed",
+												"html": "<iframe src=\"https://www.youtube.com/embed/Fney6GZ8du8\" style=\"border:0;\" loading=\"lazy\" allowfullscreen referrerpolicy=\"no-referrer-when-downgrade\" class=\"w-100 h-100\"></iframe>",
+												"description": "Embedded content (iframe)",
+												"draggable": true,
+												"content": "<iframe src=\"https://www.youtube.com/embed/Fney6GZ8du8\" style=\"border:0;\" loading=\"lazy\" allowfullscreen referrerpolicy=\"no-referrer-when-downgrade\" class=\"w-100 h-100\"></iframe>",
+												"position": 0,
+												"fullName": "content:embed:17:12",
+												"htmlElement": "iframe",
+												"classes": "w-100 h-100",
+												"primarytype": "content",
+												"id": "content:embed:17:12",
+												"styles": {},
+												"newLoc": "design:columns:1 Column:18:45-1:1 Column:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									}
+								},
+								"id": "design:columns:1 Column:18:45",
+								"styles": {},
+								"htmlElement": "div",
+								"content": "<div style=\"display:flex\" classname=\"{styles.pvlRow}\" class=\"row ratio ratio-16x9 d-flex\">*</div>",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:19:68": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 12,
+								"fullName": "design:design:whitespace-xl:19:68",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:21:40": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">Join Us</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Join Us",
+								"position": 13,
+								"fullName": "content:text:21:40",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:21:40",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:22:43": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tYou are integral to our transformative plan, which centers around three growing challenges: poverty, addiction, and homelessness.&nbsp;This campaign is a long-term investment in the community, ensuring the sustainability of enhanced facilities and programs for generations to come. Join us today and become part of a renewed vision for North Texas. Together, we are one army across many fronts.<span><span></span></span>\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "You are integral to our transformative plan, which centers around three growing challenges: poverty, addiction, and homelessness.&nbsp;This campaign is a long-term investment in the community, ensuring the sustainability of enhanced facilities and programs for generations to come. Join us today and become part of a renewed vision for North Texas. Together, we are one army across many fronts.",
+								"position": 14,
+								"fullName": "content:textarea:22:43",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:22:43",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:23:32": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t<span style=\"display:none;\">&nbsp;</span>Reach out to our team:&nbsp;<a href=\"mailto:NTXCampaign@uss.salvationarmy.org\" target=\"\">NTXCampaign@uss.salvationarmy.org</a>.\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t<span style=\"display:none;\">&nbsp;</span>Reach out to our team:&nbsp;<a href=\"mailto:NTXCampaign@uss.salvationarmy.org\" target=\"\">NTXCampaign@uss.salvationarmy.org</a>.\n</p>",
+								"model": "6",
+								"position": 15,
+								"fullName": "content:wysiwyg_basic:23:32",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:23:32",
+								"styles": {
+									"display": "none",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:24:28": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 16,
+								"fullName": "design:design:whitespace-sm:24:28",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:25:78": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\tMake a donation:&nbsp;<span><span><span style=\"color:#57687d;\"><a href=\"https://give.salvationarmytexas.org/One-Army-Many-Fronts\">give.salvationarmytexas.org/One-Army-Many-Fronts</a></span></span></span><span><span>.</span></span>\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\tMake a donation:&nbsp;<span><span><span style=\"color:#57687d;\"><a href=\"https://give.salvationarmytexas.org/One-Army-Many-Fronts\">give.salvationarmytexas.org/One-Army-Many-Fronts</a></span></span></span><span><span>.</span></span>\n</p>",
+								"model": "6",
+								"position": 17,
+								"fullName": "content:wysiwyg_basic:25:78",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:25:78",
+								"styles": {
+									"color": "#57687d",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:26:42": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 18,
+								"fullName": "design:design:whitespace-sm:26:42",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:27:48": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t<i>Cash, pledges, planned and deferred gifts are welcome at any level. Unique naming opportunities are available&nbsp;for&nbsp;leadership&nbsp;gifts&nbsp;that&nbsp;help&nbsp;set&nbsp;the&nbsp;pace&nbsp;for&nbsp;support. </i>\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Cash, pledges, planned and deferred gifts are welcome at any level. Unique naming opportunities are available&nbsp;for&nbsp;leadership&nbsp;gifts&nbsp;that&nbsp;help&nbsp;set&nbsp;the&nbsp;pace&nbsp;for&nbsp;support.",
+								"position": 19,
+								"fullName": "content:textarea:27:48",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:27:48",
+								"styles": {
+									"textAlign": "center",
+									"fontStyle": "italic"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:28:60": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/1d373194-dfd0-4d5d-befd-fc7a8447a57f_Clint+Riley+-+Campaign+-+01+-+Admin+Entry+Night_RGB.jpg');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5><span style=\"color:#ffffff;\">\"With the funds raised through this campaign, along with the expertise of The Salvation Army, Dallas will revolutionize the way in which it cares for the most vulnerable in our community</span><span style=\"color:#ffffff;\">.\"</span></h5>\n\n<p style=\"color:#fff\">\n\t<span style=\"color:#ffffff;\">– Michal Powell, Campaign Co-Chair</span>\n</p>\n                </div>\n            </div>\n        </div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/1d373194-dfd0-4d5d-befd-fc7a8447a57f_Clint+Riley+-+Campaign+-+01+-+Admin+Entry+Night_RGB.jpg');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5><span style=\"color:#ffffff;\">\"With the funds raised through this campaign, along with the expertise of The Salvation Army, Dallas will revolutionize the way in which it cares for the most vulnerable in our community</span><span style=\"color:#ffffff;\">.\"</span></h5>\n\n<p style=\"color:#fff\">\n\t<span style=\"color:#ffffff;\">– Michal Powell, Campaign Co-Chair</span>\n</p>\n                </div>\n            </div>\n        </div>",
+								"model": "6",
+								"position": 20,
+								"fullName": "content:wysiwyg_basic:28:60",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:28:60",
+								"styles": {
+									"position": "relative",
+									"overflow": "hidden",
+									"minHeight": "520px",
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/1d373194-dfd0-4d5d-befd-fc7a8447a57f_Clint+Riley+-+Campaign+-+01+-+Admin+Entry+Night_RGB.jpg')",
+									"backgroundPosition": "center center",
+									"backgroundRepeat": "repeat",
+									"backgroundSize": "cover"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:29:61": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 21,
+								"fullName": "design:design:whitespace-sm:29:61",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:30:73": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">Measurable Outcomes</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Measurable Outcomes",
+								"position": 22,
+								"fullName": "content:text:30:73",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:30:73",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:32:90": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 23,
+								"fullName": "design:design:whitespace-sm:32:90",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:37:5": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row g-3 my-3",
+								"html": "<div class=\"row g-3 my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 24,
+								"fullName": "design:columns:3 Columns:37:5",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:37:5-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:31:5": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><img class=\"img-fluid w-100\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d6cb4cfb-c49b-4d2b-a134-b5a49b506541_Artboard+3%402x.png\"></h5>\n\n<h5>Alleviate Poverty</h5>\n\n<p>\n\tGrinding poverty often passes from one generation to the next. Your support helps us offer clients spaces, programs, and services to alleviate poverty with sustainable steps forward.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><img class=\"img-fluid w-100\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d6cb4cfb-c49b-4d2b-a134-b5a49b506541_Artboard+3%402x.png\"></h5>\n\n<h5>Alleviate Poverty</h5>\n\n<p>\n\tGrinding poverty often passes from one generation to the next. Your support helps us offer clients spaces, programs, and services to alleviate poverty with sustainable steps forward.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:31:5",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:31:5",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:37:5-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:37:5-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:33:20": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><img class=\"img-fluid w-100\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/05f3d288-25af-4bed-b65c-680ad5232005_Artboard+4%402x.png\"></h5>\n\n<h5>Fight Addiction</h5>\n\n<p>\n\tAny number of factors can lead to addiction for neighbors near you, which tears at the fabric of families. Your support helps clients fight addiction and paves the way to a fresh start through evidence-based programs.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><img class=\"img-fluid w-100\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/05f3d288-25af-4bed-b65c-680ad5232005_Artboard+4%402x.png\"></h5>\n\n<h5>Fight Addiction</h5>\n\n<p>\n\tAny number of factors can lead to addiction for neighbors near you, which tears at the fabric of families. Your support helps clients fight addiction and paves the way to a fresh start through evidence-based programs.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:33:20",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:33:20",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:37:5-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:37:5-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:35:77": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><img class=\"img-fluid w-100\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/65d30c66-2c39-4f73-b1e4-bfb5c2948da6_Artboard+6%402x.png\"></h5>\n\n<h5>Reverse Homelessness</h5>\n\n<p>\n\tHundreds of thousands of North Texans struggle with poverty each year, falling behind on rent or turning to high-interest lenders. The homelessness that results traumatizes those affected, especially children. Your support helps clients rise above economic instability and homelessness to self-sufficiency through our housing services, safe shelters that keep families intact, and innovative&nbsp;programming.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><img class=\"img-fluid w-100\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/65d30c66-2c39-4f73-b1e4-bfb5c2948da6_Artboard+6%402x.png\"></h5>\n\n<h5>Reverse Homelessness</h5>\n\n<p>\n\tHundreds of thousands of North Texans struggle with poverty each year, falling behind on rent or turning to high-interest lenders. The homelessness that results traumatizes those affected, especially children. Your support helps clients rise above economic instability and homelessness to self-sufficiency through our housing services, safe shelters that keep families intact, and innovative&nbsp;programming.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:35:77",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:35:77",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:37:5-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							},
+							"design:design:whitespace-sm:38:25": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 25,
+								"fullName": "design:design:whitespace-sm:38:25",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:43:45": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 26,
+								"fullName": "design:columns:2columns:43:45",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:43:45-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:39:36": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/6caaf015-9f94-4720-927b-674856cbc499_2024_impact_report_FINAL.pdf\"><span class=\"btn btn-solid btn-red\">VIEW IMPACT REPORT</span></a>\n\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/6caaf015-9f94-4720-927b-674856cbc499_2024_impact_report_FINAL.pdf\"><span class=\"btn btn-solid btn-red\">VIEW IMPACT REPORT</span></a>\n\t\t\t\t</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:39:36",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:39:36",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:43:45-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:43:45-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:41:1": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<a href=\"https://salvationarmyntx.org/north-texas/newsletter\"><span class=\"btn btn-solid btn-red\">READ CLIENT STORIES</span></a>\n\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t<a href=\"https://salvationarmyntx.org/north-texas/newsletter\"><span class=\"btn btn-solid btn-red\">READ CLIENT STORIES</span></a>\n\t\t\t\t</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:41:1",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:41:1",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:43:45-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-xl:44:32": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 27,
+								"fullName": "design:design:whitespace-xl:44:32",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:45:82": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/da9edb36-372e-4b54-8377-e315ac47519a_20121204_gc_163_rgb-tinted.jpg');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5><span style=\"color:#ffffff;\">“The Salvation Army has developed a new strategic plan to change our organizational structure and services, allowing us to expand and improve our outreach to thousands of individuals, giving them a truly life-changing pathway to hope.”</span></h5>\n\n<p style=\"color:#fff\">\n\t<span style=\"color:#ffffff;\">– Bernie DiFiore, Campaign Co-Chair</span>\n</p>\n                </div>\n            </div>\n        </div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/da9edb36-372e-4b54-8377-e315ac47519a_20121204_gc_163_rgb-tinted.jpg');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5><span style=\"color:#ffffff;\">“The Salvation Army has developed a new strategic plan to change our organizational structure and services, allowing us to expand and improve our outreach to thousands of individuals, giving them a truly life-changing pathway to hope.”</span></h5>\n\n<p style=\"color:#fff\">\n\t<span style=\"color:#ffffff;\">– Bernie DiFiore, Campaign Co-Chair</span>\n</p>\n                </div>\n            </div>\n        </div>",
+								"model": "6",
+								"position": 28,
+								"fullName": "content:wysiwyg_basic:45:82",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:45:82",
+								"styles": {
+									"position": "relative",
+									"overflow": "hidden",
+									"minHeight": "520px",
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/da9edb36-372e-4b54-8377-e315ac47519a_20121204_gc_163_rgb-tinted.jpg')",
+									"backgroundPosition": "center center",
+									"backgroundRepeat": "repeat",
+									"backgroundSize": "cover"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:46:93": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 29,
+								"fullName": "design:design:whitespace-sm:46:93",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:47:77": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">Campaign Leadership</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Campaign Leadership",
+								"position": 30,
+								"fullName": "content:text:47:77",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:47:77",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:48:70": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 31,
+								"fullName": "design:design:whitespace-sm:48:70",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:65:28": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 32,
+								"fullName": "design:columns:2columns:65:28",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:65:28-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"design:columns:2columns:66:37": {
+												"uid": "11",
+												"name": "2 Columns - Equal",
+												"type": "columns",
+												"classes": "row my-3",
+												"html": "<div class=\"row my-3\">*</div>",
+												"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+												"droppable": false,
+												"numberOfColumns": 2,
+												"widthPerColumns": "1",
+												"columns": [
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													},
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													}
+												],
+												"groupCategory": "isNew",
+												"group": "",
+												"position": 0,
+												"fullName": "design:columns:2columns:66:37",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:65:28-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"children": {
+													"design:columns:2columns:66:37-1:2 Columns - Equal:0": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {
+															"content:images:49:95": {
+																"icon": "images",
+																"name": "Image",
+																"type": "images",
+																"description": "Reference to image ZUIDs in Zesty.io",
+																"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/af70daa7-282f-4b31-81e5-abc274c3787a_lt+col+william+mockabee.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+																"draggable": true,
+																"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/af70daa7-282f-4b31-81e5-abc274c3787a_lt+col+william+mockabee.jpg",
+																"position": 0,
+																"fullName": "content:images:49:95",
+																"htmlElement": "img",
+																"primarytype": "content",
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"design:design:whitespace-sm:52:70": {
+																"uid": "351",
+																"name": "Whitespace - Small",
+																"type": "design",
+																"classes": "my-2",
+																"html": "<div class=\"my-2\"></div>",
+																"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+																"droppable": true,
+																"position": 1,
+																"fullName": "design:design:whitespace-sm:52:70",
+																"primarytype": "design",
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"content:textarea:50:75": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><strong>Lt. Colonel William Mockabee</strong></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Lt. Colonel William Mockabee",
+																"position": 2,
+																"fullName": "content:textarea:50:75",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:50:75",
+																"styles": {
+																	"textAlign": "center",
+																	"fontWeight": "700"
+																},
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:51:17": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><em>Executive Officer for the Campaign</em></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Executive Officer for the Campaign",
+																"position": 3,
+																"fullName": "content:textarea:51:17",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:51:17",
+																"styles": {
+																	"textAlign": "center",
+																	"fontStyle": "italic"
+																},
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															}
+														},
+														"position": 0
+													},
+													"design:columns:2columns:66:37-1:2 Columns - Equal:1": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {
+															"content:images:53:93": {
+																"icon": "images",
+																"name": "Image",
+																"type": "images",
+																"description": "Reference to image ZUIDs in Zesty.io",
+																"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/c2ed6a3e-ac78-404c-be30-5c9f66433b83_SA-headshots-website3.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+																"draggable": true,
+																"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/c2ed6a3e-ac78-404c-be30-5c9f66433b83_SA-headshots-website3.jpg",
+																"position": 0,
+																"fullName": "content:images:53:93",
+																"htmlElement": "img",
+																"primarytype": "content",
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:1",
+																"oldLoc": "bank"
+															},
+															"design:design:whitespace-sm:56:57": {
+																"uid": "351",
+																"name": "Whitespace - Small",
+																"type": "design",
+																"classes": "my-2",
+																"html": "<div class=\"my-2\"></div>",
+																"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+																"droppable": true,
+																"position": 1,
+																"fullName": "design:design:whitespace-sm:56:57",
+																"primarytype": "design",
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:1",
+																"oldLoc": "bank"
+															},
+															"content:textarea:54:42": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><strong>Michal Powell</strong></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Michal Powell",
+																"position": 2,
+																"fullName": "content:textarea:54:42",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:54:42",
+																"styles": {
+																	"textAlign": "center",
+																	"fontWeight": "700"
+																},
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:1",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:55:80": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><em>Campaign Co-Chair</em></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Campaign Co-Chair",
+																"position": 3,
+																"fullName": "content:textarea:55:80",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:55:80",
+																"styles": {
+																	"textAlign": "center",
+																	"fontStyle": "italic"
+																},
+																"newLoc": "design:columns:2columns:66:37-1:2 Columns - Equal:1",
+																"oldLoc": "bank",
+																"contentOverride": false
+															}
+														},
+														"position": 1
+													}
+												}
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:65:28-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"design:columns:2columns:67:4": {
+												"uid": "11",
+												"name": "2 Columns - Equal",
+												"type": "columns",
+												"classes": "row my-3",
+												"html": "<div class=\"row my-3\">*</div>",
+												"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+												"droppable": false,
+												"numberOfColumns": 2,
+												"widthPerColumns": "1",
+												"columns": [
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													},
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													}
+												],
+												"groupCategory": "isNew",
+												"group": "",
+												"position": 0,
+												"fullName": "design:columns:2columns:67:4",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:65:28-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"children": {
+													"design:columns:2columns:67:4-1:2 Columns - Equal:0": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {
+															"content:images:57:33": {
+																"icon": "images",
+																"name": "Image",
+																"type": "images",
+																"description": "Reference to image ZUIDs in Zesty.io",
+																"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/40a1e10d-41fb-4f5c-9d10-f79c059cc251_SNTX_Bernie+DiFiore-2.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+																"draggable": true,
+																"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/40a1e10d-41fb-4f5c-9d10-f79c059cc251_SNTX_Bernie+DiFiore-2.jpg",
+																"position": 0,
+																"fullName": "content:images:57:33",
+																"htmlElement": "img",
+																"primarytype": "content",
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"design:design:whitespace-sm:60:75": {
+																"uid": "351",
+																"name": "Whitespace - Small",
+																"type": "design",
+																"classes": "my-2",
+																"html": "<div class=\"my-2\"></div>",
+																"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+																"droppable": true,
+																"position": 1,
+																"fullName": "design:design:whitespace-sm:60:75",
+																"primarytype": "design",
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"content:textarea:58:73": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><strong>Bernie DiFiore</strong></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Bernie DiFiore",
+																"position": 2,
+																"fullName": "content:textarea:58:73",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:58:73",
+																"styles": {
+																	"textAlign": "center",
+																	"fontWeight": "700"
+																},
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:59:37": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><em>Campaign Co-Chair</em></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Campaign Co-Chair",
+																"position": 3,
+																"fullName": "content:textarea:59:37",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:59:37",
+																"styles": {
+																	"textAlign": "center",
+																	"fontStyle": "italic"
+																},
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															}
+														},
+														"position": 0
+													},
+													"design:columns:2columns:67:4-1:2 Columns - Equal:1": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {
+															"content:images:61:97": {
+																"icon": "images",
+																"name": "Image",
+																"type": "images",
+																"description": "Reference to image ZUIDs in Zesty.io",
+																"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/2756714a-386d-41be-b243-8f2e9f5bb663_SNTX_Mark+Schortman-06.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+																"draggable": true,
+																"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/2756714a-386d-41be-b243-8f2e9f5bb663_SNTX_Mark+Schortman-06.jpg",
+																"position": 0,
+																"fullName": "content:images:61:97",
+																"htmlElement": "img",
+																"primarytype": "content",
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:1",
+																"oldLoc": "bank"
+															},
+															"design:design:whitespace-sm:64:78": {
+																"uid": "351",
+																"name": "Whitespace - Small",
+																"type": "design",
+																"classes": "my-2",
+																"html": "<div class=\"my-2\"></div>",
+																"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+																"droppable": true,
+																"position": 1,
+																"fullName": "design:design:whitespace-sm:64:78",
+																"primarytype": "design",
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:1",
+																"oldLoc": "bank"
+															},
+															"content:textarea:62:24": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><strong>Mark Schortman</strong></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Mark Schortman",
+																"position": 2,
+																"fullName": "content:textarea:62:24",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:62:24",
+																"styles": {
+																	"textAlign": "center",
+																	"fontWeight": "700"
+																},
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:1",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:63:34": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><em>Dallas Advisory Board Chair</em></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Dallas Advisory Board Chair",
+																"position": 3,
+																"fullName": "content:textarea:63:34",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:63:34",
+																"styles": {
+																	"textAlign": "center",
+																	"fontStyle": "italic"
+																},
+																"newLoc": "design:columns:2columns:67:4-1:2 Columns - Equal:1",
+																"oldLoc": "bank",
+																"contentOverride": false
+															}
+														},
+														"position": 1
+													}
+												}
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:columns:2columns:83:93": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 33,
+								"fullName": "design:columns:2columns:83:93",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:118:57-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:83:93-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"design:columns:2columns:84:19": {
+												"uid": "11",
+												"name": "2 Columns - Equal",
+												"type": "columns",
+												"classes": "row my-3",
+												"html": "<div class=\"row my-3\">*</div>",
+												"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+												"droppable": false,
+												"numberOfColumns": 2,
+												"widthPerColumns": "1",
+												"columns": [
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													},
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													}
+												],
+												"groupCategory": "isNew",
+												"group": "",
+												"position": 0,
+												"fullName": "design:columns:2columns:84:19",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:83:93-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"children": {
+													"design:columns:2columns:84:19-1:2 Columns - Equal:0": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {
+															"content:images:68:99": {
+																"icon": "images",
+																"name": "Image",
+																"type": "images",
+																"description": "Reference to image ZUIDs in Zesty.io",
+																"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/7d6fc757-8b6d-4a0c-802f-dce1f86b2c76_SA-headshots-website.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+																"draggable": true,
+																"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/7d6fc757-8b6d-4a0c-802f-dce1f86b2c76_SA-headshots-website.jpg",
+																"position": 0,
+																"fullName": "content:images:68:99",
+																"htmlElement": "img",
+																"primarytype": "content",
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"design:design:whitespace-sm:71:8": {
+																"uid": "351",
+																"name": "Whitespace - Small",
+																"type": "design",
+																"classes": "my-2",
+																"html": "<div class=\"my-2\"></div>",
+																"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+																"droppable": true,
+																"position": 1,
+																"fullName": "design:design:whitespace-sm:71:8",
+																"primarytype": "design",
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"content:textarea:69:80": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><strong>William Ross</strong></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "William Ross",
+																"position": 2,
+																"fullName": "content:textarea:69:80",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:69:80",
+																"styles": {
+																	"textAlign": "center",
+																	"fontWeight": "700"
+																},
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:70:2": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><em>Executive Committee Co-Chair</em></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Executive Committee Co-Chair",
+																"position": 3,
+																"fullName": "content:textarea:70:2",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:70:2",
+																"styles": {
+																	"textAlign": "center",
+																	"fontStyle": "italic"
+																},
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															}
+														},
+														"position": 0
+													},
+													"design:columns:2columns:84:19-1:2 Columns - Equal:1": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {
+															"content:images:72:54": {
+																"icon": "images",
+																"name": "Image",
+																"type": "images",
+																"description": "Reference to image ZUIDs in Zesty.io",
+																"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/5fe79c48-e029-49cc-a497-049e68940fdd_SNTX_Judy+Gibbs-06.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+																"draggable": true,
+																"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/5fe79c48-e029-49cc-a497-049e68940fdd_SNTX_Judy+Gibbs-06.jpg",
+																"position": 0,
+																"fullName": "content:images:72:54",
+																"htmlElement": "img",
+																"primarytype": "content",
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:1",
+																"oldLoc": "bank"
+															},
+															"design:design:whitespace-sm:76:31": {
+																"uid": "351",
+																"name": "Whitespace - Small",
+																"type": "design",
+																"classes": "my-2",
+																"html": "<div class=\"my-2\"></div>",
+																"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+																"droppable": true,
+																"position": 1,
+																"fullName": "design:design:whitespace-sm:76:31",
+																"primarytype": "design",
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:1",
+																"oldLoc": "bank"
+															},
+															"content:textarea:73:87": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><strong>Judy Gibbs</strong></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Judy Gibbs",
+																"position": 2,
+																"fullName": "content:textarea:73:87",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:73:87",
+																"styles": {
+																	"textAlign": "center",
+																	"fontWeight": "700"
+																},
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:1",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:74:69": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><em>Dallas Advisory Board</p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Dallas Advisory Board",
+																"position": 3,
+																"fullName": "content:textarea:74:69",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:74:69",
+																"styles": {
+																	"textAlign": "center",
+																	"fontStyle": "italic"
+																},
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:1",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:75:2": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\">Campaign Chair</em></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Campaign Chair",
+																"position": 4,
+																"fullName": "content:textarea:75:2",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:75:2",
+																"styles": {
+																	"textAlign": "center"
+																},
+																"newLoc": "design:columns:2columns:84:19-1:2 Columns - Equal:1",
+																"oldLoc": "bank",
+																"contentOverride": false
+															}
+														},
+														"position": 1
+													}
+												}
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:83:93-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"design:columns:2columns:85:31": {
+												"uid": "11",
+												"name": "2 Columns - Equal",
+												"type": "columns",
+												"classes": "row my-3",
+												"html": "<div class=\"row my-3\">*</div>",
+												"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+												"droppable": false,
+												"numberOfColumns": 2,
+												"widthPerColumns": "1",
+												"columns": [
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													},
+													{
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true
+													}
+												],
+												"groupCategory": "isNew",
+												"group": "",
+												"position": 0,
+												"fullName": "design:columns:2columns:85:31",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:83:93-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"children": {
+													"design:columns:2columns:85:31-1:2 Columns - Equal:0": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {
+															"content:images:77:97": {
+																"icon": "images",
+																"name": "Image",
+																"type": "images",
+																"description": "Reference to image ZUIDs in Zesty.io",
+																"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/e5487dad-a1cc-4d3c-ad1d-6ebdce0dcccb_SA-headshots-website2.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+																"draggable": true,
+																"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/e5487dad-a1cc-4d3c-ad1d-6ebdce0dcccb_SA-headshots-website2.jpg",
+																"position": 0,
+																"fullName": "content:images:77:97",
+																"htmlElement": "img",
+																"primarytype": "content",
+																"newLoc": "design:columns:2columns:85:31-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"design:design:whitespace-sm:80:80": {
+																"uid": "351",
+																"name": "Whitespace - Small",
+																"type": "design",
+																"classes": "my-2",
+																"html": "<div class=\"my-2\"></div>",
+																"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+																"droppable": true,
+																"position": 1,
+																"fullName": "design:design:whitespace-sm:80:80",
+																"primarytype": "design",
+																"newLoc": "design:columns:2columns:85:31-1:2 Columns - Equal:0",
+																"oldLoc": "bank"
+															},
+															"content:textarea:78:65": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><strong>Christina Cavalier</strong></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Christina Cavalier",
+																"position": 2,
+																"fullName": "content:textarea:78:65",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:78:65",
+																"styles": {
+																	"textAlign": "center",
+																	"fontWeight": "700"
+																},
+																"newLoc": "design:columns:2columns:85:31-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															},
+															"content:textarea:79:37": {
+																"icon": "align-justify",
+																"name": "Paragraph",
+																"type": "textarea",
+																"html": "<p style=\"text-align:center;\"><i>Managing Director</i></p>",
+																"description": "Mixed Plain and Rich Text",
+																"draggable": true,
+																"content": "Managing Director",
+																"position": 3,
+																"fullName": "content:textarea:79:37",
+																"htmlElement": "p",
+																"primarytype": "content",
+																"id": "content:textarea:79:37",
+																"styles": {
+																	"textAlign": "center",
+																	"fontStyle": "italic"
+																},
+																"newLoc": "design:columns:2columns:85:31-1:2 Columns - Equal:0",
+																"oldLoc": "bank",
+																"contentOverride": false
+															}
+														},
+														"position": 0
+													},
+													"design:columns:2columns:85:31-1:2 Columns - Equal:1": {
+														"width": "1",
+														"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+														"classes": "col-lg-3 col-md-6 col-sm-12",
+														"droppable": true,
+														"children": {},
+														"position": 1
+													}
+												}
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			},
+			"content:block:6-caf0f4baac-ctljlz:1:10": {
+				"html": "<div>{{block('/-/block/general_accordion.html?variant=7-d2c69df7b0-d40c2h')}}</div>",
+				"content": "{{block('/-/block/general_accordion.html?variant=7-d2c69df7b0-d40c2h')}}",
+				"model": "6-caf0f4baac-ctljlz",
+				"name": "General Accordion",
+				"position": 2,
+				"fullName": "content:block:6-caf0f4baac-ctljlz:1:10",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"id": "content:block:6-caf0f4baac-ctljlz:1:10",
+				"styles": {},
+				"contentOverride": false
+			},
+			"design:columns:1 Column:119:9": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 3,
+				"fullName": "design:columns:1 Column:119:9",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:119:9-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:88:34": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">Campaign News</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Campaign News",
+								"position": 0,
+								"fullName": "content:text:88:34",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:88:34",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:89:39": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t<a href=\"https://salvationarmyntx.org/north-texas/field-reports\"><span class=\"btn btn-solid btn-red\">VIEW CAMPAIGN NEWS</span></a>\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t<a href=\"https://salvationarmyntx.org/north-texas/field-reports\"><span class=\"btn btn-solid btn-red\">VIEW CAMPAIGN NEWS</span></a>\n</p>",
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:89:39",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:89:39",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:90:82": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 2,
+								"fullName": "design:design:whitespace-sm:90:82",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:92:39": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">Get Involved</span></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Get Involved",
+								"position": 3,
+								"fullName": "content:text:92:39",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:92:39",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:93:4": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\r\n\t\t\t\t\tThe love we have for our community and one another can transform people’s lives and the future of our region. We invite you to join us as part of One&nbsp;Army,&nbsp;Many&nbsp;Fronts as we strive to Do the Most Good.\r\n\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "The love we have for our community and one another can transform people’s lives and the future of our region. We invite you to join us as part of One&nbsp;Army,&nbsp;Many&nbsp;Fronts as we strive to Do the Most Good.",
+								"position": 4,
+								"fullName": "content:textarea:93:4",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:93:4",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:94:17": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\r\n\t\t\t\t\tIf you're interested in joining the campaign or learning more, please email us below or call us at&nbsp;<a href=\"tel:2146378131\">214-637-8131</a>.\r\n\t\t\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\r\n\t\t\t\t\tIf you're interested in joining the campaign or learning more, please email us below or call us at&nbsp;<a href=\"tel:2146378131\">214-637-8131</a>.\r\n\t\t\t\t</p>",
+								"model": "6",
+								"position": 5,
+								"fullName": "content:wysiwyg_basic:94:17",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:94:17",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:95:86": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 6,
+								"fullName": "design:design:whitespace-sm:95:86",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:96:69": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\r\n\t\t\t\t\t<a href=\"mailto:NTXCampaign@uss.salvationarmy.org\"><span class=\"btn btn-solid btn-red\">EMAIL US</span></a>\r\n\t\t\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\r\n\t\t\t\t\t<a href=\"mailto:NTXCampaign@uss.salvationarmy.org\"><span class=\"btn btn-solid btn-red\">EMAIL US</span></a>\r\n\t\t\t\t</p>",
+								"model": "6",
+								"position": 7,
+								"fullName": "content:wysiwyg_basic:96:69",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:96:69",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:97:75": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 8,
+								"fullName": "design:design:whitespace-sm:97:75",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:98:92": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\r\n\t\t\t\t\t<a href=\"https://give.salvationarmytexas.org/One-Army-Many-Fronts\"><span class=\"btn btn-solid btn-red\">DONATE</span></a>\r\n\t\t\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\r\n\t\t\t\t\t<a href=\"https://give.salvationarmytexas.org/One-Army-Many-Fronts\"><span class=\"btn btn-solid btn-red\">DONATE</span></a>\r\n\t\t\t\t</p>",
+								"model": "6",
+								"position": 9,
+								"fullName": "content:wysiwyg_basic:98:92",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:98:92",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:119:9-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

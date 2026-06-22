@@ -1,0 +1,102 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-9aefeec9dd-nfjh13')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:67:80">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:67:80-1:1 Column:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/f7191a06-52f1-42df-bbbc-363c47140dba_New+Building+Photos.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:2:51">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:68"></div>
+<h5 data-zesty-id="content:text:5:67">What We Do</h5>
+<p data-zesty-id="content:textarea:6:54">
+	We offer a place for those experiencing&nbsp;homelessness and poverty to get help.
+</p>
+<p data-zesty-id="content:textarea:7:61">
+	We provide low barrier access, free of charge, to the following basic daily amenities:<span lang="ES" style="color:#202124;"></span>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:8:95">
+	<li><span lang="ES" style="color:#202124;">Hot breakfast </span><span style="color:#ed1c2b;"><span lang="ES">(Monday, Wednesday, and Friday starting at 9:00 a.m.)</span></span><span lang="ES" style="color:#202124;"></span></li>
+	<li>Food pantry</li>
+	<li><span lang="ES" style="color:#202124;">Case management</span></li>
+	<li><span lang="ES" style="color:#202124;">Clothing vouchers through The Salvation Army Thrift Store</span></li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:32"></div>
+<h5 data-zesty-id="content:text:11:65"><span style="color:#ed1c2b;">New Location</span></h5>
+<p data-zesty-id="content:textarea:12:49"><span style="color:#ed1c2b;">1740 S. Horner Blvd.</p>
+<p data-zesty-id="content:textarea:13:14">Sanford, NC 27330</p>
+<p data-zesty-id="content:wysiwyg_basic:14:78"><a href="tel:9197181717">(919) 718-1717</a></span></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:49"></div>
+<p data-zesty-id="content:wysiwyg_basic:16:60">
+	To learn more, follow us on Facebook <a href="https://www.facebook.com/NavCenterLeeCo" target="">@TheSalvationArmyLeeCountyNC</a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:17:7"></div>
+<h5 data-zesty-id="content:text:19:20">Hours</h5>
+<p data-zesty-id="content:textarea:20:18">
+	Monday - Thursday&nbsp;9 a.m. - 12:00&nbsp;p.m. and 1:00 p.m. - 4:00 p.m.&nbsp;
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:21:57"></div>
+<h5 data-zesty-id="content:text:22:83">Who We Are</h5>
+<p data-zesty-id="content:textarea:23:39">
+	The Salvation Army of Lee County Service Center connects&nbsp;individuals living in homelessness, or on the edge of homelessness, with resources that will guide them in re-establishing and maintaining equilibrium in their lives. We refer clients to a variety of partners depending on client need.&nbsp;Our array of supporters help individuals navigate from crisis to stability by providing:
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:24:44">
+	<li><span lang="ES" style="color:#202124;">Medical services</span></li>
+	<li><span lang="ES" style="color:#202124;">Mental health support and services</span></li>
+	<li><span lang="ES" style="color:#202124;">Peer support for those in active addiction</span></li>
+	<li><span lang="ES" style="color:#202124;">Shelter and housing</span></li>
+	<li><span lang="ES" style="color:#202124;">Job searches and resume writing</span></li>
+	<li><span lang="ES" style="color:#202124;">Veterans services</span></li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:25:86"></div>
+<p data-zesty-id="content:textarea:26:96">
+	Our services are&nbsp;focused on bridging the gap that exists between the needs of&nbsp;clients and&nbsp;available resources in Lee County.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:27:64"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/7026ed5e-845c-4521-96a3-786b723cff9e_Vicky+Dorothy+Amanda+food+pantry+04222025.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:27:24">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:29:87"></div>
+<h5 data-zesty-id="content:text:30:19">Donate</h5>
+<p data-zesty-id="content:textarea:31:17">
+	Our work is only possible through the generous support of donors like you.
+</p>
+<p data-zesty-id="content:textarea:32:6">
+	We rely on contributions of non-perishable food, breakfast foods, ground coffee, cleaning supplies, disposable plates and tableware, and personal hygiene items.
+</p>
+<p data-zesty-id="content:textarea:33:98">
+	Financial support is always welcomed and needed.
+</p>
+<p data-zesty-id="content:wysiwyg_basic:34:12">
+	To donate, you may do so <a href="https://give.salvationarmyusa.org/give/164006/#!/donation/checkout" target="">online</a> or please call <a href="tel:9197181717">919-718-1717</a>.<br>
+	&nbsp;
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:35:99"></div>
+<h5 data-zesty-id="content:text:36:73">Volunteer</h5>
+<p data-zesty-id="content:textarea:37:43">
+	We could not operate without the compassionate efforts of our dedicated volunteers.
+</p>
+<p data-zesty-id="content:textarea:38:2">
+	Our volunteers help prepare breakfast weekdays from 8:15&nbsp;a.m. - 10:00 a.m., and assist clients as needed.
+</p>
+<p data-zesty-id="content:wysiwyg_basic:39:54">
+	To join them, please contact our Volunteer Coordinator Beth Bray, <a href="mailto:Beth.Bray@uss.salvationarmy.org" target="">beth.bray@uss.salvationarmy.org</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:40:82"></div>
+<h5 data-zesty-id="content:text:42:1">Staff</h5>
+<p data-zesty-id="content:textarea:43:24">Dotty Dalphon</p>
+<p data-zesty-id="content:textarea:44:67">Service Center Director</p>
+<p data-zesty-id="content:wysiwyg_basic:45:49"><a href="mailto:dotty.dalphon@uss.salvationarmy.org" target="">dotty.dalphon@uss.salvationarmy.org</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:46:57"></div>
+<p data-zesty-id="content:textarea:47:70">Beth Bray</p>
+<p data-zesty-id="content:textarea:48:82">Volunteer Coordinator</p>
+<p data-zesty-id="content:wysiwyg_basic:49:70"><a href="mailto:Beth.Bray@uss.salvationarmy.org" target="">beth.bray@uss.salvationarmy.org</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:50:60"></div>
+<p data-zesty-id="content:textarea:51:16">Elizabeth Colebrook</p>
+<p data-zesty-id="content:textarea:52:41">Social Services Program Manager</p>
+<p data-zesty-id="content:wysiwyg_basic:53:53"><a href="mailto:elizabeth.colebrook@uss.salvationarmy.org " target="">elizabeth.colebrook@uss.salvationarmy.org</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:54:98"></div>
+<p data-zesty-id="content:textarea:55:6">Rosa Portillo</p>
+<p data-zesty-id="content:textarea:56:57">Case Manager Specialist</p>
+<p data-zesty-id="content:wysiwyg_basic:57:6"><a href="mailto:Rosa.Portillo@uss.salvationarmy.org" target="">rosa.portillo@uss.salvationarmy.org</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:58:34"></div>
+<p data-zesty-id="content:textarea:59:39">Pamela Streiter&nbsp;</p>
+<p data-zesty-id="content:textarea:60:53">Office Coordinator</p>
+<p data-zesty-id="content:wysiwyg_basic:61:38"><a href="mailto:pamela.streiter@uss.salvationarmy.org" target="">pamela.streiter@uss.salvationarmy.org</a></p>
+		</div>
+	</div>
+</div>

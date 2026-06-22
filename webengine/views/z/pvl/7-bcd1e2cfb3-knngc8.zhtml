@@ -1,0 +1,45 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-a4c4f0de9a-g96tf1')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:38:87">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:38:87-1:1 Column:0">
+<div style="background-color:#2A313F;color:#FFFFFF;padding:40px;" data-zesty-id="content:wysiwyg_basic:2:57"><h1 style="text-align: center;">Ring the bell to help fight hunger and homelessness</h1>
+
+<p style="text-align: center;">
+	<a href="https://give.salvationarmygeorgia.org/give/618818/#!/donation/checkout" target=""><strong><span class="btn btn-solid btn-red">HELP NOW</span></strong></a>
+</p></div>
+<div class="row my-3" data-zesty-id="design:columns:2columnswideright:19:70">
+<div class="col-md-4 col-sm-12" data-zesty-id="design:columns:2columnswideright:19:70-2:2 Columns - Left Small:0">
+<img width="232" height="484" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/9017140e-1127-4e52-9a27-8b60df6e8c90_Salvation+Army+Bell+%281080+x1920%29.png" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:5:13">
+				</div>
+<div class="col-md-8 col-sm-12" data-zesty-id="design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1">
+<h6 data-zesty-id="content:text:7:65">we need your help</h6>
+<p style="text-align:justify;" data-zesty-id="content:textarea:8:7">
+        <span>Did you know that <span style="color:#ed1c2b;"><strong>1 in 5&nbsp;kids will go to bed hungry</strong></span> tonight or that <span style="color:#ed1c2b;"><b>1 in 13 seniors have to choose between life-saving medication and food</b></span>? </span>
+      </p>
+<p style="text-align:justify;" data-zesty-id="content:textarea:9:29">
+        <span>And did you know that <span style="color:#ed1c2b;"><b>2,700 individuals</b></span> in the Atlanta area won't have a warm, safe place to sleep tonight?</span>
+      </p>
+<p style="text-align:justify;" data-zesty-id="content:textarea:10:6">
+        These are challenges many of our neighbors face every single day. They are real people with real struggles that threaten their families, threaten their health, threaten their hope that things will ever get better.
+      </p>
+<p style="text-align:justify;" data-zesty-id="content:textarea:11:23">
+        <span style="color:#ed1c2b;"><b>With your support, The Salvation Army of Metro Atlanta will meet these needs throughout metro Atlanta.</b></span>
+      </p>
+<p data-zesty-id="content:textarea:12:30">
+        Ring The Bell ATL, and join us in our fight to bring aid, comfort and hope to those who need it!
+      </p>
+<p style="text-align:justify;" data-zesty-id="content:textarea:13:29">
+        One gift can save one person... many can save many.
+      </p>
+<p data-zesty-id="content:wysiwyg_basic:14:19">
+        <a href="https://give.salvationarmygeorgia.org/give/618818/#!/donation/checkout"><span class="btn btn-solid btn-red">Ring the Bell</span></a>
+      </p>
+<h6 data-zesty-id="content:text:16:37">Thank You!</h6>
+<p data-zesty-id="content:wysiwyg_basic:17:45">
+        If you are looking to register to be a bell ringer in person, click <a href="https://www.registertoring.com/" target="">here</a>.
+      </p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

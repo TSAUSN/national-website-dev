@@ -1,0 +1,67 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-f493fef5a0-7t3slt')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:43:53">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:43:53-1:1 Column:0">
+<p data-zesty-id="content:textarea:1:25">
+	The United Nations chose this date to commemorate the death anniversary of Mother Teresa, who received the Nobel Peace Prize in 1979 for her significant contributions and work in helping to overcome poverty and distress on a global scale.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:2:21"></div>
+<h5 data-zesty-id="content:text:3:25">Why Do We Celebrate It?</h5>
+<p data-zesty-id="content:textarea:4:94">
+	While progress&nbsp;has&nbsp;been made to combat&nbsp;hunger, inequality, and other humanitarian issues, millions of people still lack access to basic human rights, such as food, clean water, and shelter.
+</p>
+<p data-zesty-id="content:textarea:5:71">
+	This is why we recognize International Day of Charity – to continue the important work of lifting people out of poverty and making our world a better place.
+</p>
+<p data-zesty-id="content:textarea:6:37">
+	Nonprofit organizations, like The Salvation Army,&nbsp;rely on charitable donations and volunteers to continue making a difference and provide much-needed support to those who need it most. By advocating for a cause you care about, volunteering, and donating, you can make a positive impact in your community.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:7:48"></div>
+<h5 data-zesty-id="content:text:8:61">What are the Charity Trends in 2025?</h5>
+<p data-zesty-id="content:textarea:9:38">
+	Charity trends in the US for 2025 show&nbsp;continued growth in total giving to a record $592.50 billion in 2024, driven by strong individual and corporate giving and a booming stock market.&nbsp;However, underlying challenges include declining individual donor retention and increased need, leading to a greater focus on donor retention, personalized experiences, and diversified fundraising streams, including&nbsp;subscription giving&nbsp;and collective giving.&nbsp;Technology, particularly&nbsp;artificial intelligence,&nbsp;is increasingly used for data-driven management and personalized donor journeys, while there is a broader shift towards&nbsp;trust-based philanthropy&nbsp;and long-term impact.&nbsp;
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:10:66"></div>
+<p data-zesty-id="content:textarea:11:0">
+	<strong>KEY TRENDS</strong>
+</p>
+<p data-zesty-id="content:textarea:12:85"><strong>Record-Breaking Total Giving:</strong></p>
+<p data-zesty-id="content:textarea:13:97">Total charitable giving in the US reached a new high of $592.50 billion in 2024, a 6.3% increase in current dollars and 3.3% adjusted for inflation.&nbsp;</p>
+<p data-zesty-id="content:textarea:14:84"><strong>Increased Need and Donor Pressure:</strong></p>
+<p data-zesty-id="content:textarea:15:18">Despite overall growth, many organizations face increased demand for services.&nbsp;</p>
+<p data-zesty-id="content:textarea:16:16"><strong>Focus on Donor Retention:</strong></p>
+<p data-zesty-id="content:textarea:17:95">Nonprofits are prioritizing donor retention to offset declining overall donor retention, using diversified asks, storytelling, and improved donor experiences.&nbsp;</p>
+<p data-zesty-id="content:textarea:18:91"><strong>AI and Technology Adoption:</strong></p>
+<p data-zesty-id="content:textarea:19:24">Artificial intelligence (AI)&nbsp;is becoming essential for data-driven management, automation, and creating more relevant donor journeys.&nbsp;</p>
+<p data-zesty-id="content:textarea:20:37">
+	<strong>Shift in Giving Models:</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:21:57">
+	<li>Subscription Giving:&nbsp;A growth trend involves subscription-style giving, offering recurring monthly donations.&nbsp;</li>
+	<li>Collective Giving:&nbsp;Increased interest and participation in collective giving groups, such as&nbsp;giving circles,&nbsp;are growing to amplify impact.</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:22:40"></div>
+<p data-zesty-id="content:textarea:23:51"><strong>Trust-Based Philanthropy:</strong></p>
+<p data-zesty-id="content:textarea:24:73">A move toward&nbsp;trust-based philanthropy,&nbsp;characterized by longer-term commitments, reduced grant restrictions, and a greater focus on impact, is gaining momentum.&nbsp;</p>
+<p data-zesty-id="content:textarea:25:74"><strong>Increased Foundation Giving:</strong></p>
+<p data-zesty-id="content:textarea:26:5">A significant number of foundations expect to increase their giving in 2025.&nbsp;</p>
+<p data-zesty-id="content:textarea:27:37"><strong>Intergenerational Wealth Transfer:</strong></p>
+<p data-zesty-id="content:textarea:28:70">Wealth is being transferred to younger generations who are interested in blending philanthropic and investment goals, prioritizing&nbsp;sustainable impact&nbsp;and wealth preservation.&nbsp;</p>
+<p data-zesty-id="content:textarea:29:55"><strong>Challenges and Opportunities</strong></p>
+<p data-zesty-id="content:textarea:30:43"><strong>Donor Fatigue:</strong></p>
+<p data-zesty-id="content:textarea:31:61">While giving has grown, nonprofits must work to avoid donor fatigue and inspire continued support.&nbsp;</p>
+<p data-zesty-id="content:textarea:32:8"><strong>Transparency&nbsp;and&nbsp;Impact Reporting:</strong></p>
+<p data-zesty-id="content:textarea:33:25">Showing donors the tangible impact of their contributions is crucial for building loyalty and trust.&nbsp;</p>
+<p data-zesty-id="content:textarea:34:72"><strong>Leveraging Technology:</strong></p>
+<p data-zesty-id="content:textarea:35:3">Nonprofits are encouraged to use technology to streamline processes, understand donors better, and personalize communications.&nbsp;</p>
+<p data-zesty-id="content:wysiwyg_basic:36:12">
+	<br>
+	<a href="https://give.salvationarmycarolinas.org/give/427453/#!/donation/checkout?c_src=web-header"><span class="btn btn-solid btn-red">DONATE TODAY</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:37:25"></div>
+<p data-zesty-id="content:textarea:39:12">
+					International Day of Charity
+				</p>
+		</div>
+	</div>
+</div>

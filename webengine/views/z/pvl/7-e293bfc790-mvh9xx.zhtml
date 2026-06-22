@@ -1,0 +1,155 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-e0e2b593ef-4n3b8v')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:38:26">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:38:26-1:1 Column:0">
+<div class="row my-3" data-zesty-id="design:columns:2columnswideright:7:38">
+<div class="col-md-3 col-sm-12" data-zesty-id="design:columns:2columnswideright:7:38-2:2 Columns - Left Small:0">
+<p style="text-align:center;" data-zesty-id="content:textarea:2:10"><span><span style="color:#666;"><span>$</span></span>15</span></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:36"><span style="color:#666;"><strong>BILLION</strong></span></p>
+				</div>
+<div class="col-md-9 col-sm-12" data-zesty-id="design:columns:2columnswideright:7:38-4:2 Columns - Left Small:1">
+<h6 data-zesty-id="content:text:4:19">DISASTER SERVICES</h6>
+<h5 data-zesty-id="content:text:5:74">Every year, natural disasters cost Americans $15 billion in insured losses.</h5>
+<p data-zesty-id="content:textarea:6:43">
+					Earthquakes, hurricanes, tornados, wildfires, droughts, flooding, and other natural disasters pose the greatest threat to our country.
+				</p>
+				</div>
+			</div>
+<hr data-zesty-id="design:design:horizontalrule:8:95">
+<h5 style="text-align:center;" data-zesty-id="content:text:9:51">The Salvation Army HELPS MEET THE NEEDS OF DISASTER SURVIVORS THROUGH:</h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:17"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:2columns:14:51">
+<div class="col-lg-6 col-md-6 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:2columns:14:51-1:2 Columns - Equal:0">
+<h5 data-zesty-id="content:wysiwyg_basic:10:17">Emotional and Spiritual Care: The ESC Specialist (Clearwater)</h5>
+
+<ul>
+	<li>Location: Clearwater</li>
+	<li>Date: July 26th</li>
+	<li>Time: 8:30am-4:30pm EST</li>
+	<li>Address: The Salvation Army, Clearwater Social Services Campus 1521 Druid Rd. Clearwater Florida 33765</li>
+</ul>
+
+<p>
+	<strong><a href="https://disaster.salvationarmyusa.org/training/?classes&amp;state=FL" target="_blank">Register</a></strong>
+</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:2columns:14:51-1:2 Columns - Equal:1">
+<h5 data-zesty-id="content:wysiwyg_basic:12:71">Emotional and Spiritual Care: The ESC Specialist (Orlando)</h5>
+
+<ul>
+	<li>Location: Orlando</li>
+	<li>Date: July 28th</li>
+	<li>Time: 8:30am-4:30pm EST</li>
+	<li>Address: The Salvation Army, Catherine Booth Towers 633 Lake Dot Circle Orlando Florida 32801 (Activities Room)</li>
+</ul>
+
+<p>
+	<strong><a href="https://disaster.salvationarmyusa.org/training/?classes&amp;state=FL" target="_blank">Register</a></strong>
+</p>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:28"></div>
+<a href="http://disaster.salvationarmyusa.org/volunteer/new/" data-zesty-id="content:wysiwyg_basic:16:12"><span class="btn btn-solid btn-red btn-block">Volunteer</span></a>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:17:82"></div>
+<a href="http://helpsalvationarmy.org/" data-zesty-id="content:wysiwyg_basic:18:37"><span class="btn btn-solid btn-red btn-block">Donate</span></a>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:19:73"></div>
+<a href="http://disaster.salvationarmyusa.org/index.php" data-zesty-id="content:wysiwyg_basic:20:16"><span class="btn btn-solid btn-red btn-block">News</span></a>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:21:70"></div>
+<a href="http://disaster.salvationarmyusa.org/training/?classes&amp;state=FL" data-zesty-id="content:wysiwyg_basic:22:50"><span class="btn btn-solid btn-red btn-block">Training</span></a>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:23:74"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:25:32">MEET THE TEAM</h5>
+<hr data-zesty-id="design:design:horizontalrule:26:33">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:27:18"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:28:50">Steven Hartsook</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:29:61">
+					Divisional Director of Emergency Disaster Services (EDS)
+				</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:30:43"></div>
+<div class="btgrid" data-zesty-id="content:wysiwyg_basic:31:92">
+	<div class="row row-1">
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>Deanna Roush</h5>
+
+				<p>
+					Assistant Director / State Liaison
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>Lynne Frost</h5>
+
+				<p>
+					Administrative Assistant &amp; Training Coordinator
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>Alan Gregory</h5>
+
+				<p>
+					EDS Warehouse Coordinator
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-2">
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>Zachary Harris</h5>
+
+				<p>
+					Divisional EDS Logistics Assistant
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>Kathy Holden</h5>
+
+				<p>
+					Administrative Assistant &amp; Accounting Clerk
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>Thomas Eglinton</h5>
+
+				<p>
+					LTR Program Coordinator
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-3">
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>&nbsp;</h5>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>&nbsp;</h5>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-sm-12">
+			<div class="content">
+				<h5>&nbsp;</h5>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,24 @@
+<div className={styles.pvlRoot}>
+	<div class="row my-3">
+		<div class="col-lg-6 col-md-6 col-sm-12">
+			<h1>Heading 1</h1>
+		</div>
+		<div class="col-lg-6 col-md-6 col-sm-12">
+			<h1>Heading 1</h1>
+			<video src="https://hr1cm7dt.media.zestyio.com/EDS-Highlights-Web-October-2024.mp4" width="100%" controls></video>
+		</div>
+	</div>
+	<div class="row my-3">
+		<div class="col-lg-4 col-md-6 col-sm-12">
+			{{block('/-/block/general_accordion.html?variant=7-daa78ea881-kl1mzq&version=17')}}
+		</div>
+		<div class="col-lg-4 col-md-6 col-sm-12">
+			<h1 style="text-align:center">Heading 1</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		</div>
+		<div class="col-lg-4 col-md-6 col-sm-12" style="padding-top:00px;padding-left:0px;padding-right:0px;padding-bottom:0px">
+			<img width="100%" src="https://hr1cm7dt.media.zestyio.com/Web-Banner-Image.webp" alt="placeholder" style="border-radius:20px;aspect-ratio:16/9;object-fit:cover">
+			<h1>Heading 1</h1>
+		</div>
+	</div>
+</div>

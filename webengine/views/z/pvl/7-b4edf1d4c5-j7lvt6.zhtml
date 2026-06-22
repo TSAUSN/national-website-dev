@@ -1,0 +1,43 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-d2bec4a2fb-498719')}}
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:1:3541"></div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:22:20">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:22:20-1:1 Column:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/baa7f874-c4b6-4d45-bfc1-dd3672d57bd6_RSYC+Send+a+Kid+to+Camp%2C+Web+Banners%2C+800x250.svg" alt="placeholder" class="img-fluid w-100 d-block mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:0:9854">
+<div style="display:flex" class="row ratio ratio-16x9 d-flex" data-zesty-id="design:columns:1 Column:2:1">
+<div className={styles.pvlColumn} class="column col-lg-10 col-md-12 col-sm-12 m-auto mt-3" data-zesty-id="design:columns:1 Column:2:1-1:1 Column:0">
+<iframe src="https://www.youtube.com/embed/whAWzzxCJHg" style="border:0;" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" class="w-100 h-100" data-zesty-id="content:embed:1:10"></iframe>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:3:81"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:5:1">
+	<span><span style="color:#005788;"><strong>Dates</strong></span></span>
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:6:91">Starts: Monday, June 1, 2026</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:7:3">Ends: Friday, August 7, 2026</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:8:87">
+	<span><span style="color:#005788;"><strong>Cost</strong></span></span>
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:9:20"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:10:36">
+	$600 per child for the full summer
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:11:95">
+	(Financial Aid available, pending eligibility and donations)
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:12:29">
+	<strong><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/7a5af7f9-76c6-4eb5-b8d4-ff8501b43577_2026+Summer+Information+Booklet.pdf"><span class="btn btn-solid btn-red">CLICK HERE for More Information</span></a></strong>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:13:92"></div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:14:55">
+	<a href="https://online.traxsolutions.com/southernusasalvationarmy/winston-salem#/dashboard" target="_blank"><span class="btn btn-solid btn-red">Register Your Child Now</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:48"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:16:2"><strong><span style="color:#005788;">We are in need of donations to provide financial assistance&nbsp;for kids who need help&nbsp;covering the cost. </span></strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:17:27"><strong><span style="color:#005788;">Please give what you can to sponsor a child today and help them have the BEST SUMMER EVER!</span></strong></p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:18:62">
+	<span><a href="https://give.salvationarmycarolinas.org/campaign/788679/donate"><span class="btn btn-solid btn-red">CLICK HERE to Donate Now</span></a></span>
+</p>
+		</div>
+	</div>
+</div>

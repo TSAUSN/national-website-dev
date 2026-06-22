@@ -1,0 +1,350 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:36:0:39": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-a4c4f0de9a-g96tf1')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-a4c4f0de9a-g96tf1')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:36:0:39",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:38:87": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:38:87",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:38:87-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:2:57": {
+								"icon": "outdent",
+								"name": "Background Section",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"background-color:#2A313F;color:#FFFFFF;padding:40px;\"><h1 style=\"text-align: center;\">Ring the bell to help fight hunger and homelessness</h1>\n\n<p style=\"text-align: center;\">\n\t<a href=\"https://give.salvationarmygeorgia.org/give/618818/#!/donation/checkout\" target=\"\"><strong><span class=\"btn btn-solid btn-red\">HELP NOW</span></strong></a>\n</p></div>",
+								"content": "<div style=\"background-color:#2A313F;color:#FFFFFF;padding:40px;\"><h1 style=\"text-align: center;\">Ring the bell to help fight hunger and homelessness</h1>\n\n<p style=\"text-align: center;\">\n\t<a href=\"https://give.salvationarmygeorgia.org/give/618818/#!/donation/checkout\" target=\"\"><strong><span class=\"btn btn-solid btn-red\">HELP NOW</span></strong></a>\n</p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"noChildren": true,
+								"children": {},
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:2:57",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:2:57",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:38:87-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:columns:2columnswideright:19:70": {
+								"uid": "14",
+								"name": "2 Columns - Left Small",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:2\"></div><div style=\"flex:4\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "2",
+										"html": "<div class=\"col-md-4 col-sm-12\">*</div>",
+										"classes": "col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "4",
+										"html": "<div class=\"col-md-8 col-sm-12\">*</div>",
+										"classes": "col-md-8 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 1,
+								"fullName": "design:columns:2columnswideright:19:70",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:38:87-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columnswideright:19:70-2:2 Columns - Left Small:0": {
+										"width": "2",
+										"html": "<div class=\"col-md-4 col-sm-12\">*</div>",
+										"classes": "col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:5:13": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"232\" height=\"484\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/9017140e-1127-4e52-9a27-8b60df6e8c90_Salvation+Army+Bell+%281080+x1920%29.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/9017140e-1127-4e52-9a27-8b60df6e8c90_Salvation+Army+Bell+%281080+x1920%29.png",
+												"position": 0,
+												"fullName": "content:images:5:13",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columnswideright:19:70-2:2 Columns - Left Small:0",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1": {
+										"width": "4",
+										"html": "<div class=\"col-md-8 col-sm-12\">*</div>",
+										"classes": "col-md-8 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:7:65": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6>we need your help</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "we need your help",
+												"position": 0,
+												"fullName": "content:text:7:65",
+												"htmlElement": "h4",
+												"primarytype": "content",
+												"id": "content:text:7:65",
+												"styles": {},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:8:7": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:justify;\">\n        <span>Did you know that <span style=\"color:#ed1c2b;\"><strong>1 in 5&nbsp;kids will go to bed hungry</strong></span> tonight or that <span style=\"color:#ed1c2b;\"><b>1 in 13 seniors have to choose between life-saving medication and food</b></span>? </span>\n      </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Did you know that 1 in 5&nbsp;kids will go to bed hungry tonight or that 1 in 13 seniors have to choose between life-saving medication and food?",
+												"position": 1,
+												"fullName": "content:textarea:8:7",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:8:7",
+												"styles": {
+													"color": "#ed1c2b",
+													"textAlign": "justify",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:9:29": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:justify;\">\n        <span>And did you know that <span style=\"color:#ed1c2b;\"><b>2,700 individuals</b></span> in the Atlanta area won't have a warm, safe place to sleep tonight?</span>\n      </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "And did you know that 2,700 individuals in the Atlanta area won't have a warm, safe place to sleep tonight?",
+												"position": 2,
+												"fullName": "content:textarea:9:29",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:9:29",
+												"styles": {
+													"color": "#ed1c2b",
+													"textAlign": "justify",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:10:6": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:justify;\">\n        These are challenges many of our neighbors face every single day. They are real people with real struggles that threaten their families, threaten their health, threaten their hope that things will ever get better.\n      </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "These are challenges many of our neighbors face every single day. They are real people with real struggles that threaten their families, threaten their health, threaten their hope that things will ever get better.",
+												"position": 3,
+												"fullName": "content:textarea:10:6",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:10:6",
+												"styles": {
+													"textAlign": "justify"
+												},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:11:23": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:justify;\">\n        <span style=\"color:#ed1c2b;\"><b>With your support, The Salvation Army of Metro Atlanta will meet these needs throughout metro Atlanta.</b></span>\n      </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "With your support, The Salvation Army of Metro Atlanta will meet these needs throughout metro Atlanta.",
+												"position": 4,
+												"fullName": "content:textarea:11:23",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:11:23",
+												"styles": {
+													"color": "#ed1c2b",
+													"textAlign": "justify",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:12:30": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n        Ring The Bell ATL, and join us in our fight to bring aid, comfort and hope to those who need it!\n      </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Ring The Bell ATL, and join us in our fight to bring aid, comfort and hope to those who need it!",
+												"position": 5,
+												"fullName": "content:textarea:12:30",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:12:30",
+												"styles": {},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:13:29": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:justify;\">\n        One gift can save one person... many can save many.\n      </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "One gift can save one person... many can save many.",
+												"position": 6,
+												"fullName": "content:textarea:13:29",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:13:29",
+												"styles": {
+													"textAlign": "justify"
+												},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:14:19": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p>\n        <a href=\"https://give.salvationarmygeorgia.org/give/618818/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Ring the Bell</span></a>\n      </p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p>\n        <a href=\"https://give.salvationarmygeorgia.org/give/618818/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Ring the Bell</span></a>\n      </p>",
+												"model": "6",
+												"position": 7,
+												"fullName": "content:wysiwyg_basic:14:19",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:14:19",
+												"styles": {},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:text:16:37": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6>Thank You!</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Thank You!",
+												"position": 8,
+												"fullName": "content:text:16:37",
+												"htmlElement": "h4",
+												"primarytype": "content",
+												"id": "content:text:16:37",
+												"styles": {},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:17:45": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p>\n        If you are looking to register to be a bell ringer in person, click <a href=\"https://www.registertoring.com/\" target=\"\">here</a>.\n      </p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p>\n        If you are looking to register to be a bell ringer in person, click <a href=\"https://www.registertoring.com/\" target=\"\">here</a>.\n      </p>",
+												"model": "6",
+												"position": 9,
+												"fullName": "content:wysiwyg_basic:17:45",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:17:45",
+												"styles": {},
+												"newLoc": "design:columns:2columnswideright:19:70-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

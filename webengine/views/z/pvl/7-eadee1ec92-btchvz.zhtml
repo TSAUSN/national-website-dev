@@ -1,0 +1,93 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-e08cff91f6-xtzt5d')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:51:35">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:51:35-1:1 Column:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:1:10">neighbors helping neighbors</h5>
+<p data-zesty-id="content:textarea:2:33">
+	The Salvation Army created the Project SHARE program in 1985 to serve those in need in Georgia; today it is our primary resource for emergency family assistance throughout the state. Qualified families who have experienced a sudden financial crisis – disasters that threaten the stability of the home – are able to get relief, often preventing utility cut-off or eviction. SHARE is one of the most successful privately funded utility assistance programs in the United States, providing more than $2 million in aid to more than 40,000 Georgians each year.
+</p>
+<hr data-zesty-id="design:design:horizontalrule:3:85">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:4:68"></div>
+<h5 data-zesty-id="content:text:6:2">How we help those in a crisis</h5>
+<p data-zesty-id="content:textarea:7:38">
+	Each year, thousands of hardworking individuals and families find themselves in an unexpected financial crisis. Whether facing illness, vulnerable to losing a home, or simply just unable make ends meet, The Salvation Army&nbsp;is here for those in need of shelter, transportation, or emergency financial assistance.
+</p>
+<p data-zesty-id="content:wysiwyg_basic:8:95">
+	Emergency Financial Assistance resources vary with local needs. For information on specific programs and locations,&nbsp;<a href="https://salvationarmygeorgia.org/locations/" target="">contact your local Salvation Army Center</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:15"></div>
+<hr data-zesty-id="design:design:horizontalrule:10:69">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:11:98"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/fdd38107-f8cb-450d-b622-d0e52d1f9248_PROJECT+SHARE.jpeg" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:11:87">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:13:72"></div>
+<hr data-zesty-id="design:design:horizontalrule:14:6">
+<p data-zesty-id="content:textarea:15:17">
+	Project SHARE provides Financial Emergency Assistance&nbsp;to individuals and families facing a temporary crisis that threatens their home. Project SHARE attempts to target the most urgent need, whether it&nbsp;is a utility bill, a part of a rent payment, or an emergency prescription.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:16:91"></div>
+<h5 data-zesty-id="content:text:17:53">HOW DO I APPLY FOR AID?</h5>
+<p data-zesty-id="content:textarea:18:3">
+	To apply for aid, make an appointment at the SHARE Partner Agency&nbsp;in your county of residence. Each eligibility decision is based on the change in circumstances that caused the crisis as determined by a local case manager. The level of assistance is based on need, available funds, and what it will take to resolve the crisis.
+</p>
+<p data-zesty-id="content:textarea:19:70">
+	All applications for assistance are done locally by appointment. To book an appointment with your local case manager, please phone the&nbsp;SHARE Partner Agency office in your county.
+</p>
+<p data-zesty-id="content:textarea:20:7">
+	For questions about appointments, what to bring to your appointment, available funds or the status of your case, you must contact your local&nbsp;SHARE Partner Agency.
+</p>
+<p data-zesty-id="content:textarea:21:0">
+	When you apply for aid, you will be asked to provide proof of identity and proof of residence. Each office has its own appointment policy, but most operate on a first-come, first-serve basis and will see clients as long as funds are available. You must provide proof of eligibility when applying for assistance.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:22:7"></div>
+<h5 data-zesty-id="content:text:23:1">WHO QUALIFIES?&nbsp;</h5>
+<p data-zesty-id="content:textarea:24:56"><strong>GENERAL ELIGIBILITY</strong></p>
+<p data-zesty-id="content:textarea:25:37">Each SHARE client eligibility decision is based on comprehensive assessment of individual circumstances and need. SHARE assistance should improve or stabilize households in financial crisis by addressing immediate threats to utility service, housing or other covered necessities. Among other results, SHARE assistance helps clients avoid more serious or catastrophic consequences and provide time to reestablish normal means of support.</p>
+<p data-zesty-id="content:textarea:26:40">
+	All four of these statements must be true to be eligible:
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:27:17">
+	<li>Applicant is experiencing a crisis that threatens the utility service, housing, employment, health, safety, or stability of the household or its individual members.</li>
+	<li>Applicant rarely experiences a serious financial crisis requiring outside assistance.</li>
+	<li>Applicant will, as a result of this assistance, receive meaningful and long-term relief from the threat/crisis.</li>
+	<li>Applicant is, under the circumstances, making a reasonable financial contribution toward the expenses in question.</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:28:67"></div>
+<p data-zesty-id="content:textarea:29:49">
+	<strong>RESTRICTIONS</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:30:52">
+	<li>A household may not receive more than $500 in SHARE assistance in a 12-month period.</li>
+	<li>SHARE funds may not be used to pay any deposit (i.e. electricity, rent, water).</li>
+	<li>Phone bills, credit card bills, auto expenses (including gasoline), loans (other than qualified mortgages), and debts covered by insurance do not qualify.</li>
+	<li>Legal fees and insurance premiums do not qualify.</li>
+	<li>SHARE funds may not be distributed directly to the client; all assistance checks are made payable to the vendor, and sent directly to the vendor.</li>
+	<li>Any client who commits fraud in the application process, who has fraudulently received assistance in the past, or who has fraudulently received utility service is considered ineligible.</li>
+	<li>SHARE funds are available exclusively to aid residents of the county in which those funds were raised. Local SHARE offices are not able to provide case-management for residents of communities outside their own service area.</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:31:89"></div>
+<h5 data-zesty-id="content:text:33:45">WHERE IS PROJECT SHARE AVAILABLE?&nbsp;</h5>
+<p data-zesty-id="content:textarea:34:70">
+	The Project SHARE partnership includes most Georgia Electric Membership Corporations,&nbsp;Georgia Power, and several natural gas and municipal utilities. This partnership enables us to offer assistance in every county in Georgia and several counties in&nbsp;North Carolina and Florida served by Georgia utilities.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:35:5"></div>
+<h5 data-zesty-id="content:text:36:25">How can i donate to project share?</h5>
+<p data-zesty-id="content:textarea:37:56">
+	Most Georgians can&nbsp;enroll in monthly gift-giving through their power bill.&nbsp;
+</p>
+<p data-zesty-id="content:wysiwyg_basic:38:80">
+	<a href="https://www.georgiapower.com/community/community-and-civic/project-share.html"><span class="btn btn-solid btn-red">Enroll Now</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:39:60"></div>
+<p data-zesty-id="content:textarea:40:43">
+	Send a one-time gift by check to:
+</p>
+<p data-zesty-id="content:textarea:41:67"><span style="color:#ed1c2b;"><strong>Project SHARE</p>
+<p data-zesty-id="content:textarea:42:76">The Salvation Army</p>
+<p data-zesty-id="content:textarea:43:33">P.O. Box 930188</p>
+<p data-zesty-id="content:textarea:44:34">Norcross, GA 30003-0188</strong></span></p>
+<p data-zesty-id="content:textarea:45:85">
+	Include your power company name and account number in the memo field of your check. Many Project SHARE utility partner companies, including Georgia Power, will&nbsp;match your donation.
+</p>
+		</div>
+	</div>
+</div>

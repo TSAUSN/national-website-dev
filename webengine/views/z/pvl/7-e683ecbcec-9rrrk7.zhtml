@@ -1,0 +1,62 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:43:0:60">{{block('/-/block/hero_full.html?variant=7-a6c8a094fb-xg1ln7')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:29:17">
+<div style="flex:1" class="column" data-zesty-id="design:columns:1 Column:29:17-1:1 Column:0">
+<div class="row my-3" data-zesty-id="design:columns:2columns:7:77">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:7:77-1:2 Columns - Equal:0">
+<h5 data-zesty-id="content:text:2:96">Corporate Sponsors</h5>
+<p data-zesty-id="content:textarea:3:46">
+					Companies can adopt a meal and provide volunteers to serve the meal. Dates and times may vary. Meal sponsorship commitment is <strong>$500</strong> to pay for necessary ingredients to allow our staff the ability to prepare a meal for 300+ homeless individuals.
+				</p>
+<p data-zesty-id="content:textarea:4:65">
+					Corporate Benefits: Name displayed on Salvation Army meal service page. Social media mentions to our thousands of followers on multiple platforms.
+				</p>
+				</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:7:77-1:2 Columns - Equal:1">
+<h5 data-zesty-id="content:text:5:35">Adopt a Meal for a month</h5>
+<p data-zesty-id="content:textarea:6:54">
+					Supporters can adopt a month's worth of meals for a woman or child, staying at The Salvation Army Center of Hope Shelter. A <strong>$50</strong> commitment takes care of the individual food cost.
+				</p>
+				</div>
+			</div>
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center" data-zesty-id="content:wysiwyg_basic:8:45"><a href="https://give.salvationarmycarolinas.org/give/237482/#!/donation/checkout" class="btn btn-primary gap-1 mt-2">Adopt a Meal</a></p>
+		</div>
+	</div>
+	<div data-zesty-id="content:block:6-caf0f4baac-ctljlz:2:70">{{block('/-/block/general_accordion.html?variant=7-86e4dd9683-ztgf99')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:30:70">
+<div style="flex:1" class="column" data-zesty-id="design:columns:1 Column:30:70-1:1 Column:0">
+<hr data-zesty-id="design:design:horizontalrule:11:98">
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center" data-zesty-id="content:wysiwyg_basic:12:96"><a href="https://give.salvationarmycarolinas.org/give/237482/#!/donation/checkout" class="btn btn-primary gap-1 mt-2">Adopt a Meal</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:13:24"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:14:25">Sponsors</h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:92"></div>
+<div class="row my-3" data-zesty-id="design:columns:3 Columns:22:90">
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:22:90-1:3 Columns:0">
+<ul data-zesty-id="content:wysiwyg_basic:16:62">
+					<li>New Bethel Church of God in Christ</li>
+					<li>Sharon Presbyterian Church</li>
+					<li>South Mecklenburg Presbyterian Church</li>
+					<li>Myers Park United Methodist Church</li>
+					<li>C.N. Jenkins Memorial Presbyterian Church</li>
+				</ul>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:22:90-1:3 Columns:1">
+<ul data-zesty-id="content:wysiwyg_basic:18:2">
+					<li>St. Ann’s Catholic Church</li>
+					<li>Central Church</li>
+					<li>Kairos</li>
+					<li>Rockwell ame Zion Church</li>
+					<li>Perfect Provisions Soup Kitchen</li>
+				</ul>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:22:90-1:3 Columns:2">
+<ul data-zesty-id="content:wysiwyg_basic:20:99">
+					<li>Logan Chapel cme Church</li>
+					<li>Greater Vision United Methodist Church</li>
+					<li>Greater Providence Baptist Church</li>
+				</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

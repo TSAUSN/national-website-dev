@@ -1,0 +1,786 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:21:0:28": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-bae0ced8aa-67zzb4')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-bae0ced8aa-67zzb4')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:21:0:28",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:45:50": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:45:50",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:45:50-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:1:42": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 style=\"text-align:center;\">2024 Red Kettle Challenge Winners</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "2024 Red Kettle Challenge Winners",
+								"position": 0,
+								"fullName": "content:text:1:42",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:1:42",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:2:5": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:2:5",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:Four Columns:15:64": {
+								"uid": "NaN",
+								"name": "Four Columns",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div style=\"display:flex\" class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 4,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+										"classes": "column",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+										"classes": "column",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+										"classes": "column",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+										"classes": "column",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 2,
+								"fullName": "design:columns:Four Columns:15:64",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:Four Columns:15:64-1:Four Columns:0": {
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn} class=\"column\">*</div>",
+										"classes": "column",
+										"droppable": true,
+										"children": {
+											"content:images:3:38": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f1383191-325a-4fef-8a9c-258cca329835_8.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/f1383191-325a-4fef-8a9c-258cca329835_8.png",
+												"position": 0,
+												"fullName": "content:images:3:38",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:0",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:5:7": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:5:7",
+												"primarytype": "design",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:4:43": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>Pass Christian Fire Department</strong>\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Pass Christian Fire Department",
+												"position": 2,
+												"fullName": "content:textarea:4:43",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:4:43",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:Four Columns:15:64-1:Four Columns:1": {
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn} class=\"column\">*</div>",
+										"classes": "column",
+										"droppable": true,
+										"children": {
+											"content:images:6:23": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f2393289-34be-4dc1-a003-66014ba3b5d0_9.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/f2393289-34be-4dc1-a003-66014ba3b5d0_9.png",
+												"position": 0,
+												"fullName": "content:images:6:23",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:1",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:8:35": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:8:35",
+												"primarytype": "design",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:1",
+												"oldLoc": "bank"
+											},
+											"content:textarea:7:76": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>Wiggins Police Department</strong>\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Wiggins Police Department",
+												"position": 2,
+												"fullName": "content:textarea:7:76",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:7:76",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:Four Columns:15:64-1:Four Columns:2": {
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn} class=\"column\">*</div>",
+										"classes": "column",
+										"droppable": true,
+										"children": {
+											"content:images:9:40": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/82631239-e733-45f2-add3-42a5b9d9bfeb_10.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/82631239-e733-45f2-add3-42a5b9d9bfeb_10.png",
+												"position": 0,
+												"fullName": "content:images:9:40",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:2",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:11:40": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:11:40",
+												"primarytype": "design",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:2",
+												"oldLoc": "bank"
+											},
+											"content:textarea:10:95": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>Stone County Sheriffs Department</strong>\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Stone County Sheriffs Department",
+												"position": 2,
+												"fullName": "content:textarea:10:95",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:10:95",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									},
+									"design:columns:Four Columns:15:64-1:Four Columns:3": {
+										"width": "1",
+										"html": "<div style=\"flex:1\" className={styles.pvlColumn} class=\"column\">*</div>",
+										"classes": "column",
+										"droppable": true,
+										"children": {
+											"content:images:12:52": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/44e60001-f0d1-4559-91b2-55fa215b55f1_11.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/44e60001-f0d1-4559-91b2-55fa215b55f1_11.png",
+												"position": 0,
+												"fullName": "content:images:12:52",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:3",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:14:4": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:14:4",
+												"primarytype": "design",
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:3",
+												"oldLoc": "bank"
+											},
+											"content:textarea:13:16": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>D'Iberville Mayor's Office</strong>\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "D'Iberville Mayor's Office",
+												"position": 2,
+												"fullName": "content:textarea:13:16",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:13:16",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:Four Columns:15:64-1:Four Columns:3",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 3
+									}
+								}
+							},
+							"design:design:horizontalrule:16:76": {
+								"uid": "13",
+								"name": "Horizontal Rule",
+								"type": "design",
+								"html": "<hr>",
+								"preview": "<hr>",
+								"classes": "",
+								"droppable": false,
+								"position": 3,
+								"fullName": "design:design:horizontalrule:16:76",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-xl:17:60": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 4,
+								"fullName": "design:design:whitespace-xl:17:60",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:18:54": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\">Our Red Kettle 2025&nbsp;Campaign Goal</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Our Red Kettle 2025&nbsp;Campaign Goal",
+								"position": 5,
+								"fullName": "content:text:18:54",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:18:54",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:19:43": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\"><strong>Serving the bottom 6-coastal counties in Mississippi is $280,000.&nbsp;</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Serving the bottom 6-coastal counties in Mississippi is $280,000.&nbsp;",
+								"position": 6,
+								"fullName": "content:textarea:19:43",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:19:43",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:20:11": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">Harrison, Hancock, Pearl River, Stone Counties = $220,000</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Harrison, Hancock, Pearl River, Stone Counties = $220,000",
+								"position": 7,
+								"fullName": "content:textarea:20:11",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:20:11",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:21:9": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tJackson &amp; George Counties = $60,000\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Jackson &amp; George Counties = $60,000",
+								"position": 8,
+								"fullName": "content:textarea:21:9",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:21:9",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:22:0": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tFunds raised in the communities stay in the communities they were intended for. You can help by creating an online fundraiser to help us meet our goal or simply give a one time or monthly donation.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Funds raised in the communities stay in the communities they were intended for. You can help by creating an online fundraiser to help us meet our goal or simply give a one time or monthly donation.",
+								"position": 9,
+								"fullName": "content:textarea:22:0",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:22:0",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:23:23": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t<a href=\"https://give.salvationarmyalm.org/campaign/the-salvation-army-mississippi-gulf-coast-area-command-virtual-red-kettle-fy26/c725580\"><span class=\"btn btn-solid btn-red\">DONATE NOW TO THE MS GULF COAST</span></a>\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t<a href=\"https://give.salvationarmyalm.org/campaign/the-salvation-army-mississippi-gulf-coast-area-command-virtual-red-kettle-fy26/c725580\"><span class=\"btn btn-solid btn-red\">DONATE NOW TO THE MS GULF COAST</span></a>\n</p>",
+								"model": "6",
+								"position": 10,
+								"fullName": "content:wysiwyg_basic:23:23",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:23:23",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:24:41": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 11,
+								"fullName": "design:design:whitespace-sm:24:41",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:35:81": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 12,
+								"fullName": "design:columns:2columns:35:81",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:35:81-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:26:15": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tONLINE FUNDRAISING OPTIONS:\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "ONLINE FUNDRAISING OPTIONS:",
+												"position": 0,
+												"fullName": "content:textarea:26:15",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:26:15",
+												"styles": {},
+												"newLoc": "design:columns:2columns:35:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:27:38": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tAs an Individual&nbsp;– Sign up to get started right away and start getting donations to help those who need it most.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "As an Individual&nbsp;– Sign up to get started right away and start getting donations to help those who need it most.",
+												"position": 1,
+												"fullName": "content:textarea:27:38",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:27:38",
+												"styles": {},
+												"newLoc": "design:columns:2columns:35:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:28:86": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tJoin A Team&nbsp;– If your school, business, or other group has already created a team, join with them to transform even more lives.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Join A Team&nbsp;– If your school, business, or other group has already created a team, join with them to transform even more lives.",
+												"position": 2,
+												"fullName": "content:textarea:28:86",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:28:86",
+												"styles": {},
+												"newLoc": "design:columns:2columns:35:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:29:46": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tCreate a Team&nbsp;– If you plan on recruiting your friends and family to set up fundraising pages in addition to yourself, make sure to create a team so that you can work together to make a larger impact.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Create a Team&nbsp;– If you plan on recruiting your friends and family to set up fundraising pages in addition to yourself, make sure to create a team so that you can work together to make a larger impact.",
+												"position": 3,
+												"fullName": "content:textarea:29:46",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:29:46",
+												"styles": {},
+												"newLoc": "design:columns:2columns:35:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"design:design:whitespace-xl:30:55": {
+												"uid": "354",
+												"name": "Whitespace - Extra Large",
+												"type": "design",
+												"classes": "py-5",
+												"html": "<div class=\"py-5\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+												"droppable": false,
+												"position": 4,
+												"fullName": "design:design:whitespace-xl:30:55",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:35:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:wysiwyg_basic:31:76": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p>\n\t\t\t\t\t<a href=\"https://give.salvationarmyalm.org/campaign/the-salvation-army-ms-gulf-coast-area-command-2024-virtual-red-kettle/c618179\"><span class=\"btn btn-solid btn-red\">Become a viritual fundraiser!</span></a>\n\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p>\n\t\t\t\t\t<a href=\"https://give.salvationarmyalm.org/campaign/the-salvation-army-ms-gulf-coast-area-command-2024-virtual-red-kettle/c618179\"><span class=\"btn btn-solid btn-red\">Become a viritual fundraiser!</span></a>\n\t\t\t\t</p>",
+												"model": "6",
+												"position": 5,
+												"fullName": "content:wysiwyg_basic:31:76",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:31:76",
+												"styles": {},
+												"newLoc": "design:columns:2columns:35:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:35:81-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:33:88": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"331\" height=\"331\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/2bdc45a8-6275-48ab-b0a0-c342a1dfa327_dollar_kettle.gif\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/2bdc45a8-6275-48ab-b0a0-c342a1dfa327_dollar_kettle.gif",
+												"position": 0,
+												"fullName": "content:images:33:88",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:35:81-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-xl:36:17": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 13,
+								"fullName": "design:design:whitespace-xl:36:17",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:37:59": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5>Register to Ring | Volunteers &amp; Group Leaders!</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Register to Ring | Volunteers &amp; Group Leaders!",
+								"position": 14,
+								"fullName": "content:text:37:59",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:37:59",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:38:25": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tWe’re so excited you've decided to volunteer on behalf of The Salvation Army’s Red Kettle Campaign. Register to Ring will help you find the perfect time and place to ring bells. Find the time and place that best fits your busy schedule to volunteer to ring.&nbsp;\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "We’re so excited you've decided to volunteer on behalf of The Salvation Army’s Red Kettle Campaign. Register to Ring will help you find the perfect time and place to ring bells. Find the time and place that best fits your busy schedule to volunteer to ring.&nbsp;",
+								"position": 15,
+								"fullName": "content:textarea:38:25",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:38:25",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:39:91": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p>\n\t<a href=\"https://www.registertoring.com/zip.aspx\"><span class=\"btn btn-solid btn-red\">Register</span></a>\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p>\n\t<a href=\"https://www.registertoring.com/zip.aspx\"><span class=\"btn btn-solid btn-red\">Register</span></a>\n</p>",
+								"model": "6",
+								"position": 16,
+								"fullName": "content:wysiwyg_basic:39:91",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:39:91",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:45:50-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

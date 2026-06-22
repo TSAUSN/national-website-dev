@@ -1,0 +1,64 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:36:0:28">{{block('/-/block/hero_full.html?variant=7-98e7f2b8f9-rbg5b0')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:33:66">
+<div style="flex:1" class="column" data-zesty-id="design:columns:1 Column:33:66-1:1 Column:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:2:77">More than <span style="color:#ed1c2b;">232,000</span></h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:13">Children, seniors, Veterans, &amp; neighbors are food insecure in</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:27">Central Alabama, according to Community Food Bank of Central Alabama.</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:5:15"></div>
+<div style="position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/ba1ae43a-1116-430b-a313-47c06d536cc0_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;" class="text-white rounded p-6 gap-3 my-5" data-zesty-id="content:wysiwyg_basic:6:26">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5 style="text-align:center;">How We Help Cure Hunger</h5>
+
+<p style="text-align:center;color:#fff;">
+	The Salvation Army Greater Birmingham Area Command hosts food pantries in three areas to combat hunger and food insecurity in our area. By supplying free fresh produce, canned goods, and healthy frozen items, our food pantries provide valuable meal supplementation while helping those in need maintain their independence and dignity. These food pantries are especially crucial in “food deserts,” where entire communities experience food insecurity due to a lack of grocery store access.
+</p>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:7:50"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:9:86">Please Contact Your Location Below</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:10:11">
+	Please have your identification, Social Security card, utility bill or lease available.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:84"></div>
+<div class="row my-3" data-zesty-id="design:columns:3 Columns:27:30">
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:27:30-1:3 Columns:0">
+<p data-zesty-id="content:textarea:12:92"><strong>The Center of Hope</strong></p>
+<p data-zesty-id="content:textarea:13:99">2015 26th Avenue North</p>
+<p data-zesty-id="content:textarea:14:11">
+					Birmingham, AL 35234
+				</p>
+<p data-zesty-id="content:wysiwyg_basic:15:36">
+					Phone:&nbsp; <a href="tel: 205-328-2420"> 205-328-2420</a>
+				</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:27:30-1:3 Columns:1">
+<p data-zesty-id="content:textarea:17:90"><strong>The Bessemer Salvation Station</strong></p>
+<p data-zesty-id="content:textarea:18:89">424 13th Street North</p>
+<p data-zesty-id="content:textarea:19:70">
+					Bessemer, AL 35020
+				</p>
+<p data-zesty-id="content:wysiwyg_basic:20:33">
+					Phone:&nbsp; <a href="tel: 205-425-4303"> 205-425-4303</a>
+				</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:27:30-1:3 Columns:2">
+<p data-zesty-id="content:textarea:22:47"><strong>The Alabaster Service Center&nbsp;</strong></p>
+<p data-zesty-id="content:textarea:23:55">105 Plaza Circle</p>
+<p data-zesty-id="content:textarea:24:82">
+					Alabaster, AL 35007
+				</p>
+<p data-zesty-id="content:wysiwyg_basic:25:85">
+					Phone:&nbsp; <a href="tel: 205-663-6105"> 205-663-6105</a>
+				</p>
+				</div>
+			</div>
+<p style="text-align:center;" data-zesty-id="content:textarea:28:57">
+	<span><strong><em><span>Join us daily for a Free meal at the Center of Hope, Monday - Friday,&nbsp;from 11:30 am – 12:30 pm.</span></em></strong></span>
+</p>
+		</div>
+	</div>
+</div>

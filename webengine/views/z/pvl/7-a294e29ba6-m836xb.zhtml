@@ -1,0 +1,66 @@
+<div className={styles.pvlRoot}>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:36:15">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:36:15-1:1 Column:0">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:35:63"></div>
+<h5 data-zesty-id="content:text:1:55">About Project FIGHT</h5>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:2:35"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/149e12e8-9a5a-47a5-84a8-efe677045052_Project+Fight+Logo_cropped.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:2:1">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:96"></div>
+<p data-zesty-id="content:textarea:5:43">
+	North Carolina ranks&nbsp;among the top 10 states for human trafficking. In 2023, the National Human Trafficking Hotline identified nearly 400 victims of trafficking in North Carolina. That figure is likely much higher because trafficking is a hidden crime. The Salvation Army is committed to increasing community awareness, education and assistance for victims.
+</p>
+<p data-zesty-id="content:wysiwyg_basic:6:22">
+	<span style="color:#ed1c2b;"><strong>If you&nbsp;or someone you know is the victim of trafficking, call our dedicated hotline: <a href="tel:9193906731">919-390-6731</a> or email us at <a href="mailto:NSCProject.FIGHT@uss.salvationarmy.org">NSCProject.FIGHT@uss.salvationarmy.org</a>.</strong></span>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:7:9"></div>
+<p data-zesty-id="content:textarea:8:33">
+	Learn more about Project FIGHT from program manager Amber Moss who was featured on the CW22 program Community Matters:
+</p>
+<div style="display:flex" class="row ratio ratio-16x9 d-flex" data-zesty-id="design:columns:1 Column:10:9">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:10:9-1:1 Column:0">
+<iframe src="https://www.youtube.com/embed/nv0pODfsUBw" title="YouTube video player" allowfullscreen loading="lazy" class="w-100 h-100" data-zesty-id="content:embed:9:36"></iframe>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:11:60"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:3 Columns:19:6">
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-whiteBg" data-zesty-id="design:columns:3 Columns:19:6-1:3 Columns:0">
+<h5 data-zesty-id="content:wysiwyg_basic:13:38">Case Management</h5>
+
+<p>
+	Project FIGHT provides crisis intervention and comprehensive case management for victims of human trafficking in North Carolina. Case managers connect victims to resources such as:
+</p>
+
+<ul>
+	<li>Food, shelter and clothing</li>
+	<li>Safety planning</li>
+	<li>Medical care, mental health and dental services</li>
+	<li>Identification, documentation, education, employment and housing</li>
+	<li>Immigration/legal assistance and ESL</li>
+</ul>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-redBg" data-zesty-id="design:columns:3 Columns:19:6-1:3 Columns:1">
+<h5 data-zesty-id="content:wysiwyg_basic:15:85">Outreach and Awareness</h5>
+
+<p>
+	Project FIGHT has trained and educated over 4,500 professionals and community members on the issue of human trafficking and how individuals in our area can help combat it. We also participate in community events and reach out to vulnerable populations.&nbsp;
+</p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-navyBg" data-zesty-id="design:columns:3 Columns:19:6-1:3 Columns:2">
+<h5 data-zesty-id="content:wysiwyg_basic:17:82">Collaboration</h5>
+
+<p>
+	Project FIGHT leads and participates in North Carolina's rapid response teams&nbsp;and&nbsp;collaborative victim centered emergency response teams. We also collaborate with state and local coalitions and work groups.&nbsp;&nbsp;
+</p>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:20:31"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/c85fe757-ef98-4d84-9527-b2024fc3ed94_Project+FIGHT+Brochure_1.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:21:86">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:23:44"></div>
+<h5 data-zesty-id="content:wysiwyg_basic:24:31"><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/7205bd10-4df6-4d02-ac58-936abf684d17_Project+FIGHT+Brochure_2025.pdf">Project FIGHT Brochure</a></h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:25:46"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/be9d72c1-5fd2-4fc0-9853-056666850678_Project+FIGHT+Fact+Sheet.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:26:25">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:28:10"></div>
+<h5 data-zesty-id="content:wysiwyg_basic:29:80"><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/87894dc0-8e3b-4144-98d2-868b4feb2e27_Project+FIGHT_Flyer.pdf">Project FIGHT Fact Sheet</a></h5>
+		</div>
+	</div>
+</div>

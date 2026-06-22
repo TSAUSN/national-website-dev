@@ -1,0 +1,356 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:53:0:5": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-d2ccfdf7a4-q6x0q9')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-d2ccfdf7a4-q6x0q9')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:53:0:5",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:19:54": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:19:54",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:19:54-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:18:89": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:18:89",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:19:54-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:7:54": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row g-3 my-3",
+								"html": "<div class=\"row g-3 my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 1,
+								"fullName": "design:columns:3 Columns:7:54",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:19:54-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:7:54-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:1:66": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Our Belief</h5>\n\n<p>\n\tRacism is fundamentally incompatible with the Christian conviction that all people are made in the image of God and are equal in value. The Salvation Army believes that the world is enriched by a diversity of cultures and ethnicities. “There before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and before the Lamb.” (Revelation 7:9)\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Our Belief</h5>\n\n<p>\n\tRacism is fundamentally incompatible with the Christian conviction that all people are made in the image of God and are equal in value. The Salvation Army believes that the world is enriched by a diversity of cultures and ethnicities. “There before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and before the Lamb.” (Revelation 7:9)\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:1:66",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:1:66",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:7:54-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:7:54-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:3:43": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Our Commitment</h5>\n\n<p>\n\tThe Salvation Army is committed to combatting racism and its impacts at an organizational, individual, and societal level. We recognize the importance of robust systems to report and discuss racism without fear and will endeavor to provide these and will continue to make efforts to ensure ethnic diversity in international and territorial leadership.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Our Commitment</h5>\n\n<p>\n\tThe Salvation Army is committed to combatting racism and its impacts at an organizational, individual, and societal level. We recognize the importance of robust systems to report and discuss racism without fear and will endeavor to provide these and will continue to make efforts to ensure ethnic diversity in international and territorial leadership.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:3:43",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:3:43",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:7:54-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:7:54-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:5:12": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Our Work</h5>\n\n<p>\n\tIn providing its programs and services, The Salvation Army is committed to accommodating all those in need without unlawful discrimination or harassment based on age, race, color, religion, sex, national origin, marital status, disability, citizenship, sexual orientation, gender identity, gender expression, or any other characteristic in accordance with our capacity to help.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Our Work</h5>\n\n<p>\n\tIn providing its programs and services, The Salvation Army is committed to accommodating all those in need without unlawful discrimination or harassment based on age, race, color, religion, sex, national origin, marital status, disability, citizenship, sexual orientation, gender identity, gender expression, or any other characteristic in accordance with our capacity to help.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:5:12",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:5:12",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:7:54-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							},
+							"design:design:whitespace-sm:9:98": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 2,
+								"fullName": "design:design:whitespace-sm:9:98",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:19:54-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:14:12": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row g-3 my-3",
+								"html": "<div class=\"row g-3 my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 3,
+								"fullName": "design:columns:3 Columns:14:12",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:19:54-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:14:12-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:8:60": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Our Employment Practices</h5>\n\n<p>\n\tThe Salvation Army is an Equal Opportunity Employer and committed to providing a respectful environment for all applicants and employees that is free from unlawful discrimination or harassment based on age, race, color, religion, sex, national origin, marital status, disability, citizenship, sexual orientation, gender identity, gender expression, or any other characteristic protected by law. Such equal opportunity for employment will apply to recruitment and hiring, training, promotion, salaries and other compensation, transfers and layoffs or termination.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Our Employment Practices</h5>\n\n<p>\n\tThe Salvation Army is an Equal Opportunity Employer and committed to providing a respectful environment for all applicants and employees that is free from unlawful discrimination or harassment based on age, race, color, religion, sex, national origin, marital status, disability, citizenship, sexual orientation, gender identity, gender expression, or any other characteristic protected by law. Such equal opportunity for employment will apply to recruitment and hiring, training, promotion, salaries and other compensation, transfers and layoffs or termination.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:8:60",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:8:60",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:14:12-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:14:12-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:10:85": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Acknowledgment</h5>\n\n<p>\n\tWhile many Salvationists have acted firmly and courageously against racism, we acknowledge that Salvationists have sometimes conformed to economic, political, social, and internal pressures that perpetuate racism. The Salvation Army is committed to fighting against racism wherever it is experienced and will speak into societies around the world wherever we encounter it.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Acknowledgment</h5>\n\n<p>\n\tWhile many Salvationists have acted firmly and courageously against racism, we acknowledge that Salvationists have sometimes conformed to economic, political, social, and internal pressures that perpetuate racism. The Salvation Army is committed to fighting against racism wherever it is experienced and will speak into societies around the world wherever we encounter it.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:10:85",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:10:85",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:14:12-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:14:12-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:12:37": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Mission Statement</h5>\n\n<p>\n\tThe Salvation Army, an international movement, is an evangelical part of the universal Christian Church. Its message is based on the Bible. Its ministry is motivated by the love of God. Its mission is to preach the gospel of Jesus Christ and to meet human needs in His name without discrimination.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Mission Statement</h5>\n\n<p>\n\tThe Salvation Army, an international movement, is an evangelical part of the universal Christian Church. Its message is based on the Bible. Its ministry is motivated by the love of God. Its mission is to preach the gospel of Jesus Christ and to meet human needs in His name without discrimination.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:12:37",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:12:37",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:14:12-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			},
+			"content:block:6-caf0f4baac-ctljlz:2:11": {
+				"html": "<div>{{block('/-/block/general_accordion.html?variant=7-8c94f3f6ac-tphnfl')}}</div>",
+				"content": "{{block('/-/block/general_accordion.html?variant=7-8c94f3f6ac-tphnfl')}}",
+				"model": "6-caf0f4baac-ctljlz",
+				"name": "General Accordion",
+				"position": 2,
+				"fullName": "content:block:6-caf0f4baac-ctljlz:2:11",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"id": "content:block:6-caf0f4baac-ctljlz:2:11",
+				"styles": {},
+				"contentOverride": false
+			}
+		}
+	}
+}

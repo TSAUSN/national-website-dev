@@ -1,0 +1,3092 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:text:4:76": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">1880</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1880",
+				"position": 0,
+				"fullName": "content:text:4:76",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:4:76",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:5:63": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1885</strong></span>&nbsp;– As reported in The War Cry:\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1885&nbsp;– As reported in The War Cry:",
+				"position": 1,
+				"fullName": "content:textarea:5:63",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:5:63",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:6:94": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\tRICHMOND, VA – When we first came the people told us that the devil had a strong hold here. Now they are led to admit that “Jesus Christ the Lord of all is mightier than he.”&nbsp;During last week some of the devil’s best friends and advocates have farewelled from his kingdom, and declared plainly that now they seek a better life. Backsliders are coming to Father’s house. Christians are working shoulder to shoulder with The Army, and there is joy in the presence of God.&nbsp;We closed the week with four souls in the fountain and Christians drawing nearer to God.&nbsp;We mean Richmond for Jesus.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "RICHMOND, VA – When we first came the people told us that the devil had a strong hold here. Now they are led to admit that “Jesus Christ the Lord of all is mightier than he.”&nbsp;During last week some of the devil’s best friends and advocates have farewelled from his kingdom, and declared plainly that now they seek a better life. Backsliders are coming to Father’s house. Christians are working shoulder to shoulder with The Army, and there is joy in the presence of God.&nbsp;We closed the week with four souls in the fountain and Christians drawing nearer to God.&nbsp;We mean Richmond for Jesus.",
+				"position": 2,
+				"fullName": "content:textarea:6:94",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:6:94",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:7:84": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t-Special Jennie Delano\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "-Special Jennie Delano",
+				"position": 3,
+				"fullName": "content:textarea:7:84",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:7:84",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:8:52": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1886</strong>&nbsp;</span>– Richmond Corps # 1 opens on South Linden Street and throughout the next 67 years, the location of this Corps included Fifth Street, Canal Street. The first officers in Richmond were Captain Glover, Captain Garbutt and Cadet Richardson.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1886&nbsp;– Richmond Corps # 1 opens on South Linden Street and throughout the next 67 years, the location of this Corps included Fifth Street, Canal Street. The first officers in Richmond were Captain Glover, Captain Garbutt and Cadet Richardson.",
+				"position": 4,
+				"fullName": "content:textarea:8:52",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:8:52",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:9:89": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1887</strong></span>&nbsp;– The Salvation Army begins setting up tents throughout Richmond to spread the word of the gospel and help their fellow man. The Army will not abandon the idea of using tents until 1907, or thereabouts.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1887&nbsp;– The Salvation Army begins setting up tents throughout Richmond to spread the word of the gospel and help their fellow man. The Army will not abandon the idea of using tents until 1907, or thereabouts.",
+				"position": 5,
+				"fullName": "content:textarea:9:89",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:9:89",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:text:10:91": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">1890</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1890",
+				"position": 6,
+				"fullName": "content:text:10:91",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:10:91",
+				"styles": {
+					"textAlign": "center"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideleft:14:67": {
+				"uid": "19",
+				"name": "2 Columns - Left Big",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 7,
+				"fullName": "design:columns:2columnswideleft:14:67",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideleft:14:67-4:2 Columns - Left Big:0": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:11:46": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>1897&nbsp;</strong>– The Red Kettle concept reaches the East Coast and Virginia after its start 6 years earlier in San Francisco. Kettle collections in Richmond may have begun around this time.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1897&nbsp;– The Red Kettle concept reaches the East Coast and Virginia after its start 6 years earlier in San Francisco. Kettle collections in Richmond may have begun around this time.",
+								"position": 0,
+								"fullName": "content:textarea:11:46",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:11:46",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"classes": "text-white",
+								"newLoc": "design:columns:2columnswideleft:14:67-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideleft:14:67-2:2 Columns - Left Big:1": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:12:92": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"298\" height=\"178\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/35842c43-9573-4376-be1b-7de338237249_Richmond-8th-and-Broad-1896-e1502462841972.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/35842c43-9573-4376-be1b-7de338237249_Richmond-8th-and-Broad-1896-e1502462841972.jpg",
+								"position": 0,
+								"fullName": "content:images:12:92",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideleft:14:67-2:2 Columns - Left Big:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:15:72": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">1900</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1900",
+				"position": 8,
+				"fullName": "content:text:15:72",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:15:72",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columns:21:37": {
+				"uid": "11",
+				"name": "2 Columns - Equal",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 9,
+				"fullName": "design:columns:2columns:21:37",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columns:21:37-1:2 Columns - Equal:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"design:columns:2columnswideright:19:68": {
+								"uid": "14",
+								"name": "2 Columns - Left Small",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:2\"></div><div style=\"flex:4\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columnswideright:19:68",
+								"primarytype": "design",
+								"newLoc": "design:columns:2columns:21:37-1:2 Columns - Equal:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columnswideright:19:68-2:2 Columns - Left Small:0": {
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:16:87": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"164\" height=\"223\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/83d7b245-9302-4e56-8ea2-0bb0f0751f32_Richmond-VA-No.1-Corps-Building-906-E.-Broad-St-date-e1502462984186.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/83d7b245-9302-4e56-8ea2-0bb0f0751f32_Richmond-VA-No.1-Corps-Building-906-E.-Broad-St-date-e1502462984186.jpg",
+												"position": 0,
+												"fullName": "content:images:16:87",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columnswideright:19:68-2:2 Columns - Left Small:0",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columnswideright:19:68-4:2 Columns - Left Small:1": {
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:18:54": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><span style=\"color:#ed1c2b;\"><strong>1905</strong></span>&nbsp;– The Salvation Army opens its Industrial Home located at 409 ½ West 4th Street in April of 1905 with Captain and Mrs. Wehrli in command.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1905&nbsp;– The Salvation Army opens its Industrial Home located at 409 ½ West 4th Street in April of 1905 with Captain and Mrs. Wehrli in command.",
+												"position": 0,
+												"fullName": "content:textarea:18:54",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:18:54",
+												"styles": {
+													"color": "#ed1c2b",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columnswideright:19:68-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columns:21:37-1:2 Columns - Equal:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:20:58": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1908</span></strong>&nbsp;– Richmond Corps # 1 moves to 906 East Broad Street.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1908&nbsp;– Richmond Corps # 1 moves to 906 East Broad Street.",
+								"position": 0,
+								"fullName": "content:textarea:20:58",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:20:58",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columns:21:37-1:2 Columns - Equal:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:22:55": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">1910</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1910",
+				"position": 10,
+				"fullName": "content:text:22:55",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:22:55",
+				"styles": {
+					"textAlign": "center"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:23:34": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1915</strong>&nbsp;– Richmond Corps # 2 opens on May 14, 1915. Captain Mary Etta Davis is the officer at Corps # 2.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1915&nbsp;– Richmond Corps # 2 opens on May 14, 1915. Captain Mary Etta Davis is the officer at Corps # 2.",
+				"position": 11,
+				"fullName": "content:textarea:23:34",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:23:34",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideleft:27:31": {
+				"uid": "19",
+				"name": "2 Columns - Left Big",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 12,
+				"fullName": "design:columns:2columnswideleft:27:31",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideleft:27:31-4:2 Columns - Left Big:0": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:24:44": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>1919</strong>&nbsp;– The Salvation Army begins holding weekly street corner meetings and concerts outside the Murphy Hotel, located at the Southeast corner of 8th Street. The Industrial Home is moved from West 4th Street to 506 East Leigh Street in October of 1919.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1919&nbsp;– The Salvation Army begins holding weekly street corner meetings and concerts outside the Murphy Hotel, located at the Southeast corner of 8th Street. The Industrial Home is moved from West 4th Street to 506 East Leigh Street in October of 1919.",
+								"position": 0,
+								"fullName": "content:textarea:24:44",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:24:44",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"classes": "text-white",
+								"newLoc": "design:columns:2columnswideleft:27:31-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideleft:27:31-2:2 Columns - Left Big:1": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:25:16": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"295\" height=\"225\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d14a9766-4c17-4392-82aa-c548d43f72f6_Richmond-VA-Mens-Social-Service-Department-506-E.-Leigh-e1502462721836.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/d14a9766-4c17-4392-82aa-c548d43f72f6_Richmond-VA-Mens-Social-Service-Department-506-E.-Leigh-e1502462721836.jpg",
+								"position": 0,
+								"fullName": "content:images:25:16",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideleft:27:31-2:2 Columns - Left Big:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:28:46": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">1920</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1920",
+				"position": 13,
+				"fullName": "content:text:28:46",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:28:46",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:6columns:38:23": {
+				"uid": "100",
+				"name": "6 Columns",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "",
+				"droppable": false,
+				"numberOfColumns": 6,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 14,
+				"fullName": "design:columns:6columns:38:23",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:6columns:38:23-1:6 Columns:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:29:94": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1920</strong></span>&nbsp;– The Richmond Church Hill Corps, located at 728 North 28th Street, opens on October 17, 1920. This Corps was formerly an outpost of Richmond Corps #1. The officers in charge were Supply &amp; Mrs. McIntyre. Richmond Corps # 3 opens at 801 Hull Street in April, 1920 with Captain and Mrs. Williams Wright as the commanding officers. The first Girl Guard Troop is organized in Richmond.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1920&nbsp;– The Richmond Church Hill Corps, located at 728 North 28th Street, opens on October 17, 1920. This Corps was formerly an outpost of Richmond Corps #1. The officers in charge were Supply &amp; Mrs. McIntyre. Richmond Corps # 3 opens at 801 Hull Street in April, 1920 with Captain and Mrs. Williams Wright as the commanding officers. The first Girl Guard Troop is organized in Richmond.",
+								"position": 0,
+								"fullName": "content:textarea:29:94",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:29:94",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:6columns:38:23-1:6 Columns:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:6columns:38:23-1:6 Columns:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"design:columns:2columnswideright:33:74": {
+								"uid": "14",
+								"name": "2 Columns - Left Small",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:2\"></div><div style=\"flex:4\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columnswideright:33:74",
+								"primarytype": "design",
+								"newLoc": "design:columns:6columns:38:23-1:6 Columns:1",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columnswideright:33:74-2:2 Columns - Left Small:0": {
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:30:68": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"329\" height=\"247\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/bc51fb74-fa85-4dc6-aecb-fbe18cda53c2_Richmond-VA-Evangeline-Booth-Home-and-Hospital-located-on--e1502463022763.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/bc51fb74-fa85-4dc6-aecb-fbe18cda53c2_Richmond-VA-Evangeline-Booth-Home-and-Hospital-located-on--e1502463022763.jpg",
+												"position": 0,
+												"fullName": "content:images:30:68",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columnswideright:33:74-2:2 Columns - Left Small:0",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columnswideright:33:74-4:2 Columns - Left Small:1": {
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:32:70": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><span style=\"color:#ed1c2b;\"><strong>1921</strong></span>&nbsp;– The Salvation Army in Richmond organizes its first ever Advisory Board with Mr. John R. Saunders as chairman.&nbsp;For the first time in Richmond, The Salvation Army holds a public supported campaign to raise money for operating expenses with the slogan, “The man prowling the streets hungry and cold is a menace to your city. Help make him an asset.” Prior to this time, The Salvation Army relied on tambourine collections for support.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1921&nbsp;– The Salvation Army in Richmond organizes its first ever Advisory Board with Mr. John R. Saunders as chairman.&nbsp;For the first time in Richmond, The Salvation Army holds a public supported campaign to raise money for operating expenses with the slogan, “The man prowling the streets hungry and cold is a menace to your city. Help make him an asset.” Prior to this time, The Salvation Army relied on tambourine collections for support.",
+												"position": 0,
+												"fullName": "content:textarea:32:70",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:32:70",
+												"styles": {
+													"color": "#ed1c2b",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columnswideright:33:74-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"position": 1
+					},
+					"design:columns:6columns:38:23-1:6 Columns:2": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:34:50": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1923</strong></span>&nbsp;– On January 1, 1923, The Evangeline Booth Home &amp; Hospital opens at 2701 Fifth Avenue. This facility provides medical care and shelter for unwed pregnant women from Virginia and West Virginia. The first Salvation Army Women’s Auxiliary is formed in Richmond and meets at the Home &amp; Hospital.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1923&nbsp;– On January 1, 1923, The Evangeline Booth Home &amp; Hospital opens at 2701 Fifth Avenue. This facility provides medical care and shelter for unwed pregnant women from Virginia and West Virginia. The first Salvation Army Women’s Auxiliary is formed in Richmond and meets at the Home &amp; Hospital.",
+								"position": 0,
+								"fullName": "content:textarea:34:50",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:34:50",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:6columns:38:23-1:6 Columns:2",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 2
+					},
+					"design:columns:6columns:38:23-1:6 Columns:3": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:35:44": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1924</strong></span>&nbsp;– The Community Chest is organized in Richmond with The Salvation Army as a charter member.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1924&nbsp;– The Community Chest is organized in Richmond with The Salvation Army as a charter member.",
+								"position": 0,
+								"fullName": "content:textarea:35:44",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:35:44",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:6columns:38:23-1:6 Columns:3",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 3
+					},
+					"design:columns:6columns:38:23-1:6 Columns:4": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:36:64": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1926</strong></span>&nbsp;– Richmond Corps # 2 officially closes and moves to Norton, VA where it was deemed there was a greater need at that time.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1926&nbsp;– Richmond Corps # 2 officially closes and moves to Norton, VA where it was deemed there was a greater need at that time.",
+								"position": 0,
+								"fullName": "content:textarea:36:64",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:36:64",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:6columns:38:23-1:6 Columns:4",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 4
+					},
+					"design:columns:6columns:38:23-1:6 Columns:5": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:37:67": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1928</strong></span>&nbsp;– Richmond becomes Divisional Headquarters for The Salvation Army after a new and separate division is created. The headquarters shares space with Corps # 1 at 906 East Broad Street.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1928&nbsp;– Richmond becomes Divisional Headquarters for The Salvation Army after a new and separate division is created. The headquarters shares space with Corps # 1 at 906 East Broad Street.",
+								"position": 0,
+								"fullName": "content:textarea:37:67",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:37:67",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:6columns:38:23-1:6 Columns:5",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 5
+					}
+				}
+			},
+			"content:text:39:66": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">1930</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1930",
+				"position": 15,
+				"fullName": "content:text:39:66",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:39:66",
+				"styles": {
+					"textAlign": "center"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideleft:43:96": {
+				"uid": "19",
+				"name": "2 Columns - Left Big",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 16,
+				"fullName": "design:columns:2columnswideleft:43:96",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideleft:43:96-4:2 Columns - Left Big:0": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:40:61": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>1930</strong>&nbsp;– The first mass Christmas program is administered in Richmond as gift baskets are distributed to those in need.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1930&nbsp;– The first mass Christmas program is administered in Richmond as gift baskets are distributed to those in need.",
+								"position": 0,
+								"fullName": "content:textarea:40:61",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:40:61",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"classes": "text-white",
+								"newLoc": "design:columns:2columnswideleft:43:96-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideleft:43:96-2:2 Columns - Left Big:1": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:41:33": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"268\" height=\"207\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/9e27312b-be1b-42d2-85e6-6706b36aa86b_Richmond-VA-Divisional-Headquarters-Christmas-distribution-e1502462961559.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/9e27312b-be1b-42d2-85e6-6706b36aa86b_Richmond-VA-Divisional-Headquarters-Christmas-distribution-e1502462961559.jpg",
+								"position": 0,
+								"fullName": "content:images:41:33",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideleft:43:96-2:2 Columns - Left Big:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:44:37": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">1940</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1940",
+				"position": 17,
+				"fullName": "content:text:44:37",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:44:37",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columns:50:62": {
+				"uid": "11",
+				"name": "2 Columns - Equal",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 18,
+				"fullName": "design:columns:2columns:50:62",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columns:50:62-1:2 Columns - Equal:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"design:columns:2columnswideright:48:71": {
+								"uid": "14",
+								"name": "2 Columns - Left Small",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:2\"></div><div style=\"flex:4\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columnswideright:48:71",
+								"primarytype": "design",
+								"newLoc": "design:columns:2columns:50:62-1:2 Columns - Equal:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columnswideright:48:71-2:2 Columns - Left Small:0": {
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:45:29": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"292\" height=\"210\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/7c39b8e8-1853-4f2d-9fb5-c6a2f8ca3757_1938_Red-Shield-Boys-Club-library-e1502463006130.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/7c39b8e8-1853-4f2d-9fb5-c6a2f8ca3757_1938_Red-Shield-Boys-Club-library-e1502463006130.jpg",
+												"position": 0,
+												"fullName": "content:images:45:29",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columnswideright:48:71-2:2 Columns - Left Small:0",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columnswideright:48:71-4:2 Columns - Left Small:1": {
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:47:69": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><strong><span style=\"color:#ed1c2b;\">1945</span></strong>&nbsp;– The Richmond Church Hill Corps is officially closed on July 1, 1945 and subsequently became an outpost of the Richmond Citadel Corps. Despite the closing of the Corps in Church Hill, the building, a former Masonic Lodge, continues to serve the youth of the area.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1945&nbsp;– The Richmond Church Hill Corps is officially closed on July 1, 1945 and subsequently became an outpost of the Richmond Citadel Corps. Despite the closing of the Corps in Church Hill, the building, a former Masonic Lodge, continues to serve the youth of the area.",
+												"position": 0,
+												"fullName": "content:textarea:47:69",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:47:69",
+												"styles": {
+													"color": "#ed1c2b",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columnswideright:48:71-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columns:50:62-1:2 Columns - Equal:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:49:53": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1949</span></strong>&nbsp;– The outpost at Church Hill becomes the Red Shield Boys Club.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1949&nbsp;– The outpost at Church Hill becomes the Red Shield Boys Club.",
+								"position": 0,
+								"fullName": "content:textarea:49:53",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:49:53",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columns:50:62-1:2 Columns - Equal:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:51:58": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">1950</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1950",
+				"position": 19,
+				"fullName": "content:text:51:58",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:51:58",
+				"styles": {
+					"textAlign": "center"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:52:9": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1950</strong>&nbsp;– The first City Command in Richmond is established, with Senior Major Harmon Anderson as City Commander. Richmond Corps # 3 is moved to 416 W. 12th Street. The owner of this property decides to build a memorial for his father, Samuel B. Dunstan.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1950&nbsp;– The first City Command in Richmond is established, with Senior Major Harmon Anderson as City Commander. Richmond Corps # 3 is moved to 416 W. 12th Street. The owner of this property decides to build a memorial for his father, Samuel B. Dunstan.",
+				"position": 20,
+				"fullName": "content:textarea:52:9",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:52:9",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:53:57": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1951</strong>&nbsp;– In December of 1951, Richmond Corps # 3 becomes the Dunstan Memorial Citadel and is located on the corner of Semmes Avenue and 12th Street.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1951&nbsp;– In December of 1951, Richmond Corps # 3 becomes the Dunstan Memorial Citadel and is located on the corner of Semmes Avenue and 12th Street.",
+				"position": 21,
+				"fullName": "content:textarea:53:57",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:53:57",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:54:94": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1952</strong>&nbsp;– The Evangeline Booth Home and Hospital on Fifth Avenue in Highland Park is expanded and dedicated in December of 1952. This addition to the building includes 30 beds, a laboratory and delivery room equipment. The older section of the Home and Hospital is used to house women who are in the early stages of their pregnancy.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1952&nbsp;– The Evangeline Booth Home and Hospital on Fifth Avenue in Highland Park is expanded and dedicated in December of 1952. This addition to the building includes 30 beds, a laboratory and delivery room equipment. The older section of the Home and Hospital is used to house women who are in the early stages of their pregnancy.",
+				"position": 22,
+				"fullName": "content:textarea:54:94",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:54:94",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideleft:58:57": {
+				"uid": "19",
+				"name": "2 Columns - Left Big",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 23,
+				"fullName": "design:columns:2columnswideleft:58:57",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideleft:58:57-4:2 Columns - Left Big:0": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:55:50": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>1953</strong>&nbsp;– Corps # 1 is closed on May 31, 1953 and all its officers are transferred to Oregon Hill in June of 1953. A Corps located in Oregon Hill officially opens on June 1, 1953 on 19 Maiden Lane, with Second Lieutenant Helen McIntire as the Corps Officer. The Salvation Army ends its practice of weekly street corner meetings in front of the Murphy Hotel.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1953&nbsp;– Corps # 1 is closed on May 31, 1953 and all its officers are transferred to Oregon Hill in June of 1953. A Corps located in Oregon Hill officially opens on June 1, 1953 on 19 Maiden Lane, with Second Lieutenant Helen McIntire as the Corps Officer. The Salvation Army ends its practice of weekly street corner meetings in front of the Murphy Hotel.",
+								"position": 0,
+								"fullName": "content:textarea:55:50",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:55:50",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"classes": "text-white",
+								"newLoc": "design:columns:2columnswideleft:58:57-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideleft:58:57-2:2 Columns - Left Big:1": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:56:56": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"231\" height=\"290\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/3d4671af-9c74-451d-8424-b72e1ee8e5da_1950s-street-corner-meetings-1.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/3d4671af-9c74-451d-8424-b72e1ee8e5da_1950s-street-corner-meetings-1.jpg",
+								"position": 0,
+								"fullName": "content:images:56:56",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideleft:58:57-2:2 Columns - Left Big:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:textarea:59:94": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1954</strong>&nbsp;– Senior Major Elmer Wall is assigned to Richmond as City Commander, replacing Senior Major Anderson. On January 28, 1954, The Red Shield Boys Club merges with the Boys Clubs of America and is chartered The Salvation Army Boys Club.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1954&nbsp;– Senior Major Elmer Wall is assigned to Richmond as City Commander, replacing Senior Major Anderson. On January 28, 1954, The Red Shield Boys Club merges with the Boys Clubs of America and is chartered The Salvation Army Boys Club.",
+				"position": 24,
+				"fullName": "content:textarea:59:94",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:59:94",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:60:41": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1958&nbsp;</strong>– Richmond City Command is dissolved when Brigadier Elmer Wall (formerly Senior Major Wall) is transferred to Birmingham, Alabama. At this time, all of the social services work is performed by Divisional Headquarters based in Richmond.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1958&nbsp;– Richmond City Command is dissolved when Brigadier Elmer Wall (formerly Senior Major Wall) is transferred to Birmingham, Alabama. At this time, all of the social services work is performed by Divisional Headquarters based in Richmond.",
+				"position": 25,
+				"fullName": "content:textarea:60:41",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:60:41",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:61:17": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1959</strong>&nbsp;– The City of Richmond purchases the property where Divisional Headquarters is housed and The Salvation Army moves to 2 W. Grace Street. This property on East Broad Street is now Richmond City Hall.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1959&nbsp;– The City of Richmond purchases the property where Divisional Headquarters is housed and The Salvation Army moves to 2 W. Grace Street. This property on East Broad Street is now Richmond City Hall.",
+				"position": 26,
+				"fullName": "content:textarea:61:17",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:61:17",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:text:62:97": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">1960</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1960",
+				"position": 27,
+				"fullName": "content:text:62:97",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:62:97",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columns:68:13": {
+				"uid": "11",
+				"name": "2 Columns - Equal",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 28,
+				"fullName": "design:columns:2columns:68:13",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columns:68:13-1:2 Columns - Equal:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"design:columns:2columnswideright:66:3": {
+								"uid": "14",
+								"name": "2 Columns - Left Small",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:2\"></div><div style=\"flex:4\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columnswideright:66:3",
+								"primarytype": "design",
+								"newLoc": "design:columns:2columns:68:13-1:2 Columns - Equal:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columnswideright:66:3-2:2 Columns - Left Small:0": {
+										"width": "2",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:63:42": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"179\" height=\"236\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/dc4cf25e-cfb7-4a6d-9f6c-64ade8613b68_shoefund2.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/dc4cf25e-cfb7-4a6d-9f6c-64ade8613b68_shoefund2.jpg",
+												"position": 0,
+												"fullName": "content:images:63:42",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columnswideright:66:3-2:2 Columns - Left Small:0",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columnswideright:66:3-4:2 Columns - Left Small:1": {
+										"width": "4",
+										"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+										"classes": "col-lg-8 col-md-8 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:65:15": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><strong><span style=\"color:#ed1c2b;\">1966</span></strong>&nbsp;– The Corps at Oregon Hill closes on May 18, 1966 and becomes an outpost of Dunstan Memorial Citadel Corps. The Salvation Army opens its Adult Rehabilitation Center at 2601 Hermitage Road after being provided funds from Territorial Headquarters and the Industrial Home on Leigh Street is closed.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1966&nbsp;– The Corps at Oregon Hill closes on May 18, 1966 and becomes an outpost of Dunstan Memorial Citadel Corps. The Salvation Army opens its Adult Rehabilitation Center at 2601 Hermitage Road after being provided funds from Territorial Headquarters and the Industrial Home on Leigh Street is closed.",
+												"position": 0,
+												"fullName": "content:textarea:65:15",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:65:15",
+												"styles": {
+													"color": "#ed1c2b",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columnswideright:66:3-4:2 Columns - Left Small:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columns:68:13-1:2 Columns - Equal:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:67:18": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1968&nbsp;</span></strong>– WRVA radio personality, Alden Aaroe, begins the Alden Aaroe Shoe Fund and partners with The Salvation Army to administer the funds to needy children in Richmond. In it’s 36-year history, the Fund raised more than $5.6 million.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1968&nbsp;– WRVA radio personality, Alden Aaroe, begins the Alden Aaroe Shoe Fund and partners with The Salvation Army to administer the funds to needy children in Richmond. In it’s 36-year history, the Fund raised more than $5.6 million.",
+								"position": 0,
+								"fullName": "content:textarea:67:18",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:67:18",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columns:68:13-1:2 Columns - Equal:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:69:87": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">1970</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1970",
+				"position": 29,
+				"fullName": "content:text:69:87",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:69:87",
+				"styles": {
+					"textAlign": "center"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:70:74": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1971&nbsp;</strong>– In June, 2 West Grace Street becomes City Command headquarters for The Salvation Army, after 13-years without a City Command in Virginia’s capital. At this time, City Command is sharing space with Divisional Headquarters at the 2 West Grace Street location. Brigadier Arthur Ward is appointed the first Area Coordinator of the new City Command. The Salvation Army Boys Club moves to its present day location at 3701 “R” Street in Church Hill. The facility is renamed The Salvation Army Boys Club and Neighborhood Center.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1971&nbsp;– In June, 2 West Grace Street becomes City Command headquarters for The Salvation Army, after 13-years without a City Command in Virginia’s capital. At this time, City Command is sharing space with Divisional Headquarters at the 2 West Grace Street location. Brigadier Arthur Ward is appointed the first Area Coordinator of the new City Command. The Salvation Army Boys Club moves to its present day location at 3701 “R” Street in Church Hill. The facility is renamed The Salvation Army Boys Club and Neighborhood Center.",
+				"position": 30,
+				"fullName": "content:textarea:70:74",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:70:74",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:71:86": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1972</strong>&nbsp;– Divisional Headquarters moves from Richmond, VA to Washington, D.C. and The Salvation Army in Richmond begins a capital campaign to raise funds for a new Area Command building.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1972&nbsp;– Divisional Headquarters moves from Richmond, VA to Washington, D.C. and The Salvation Army in Richmond begins a capital campaign to raise funds for a new Area Command building.",
+				"position": 31,
+				"fullName": "content:textarea:71:86",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:71:86",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideleft:75:80": {
+				"uid": "19",
+				"name": "2 Columns - Left Big",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 32,
+				"fullName": "design:columns:2columnswideleft:75:80",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideleft:75:80-4:2 Columns - Left Big:0": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:72:69": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>1973&nbsp;</strong>– The Richmond Times-Dispatch turns over the responsibility of food and gift distribution for their Christmas Mother Fund program to The Salvation Army. That year’s Christmas Mother is Mrs. Leslie Cheek. The Evangeline Booth Home and Hospital ceases its operations in Richmond.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1973&nbsp;– The Richmond Times-Dispatch turns over the responsibility of food and gift distribution for their Christmas Mother Fund program to The Salvation Army. That year’s Christmas Mother is Mrs. Leslie Cheek. The Evangeline Booth Home and Hospital ceases its operations in Richmond.",
+								"position": 0,
+								"fullName": "content:textarea:72:69",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:72:69",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"classes": "text-white",
+								"newLoc": "design:columns:2columnswideleft:75:80-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideleft:75:80-2:2 Columns - Left Big:1": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:73:43": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"249\" height=\"336\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/24fabfd0-a07f-48e7-9e04-ebd633d48cd4_1975_Salvation-Army-e1502463061802.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/24fabfd0-a07f-48e7-9e04-ebd633d48cd4_1975_Salvation-Army-e1502463061802.jpg",
+								"position": 0,
+								"fullName": "content:images:73:43",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideleft:75:80-2:2 Columns - Left Big:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:textarea:76:79": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1974</strong>&nbsp;– The Salvation Army Women’s Auxiliary reorganizes yet again, and selects Catherine Kasko as its president.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1974&nbsp;– The Salvation Army Women’s Auxiliary reorganizes yet again, and selects Catherine Kasko as its president.",
+				"position": 33,
+				"fullName": "content:textarea:76:79",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:76:79",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:77:48": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1976</strong>&nbsp;–&nbsp;Project W.A.R.M&nbsp;begins. The program is committed to providing high-quality firewood to needy individuals in Central Virginia who heat their homes with wood burning stoves.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1976&nbsp;–&nbsp;Project W.A.R.M&nbsp;begins. The program is committed to providing high-quality firewood to needy individuals in Central Virginia who heat their homes with wood burning stoves.",
+				"position": 34,
+				"fullName": "content:textarea:77:48",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:77:48",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:78:23": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1977</strong>&nbsp;– Major James Hipps is assigned to Richmond as Area Commander, replacing Brigadier Ward.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1977&nbsp;– Major James Hipps is assigned to Richmond as Area Commander, replacing Brigadier Ward.",
+				"position": 35,
+				"fullName": "content:textarea:78:23",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:78:23",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:79:5": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1979</strong>&nbsp;– The Dunstan Memorial Citadel Corps becomes Richmond Community Corps after The Salvation Army purchases a building at 4301 Crutchfield Street and sells the Dunstan Corps building.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1979&nbsp;– The Dunstan Memorial Citadel Corps becomes Richmond Community Corps after The Salvation Army purchases a building at 4301 Crutchfield Street and sells the Dunstan Corps building.",
+				"position": 36,
+				"fullName": "content:textarea:79:5",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:79:5",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:text:80:99": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">1980</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1980",
+				"position": 37,
+				"fullName": "content:text:80:99",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:80:99",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-xl:81:73": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 38,
+				"fullName": "design:design:whitespace-xl:81:73",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:85:75": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1980</strong></span>&nbsp;– Captain William Powell is assigned to Richmond as Area Commander, replacing Major Hipps. In partnership with The Richmond Dental Society, The Salvation Army begins assisting the elderly with dental care.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1980&nbsp;– Captain William Powell is assigned to Richmond as Area Commander, replacing Major Hipps. In partnership with The Richmond Dental Society, The Salvation Army begins assisting the elderly with dental care.",
+				"position": 39,
+				"fullName": "content:textarea:85:75",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:85:75",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:86:97": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1981</span>&nbsp;</strong>– The Salvation Army Boys &amp; Girls Club finishes 4th in a national competition sponsored by Colgate Palmolive. For the national “Help Young America” campaign, members from The Club submit a video documentary about how a mentally handicapped youth can be main-streamed in a Boys &amp; Girls Club program.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1981&nbsp;– The Salvation Army Boys &amp; Girls Club finishes 4th in a national competition sponsored by Colgate Palmolive. For the national “Help Young America” campaign, members from The Club submit a video documentary about how a mentally handicapped youth can be main-streamed in a Boys &amp; Girls Club program.",
+				"position": 40,
+				"fullName": "content:textarea:86:97",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:86:97",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:87:89": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1982</span>&nbsp;</strong>– The Richmond City Council amends the City Zoning Ordinance paving the way for The Salvation Army to begin construction on its new Area Command. Residents from Westminster Canterbury begin the Mitten Tree program, benefiting the children that The Salvation Army serves at Christmas.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1982&nbsp;– The Richmond City Council amends the City Zoning Ordinance paving the way for The Salvation Army to begin construction on its new Area Command. Residents from Westminster Canterbury begin the Mitten Tree program, benefiting the children that The Salvation Army serves at Christmas.",
+				"position": 41,
+				"fullName": "content:textarea:87:89",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:87:89",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:88:20": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1983</span>&nbsp;</strong>– In July, construction begins at 2 W. Grace Street as The Salvation Army builds a new Area Command for Richmond. During construction, The Salvation Army moves it operations to 203 N. Foushee Street. The Salvation Army and Dominion Virginia Power collaborate and introduce the EnergyShare program, and begin to help those who are having trouble paying their utility bills.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1983&nbsp;– In July, construction begins at 2 W. Grace Street as The Salvation Army builds a new Area Command for Richmond. During construction, The Salvation Army moves it operations to 203 N. Foushee Street. The Salvation Army and Dominion Virginia Power collaborate and introduce the EnergyShare program, and begin to help those who are having trouble paying their utility bills.",
+				"position": 42,
+				"fullName": "content:textarea:88:20",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:88:20",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideright:97:96": {
+				"uid": "14",
+				"name": "2 Columns - Left Small",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:2\"></div><div style=\"flex:4\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 43,
+				"fullName": "design:columns:2columnswideright:97:96",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideright:97:96-2:2 Columns - Left Small:0": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:89:35": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"321\" height=\"206\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/365edcee-4f4a-44d3-a2df-6358497b2545_1984-Bible-School-Crutchfield-Street-Corps-1.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/365edcee-4f4a-44d3-a2df-6358497b2545_1984-Bible-School-Crutchfield-Street-Corps-1.jpg",
+								"position": 0,
+								"fullName": "content:images:89:35",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideright:97:96-2:2 Columns - Left Small:0",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideright:97:96-4:2 Columns - Left Small:1": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:91:84": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><span style=\"color:#ed1c2b;\"><strong>1984</strong></span>&nbsp;– The new City Command is completed and The Salvation Army moves its Richmond headquarters from 203 N. Foushee Street back to 2 W. Grace Street. The new building houses the first emergency shelter operated by The Salvation Army in Richmond. Prior to 1984, temporary housing was provided for up to 10 men at local hotels, first on North Adams Street, then on North 3rd Street. The emergency shelter capacity at this time is 40, but can house up to 50 under extreme circumstances.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1984&nbsp;– The new City Command is completed and The Salvation Army moves its Richmond headquarters from 203 N. Foushee Street back to 2 W. Grace Street. The new building houses the first emergency shelter operated by The Salvation Army in Richmond. Prior to 1984, temporary housing was provided for up to 10 men at local hotels, first on North Adams Street, then on North 3rd Street. The emergency shelter capacity at this time is 40, but can house up to 50 under extreme circumstances.",
+								"position": 0,
+								"fullName": "content:textarea:91:84",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:91:84",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:97:96-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:92:38": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1985</span>&nbsp;</strong>– Captain Donald Faulkner is assigned to Richmond as Area Commander, replacing Captain Powell.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1985&nbsp;– Captain Donald Faulkner is assigned to Richmond as Area Commander, replacing Captain Powell.",
+								"position": 1,
+								"fullName": "content:textarea:92:38",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:92:38",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:97:96-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:93:65": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1986</strong>&nbsp;</span>– The Salvation Army moves its Corps to 5327 Orcutt Lane in South Richmond, and a dedication service is held at the new Corps building on November 9, 1986.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1986&nbsp;– The Salvation Army moves its Corps to 5327 Orcutt Lane in South Richmond, and a dedication service is held at the new Corps building on November 9, 1986.",
+								"position": 2,
+								"fullName": "content:textarea:93:65",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:93:65",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:97:96-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:94:82": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>1987</strong></span>&nbsp;– The Salvation Army begins the Angel Tree program in Richmond.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1987&nbsp;– The Salvation Army begins the Angel Tree program in Richmond.",
+								"position": 3,
+								"fullName": "content:textarea:94:82",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:94:82",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:97:96-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:95:40": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1988</span>&nbsp;</strong>– Major Avedis Kasarjian is assigned to Richmond as Area Commander, replacing Captain Faulkner. Puritan Cleaners begins its Coats for Kids drive, which The Salvation Army administers.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1988&nbsp;– Major Avedis Kasarjian is assigned to Richmond as Area Commander, replacing Captain Faulkner. Puritan Cleaners begins its Coats for Kids drive, which The Salvation Army administers.",
+								"position": 4,
+								"fullName": "content:textarea:95:40",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:95:40",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:97:96-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:96:34": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">1989</span>&nbsp;</strong>– The Salvation Army Women’s Auxiliary begins its annual Dolls and Bears Auction.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1989&nbsp;– The Salvation Army Women’s Auxiliary begins its annual Dolls and Bears Auction.",
+								"position": 5,
+								"fullName": "content:textarea:96:34",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:96:34",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:97:96-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:98:76": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">1990</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "1990",
+				"position": 44,
+				"fullName": "content:text:98:76",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:98:76",
+				"styles": {
+					"textAlign": "center"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:99:82": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1990&nbsp;</strong>– The Salvation Army increases the number of beds in its emergency shelter to 55.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1990&nbsp;– The Salvation Army increases the number of beds in its emergency shelter to 55.",
+				"position": 45,
+				"fullName": "content:textarea:99:82",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:99:82",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideleft:103:7": {
+				"uid": "19",
+				"name": "2 Columns - Left Big",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 46,
+				"fullName": "design:columns:2columnswideleft:103:7",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideleft:103:7-4:2 Columns - Left Big:0": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:100:39": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>1991</strong>&nbsp;– Major Kenneth Merrifield is assigned to Richmond as Area Commander, replacing Major Kasarjian.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1991&nbsp;– Major Kenneth Merrifield is assigned to Richmond as Area Commander, replacing Major Kasarjian.",
+								"position": 0,
+								"fullName": "content:textarea:100:39",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:100:39",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"classes": "text-white",
+								"newLoc": "design:columns:2columnswideleft:103:7-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideleft:103:7-2:2 Columns - Left Big:1": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:101:41": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"279\" height=\"213\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/175c2073-7b5c-473b-8e94-9265684b5e59_August-1992-Hurricane-Andrew-1.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/175c2073-7b5c-473b-8e94-9265684b5e59_August-1992-Hurricane-Andrew-1.jpg",
+								"position": 0,
+								"fullName": "content:images:101:41",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideleft:103:7-2:2 Columns - Left Big:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:textarea:104:17": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1992</strong>&nbsp;– The Salvation Army Richmond Area Command begins its disaster services unit in response to Hurricane Andrew.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1992&nbsp;– The Salvation Army Richmond Area Command begins its disaster services unit in response to Hurricane Andrew.",
+				"position": 47,
+				"fullName": "content:textarea:104:17",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:104:17",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:105:22": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1995</strong>&nbsp;– NBC 12 replaces WRIC TV-8 as media partner for the&nbsp;Angel Tree&nbsp;program.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1995&nbsp;– NBC 12 replaces WRIC TV-8 as media partner for the&nbsp;Angel Tree&nbsp;program.",
+				"position": 48,
+				"fullName": "content:textarea:105:22",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:105:22",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:106:16": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1996&nbsp;</strong>– Major Dannie Delaney is assigned to Richmond as Area Commander, replacing Major Merrifield.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1996&nbsp;– Major Dannie Delaney is assigned to Richmond as Area Commander, replacing Major Merrifield.",
+				"position": 49,
+				"fullName": "content:textarea:106:16",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:106:16",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:107:24": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1998</strong>&nbsp;– Lt. Colonel Danny Morrow is assigned to Richmond as Area Commander, replacing Major Delaney.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1998&nbsp;– Lt. Colonel Danny Morrow is assigned to Richmond as Area Commander, replacing Major Delaney.",
+				"position": 50,
+				"fullName": "content:textarea:107:24",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:107:24",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:108:82": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>1999&nbsp;</strong>– The City of Richmond implements its MetroCare program, designed to assist those in need pay their utility bills, and The Salvation Army is chosen as one of the agencies that will distribute its funds. FOX Richmond and The Salvation Army partner to provide stockings to area children at Christmas, thus starting&nbsp;FOX Holiday Socks.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "1999&nbsp;– The City of Richmond implements its MetroCare program, designed to assist those in need pay their utility bills, and The Salvation Army is chosen as one of the agencies that will distribute its funds. FOX Richmond and The Salvation Army partner to provide stockings to area children at Christmas, thus starting&nbsp;FOX Holiday Socks.",
+				"position": 51,
+				"fullName": "content:textarea:108:82",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:108:82",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:text:109:14": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">2000</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "2000",
+				"position": 52,
+				"fullName": "content:text:109:14",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:109:14",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-xl:110:76": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 53,
+				"fullName": "design:design:whitespace-xl:110:76",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:114:44": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>2000&nbsp;</strong></span>– Traveler’s Aid International merges with The Salvation Army in Richmond.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2000&nbsp;– Traveler’s Aid International merges with The Salvation Army in Richmond.",
+				"position": 54,
+				"fullName": "content:textarea:114:44",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:114:44",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:115:55": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2001&nbsp;</span></strong>– The Salvation Army Richmond Area Command abandons the Toy Shop concept, but continues its partnership with NBC 12 for the Angel Tree program. The Salvation Army’s operations in Petersburg and the Tri-Cities become part of the Richmond Area Command.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2001&nbsp;– The Salvation Army Richmond Area Command abandons the Toy Shop concept, but continues its partnership with NBC 12 for the Angel Tree program. The Salvation Army’s operations in Petersburg and the Tri-Cities become part of the Richmond Area Command.",
+				"position": 55,
+				"fullName": "content:textarea:115:55",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:115:55",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:116:23": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2003</span></strong>&nbsp;– Major Bobby Lancaster is assigned to Richmond as Area Commander, replacing Lt. Colonel Morrow. The Salvation Army Richmond Area Command opens the Cold Night Shelter in which anyone who may be homeless is provided a place to sleep on nights where the temperature is forecasted to be 35 degrees or below. During the first year of the program, the Cold Night Shelter was open for 96 nights and provided refuge for 2,882 people.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2003&nbsp;– Major Bobby Lancaster is assigned to Richmond as Area Commander, replacing Lt. Colonel Morrow. The Salvation Army Richmond Area Command opens the Cold Night Shelter in which anyone who may be homeless is provided a place to sleep on nights where the temperature is forecasted to be 35 degrees or below. During the first year of the program, the Cold Night Shelter was open for 96 nights and provided refuge for 2,882 people.",
+				"position": 56,
+				"fullName": "content:textarea:116:23",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:116:23",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:117:97": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2004&nbsp;</span></strong>– The Salvation Army Boys &amp; Girls Club celebrates its 50-year anniversary with The Boys &amp; Girls Club of America. In February, Freedom House begins serving its community meal at Area Command after their facility is closed. The Salvation Army opens a transitional housing facility in Petersburg, and holds a dedication ceremony for the newly renovated Petersburg Corps Worship Center. Robert Winston, a youth from The Salvation Army Boys &amp; Girls Club, wins the Youth of the Year award in Virginia.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2004&nbsp;– The Salvation Army Boys &amp; Girls Club celebrates its 50-year anniversary with The Boys &amp; Girls Club of America. In February, Freedom House begins serving its community meal at Area Command after their facility is closed. The Salvation Army opens a transitional housing facility in Petersburg, and holds a dedication ceremony for the newly renovated Petersburg Corps Worship Center. Robert Winston, a youth from The Salvation Army Boys &amp; Girls Club, wins the Youth of the Year award in Virginia.",
+				"position": 57,
+				"fullName": "content:textarea:117:97",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:117:97",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:118:86": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2005</span></strong>&nbsp;– The Salvation Army celebrates 120 years of service in Central Virginia with a celebration dinner at The Salvation Army Boys &amp; Girls Club. After Hurricane Katrina hits the Gulf Coast, Richmond Area Command’s Emergency Disaster Services Unit and its 3 canteens are dispatched to assist those in need in Louisiana. All told, Richmond Area Command personnel spend 7 weeks in the Gulf Coast providing aid to those in need and serve more than 28,000 meals. Richmond Area Command serves 236 evacuees who come to Central Virginia looking for assistance.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2005&nbsp;– The Salvation Army celebrates 120 years of service in Central Virginia with a celebration dinner at The Salvation Army Boys &amp; Girls Club. After Hurricane Katrina hits the Gulf Coast, Richmond Area Command’s Emergency Disaster Services Unit and its 3 canteens are dispatched to assist those in need in Louisiana. All told, Richmond Area Command personnel spend 7 weeks in the Gulf Coast providing aid to those in need and serve more than 28,000 meals. Richmond Area Command serves 236 evacuees who come to Central Virginia looking for assistance.",
+				"position": 58,
+				"fullName": "content:textarea:118:86",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:118:86",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:119:0": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2006&nbsp;</span></strong>– Major Dan Proctor is assigned to Richmond Area Command, replacing Major Bobby Lancaster.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2006&nbsp;– Major Dan Proctor is assigned to Richmond Area Command, replacing Major Bobby Lancaster.",
+				"position": 59,
+				"fullName": "content:textarea:119:0",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:119:0",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columnswideright:125:27": {
+				"uid": "14",
+				"name": "2 Columns - Left Small",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:2\"></div><div style=\"flex:4\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 60,
+				"fullName": "design:columns:2columnswideright:125:27",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideright:125:27-2:2 Columns - Left Small:0": {
+						"width": "2",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:120:86": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"312\" height=\"234\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/bfddbc8c-3d39-4305-9216-585b17bd7c44_Family-Store-2009-1.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/bfddbc8c-3d39-4305-9216-585b17bd7c44_Family-Store-2009-1.jpg",
+								"position": 0,
+								"fullName": "content:images:120:86",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideright:125:27-2:2 Columns - Left Small:0",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideright:125:27-4:2 Columns - Left Small:1": {
+						"width": "4",
+						"html": "<div class=\"col-lg-8 col-md-8 col-sm-12\">*</div>",
+						"classes": "col-lg-8 col-md-8 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:122:17": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong><span style=\"color:#ed1c2b;\">2007</span></strong>&nbsp;– The Salvation Army School of Performing Arts is launched in three locations; the Richmond Citadel Center for Worship and Service, The Salvation Army Boys &amp; Girls Club, and the Petersburg Center for Worship and Service. This school offers free lessons to Central Virginia children, including keyboard, guitar, percussion, woodwind and brass. Other elements of the performing arts include gospel choir, mime, sacred dance and drama for different age groups. The Church Hill Outpost opens at The Salvation Army Boys &amp; Girls Club, offering Christian programming for people of all ages. The Salvation Army, in partnership with ESPN Radio 950 AM and afternoon host Greg Burton, kick off the first annual “Holiday Cheer &amp; Gear” program. This program provides new sporting goods to children in Central Virginia through The Salvation Army Christmas Assistance Programs.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "2007&nbsp;– The Salvation Army School of Performing Arts is launched in three locations; the Richmond Citadel Center for Worship and Service, The Salvation Army Boys &amp; Girls Club, and the Petersburg Center for Worship and Service. This school offers free lessons to Central Virginia children, including keyboard, guitar, percussion, woodwind and brass. Other elements of the performing arts include gospel choir, mime, sacred dance and drama for different age groups. The Church Hill Outpost opens at The Salvation Army Boys &amp; Girls Club, offering Christian programming for people of all ages. The Salvation Army, in partnership with ESPN Radio 950 AM and afternoon host Greg Burton, kick off the first annual “Holiday Cheer &amp; Gear” program. This program provides new sporting goods to children in Central Virginia through The Salvation Army Christmas Assistance Programs.",
+								"position": 0,
+								"fullName": "content:textarea:122:17",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:122:17",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:125:27-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:123:37": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2008</span></strong>&nbsp;– Volunteers and officers from Richmond Area Command are activated during The Salvation Army’s&nbsp;national response to hurricanes Gustav and Ike. These individuals provided meals to weary residents along the Gulf Coasts of Mississippi and Texas. In late fall, Richmond Area Command launches Register to Ring, a website that allows individuals and groups to sign up for a time, date, and location to ring a bell at one of The Salvation Army Kettle sites in Central Virginia.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "2008&nbsp;– Volunteers and officers from Richmond Area Command are activated during The Salvation Army’s&nbsp;national response to hurricanes Gustav and Ike. These individuals provided meals to weary residents along the Gulf Coasts of Mississippi and Texas. In late fall, Richmond Area Command launches Register to Ring, a website that allows individuals and groups to sign up for a time, date, and location to ring a bell at one of The Salvation Army Kettle sites in Central Virginia.",
+								"position": 1,
+								"fullName": "content:textarea:123:37",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:123:37",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:125:27-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:124:50": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2009</span></strong>&nbsp;– The Salvation Army Boys &amp; Girls Club, in partnership with The Salvation Army Women’s Auxiliary, launches a new program; “My Story.” This program aims to teach youth from the Club reading comprehension, writing and spelling, as they write their own biographies. In May, The Salvation Army Adult Rehabilitation Center opens its newest Family Store at 11000 Midlothian Turnpike. Captain David Worthy is assigned to Richmond Area Command, replacing Major Dan Proctor.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "2009&nbsp;– The Salvation Army Boys &amp; Girls Club, in partnership with The Salvation Army Women’s Auxiliary, launches a new program; “My Story.” This program aims to teach youth from the Club reading comprehension, writing and spelling, as they write their own biographies. In May, The Salvation Army Adult Rehabilitation Center opens its newest Family Store at 11000 Midlothian Turnpike. Captain David Worthy is assigned to Richmond Area Command, replacing Major Dan Proctor.",
+								"position": 2,
+								"fullName": "content:textarea:124:50",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:124:50",
+								"styles": {
+									"color": "#ed1c2b",
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideright:125:27-4:2 Columns - Left Small:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"content:text:126:86": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">2010</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "2010",
+				"position": 61,
+				"fullName": "content:text:126:86",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:126:86",
+				"styles": {
+					"textAlign": "center"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:127:38": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<ul>\n\t<li>The Salvation Army Richmond Area Command ends its Traveler’s Aid program.</li>\n\t<li>Richmond Area Commander,&nbsp;Captain David Worthy spends 7 days in Haiti as part of The Salvation Army’s international response to the Haitian earthquake.</li>\n\t<li>In May, The Salvation Army celebrates its 125 years of service in Central VA. In October,</li>\n\t<li>The Salvation Army Richmond Area Command officially changes its name to The Salvation Army Central Virginia Area Command.</li>\n</ul>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<ul>\n\t<li>The Salvation Army Richmond Area Command ends its Traveler’s Aid program.</li>\n\t<li>Richmond Area Commander,&nbsp;Captain David Worthy spends 7 days in Haiti as part of The Salvation Army’s international response to the Haitian earthquake.</li>\n\t<li>In May, The Salvation Army celebrates its 125 years of service in Central VA. In October,</li>\n\t<li>The Salvation Army Richmond Area Command officially changes its name to The Salvation Army Central Virginia Area Command.</li>\n</ul>",
+				"model": "6",
+				"position": 62,
+				"fullName": "content:wysiwyg_basic:127:38",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:127:38",
+				"styles": {},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:128:71": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 63,
+				"fullName": "design:design:whitespace-sm:128:71",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:images:129:25": {
+				"icon": "images",
+				"name": "Image",
+				"type": "images",
+				"description": "Reference to image ZUIDs in Zesty.io",
+				"html": "<img width=\"256\" height=\"192\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/e88fa568-4f59-4ac0-b1a8-a647a2fe8185_Captain-Worthy-in-the-crowd-Haiti-relief-e1502462867861.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+				"draggable": true,
+				"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/e88fa568-4f59-4ac0-b1a8-a647a2fe8185_Captain-Worthy-in-the-crowd-Haiti-relief-e1502462867861.jpg",
+				"position": 64,
+				"fullName": "content:images:129:25",
+				"htmlElement": "img",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:design:whitespace-sm:131:27": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 65,
+				"fullName": "design:design:whitespace-sm:131:27",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:132:53": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>2013</strong>&nbsp;– Majors Timothy and Donna Carter replace Captain David Worthy as Central Virginia Area Commander and Associate Area Commander, respectively.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2013&nbsp;– Majors Timothy and Donna Carter replace Captain David Worthy as Central Virginia Area Commander and Associate Area Commander, respectively.",
+				"position": 66,
+				"fullName": "content:textarea:132:53",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:132:53",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:133:92": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>2017</strong>&nbsp;– Captains Donald and Laura Dohmann replace Majors Carter as Central Virginia Area Commander and Associate Area Commander, respectively.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2017&nbsp;– Captains Donald and Laura Dohmann replace Majors Carter as Central Virginia Area Commander and Associate Area Commander, respectively.",
+				"position": 67,
+				"fullName": "content:textarea:133:92",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:133:92",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:134:26": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong>2019</strong>&nbsp;– The Salvation Army Boys &amp; Girls Club reopens after an extensive renovation and expands program offerings.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2019&nbsp;– The Salvation Army Boys &amp; Girls Club reopens after an extensive renovation and expands program offerings.",
+				"position": 68,
+				"fullName": "content:textarea:134:26",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:134:26",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"classes": "text-white",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:text:135:57": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\"><span style=\"color:#ed1c2b;\">2020</span></h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "2020",
+				"position": 69,
+				"fullName": "content:text:135:57",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:135:57",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-xl:136:3": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 70,
+				"fullName": "design:design:whitespace-xl:136:3",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:141:95": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>2020</strong></span>&nbsp;&nbsp;– The Salvation Army Central Virginia Area Command receives approval to relocate from 2 West Grace St. to 1900 Chamberlayne Avenue. During the COVID-19 pandemic, The Salvation Army Boys &amp; Girls club serves as the “R Street Shelter”, providing housing, meals, and health screenings for homeless individuals at higher risk of exposure to coronavirus. The Salvation Army&nbsp;Adult Rehabilitation Center and Family Thrift Stores in the Greater Richmond&nbsp; Area are consolidated. Captains Jason and Bethany Burns replace Majors Donald and Laura Dohmann as Area Commanders, respectively.&nbsp;\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2020&nbsp;&nbsp;– The Salvation Army Central Virginia Area Command receives approval to relocate from 2 West Grace St. to 1900 Chamberlayne Avenue. During the COVID-19 pandemic, The Salvation Army Boys &amp; Girls club serves as the “R Street Shelter”, providing housing, meals, and health screenings for homeless individuals at higher risk of exposure to coronavirus. The Salvation Army&nbsp;Adult Rehabilitation Center and Family Thrift Stores in the Greater Richmond&nbsp; Area are consolidated. Captains Jason and Bethany Burns replace Majors Donald and Laura Dohmann as Area Commanders, respectively.&nbsp;",
+				"position": 71,
+				"fullName": "content:textarea:141:95",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:141:95",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:142:89": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2021 </span></strong>–&nbsp;The Salvation Army of Central Virginia hosts its first t-shirt design contest. The Salvation Army Boys &amp; Girls Club hosts its first Alumni Day event welcoming in decades of Club alumni and celebrates its 50th anniversary at R Street.&nbsp;\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2021 –&nbsp;The Salvation Army of Central Virginia hosts its first t-shirt design contest. The Salvation Army Boys &amp; Girls Club hosts its first Alumni Day event welcoming in decades of Club alumni and celebrates its 50th anniversary at R Street.&nbsp;",
+				"position": 72,
+				"fullName": "content:textarea:142:89",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:142:89",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:143:27": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2023&nbsp;</span></strong>– A big year of new opportunities and partnerships allowed The Salvation Army Central Virginia to expand its reach and capacity to keep&nbsp;Doing The Most Good:\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2023&nbsp;– A big year of new opportunities and partnerships allowed The Salvation Army Central Virginia to expand its reach and capacity to keep&nbsp;Doing The Most Good:",
+				"position": 73,
+				"fullName": "content:textarea:143:27",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:143:27",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:144:55": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<ul>\n\t<li><em>Spring 2023:</em>\n<ul>\n\t\t<li>Harold Harris, a dedicated member of the Richmond Community and The Salvation Army Boys &amp; Girls Club, is honored for&nbsp;Doing The Most Good with the youth in the Richmond Community for more than 40 years, and is&nbsp;recognized&nbsp;for his efforts with an honorary street sign. The block of R street in front of The Salvation Army Boys &amp; Girls Club is officially named&nbsp;Harold Harris Street.&nbsp;</li>\n\t\t<li>The Salvation Army of Central Virginia launches the first Leaders Doing The Most Good Awards Luncheon recognizing non-profit, corporate and individual excellence&nbsp;in Doing The Most Good in RVA. The Shield Award honorees were Richmond Christmas Mother&nbsp;Fund (non-profit), Ukrop's Homestyle Foods (corporate) and Ms. Mary Ann Wilson (individual).<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Summer 2023</em>:&nbsp;<ul>\n\t\t<li>Majors Samuel and Christine Kim replace Majors Jason and Bethany Burns as Area Commanders, respectively. Fall 2023: The Salvation Army Boys &amp; Girls Club launches the Run for Hope (cancelled due to tropical storm Ophelia), an annual fundraiser to benefit our youth and Club in Central Virginia.<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Winter 2023</em>:<ul>\n\t\t<li>The Richmond Christmas Mother Fund celebrates an 89-year partnership with Angel Tree, and Ms. Jacquelin Ukrop Aronson is named the 2023 Richmond Christmas Mother. Thanks to a generous community of donors and volunteers, 4,231 Angels and Silver Bells were adopted and experienced Christmas morning.</li>\n\t\t<li>In a historic private-public partnership, The Salvation Army Central Virginia with the City of Richmond, opens a 150-bed Inclement Weather Shelter from December 1, 2023 to April 15, 2024, at 1900 Chamberlayne Avenue.</li>\n\t</ul>\n\t</li>\n</ul>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<ul>\n\t<li><em>Spring 2023:</em>\n<ul>\n\t\t<li>Harold Harris, a dedicated member of the Richmond Community and The Salvation Army Boys &amp; Girls Club, is honored for&nbsp;Doing The Most Good with the youth in the Richmond Community for more than 40 years, and is&nbsp;recognized&nbsp;for his efforts with an honorary street sign. The block of R street in front of The Salvation Army Boys &amp; Girls Club is officially named&nbsp;Harold Harris Street.&nbsp;</li>\n\t\t<li>The Salvation Army of Central Virginia launches the first Leaders Doing The Most Good Awards Luncheon recognizing non-profit, corporate and individual excellence&nbsp;in Doing The Most Good in RVA. The Shield Award honorees were Richmond Christmas Mother&nbsp;Fund (non-profit), Ukrop's Homestyle Foods (corporate) and Ms. Mary Ann Wilson (individual).<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Summer 2023</em>:&nbsp;<ul>\n\t\t<li>Majors Samuel and Christine Kim replace Majors Jason and Bethany Burns as Area Commanders, respectively. Fall 2023: The Salvation Army Boys &amp; Girls Club launches the Run for Hope (cancelled due to tropical storm Ophelia), an annual fundraiser to benefit our youth and Club in Central Virginia.<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Winter 2023</em>:<ul>\n\t\t<li>The Richmond Christmas Mother Fund celebrates an 89-year partnership with Angel Tree, and Ms. Jacquelin Ukrop Aronson is named the 2023 Richmond Christmas Mother. Thanks to a generous community of donors and volunteers, 4,231 Angels and Silver Bells were adopted and experienced Christmas morning.</li>\n\t\t<li>In a historic private-public partnership, The Salvation Army Central Virginia with the City of Richmond, opens a 150-bed Inclement Weather Shelter from December 1, 2023 to April 15, 2024, at 1900 Chamberlayne Avenue.</li>\n\t</ul>\n\t</li>\n</ul>",
+				"model": "6",
+				"position": 74,
+				"fullName": "content:wysiwyg_basic:144:55",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:144:55",
+				"styles": {
+					"textAlign": "center",
+					"fontStyle": "italic"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:145:94": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 75,
+				"fullName": "design:design:whitespace-sm:145:94",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:146:92": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2024&nbsp;</span></strong>–\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2024&nbsp;–",
+				"position": 76,
+				"fullName": "content:textarea:146:92",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:146:92",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:147:76": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<ul>\n\t<li><em>Winter 2024</em>:&nbsp;\n<ul>\n\t\t<li>On February 12, Richmond City Council made a historic decision to invest in The Salvation Army Central Virginia’s Center of Hope, a $7M city match investment that will&nbsp;address the growing unhoused population and expand shelter services and capacity at 1900 Chamberlayne Avenue, which is currently serving as the season’s 150-bed Inclement Weather Shelter. The three-pronged approach will be: adding more beds for families and single men;&nbsp;providing&nbsp;an on-premise community resource center with wrap-around services for job readiness, financial education and mental health support; and transforming the current building to serve both inclement weather guests and year-round emergency shelter residents.<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Spring 2024:</em><ul>\n\t\t<li>The Salvation Army of Central Virginia hosts the second annual&nbsp;Leaders Doing The Most Good Awards Luncheon recognizing non-profit (Feed More), corporate (Puritan Cleaners) and individual (Reginald \"Reggie\" Gordon) excellence&nbsp;in Doing The Most Good in RVA. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Leaders-Doing-The-Most-Good-Awards-Luncheon-April-24-2024\" target=\"\">See 2024 DTMG Awards Event Recap</a><br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Summer 2024</em>:&nbsp;<ul>\n\t\t<li>1900 Chamberlayne expands emergency men's shelter capacity at 1900 Chamberlayne by 50 beds.&nbsp;</li>\n\t\t<li>1900 Chamberlayne Inclement Weather Shelter continues to operate it's heat and extreme weather relief shelter as needed.</li>\n\t\t<li>The Salvation Army Boys &amp; Girls Club of Richmond hosts the first in-person Run for Hope at Byrd Park, with 135 runners participating in the 1-mile Fun Run and/or timed 5K. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Run-for-Hope-Sept-14-2024\" target=\"\">See 2024 Run for Hope Event Recap</a><br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Fall 2024</em>:<ul>\n\t\t<li>The City's Community Resource and Training Center opens at 1900 Chamberlayne Avenue to provide support and wrap-around services to clients.<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Christmas 2024</em>:<ul>\n\t\t<li>The Richmond Christmas Mother Fund celebrates an 90-year partnership with Angel Tree, and Dr. Lydia Johnson is named the 2024&nbsp;Richmond Christmas Mother. Thanks to a generous community of donors and volunteers, 4,665&nbsp;Angels and Silver Bells were adopted and experienced Christmas morning. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Christmas-2024-Family-Day-Red-Kettles-and-More-\" target=\"\">See 2024 Christmas Recap Reels</a> from Family Day and Kettle Kick Off to the Ribbon Cutting and Christmas Concert.</li>\n\t</ul>\n\t</li>\n</ul>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<ul>\n\t<li><em>Winter 2024</em>:&nbsp;\n<ul>\n\t\t<li>On February 12, Richmond City Council made a historic decision to invest in The Salvation Army Central Virginia’s Center of Hope, a $7M city match investment that will&nbsp;address the growing unhoused population and expand shelter services and capacity at 1900 Chamberlayne Avenue, which is currently serving as the season’s 150-bed Inclement Weather Shelter. The three-pronged approach will be: adding more beds for families and single men;&nbsp;providing&nbsp;an on-premise community resource center with wrap-around services for job readiness, financial education and mental health support; and transforming the current building to serve both inclement weather guests and year-round emergency shelter residents.<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Spring 2024:</em><ul>\n\t\t<li>The Salvation Army of Central Virginia hosts the second annual&nbsp;Leaders Doing The Most Good Awards Luncheon recognizing non-profit (Feed More), corporate (Puritan Cleaners) and individual (Reginald \"Reggie\" Gordon) excellence&nbsp;in Doing The Most Good in RVA. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Leaders-Doing-The-Most-Good-Awards-Luncheon-April-24-2024\" target=\"\">See 2024 DTMG Awards Event Recap</a><br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Summer 2024</em>:&nbsp;<ul>\n\t\t<li>1900 Chamberlayne expands emergency men's shelter capacity at 1900 Chamberlayne by 50 beds.&nbsp;</li>\n\t\t<li>1900 Chamberlayne Inclement Weather Shelter continues to operate it's heat and extreme weather relief shelter as needed.</li>\n\t\t<li>The Salvation Army Boys &amp; Girls Club of Richmond hosts the first in-person Run for Hope at Byrd Park, with 135 runners participating in the 1-mile Fun Run and/or timed 5K. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Run-for-Hope-Sept-14-2024\" target=\"\">See 2024 Run for Hope Event Recap</a><br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Fall 2024</em>:<ul>\n\t\t<li>The City's Community Resource and Training Center opens at 1900 Chamberlayne Avenue to provide support and wrap-around services to clients.<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Christmas 2024</em>:<ul>\n\t\t<li>The Richmond Christmas Mother Fund celebrates an 90-year partnership with Angel Tree, and Dr. Lydia Johnson is named the 2024&nbsp;Richmond Christmas Mother. Thanks to a generous community of donors and volunteers, 4,665&nbsp;Angels and Silver Bells were adopted and experienced Christmas morning. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Christmas-2024-Family-Day-Red-Kettles-and-More-\" target=\"\">See 2024 Christmas Recap Reels</a> from Family Day and Kettle Kick Off to the Ribbon Cutting and Christmas Concert.</li>\n\t</ul>\n\t</li>\n</ul>",
+				"model": "6",
+				"position": 77,
+				"fullName": "content:wysiwyg_basic:147:76",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:147:76",
+				"styles": {
+					"textAlign": "center",
+					"fontStyle": "italic"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:148:78": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 78,
+				"fullName": "design:design:whitespace-sm:148:78",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:149:14": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<strong><span style=\"color:#ed1c2b;\">2025&nbsp;</span></strong>–\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "2025&nbsp;–",
+				"position": 79,
+				"fullName": "content:textarea:149:14",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:149:14",
+				"styles": {
+					"color": "#ed1c2b",
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:150:30": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<ul>\n\t<li><em>Winter 2025</em>:&nbsp;\n<ul>\n\t\t<li>The Salvation Army&nbsp;Boys &amp; Girls Clubs of America undergoes a national rebrand and announces its new name as: The Salvation Army Red Shield Youth Center. 3701 R Street is now The Salvation Army Red Shield Youth Center of Richmond.&nbsp;<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Spring 2025:</em><ul>\n\t\t<li>The Salvation Army of Central Virginia hosts the third annual&nbsp;Leaders Doing The Most Good Awards Luncheon recognizing non-profit (Live Red Foundation), corporate (Page Auto Group) and individual (Jasmine Turner) excellence&nbsp;in Doing The Most Good in RVA. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Leaders-Doing-The-Most-Good-Awards-Luncheon-May-1-2025\" target=\"\">See 2025&nbsp;DTMG Awards Event Recap</a></li>\n\t</ul>\n\t</li>\n</ul>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<ul>\n\t<li><em>Winter 2025</em>:&nbsp;\n<ul>\n\t\t<li>The Salvation Army&nbsp;Boys &amp; Girls Clubs of America undergoes a national rebrand and announces its new name as: The Salvation Army Red Shield Youth Center. 3701 R Street is now The Salvation Army Red Shield Youth Center of Richmond.&nbsp;<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><em>Spring 2025:</em><ul>\n\t\t<li>The Salvation Army of Central Virginia hosts the third annual&nbsp;Leaders Doing The Most Good Awards Luncheon recognizing non-profit (Live Red Foundation), corporate (Page Auto Group) and individual (Jasmine Turner) excellence&nbsp;in Doing The Most Good in RVA. <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Leaders-Doing-The-Most-Good-Awards-Luncheon-May-1-2025\" target=\"\">See 2025&nbsp;DTMG Awards Event Recap</a></li>\n\t</ul>\n\t</li>\n</ul>",
+				"model": "6",
+				"position": 80,
+				"fullName": "content:wysiwyg_basic:150:30",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:150:30",
+				"styles": {
+					"textAlign": "center",
+					"fontStyle": "italic"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:151:90": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 81,
+				"fullName": "design:design:whitespace-sm:151:90",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:152:80": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\r\n\tThe Salvation Army has a rich history of service to families and individuals in need in the Central Virginia area. In fact, we’ve been providing service to the area for more than 125 years, thanks to the generous support of local donors, volunteers, and partners who help us live out our Vision of being a focused service provider and advocate for people seeking a path to self-sufficiency in Central Virginia.\r\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "The Salvation Army has a rich history of service to families and individuals in need in the Central Virginia area. In fact, we’ve been providing service to the area for more than 125 years, thanks to the generous support of local donors, volunteers, and partners who help us live out our Vision of being a focused service provider and advocate for people seeking a path to self-sufficiency in Central Virginia.",
+				"position": 82,
+				"fullName": "content:textarea:152:80",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:152:80",
+				"styles": {},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			}
+		}
+	}
+}

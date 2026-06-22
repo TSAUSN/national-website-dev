@@ -1,0 +1,157 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"design:columns:1 Column:13:94": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:13:94",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:13:94-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-md:1:79": {
+								"uid": "352",
+								"name": "Whitespace - Medium",
+								"type": "design",
+								"classes": "my-4",
+								"html": "<div class=\"my-4\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-md:1:79",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:94-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:images:1:40": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/2695ce71-de90-46e0-b3f3-11ce36310000_2.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\">",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/2695ce71-de90-46e0-b3f3-11ce36310000_2.png",
+								"position": 1,
+								"fullName": "content:images:1:40",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:13:94-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:3:75": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 2,
+								"fullName": "design:design:whitespace-sm:3:75",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:94-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:1 Column:7:80": {
+								"uid": "NaN",
+								"name": "1 Column",
+								"type": "columns",
+								"html": "<div style=\"display:flex\" class=\"row d-flex\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"classes": "row d-flex",
+								"droppable": "true",
+								"numberOfColumns": 1,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": 1,
+										"html": "<div classname=\"{styles.pvlColumn}\" class=\"col-lg-10 col-md-12 col-sm-12 m-auto mt-3 ratio ratio-16x9\">*</div>",
+										"classes": "column col-lg-10 col-md-12 col-sm-12 m-auto mt-3 ratio ratio-16x9",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 3,
+								"fullName": "design:columns:1 Column:7:80",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:94-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:1 Column:7:80-1:1 Column:0": {
+										"width": 1,
+										"html": "<div classname=\"{styles.pvlColumn}\" class=\"column col-lg-10 col-md-12 col-sm-12 m-auto mt-3 ratio ratio-16x9\">*</div>",
+										"classes": "column col-lg-10 col-md-12 col-sm-12 m-auto mt-3 ratio ratio-16x9",
+										"droppable": true,
+										"children": {
+											"content:embed:6:45": {
+												"icon": "embed",
+												"name": "Embed",
+												"type": "embed",
+												"html": "<iframe src=\"https://www.youtube.com/embed/wTX_PWTxSHU\" title=\"YouTube video player\" allowfullscreen=\"\" loading=\"lazy\" class=\"w-100 h-100\"></iframe>",
+												"description": "Embedded content (iframe)",
+												"draggable": true,
+												"content": "<iframe class=\"w-100 h-100\" src=\"https://www.youtube.com/embed/wTX_PWTxSHU\" title=\"YouTube video player\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+												"position": 0,
+												"fullName": "content:embed:6:45",
+												"htmlElement": "iframe",
+												"classes": "w-100 h-100",
+												"primarytype": "content",
+												"id": "content:embed:6:45",
+												"styles": {},
+												"newLoc": "design:columns:1 Column:7:80-1:1 Column:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									}
+								},
+								"id": "design:columns:1 Column:7:80",
+								"styles": {},
+								"htmlElement": "div",
+								"content": "<div style=\"display:flex\" classname=\"{styles.pvlRow}\" class=\"row d-flex\">*</div>",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

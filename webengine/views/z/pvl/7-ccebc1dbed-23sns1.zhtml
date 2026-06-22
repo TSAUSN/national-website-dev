@@ -1,0 +1,50 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-d6faa98ad9-vqwj1m')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:25:27">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:25:27-1:1 Column:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/dab438ea-0ceb-467a-bcc7-f44f1a949a49_Angel+Tree+icon.png" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:1:52">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:3:67"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:4:7">Angel Tree Assistance In Oconee County</h5>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:5:32"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:6:55">
+	Holidays often bring added stress to already difficult financial situations. The Salvation Army is here to lend a helping hand to families struggling during this time. We can help provide Christmas gifts, coats and shoes to children ages 0 to 12 years of age. Applications for help are done by appointment only during the month of October each year. Required documents are listed below.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:7:67">
+	For an appointment, call <a href="tel:8648821160">864-882-1160</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:8:54"></div>
+<p data-zesty-id="content:textarea:9:55">
+	<strong>Documentation Required for Angel Tree Assistance:</strong>
+</p>
+<p data-zesty-id="content:textarea:10:45">
+	Current <strong>Photo ID</strong> of parent or legal guardian applying for assistance,&nbsp;<strong>Proof of Guardianship</strong>, if applicable
+</p>
+<p data-zesty-id="content:textarea:11:35">
+	Current <strong>ID for EACH</strong> child being registered that shows their date of birth (birth certificate, Medicaid card, vaccination or school records)
+</p>
+<p data-zesty-id="content:textarea:12:42">
+	Current <strong>DSS Household Summary</strong> (if applicable) income verification for the past 30 days for ALL household members
+</p>
+<p data-zesty-id="content:textarea:13:64">
+	<strong>Proof of Expenses</strong>&nbsp;for the past 30 days for ALL household members
+</p>
+<p data-zesty-id="content:textarea:14:47">
+	<strong>Proof of Residence</strong> (children must live within Oconee County)
+</p>
+<p data-zesty-id="content:textarea:15:24">
+	<strong>Proof of Emergency</strong> (identify specific emergency outside your control that has occurred within the past 30 days and has kept you from paying a bill or being unable to manage your regular monthly expenses)
+</p>
+<p data-zesty-id="content:textarea:16:0">
+	<strong>Coat and shoe size</strong>, <strong>toy ideas</strong> for each child (electronics such as phones, ipads, gaming devices, etc. are not allowed; suggested toy ideas will be provided at time of appointment if needed; <strong>specific toy requests such as bicycles are not guaranteed</strong>)
+</p>
+<p data-zesty-id="content:textarea:17:6">
+	* All information must be provided in order for assistance to be considered
+</p>
+<p data-zesty-id="content:textarea:18:64">
+	* Please be advised that all recipient’s names will be provided to other Oconee County Christmas charities to avoid duplication of assistance.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:19:83"></div>
+<img width="864" height="931" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/ccec6e29-5937-463d-b682-cc06480653ce_Angel+Tree+Partners.jpeg" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:19:79">
+		</div>
+	</div>
+</div>

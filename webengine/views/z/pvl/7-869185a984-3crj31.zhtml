@@ -1,0 +1,127 @@
+<div className={styles.pvlRoot}>
+	<div class="py-5" data-zesty-id="design:design:whitespace-xl:74:97"></div>
+	<h5 class="u-standardCase" data-zesty-id="content:text:1:82">Donate Money</h5>
+	<p class="margin-bottom-xl padding-bottom-lg" data-zesty-id="content:textarea:2:40">
+						Your donations&nbsp;help us serve the most vulnerable members of our community. Please choose the program you would like to donate to below. Thank you for helping The Salvation Army do the most good!
+					</p>
+	<p data-zesty-id="content:wysiwyg_basic:3:43">
+						<a href="https://give.salvationarmycarolinas.org/give/175533/#!/donation/checkout"><span class="btn btn-solid btn-red">Greenville County</span></a>&nbsp;<a href="https://give.salvationarmycarolinas.org/give/364784/#!/donation/checkout"><span class="btn btn-solid btn-red">Pickens County</span></a>&nbsp;<span class="btn btn-solid btn-red"><a href="https://give.salvationarmycarolinas.org/give/364745/#!/donation/checkout" target="">Oconee Count</a>y</span>
+					</p>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:94"></div>
+	<p data-zesty-id="content:wysiwyg_basic:5:11">
+						<a href="https://www.salvationarmycarolinas.org/greenvillesc/contribute/womens-auxiliary/"><span class="btn btn-solid btn-red">Women's Auxiliary</span></a>&nbsp;<a href="https://give.salvationarmycarolinas.org/give/368112/#!/donation/checkout"><span class="btn btn-solid btn-red">Red Shield Youth Center</span></a>&nbsp;<a href="https://give.salvationarmycarolinas.org/give/368114/#!/donation/checkout"><span class="btn btn-solid btn-red">Kroc Scholarship</span></a>
+					</p>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:6:75"></div>
+	<p data-zesty-id="content:wysiwyg_basic:7:55">
+						<a href="https://fundraise.givesmart.com/form/bbxMsA?vid=10y71y"><span class="btn btn-solid btn-red">Greenville Red Kettle Impact Campaign</span></a>&nbsp;&nbsp;
+					</p>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:8:90"></div>
+	<hr data-zesty-id="design:design:horizontalrule:9:16">
+	<div class="py-5" data-zesty-id="design:design:whitespace-xl:10:42"></div>
+	<div class="row my-3" data-zesty-id="design:columns:2columns:25:40">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:25:40-1:2 Columns - Equal:0">
+<img width="217" height="140" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/cf69c0e7-6c39-41cc-9fe4-3d4adf4e942d_Donor+Advised+Funds.png" alt="placeholder" / data-zesty-id="content:images:12:35">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:18:74"></div>
+<p data-zesty-id="content:textarea:13:66">
+										<strong>Donor Advised Funds</strong>
+									</p>
+<p data-zesty-id="content:textarea:14:20">Create a gift through your Donor Advised Fund.</p>
+<p data-zesty-id="content:textarea:15:2">You can also schedule a recurring gift through your DAF.</p>
+<p data-zesty-id="content:wysiwyg_basic:16:95">
+										<a href="https://bnymelloncharitablegiftfund.org/salvationarmy/"><span class="btn btn-solid btn-red">Learn More</span></a>
+									</p>
+		</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:25:40-1:2 Columns - Equal:1">
+<img width="169" height="142" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/151053b1-29a3-4663-ba2b-3e7ffbdec29d_donate+goods+and+clothing.png" alt="placeholder" / data-zesty-id="content:images:19:69">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:24:22"></div>
+<p data-zesty-id="content:textarea:20:74"><strong>Shop and Donate</strong></p>
+<p data-zesty-id="content:textarea:21:91">Your donations to The Salvation Army Family thrift stores help fund life-saving programs in the community.</p>
+<p data-zesty-id="content:wysiwyg_basic:22:34">
+										<a href="https://southernusa.salvationarmy.org/greenvillesc/family-stores-s"><span class="btn btn-solid btn-red">Learn More</span></a>
+									</p>
+		</div>
+	</div>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:30:71"></div>
+	<div class="row my-3" data-zesty-id="design:columns:2columns:38:50">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:38:50-1:2 Columns - Equal:0">
+<img width="147" height="142" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/9448f514-efc1-42bd-a8d9-06e126e7b8dc_bonds%2C+funds%2C+stocks.png" alt="placeholder" / data-zesty-id="content:images:26:41">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:31:50"></div>
+<p data-zesty-id="content:textarea:27:49"><strong>Bonds, Funds, Stocks, </strong><strong></strong><strong>and IRA Rollover</strong></p>
+<p data-zesty-id="content:textarea:28:59">You can make a gift of your bonds, funds, stocks, and other securities to help those who need it most.</p>
+<p data-zesty-id="content:wysiwyg_basic:29:3">
+										<a href="https://southernusa.salvationarmy.org/uss/donate-stock"><span class="btn btn-solid btn-red">Learn More</span></a>
+									</p>
+		</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:38:50-1:2 Columns - Equal:1">
+<img width="147" height="142" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/df311b85-5fd7-49c9-93fa-43fe0fb50a95_Planning+Giving%2C+Wills+and+Gift+Annuities.png" alt="placeholder" / data-zesty-id="content:images:32:47">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:37:79"></div>
+<p data-zesty-id="content:textarea:33:36"><strong>Planned Giving, Wills, </strong><strong>and Gift Annuities</strong><strong></strong></p>
+<p data-zesty-id="content:textarea:34:84">When you consider a will or estate gift to The Salvation Army, you leave a legacy of love for those who need it.&nbsp;</p>
+<p data-zesty-id="content:wysiwyg_basic:35:96">
+										<a href="https://tsalegacyoflove.com/"><span class="btn btn-solid btn-red">Learn More</span></a>
+									</p>
+		</div>
+	</div>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:39:33"></div>
+	<div class="row my-3" data-zesty-id="design:columns:2columns:52:37">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:52:37-1:2 Columns - Equal:0">
+<img width="217" height="140" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/88f31500-c740-4b2b-b864-6d822d4e8604_donate+your+vehicle+icon.png" alt="placeholder" / data-zesty-id="content:images:40:31">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:45:55"></div>
+<p data-zesty-id="content:textarea:41:85">
+										<b>Donate a Vehicle</b>
+									</p>
+<p data-zesty-id="content:textarea:42:52">
+										We convert vehicles into cash, which becomes a welcome donation to Salvation Army.
+									</p>
+<p data-zesty-id="content:wysiwyg_basic:43:3">
+										<a href="https://careasy.org/thesalvationarmygreenvillescareacommand"><span class="btn btn-solid btn-red">Learn More</span></a>
+									</p>
+		</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:52:37-1:2 Columns - Equal:1">
+<img width="130" height="134" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/b09f4579-8250-4e2e-af6b-c6f7c9c3061d_Cryptocurrency.png" alt="placeholder" / data-zesty-id="content:images:46:69">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:51:26"></div>
+<p data-zesty-id="content:textarea:47:87">
+										<b>Cryptocurrency</b>
+									</p>
+<p data-zesty-id="content:textarea:48:26">
+										The Salvation Army now accepts donations via cryptocurrency such as Bitcoin.
+									</p>
+<p data-zesty-id="content:wysiwyg_basic:49:70">
+										<a href="https://platform.engiven.com/give/258/widget/156"><span class="btn btn-solid btn-blue">Learn More</span></a>
+									</p>
+		</div>
+	</div>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:53:38"></div>
+	<div class="row my-3" data-zesty-id="design:columns:2columns:66:70">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:66:70-1:2 Columns - Equal:0">
+<img width="197" height="141" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/137c2fe2-8007-4117-8ac8-3e7d314d5e42_donate+money.png" alt="placeholder" / data-zesty-id="content:images:54:89">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:59:86"></div>
+<p data-zesty-id="content:textarea:55:79">
+										<b>Matching Gifts</b>
+									</p>
+<p data-zesty-id="content:textarea:56:4">
+										Help us leverage your generous donation by getting your employer to match your contribution.
+									</p>
+<p data-zesty-id="content:wysiwyg_basic:57:52">
+										<a href="https://southernusa.salvationarmy.org/uss/matching-gifts?random=199"><span class="btn btn-solid btn-red">Learn More&nbsp;</span></a>
+									</p>
+		</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:66:70-1:2 Columns - Equal:1">
+<img width="217" height="140" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/cf69c0e7-6c39-41cc-9fe4-3d4adf4e942d_Donor+Advised+Funds.png" alt="placeholder" / data-zesty-id="content:images:60:54">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:65:15"></div>
+<p data-zesty-id="content:textarea:61:14">
+										<b>Volunteer</b>
+									</p>
+<p data-zesty-id="content:textarea:62:76">
+										&nbsp;Donate your time to The Salvation Army to help create change and provide hope throughout your community.
+									</p>
+<p data-zesty-id="content:wysiwyg_basic:63:42">
+										<a href="https://southernusa.salvationarmy.org/greenvillesc/volunteer"><span class="btn btn-solid btn-red">Learn More</span></a>
+									</p>
+		</div>
+	</div>
+	<div class="py-5" data-zesty-id="design:design:whitespace-xl:67:98"></div>
+	<p style="text-align:center;" data-zesty-id="content:textarea:70:63">
+	<strong>Please mail donation checks and other correspondence to The Salvation Army of Greenville,&nbsp;PO Box 1237, Greenville, SC 29602.</strong>
+</p>
+</div>

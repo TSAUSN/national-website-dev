@@ -1,0 +1,54 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-d8c7c7a986-lgxchf')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:24:89">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:24:89-1:1 Column:0">
+<h6 style="text-align:center;" data-zesty-id="content:text:1:73">Barbara L. Goodmon Family Shelter</h6>
+<h5 style="text-align:left;" data-zesty-id="content:text:2:18">Donations Needed!</h5>
+<p style="text-align:left;" data-zesty-id="content:textarea:3:52">
+		We are at capacity at our shelter and can use help with supplies. Please consider making a donation of any of the items below.&nbsp;You can drop off at our shelter at 1863 Capital Blvd. in Raleigh. Thank you for helping us help others!&nbsp;
+	</p>
+<ul data-zesty-id="content:wysiwyg_basic:4:42">
+		<li>Bleach</li>
+		<li>Cleaning Supplies</li>
+		<li>Comet</li>
+		<li>Disinfectant Spray</li>
+		<li>Disinfectant Wipes</li>
+		<li>Gloves</li>
+		<li>Lysol</li>
+		<li>Pine Sol</li>
+		<li>Sponges</li>
+		<li>Toilet brushes</li>
+		<li>Toilet bowl cleaning supplies</li>
+		<li>Wash Cloths</li>
+		<li>Washing Detergent</li>
+		<li>Windex</li>
+	</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:81"></div>
+<h5 style="text-align:left;" data-zesty-id="content:text:7:44">We Offer Hope &amp; Refuge</h5>
+<p style="text-align:left;" data-zesty-id="content:textarea:8:28">The Salvation Army of Wake County Barbara L. Goodmon Family Shelter&nbsp;programs are designed to provide&nbsp;emergency or transitional housing to families in need. Underlying this program is a motivation to identify the causes of homelessness and to work to eliminate homelessness at its source.&nbsp;</p>
+<p style="text-align:left;" data-zesty-id="content:textarea:9:67"><strong>IN&nbsp;2024</strong></p>
+<ul data-zesty-id="content:wysiwyg_basic:10:89">
+		<li>373&nbsp;total persons served</li>
+		<li>127 adults and 246&nbsp;children</li>
+		<li>58% of our clients&nbsp;exited into permanent housing</li>
+		<li>65% gained or maintained income after&nbsp;exiting</li>
+		<li>77&nbsp;days was the average length of stay</li>
+		<li>16579 persons stayed in our drop in shelter</li>
+		<li>111 is the average number of days from referral to shelter entry</li>
+	</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:48"></div>
+<h5 data-zesty-id="content:text:12:11">How we help equip families</h5>
+<div class="row my-3" data-zesty-id="design:columns:2columns:18:63">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:18:63-1:2 Columns - Equal:0">
+<p data-ft-member-idx="0" data-zesty-id="content:textarea:13:48"><strong>GET SHELTER</strong></p>
+<p data-ft-part-idx="0-1" data-zesty-id="content:textarea:14:67">The Barbara L. Goodmon Family Emergency Shelter&nbsp;at the Judy D. Zelnak Center of Hope assists homeless families and those fleeing&nbsp;domestic violence. In addition to providing basic necessities, we offer individual case management, parenting workshops, and tutoring opportunities for children.&nbsp;</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:18:63-1:2 Columns - Equal:1">
+<p data-ft-member-idx="1" data-zesty-id="content:textarea:15:80"><strong>Judy D. Zelnak Center of Hope</strong></p>
+<p data-ft-part-idx="1-1" data-zesty-id="content:textarea:16:5">1863 Capital Blvd.</p>
+<p data-ft-part-idx="1-2" data-zesty-id="content:textarea:17:76">Raleigh NC 27604</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

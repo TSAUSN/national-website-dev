@@ -1,0 +1,108 @@
+.image-background {
+  // aspect-ratio: 16 / 9;
+  height: auto;
+
+  img {
+    background-size: cover; /* Cover the entire div */
+    background-position: center; /* Center the background image */
+    z-index: -199;
+    object-fit: cover;
+    filter: brightness(0.85);
+  }
+}
+
+.image-backdrop {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.98) 0%,
+    rgba(0, 0, 0, 0.8) 30%,
+    rgba(0, 0, 0, 0.1) 80%
+  );
+  border-radius: inherit;
+  z-index: 0;
+}
+
+.image-background > :not(img):not(.image-backdrop) {
+  position: relative;
+  z-index: 1;
+}
+
+.carousel-inner,
+.carousel-inner .carousel-item,
+.carousel-inner .carousel-item .image-background {
+  // aspect-ratio: 16 / 9;
+  // height: 100% !important;
+}
+
+// .image-background.image-background--carousel {
+//   @media (max-width: 768px) {
+//     height: auto !important;
+//     aspect-ratio: 16 / 9;
+//   }
+// }
+
+.min-h-20rem {
+  min-height: 20rem;
+}
+
+.h-20rem {
+  height: 20rem;
+}
+
+.min-h-42rem {
+  min-height: 42rem;
+}
+
+.h-10rem {
+  height: 20rem;
+}
+
+.hero-item {
+  font-size: 22px;
+  font-family: 'Adobe Jenson Pro';
+  line-height: 26px;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+}
+
+.image-background h3,
+.image-background .hero-item {
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+}
+
+.dynamic-cards-container {
+  @media (max-width: 1025px) {
+  }
+
+  @media (max-width: 1024px) {
+    display: flex;
+    gap: 1rem;
+    flex-direction: row;
+    margin-top: 1rem;
+  }
+
+  @media (max-width: 624px) {
+    flex-direction: column;
+  }
+}
+
+.dynamic-card-1,
+.dynamic-card-2 {
+  height: 380px;
+  @media (max-width: 1024px) {
+    width: 100%;
+  }
+}
+
+.dynamic-card-1 {
+  margin-bottom: 1rem;
+
+  @media (max-width: 1024px) {
+    margin-bottom: 0rem;
+  }
+}

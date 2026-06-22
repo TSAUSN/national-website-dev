@@ -1,0 +1,456 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:33:0:11": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-ecccb5a18f-ppjqpn')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-ecccb5a18f-ppjqpn')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:33:0:11",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:17:76": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:17:76",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:17:76-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:1:83": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\" class=\"text-white\"><strong>MATH &amp; READING AFTER-SCHOOL PROGRAM</strong></h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "MATH &amp; READING AFTER-SCHOOL PROGRAM",
+								"position": 0,
+								"fullName": "content:text:1:83",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:1:83",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"classes": "text-white",
+								"newLoc": "design:columns:1 Column:17:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:14:37": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:14:37",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:17:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:5columns:15:96": {
+								"uid": "100",
+								"name": "5 Columns",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "",
+								"droppable": false,
+								"numberOfColumns": 5,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 2,
+								"fullName": "design:columns:5columns:15:96",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:17:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:5columns:15:96-1:5 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:2:18": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\" class=\"text-white\">\n\t<strong>(Program is offered to 1st - 8th grade students)</strong>\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "(Program is offered to 1st - 8th grade students)",
+												"position": 0,
+												"fullName": "content:textarea:2:18",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:2:18",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:5columns:15:96-1:5 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:3:12": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-member-idx=\"1\" style=\"text-align:center;\" class=\"text-white\"><span><strong>TUTORING DAYS &amp; TIMES</strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "TUTORING DAYS &amp; TIMES",
+												"position": 0,
+												"fullName": "content:textarea:3:12",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:3:12",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:4:28": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-part-idx=\"1-1\" style=\"text-align:center;\" class=\"text-white\">Tuesdays - Thursdays</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Tuesdays - Thursdays",
+												"position": 1,
+												"fullName": "content:textarea:4:28",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:4:28",
+												"styles": {
+													"textAlign": "center"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:5:28": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-part-idx=\"1-2\" style=\"text-align:center;\" class=\"text-white\">3:30 pm - 6:00 pm</span></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "3:30 pm - 6:00 pm",
+												"position": 2,
+												"fullName": "content:textarea:5:28",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:5:28",
+												"styles": {
+													"textAlign": "center"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:5columns:15:96-1:5 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:6:66": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-member-idx=\"2\" style=\"text-align:center;\" class=\"text-white\"><span><strong>ADDITIONAL SERVICES</strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "ADDITIONAL SERVICES",
+												"position": 0,
+												"fullName": "content:textarea:6:66",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:6:66",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:7:91": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-part-idx=\"2-1\" style=\"text-align:center;\" class=\"text-white\">Monthly Science Fairs and Healthy Eating Workshops</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Monthly Science Fairs and Healthy Eating Workshops",
+												"position": 1,
+												"fullName": "content:textarea:7:91",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:7:91",
+												"styles": {
+													"textAlign": "center"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:8:35": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-part-idx=\"2-2\" style=\"text-align:center;\" class=\"text-white\">Led by the USC MED Students</span></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Led by the USC MED Students",
+												"position": 2,
+												"fullName": "content:textarea:8:35",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:8:35",
+												"styles": {
+													"textAlign": "center"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									},
+									"design:columns:5columns:15:96-1:5 Columns:3": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:9:14": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-member-idx=\"3\" style=\"text-align:center;\" class=\"text-white\"><span><strong>LOCATION</strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "LOCATION",
+												"position": 0,
+												"fullName": "content:textarea:9:14",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:9:14",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:3",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:10:69": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-part-idx=\"3-1\" style=\"text-align:center;\" class=\"text-white\">The Salvation Army of the Midlands</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "The Salvation Army of the Midlands",
+												"position": 1,
+												"fullName": "content:textarea:10:69",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:10:69",
+												"styles": {
+													"textAlign": "center"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:3",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:11:12": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-part-idx=\"3-2\" style=\"text-align:center;\" class=\"text-white\">3024 Farrow Road, Columbia 29203</span></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "3024 Farrow Road, Columbia 29203",
+												"position": 2,
+												"fullName": "content:textarea:11:12",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:11:12",
+												"styles": {
+													"textAlign": "center"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:3",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 3
+									},
+									"design:columns:5columns:15:96-1:5 Columns:4": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:12:42": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p data-ft-member-idx=\"4\" style=\"text-align:center;\" class=\"text-white\"><span><strong>FOR ADDITIONAL INFORMATION</strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "FOR ADDITIONAL INFORMATION",
+												"position": 0,
+												"fullName": "content:textarea:12:42",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:12:42",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:4",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:13:78": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p data-ft-part-idx=\"4-1\" style=\"text-align:center;color:#fff;\" class=\"text-white\">email: <a href=\"mailto:Lisa.Chandler@uss.salvationarmy.org\">Lisa.Chandler@uss.salvationarmy.org</a></span></p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p data-ft-part-idx=\"4-1\" style=\"text-align:center;color:#fff;\">email: <a href=\"mailto:Lisa.Chandler@uss.salvationarmy.org\">Lisa.Chandler@uss.salvationarmy.org</a></span></p>",
+												"model": "6",
+												"position": 1,
+												"fullName": "content:wysiwyg_basic:13:78",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:13:78",
+												"styles": {
+													"textAlign": "center"
+												},
+												"classes": "text-white",
+												"newLoc": "design:columns:5columns:15:96-1:5 Columns:4",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 4
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

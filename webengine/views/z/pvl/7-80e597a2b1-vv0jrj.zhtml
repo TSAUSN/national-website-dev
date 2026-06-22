@@ -1,0 +1,103 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-e4bfd0c7b6-sq7hqt')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:43:55">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:43:55-1:1 Column:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:1:46">"For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me," - Matthew 25:35</h5>
+<h5 style="text-align:center;" data-zesty-id="content:text:2:67">Food Box Donations</h5>
+<p data-zesty-id="content:textarea:3:69">
+	The Salvation Army of Greenville County meets people where they are, providing shelter, food, clothing vouchers, and rental and utility assistance to those who need it most.
+</p>
+<p data-zesty-id="content:textarea:4:50">
+	If you need assistance, The Salvation Army of Greenville's Administrative Office is open&nbsp;on the following days and times to assist with clothing vouchers, food boxes, rental, and utility assistance:
+</p>
+<p data-zesty-id="content:textarea:5:50">
+	Monday 9:00 AM - 2:00 PM
+</p>
+<p data-zesty-id="content:textarea:6:30">
+	Tuesday 9:00 AM – 2:00 PM
+</p>
+<p data-zesty-id="content:textarea:7:73">
+	Wednesday CLOSED
+</p>
+<p data-zesty-id="content:textarea:8:60">
+	Thursday 9:00 AM – 2:00 PM
+</p>
+<p data-zesty-id="content:textarea:9:19">
+	Friday 12:00 PM - 1:00 PM
+</p>
+<p data-zesty-id="content:wysiwyg_basic:10:12">
+	Should anyone need financial assistance, they may also submit an online application.&nbsp;<a href="https://southernusa.salvationarmy.org/greenvillesc/emergency-financial-assistance" target="">Click HERE</a>&nbsp;to access the financial assistance application.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:48"></div>
+<p data-zesty-id="content:textarea:13:52">
+	The Salvation Army of Greenville provides community meals on the following days:
+</p>
+<p data-zesty-id="content:textarea:14:23">
+	Tuesday 1:00 PM – 1:30 PM&nbsp;
+</p>
+<p data-zesty-id="content:textarea:15:87">
+	Thursday 1:00 PM – 1:30 PM&nbsp;
+</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:16:29"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:17:98">Help Us Feed Those Who Are Hungry in Greenville, SC</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:18:14">Each year, hundreds of families and individuals come to us hungry. We provide food boxes from our food warehouse for those unable to make ends meet. We also serve three meals a day to the men, women, and children staying in our Shelters. If someone is in need of food, we do not turn them away.&nbsp;</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:19:83"><strong>To continue providing this critical mission program in Greenville, we need donations of the following food items:</strong></p>
+<p data-zesty-id="content:textarea:20:9">
+	Ensure Drinks
+</p>
+<p data-zesty-id="content:textarea:21:68">
+	Gatorade
+</p>
+<p data-zesty-id="content:textarea:22:38">
+	Pop Top canned goods
+</p>
+<p data-zesty-id="content:textarea:23:36">
+	      Mixed Fruit cups
+</p>
+<p data-zesty-id="content:textarea:24:93">
+	      vegetables
+</p>
+<p data-zesty-id="content:textarea:25:43">
+	      fruit&nbsp;
+</p>
+<p data-zesty-id="content:textarea:26:45">
+	Rice
+</p>
+<p data-zesty-id="content:textarea:27:70">
+	Beans
+</p>
+<p data-zesty-id="content:textarea:28:9">
+	Crackers
+</p>
+<p data-zesty-id="content:textarea:29:20">
+	Juice Boxes
+</p>
+<p data-zesty-id="content:textarea:30:8">
+	Spam canned meat
+</p>
+<p data-zesty-id="content:textarea:31:83">
+	Vienna sausages
+</p>
+<p data-zesty-id="content:textarea:32:80">
+	We cannot accept expired food donations, or perishable items unless they are in bulk quantity to serve in the dining hall.&nbsp;
+</p>
+<p data-zesty-id="content:textarea:33:8">
+	You can also make a financial contribution designated specifically to help us purchase food to feed the hungry in our community. Please click the button below to make a gift to help those in need.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:34:70"></div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:35:83">
+	<span><a href="https://fundraise.givesmart.com/form/IY8DHQ?vid=16ikyy"><span class="btn btn-solid btn-blue">Donate Here</span></a></span>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:36:34"></div>
+<p data-zesty-id="content:textarea:37:46">
+	You can also make a financial contribution designated specifically to help us purchase food to feed the hungry in our community. You can also donate&nbsp;on our website, or via check or money order to The Salvation Army. Please deliver attention Taylor Young, Director of Social Services, or to Kelly Holzer, Dining Hall Manager.
+</p>
+<p data-zesty-id="content:textarea:38:17">
+	Food donations are accepted at our Dining Hall on our Shelter campus at 417 Rutherford St. in Greenville. Donations are accepted in person from 9 a.m. to 4 p.m., Monday - Friday.&nbsp;
+</p>
+<p data-zesty-id="content:textarea:39:31">
+	Thank you for supporting our mission to serve those in need in Greenville, SC!
+</p>
+		</div>
+	</div>
+</div>

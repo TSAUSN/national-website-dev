@@ -1,0 +1,114 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"design:columns:1 Column:7:39": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:7:39",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:7:39-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-md:1:72": {
+								"uid": "352",
+								"name": "Whitespace - Medium",
+								"type": "design",
+								"classes": "my-4",
+								"html": "<div class=\"my-4\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-md:1:72",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:7:39-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:images:1:58": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f588a291-a301-4a7b-9534-53bc6526115e_Sign+Large2+36x24.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/f588a291-a301-4a7b-9534-53bc6526115e_Sign+Large2+36x24.png",
+								"position": 1,
+								"fullName": "content:images:1:58",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:7:39-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:3:90": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 2,
+								"fullName": "design:design:whitespace-sm:3:90",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:7:39-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:4:8": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\r\n\tSponsors\r\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Sponsors",
+								"position": 3,
+								"fullName": "content:textarea:4:8",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:4:8",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:7:39-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

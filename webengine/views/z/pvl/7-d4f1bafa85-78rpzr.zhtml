@@ -1,0 +1,14 @@
+<div className={styles.pvlRoot}>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:13:53">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:13:53-1:1 Column:0">
+<div class="my-4" data-zesty-id="design:design:whitespace-md:1:41"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2695ce71-de90-46e0-b3f3-11ce36310000_2.png" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:1:76">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:3:33"></div>
+<div style="display:flex" class="row ratio ratio-16x9 d-flex" data-zesty-id="design:columns:1 Column:7:92">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:7:92-1:1 Column:0">
+<iframe src="https://www.youtube.com/embed/wTX_PWTxSHU" title="YouTube video player" allowfullscreen loading="lazy" class="w-100 h-100" data-zesty-id="content:embed:6:70"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

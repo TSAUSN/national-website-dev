@@ -1,0 +1,22 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-908ac2afc4-dl9s7g')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:14:18">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:14:18-1:1 Column:0">
+<h6 style="text-align:center;" data-zesty-id="content:text:2:64"><i class="icon icon-center-heart"></i><br>
+				Gift of Warmth</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:74">
+					Berico is kicking off the 2023/24 Gift of Warmth campaign. Together with Truist, WFMY TV, and Rent-A-Home, Berico have been able to assist over 1400 families through cold winter nights. All money raised is distributed through The Salvation Army, directly to the families who cannot afford to heat their homes. Berico is not just helping our own customers, but anyone who qualifies for the program.
+				</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:77"></div>
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:5:42"><i class="icon icon-snowflake"></i>How to Apply</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:6:43">Helping to provide heating assistance for those less fortunate in</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:7:4">Guilford, Alamance, Rockingham and Caswell counties since 2006.</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:8:35">Applications can be dropped off at:</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:9:74">1001 Freeman Mill Rd</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:10:90">Greensboro, NC 27406</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:11:89">
+				<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/48f09208-716e-4d0b-9fe4-2275f62668bc_GOW-Application-2023-2.pdf">Click to DownLoad Application</a>
+			</p>
+		</div>
+	</div>
+</div>

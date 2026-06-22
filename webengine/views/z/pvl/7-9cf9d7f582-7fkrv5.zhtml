@@ -1,0 +1,35 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-ecccb5a18f-ppjqpn')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:17:76">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:17:76-1:1 Column:0">
+<h5 style="text-align:center;" class="text-white" data-zesty-id="content:text:1:83"><strong>MATH &amp; READING AFTER-SCHOOL PROGRAM</strong></h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:14:37"></div>
+<div class="row my-3" data-zesty-id="design:columns:5columns:15:96">
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:5columns:15:96-1:5 Columns:0">
+<p style="text-align:center;" class="text-white" data-zesty-id="content:textarea:2:18">
+	<strong>(Program is offered to 1st - 8th grade students)</strong>
+</p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:5columns:15:96-1:5 Columns:1">
+<p data-ft-member-idx="1" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:3:12"><span><strong>TUTORING DAYS &amp; TIMES</strong></p>
+<p data-ft-part-idx="1-1" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:4:28">Tuesdays - Thursdays</p>
+<p data-ft-part-idx="1-2" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:5:28">3:30 pm - 6:00 pm</span></p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:5columns:15:96-1:5 Columns:2">
+<p data-ft-member-idx="2" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:6:66"><span><strong>ADDITIONAL SERVICES</strong></p>
+<p data-ft-part-idx="2-1" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:7:91">Monthly Science Fairs and Healthy Eating Workshops</p>
+<p data-ft-part-idx="2-2" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:8:35">Led by the USC MED Students</span></p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:5columns:15:96-1:5 Columns:3">
+<p data-ft-member-idx="3" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:9:14"><span><strong>LOCATION</strong></p>
+<p data-ft-part-idx="3-1" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:10:69">The Salvation Army of the Midlands</p>
+<p data-ft-part-idx="3-2" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:11:12">3024 Farrow Road, Columbia 29203</span></p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:5columns:15:96-1:5 Columns:4">
+<p data-ft-member-idx="4" style="text-align:center;" class="text-white" data-zesty-id="content:textarea:12:42"><span><strong>FOR ADDITIONAL INFORMATION</strong></p>
+<p data-ft-part-idx="4-1" style="text-align:center;color:#fff;" class="text-white" data-zesty-id="content:wysiwyg_basic:13:78">email: <a href="mailto:Lisa.Chandler@uss.salvationarmy.org">Lisa.Chandler@uss.salvationarmy.org</a></span></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

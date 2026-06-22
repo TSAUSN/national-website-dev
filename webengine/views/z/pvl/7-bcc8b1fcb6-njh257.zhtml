@@ -1,0 +1,161 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-fcc8d39bc4-s62z75')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:44:43">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:44:43-1:1 Column:0">
+<div style="background-color:#ED1C2B;color:#FFFFFF;padding:40px;" data-zesty-id="content:wysiwyg_basic:2:6"><h1 style="text-align: center;">2025 Annual Report</h1>
+
+<p style="text-align: center;">
+	<span style="font-size:20px;">Greater Hickory and the High Country</span>
+</p></div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:3:14"></div>
+<p data-zesty-id="content:textarea:4:47">"For you shall go out in joy and be led forth in peace; the mountains and the hills before you shall break forth into singing, and all the trees of the field shall clap their hands.”</p>
+<p data-zesty-id="content:textarea:5:49">&nbsp;- Isaiah 55:12</p>
+<p data-zesty-id="content:textarea:6:39">
+	Dear Friends,&nbsp;
+</p>
+<p data-zesty-id="content:textarea:7:11">
+	These words from the prophet Isaiah capture the heart of what we witness every day in The Salvation Army’s ministry. When a family finds shelter from the storm, when a disaster survivor finds hope, when a child receives a warm meal, we witness the joy Isaiah described.&nbsp;
+</p>
+<p data-zesty-id="content:textarea:8:93">
+	This past year, your generosity has enabled us to go out in joy and serve.&nbsp; You have helped us lead people forth in peace, offering material assistance wrapped in dignity, hope, and compassion. Your support has transformed despair into joy, filling empty hands and inspiring hope.&nbsp;
+</p>
+<p data-zesty-id="content:textarea:9:9">
+	As we reflect on another year of service, our hearts overflow with gratitude for your faithful support. Together, we continue to be instruments of God’s peace and bearers of His joy to a world that desperately needs both.&nbsp;
+</p>
+<p data-zesty-id="content:textarea:10:17">
+	With deepest gratitude and blessings,
+</p>
+<p data-zesty-id="content:textarea:11:70">
+	Majors Enrique and Karla Perez
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:12:78"><strong>16,260<br>
+	PERSONS SERVED</strong><br>&nbsp;</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:13:41"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:18:52">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:18:52-1:2 Columns - Equal:0">
+<div class="row my-3" data-zesty-id="design:columns:2columns:19:5">
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:19:5-1:2 Columns - Equal:0">
+<p style="text-align:center;" data-zesty-id="content:textarea:14:91"><strong>30,451<br>
+					TOYS AND<br>
+					GIFTS GIVEN</strong><br>&nbsp;</p>
+						</div>
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:19:5-1:2 Columns - Equal:1">
+<p style="text-align:center;" data-zesty-id="content:textarea:15:29"><strong>77,506<br>
+					MEALS AND FOOD<br>
+					BOXES PROVIDED</strong><br>&nbsp;</p>
+						</div>
+					</div>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:18:52-1:2 Columns - Equal:1">
+<div class="row my-3" data-zesty-id="design:columns:2columns:20:44">
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:20:44-1:2 Columns - Equal:0">
+<p style="text-align:center;" data-zesty-id="content:textarea:16:62"><strong>24,445<br>
+					NIGHTS<br>
+					OF SHELTER</strong><br>&nbsp;</p>
+						</div>
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:20:44-1:2 Columns - Equal:1">
+<p style="text-align:center;" data-zesty-id="content:textarea:17:62"><strong>29,234<br>
+					CLOTHING<br>
+					ITEMS</strong><br>&nbsp;</p>
+						</div>
+					</div>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:21:8"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/c5e854b2-b2d9-4b51-8e9e-1162c96251c8_camp-youth3-symphony.jpg" alt="Theater Image" class="filter filter-none img-fluid" style="display:block;max-width:100%;height:auto;margin:1rem auto;" loading="lazy" data-zesty-id="content:wysiwyg_basic:22:0">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:23:34"></div>
+<hr data-zesty-id="design:design:horizontalrule:25:62">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:26:64"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:27:39">Financial Information</h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:29:63"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:2columns:32:80">
+<div class="col-lg-6 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:2columns:32:80-1:2 Columns - Equal:0">
+<p data-zesty-id="content:wysiwyg_basic:28:15">
+	<span><span>GOVERNMENT &amp; FUNDING AGENCIES</span><br>
+	<strong>$69,047</strong></span>
+</p>
+
+<p>
+	<span><span>SPECIAL EVENTS &amp; OTHER REVENUE</span><br>
+	<strong>$683,751&nbsp;</strong></span>
+</p>
+
+<p>
+	<span><span>THRIFT&nbsp;STORE</span><br>
+	<strong>$3,027,420</strong></span>
+</p>
+
+<p>
+	<span><span>DONATIONS</span><br>
+	<strong>$2,074,380&nbsp;</strong></span>
+</p>
+
+<p>
+	&nbsp;
+</p>
+
+<p>
+	<span style="color:#005788;"></span>
+</p>
+
+<p>
+	<span style="color:#005788;"></span>
+</p>
+
+<hr>
+<p>
+	<span style="color:#005788;"></span>
+</p>
+
+<p>
+	&nbsp;
+</p>
+
+<p>
+	<span><span>TOTAL REVENUE</span><br>
+	<strong>$5,854,598</strong></span>
+</p>
+				</div>
+<div class="col-lg-6 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:2columns:32:80-1:2 Columns - Equal:1">
+<p data-zesty-id="content:wysiwyg_basic:30:76">
+	<span><span>CORPS COMMUNITY CENTER</span><br>
+	<strong>$652,555</strong></span>
+</p>
+
+<p>
+	<span><span>MANAGEMENT &amp; GENERAL</span><br>
+	<strong>$265,206</strong></span>
+</p>
+
+<p>
+	<span><span>SOCIAL SERVICES</span><br>
+	<strong>$4,540,923&nbsp;</strong></span>
+</p>
+
+<p>
+	<span><span>FUNDRAISING</span><br>
+	<strong>$213,817&nbsp;</strong></span>
+</p>
+
+<p>
+	&nbsp;
+</p>
+
+<hr>
+<p>
+	&nbsp;
+</p>
+
+<p>
+	<span><span>TOTAL EXPENSES</span><br>
+	<strong>$5,672,501</strong></span>
+</p>
+				</div>
+			</div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:33:80">
+	<img class="img-fluid d-block mx-auto" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2c8f3105-3055-47b9-b3ba-f3d232a8a015_uw-color-logo+copy.jpg" style="width:111px;height:47px;"><br>
+	Supported in part by the United Way
+</p>
+		</div>
+	</div>
+</div>

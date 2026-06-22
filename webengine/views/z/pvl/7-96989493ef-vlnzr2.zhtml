@@ -1,0 +1,42 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-be82edeca9-gvz588')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:23:99">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:23:99-1:1 Column:0">
+<h6 data-zesty-id="content:text:1:16">The Salvation Army Honor Cards</h6>
+<p data-zesty-id="content:textarea:2:22"><strong>Honor Someone You Love.&nbsp; Help Someone In Need.</strong></p>
+<p data-zesty-id="content:textarea:3:14">This Christmas season, you can give a gift that warms more than one heart.</p>
+<p data-zesty-id="content:textarea:4:75">
+	When you purchase a <strong>Salvation Army Honor Card</strong>, you’re not only celebrating someone special—you’re helping provide <strong>food, shelter, and care</strong> for neighbors in need right here in Greater Winston-Salem.
+</p>
+<p data-zesty-id="content:textarea:5:32">
+	Each <strong>hand-painted greeting card</strong> is created by a local artist and printed as a beautiful 7" × 5" folded Christmas card with a heartfelt message inside. It’s a simple yet meaningful way to share hope and love during the Christmas season.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:6:35"></div>
+<p data-zesty-id="content:textarea:7:23">
+	<b>How It Works</b>
+</p>
+<ol data-zesty-id="content:wysiwyg_basic:8:76">
+	<li><strong>Download and complete the order form </strong>below.</li>
+	<li>Email your form to:&nbsp;catherine.snipes@uss.salvationarmy.org</li>
+</ol>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:52"></div>
+<p data-zesty-id="content:textarea:10:9">
+	&nbsp; &nbsp; &nbsp; or mail it to:
+</p>
+<p data-zesty-id="content:textarea:11:14"><strong>&nbsp; &nbsp; &nbsp;The Salvation Army of Greater Winston-Salem</strong></p>
+<p data-zesty-id="content:textarea:12:59">&nbsp; &nbsp; &nbsp;PO Box 1205</p>
+<p data-zesty-id="content:textarea:13:8">&nbsp; &nbsp; &nbsp;Winston-Salem, NC 27102</p>
+<p data-zesty-id="content:textarea:14:5">&nbsp; &nbsp; &nbsp;3. We’ll take care of the rest—sending your Honor Cards to you or directly to your recipients.</p>
+<p data-zesty-id="content:textarea:15:36"><strong>Suggested Donation: $10 per card</strong></p>
+<p data-zesty-id="content:textarea:16:30">
+	Every card helps bring comfort, meals, and shelter to struggling families in our community.
+</p>
+<p data-zesty-id="content:textarea:17:0"><strong>Questions?</strong></p>
+<p data-zesty-id="content:wysiwyg_basic:18:35">Contact <strong>Cathy Snipes</strong> at <a href="mailto:catherine.snipes@uss.salvationarmy.org">catherine.snipes@uss.salvationarmy.org</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:19:36"></div>
+<p data-zesty-id="content:wysiwyg_basic:20:62">
+	<span style="color:#ffffff;"><span class="btn btn-solid btn-red"><strong><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/10d5f235-6982-48ca-ae81-5cac99b46ace_Christmas+Honor+Card+Order+Form.pdf">Download Honor Card Order Form</a></strong></span></span>
+</p>
+		</div>
+	</div>
+</div>

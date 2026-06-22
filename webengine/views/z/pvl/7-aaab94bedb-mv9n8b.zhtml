@@ -1,0 +1,59 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-bc9d98baf6-q7872n')}}
+	<h5 style="text-align:center;">How We Help</h5>
+	<p>
+	Every day, The Salvation Army Greater Birmingham Area Command restores hope to our neighbors in Central Alabama by offering programs and&nbsp;services to the most vulnerable members of our community. The Salvation Army provides services to every ZIP code in the United States.&nbsp;Find your nearest location&nbsp;to discover local programming.
+</p>
+	<div class="my-2"></div>
+	<div class="row g-3 my-3">
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="card-background-content" style="background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/ad281bec-ceee-455a-8844-7a29d22f9458_Blue+BG.png');background-size:cover;background-position:center;background-repeat:no-repeat;padding:20px;border-radius:8px;"><div class="card-background-overlay" style="padding:20px;border-radius:8px;"><h6 class="greyBoxes-title"><i class="icon icon-snowflake"></i>Christmas Assistance</h6>
+
+<p style="color:#fff">
+	The Salvation Army recognizes that holidays can bring added financial and emotional stress for families in need. We offer a variety of services to help families and individuals make it through more difficult holiday seasons.&nbsp;
+</p>
+
+<p style="color:#fff">
+	<a href="https://migration.salvationarmy.org/birmingham-al/brighten-the-holidays" target="">Learn More Here</a>
+</p></div></div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="card-background-content" style="background-image: url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/ad281bec-ceee-455a-8844-7a29d22f9458_Blue+BG.png'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; border-radius: 8px;">
+<div class="card-background-overlay" style="padding: 20px; border-radius: 8px;">
+<h6 class="greyBoxes-title"><i class="icon icon-shelter"></i>Helping the Homeless</h6>
+<p style="color: #fff;">At The Salvation Army, we have an open-door policy when it comes to those needing help with housing - whether they need a place to rest their head inside our doors or need help finding a way to stay in their own home. All are welcome, and every night, we help thousands of men, women, youth, and children sleep safely and dream of a better tomorrow. </p>
+<p style="color: #fff;"><a href="https://migration.salvationarmy.org/birmingham-al/provide-housing" target="">Learn More Here</a></p>
+</div>
+</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="card-background-content" style="background-image: url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/ad281bec-ceee-455a-8844-7a29d22f9458_Blue+BG.png'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 20px; border-radius: 8px;">
+<div class="card-background-overlay" style="padding: 20px; border-radius: 8px;">
+<h6 class="greyBoxes-title"><i class="icon icon-disaster"></i>Help Disaster Survivors</h6>
+<p style="color: #fff;">When disaster strikes, The Salvation Army responds quickly, mobilizing its officers, employees, and volunteers wherever needed to immediately and effectively provide emergency services to victims and emergency responders.</p>
+<p style="color: #fff;"><a href="https://migration.salvationarmy.org/birmingham-al/help-disaster-survivors" target="">Learn More Here</a></p>
+</div>
+</div>
+		</div>
+	</div>
+	<div class="row my-3">
+		<div class="col-lg-6 col-md-6 col-sm-12">
+			<h5 style="text-align:center;"><br>
+<br>
+Doing the Most Good</h5>
+			<p style="text-align:center;"><em>“Your days at the most cannot be very long,&nbsp;so use them to the best of your ability&nbsp;for the glory of God and the benefit of your generation.”</em></p>
+			<p style="text-align:center;"><strong>- General William Booth, Founder</strong></p>
+		</div>
+		<div class="col-lg-6 col-md-6 col-sm-12">
+			<iframe src="https://www.youtube.com/embed/DTqLLyFT6UU" style="border:0;" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" class="w-100 h-100"></iframe>
+		</div>
+	</div>
+	<div class="my-2"></div>
+	<h5 style="text-align:center;">Spread love in Central Alabama</h5>
+	<p style="text-align:center;">
+	Together, we can bring hope, relief, and a brighter future to our neighbors in Central Alabama.
+</p>
+	<p style="text-align:center;">
+	<a href="https://give.salvationarmyalm.org/give/373751/#!/donation/checkout?c_src=WebsiteUSS&amp;c_src2=BirminghamPageDonateButton2"><span class="btn btn-solid btn-red">Stand with us</span></a>
+</p>
+</div>

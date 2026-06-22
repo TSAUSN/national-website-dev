@@ -1,0 +1,254 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"design:columns:1 Column:18:92": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:18:92",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:18:92-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:1:23": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"position:relative;overflow:hidden;min-height:420px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/46438875-d074-4c91-90fd-063ab3db5dc0_testimonial-1.jpg');background-position:center center;background-repeat:no-repeat;background-size:cover;\" class=\"testimonialbox-section text-white rounded\">\n  <div class=\"bg-photo-overlay bg-opacity-60\" style=\"position:absolute;inset:0;z-index:1;\"></div>\n  <div style=\"position:relative;z-index:2;display:flex;align-items:center;justify-content:center;min-height:420px;padding:48px 40px;\">\n    <div style=\"max-width:720px;text-align:center;\">\n      <h6 style=\"text-align:center;\">Fresh &amp; Clean Program</h6>\n      <p style=\"text-align:center;color:#fff;\">At The Salvation Army, we believe that every individual deserves the opportunity to maintain their dignity and well-being, regardless of their circumstances. Our Fresh and Clean Program is a testament to this belief, offering a lifeline to those in need within our community.</p>\n    </div>\n  </div>\n</div>\n<div class=\"py-5\"></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"testimonialbox-section text-white rounded\" style=\"position:relative;overflow:hidden;min-height:420px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/46438875-d074-4c91-90fd-063ab3db5dc0_testimonial-1.jpg');background-position:center center;background-repeat:no-repeat;background-size:cover;\">\n  <div class=\"bg-photo-overlay bg-opacity-60\" style=\"position:absolute;inset:0;z-index:1;\"></div>\n  <div style=\"position:relative;z-index:2;display:flex;align-items:center;justify-content:center;min-height:420px;padding:48px 40px;\">\n    <div style=\"max-width:720px;text-align:center;\">\n      <h6 style=\"text-align:center;\">Fresh &amp; Clean Program</h6>\n      <p style=\"text-align:center;color:#fff;\">At The Salvation Army, we believe that every individual deserves the opportunity to maintain their dignity and well-being, regardless of their circumstances. Our Fresh and Clean Program is a testament to this belief, offering a lifeline to those in need within our community.</p>\n    </div>\n  </div>\n</div>\n<div class=\"py-5\"></div>",
+								"model": "6",
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:1:23",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:1:23",
+								"styles": {
+									"position": "relative",
+									"overflow": "hidden",
+									"minHeight": "420px",
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/46438875-d074-4c91-90fd-063ab3db5dc0_testimonial-1.jpg')",
+									"backgroundPosition": "center center",
+									"backgroundRepeat": "no-repeat",
+									"backgroundSize": "cover"
+								},
+								"classes": "testimonialbox-section text-white rounded",
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:2:29": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:2:29",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:3:72": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">Write 2-3 sentences about the greatest need at your local unit. Try using both emotion and logic to persuade a potential donor.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Write 2-3 sentences about the greatest need at your local unit. Try using both emotion and logic to persuade a potential donor.",
+								"position": 2,
+								"fullName": "content:textarea:3:72",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:3:72",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:4:28": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">Make sure you work with divisional web staff to set up a donation form to honor donor intent.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Make sure you work with divisional web staff to set up a donation form to honor donor intent.",
+								"position": 3,
+								"fullName": "content:textarea:4:28",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:4:28",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:text:5:36": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\">Donate now to the Fresh &amp; Clean Program.</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Donate now to the Fresh &amp; Clean Program.",
+								"position": 4,
+								"fullName": "content:text:5:36",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:5:36",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:6:59": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmyusa.org/give/164006/#!/donation/checkout?amount=\" class=\"btn btn-primary gap-1 mt-2\">Donate</a></p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmyusa.org/give/164006/#!/donation/checkout?amount=\" class=\"btn btn-primary gap-1 mt-2\">Donate</a></p>",
+								"model": "6",
+								"position": 5,
+								"fullName": "content:wysiwyg_basic:6:59",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:6:59",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:7:44": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 6,
+								"fullName": "design:design:whitespace-sm:7:44",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-xl:8:52": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 7,
+								"fullName": "design:design:whitespace-xl:8:52",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:9:15": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div class=\"rounded p-6 gap-3 bg-dark-50 text-light\" style=\"color:#FFFFFF;\"><p>\n\t<strong>Shower Facilities:</strong> Our well-maintained&nbsp;shower facilities are available to all who need them, offering a refreshing and rejuvenating experience. Cleanliness is not just a luxury but a necessity, and we are here to ensure that it's within everyone's reach.\n</p>\n\n<p>\n\t<strong>Laundry Services</strong>: In addition to showers, we provide laundry services, where our dedicated volunteers wash, dry, and fold your clothes. We understand that laundry can be a challenging task for those without access to facilities, and we're here to alleviate that burden.\n</p>\n\n<p>\n\t<strong>Compassionate Volunteers</strong>: Our program is entirely volunteer-run, with dedicated individuals who believe in the power of kindness and compassion. These selfless volunteers make it their mission to provide assistance without judgment, offering a listening ear and a helping hand to those who visit us.\n</p>\n\n<p>\n\t<strong>Our Belief</strong>: We understand that life can take unexpected turns, and no one should be defined by their current situation. Our program is built on the belief that every person has inherent worth, and a little support can go a long way in helping them regain their footing.\n</p>\n\n<p>\n\t<strong>Get Involved</strong>: We welcome individuals, businesses, and organizations to join us in this meaningful endeavor. Whether you can spare your time, resources, or expertise, your contribution can make a significant difference in the lives of those we serve.\n</p>\n\n<p>\n\tYou never know a person's situation, but you can always offer a helping hand. Join us at The Salvation Army's Fresh and Clean Program in making a positive impact, one shower at a time.\n</p></div>",
+								"content": "<div class=\"rounded p-6 gap-3 bg-dark-50 text-light\" style=\"color:#FFFFFF;\"><p>\n\t<strong>Shower Facilities:</strong> Our well-maintained&nbsp;shower facilities are available to all who need them, offering a refreshing and rejuvenating experience. Cleanliness is not just a luxury but a necessity, and we are here to ensure that it's within everyone's reach.\n</p>\n\n<p>\n\t<strong>Laundry Services</strong>: In addition to showers, we provide laundry services, where our dedicated volunteers wash, dry, and fold your clothes. We understand that laundry can be a challenging task for those without access to facilities, and we're here to alleviate that burden.\n</p>\n\n<p>\n\t<strong>Compassionate Volunteers</strong>: Our program is entirely volunteer-run, with dedicated individuals who believe in the power of kindness and compassion. These selfless volunteers make it their mission to provide assistance without judgment, offering a listening ear and a helping hand to those who visit us.\n</p>\n\n<p>\n\t<strong>Our Belief</strong>: We understand that life can take unexpected turns, and no one should be defined by their current situation. Our program is built on the belief that every person has inherent worth, and a little support can go a long way in helping them regain their footing.\n</p>\n\n<p>\n\t<strong>Get Involved</strong>: We welcome individuals, businesses, and organizations to join us in this meaningful endeavor. Whether you can spare your time, resources, or expertise, your contribution can make a significant difference in the lives of those we serve.\n</p>\n\n<p>\n\tYou never know a person's situation, but you can always offer a helping hand. Join us at The Salvation Army's Fresh and Clean Program in making a positive impact, one shower at a time.\n</p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 8,
+								"fullName": "content:wysiwyg_basic:9:15",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:9:15",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:10:80": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 9,
+								"fullName": "design:design:whitespace-xl:10:80",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:18:92-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			},
+			"content:block:6-caf0f4baac-ctljlz:1:34": {
+				"html": "<div>{{block('/-/block/general_accordion.html?variant=7-dca587cfa9-sph7p5')}}</div>",
+				"content": "{{block('/-/block/general_accordion.html?variant=7-dca587cfa9-sph7p5')}}",
+				"model": "6-caf0f4baac-ctljlz",
+				"name": "General Accordion",
+				"position": 1,
+				"fullName": "content:block:6-caf0f4baac-ctljlz:1:34",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"id": "content:block:6-caf0f4baac-ctljlz:1:34",
+				"styles": {},
+				"contentOverride": false
+			}
+		}
+	}
+}

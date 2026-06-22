@@ -1,0 +1,20 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-92d2f2ffce-4sqsl3')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:9:85">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:9:85-1:1 Column:0">
+<p data-zesty-id="content:textarea:1:39">
+	<span><span>Presented by SC Attorney General Alan Wilson on July 15, 2025! The Order of the Palmetto, South Carolina’s highest civilian honor, is awarded by the governor of South Carolina to citizens who demonstrate extraordinary lifetime achievement, service and contributions of national or statewide significance. Honorees embody leadership, integrity, and an unwavering commitment to improving the lives of those in South Carolina.</span></span>
+</p>
+<p data-zesty-id="content:textarea:2:86">
+	<span><span>The award recognized JT's philanthropic efforts across South Carolina for decades. In addition to being a member of our board, JT is also on the board for the Boy Scouts of America and is a past president of his Rotary club. JT Auto's employees also volunteer their time on behalf of the Army. JT is an active member of his church and does good works through their ministry as well. He is a prominent Columbia businessman and community leader known for his heart for those less fortunate.</span></span>
+</p>
+<p data-zesty-id="content:textarea:3:38">
+	<span><span>We are honored to have someone with a dedication to selfless service and community involvement on our board.&nbsp;Congratulations, JT!</span></span>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:59"></div>
+<p data-zesty-id="content:textarea:5:32">
+					Order of the Palmetto Award
+				</p>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,181 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-eaa7a3f891-mcltz3')}}
+	<div style="background-color:;display:flex;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:105:97">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:105:97-1:1 Column:0">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:102:73"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:1:1">Who we are</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:2:19">
+	The Salvation Army Red Shield Youth Centers&nbsp;of Tulsa Metropolitan&nbsp;area provide a safe and nurturing environment for young people to succeed academically, develop good character and leadership skills, engage in healthy activities, and find spiritual guidance. These clubs offer programs such as tutoring, sports, arts, and character-building activities to encourage personal growth.
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:63">
+	Through a holistic approach that incorporates faith-based values, the clubs help young people find purpose and meaning in their lives, and offer love and acceptance to all. The goal is to help kids and adults build better futures, whether through academic achievement, athletic success, artistic expression, or personal growth.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:4:54"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/5cb966d1-6fde-45e6-b62a-6fa2b056521e_Screen+Shot+2023-05-15+at+8.33.13+AM.png" alt="placeholder" class="img-fluid d-block m-auto my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:4:94">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:6:83"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:7:54">Our Programs</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:8:94">
+	The Salvation Army Red Shield Youth Centers offers a range of programs for youth, including seasonal camps, sports such as volleyball and flag football, swimming lessons, and after-school programs. These programs provide a safe and fun environment where children can learn new skills, make friends, and build confidence and self-esteem. The camps and sports programs teach important life skills like teamwork and sportsmanship, while the after-school programs promote academic success and personal development.
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:9:23">
+	If you're interested in learning more about the&nbsp;Red Shield Youth Centers and the programs we offer, contact the Youth Center nearest to you&nbsp;to get more information about specific programs, schedules, and availability.
+</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:10:29"></div>
+<div style="text-align:center;" data-zesty-id="content:wysiwyg_basic:11:35"><a href="https://southernusa.salvationarmy.org/tulsa-area-command/red-shield-youth-centers-of-tulsa" target="_blank" style="text-align:center;"><span class="btn btn-solid btn-red">Find A Location Near You</span></a></div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:12:11"></div>
+<div class="ministries-grid" data-zesty-id="content:wysiwyg_basic:14:67"><div class="row"><div class="col-lg-4 col-md-4 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/02c6a888-31c1-47b4-99ec-41f7eac5ec54_kidsweb2.jpg" alt="After School Program" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>After School Program</h6><p>The Red Shield Youth Centers provide a safe and nurturing environment for kids who need a place to land after school.</p><p><a href="https://southernusa.salvationarmy.org/tulsa-area-command/after-school-program" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div><div class="col-lg-4 col-md-4 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a574a350-e0e0-437c-96c6-ce4a168aa6d6_ministryGrid-teachKids.jpg" alt="Summer Day Camp" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>Summer Day Camp</h6><p>When the school year ends, many parents rely on the Red Shield Youth Centers to provide the care and supervision throughout the work week.</p><p><a href="https://southernusa.salvationarmy.org/tulsa-area-command/summer-day-camp" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div><div class="col-lg-4 col-md-4 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/7a338585-f03b-458c-8825-8888c520ecbc_Camp.jpg" alt="Heart O Hills (Overnight Camp)" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>Heart O Hills (Overnight Camp)</h6><p>Located just outside of Tahlequah, Oklahoma, Camp Heart O Hills provides the camping adventure of a lifetime.</p><p><a href="http://www.campheartohills.com" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div></div><div class="row"><div class="col-lg-4 col-md-4 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/815186be-9957-487f-b2ca-f5823a0144a4_basketball.jpg" alt="Youth Basketball" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>Youth Basketball</h6><p>The Red Shield Youth Center hosts youth basketball leagues for children of all ages.</p><p><a href="https://southernusa.salvationarmy.org/tulsa-area-command/youth-basketball" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div><div class="col-lg-4 col-md-4 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/b03a1f64-e472-4fa8-b4ac-783425804e0c_volley.jpg" alt="Youth Girl's Volleyball" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>Youth Girl's Volleyball</h6><p>Youth Girl's Volleyball leagues are available at the Red Shield Youth Centers, encouraging a spirit of competition in a safe setting.</p><p><a href="https://southernusa.salvationarmy.org/tulsa-area-command/youth-girls-volleyball" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div><div class="col-lg-4 col-md-4 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/35dc438b-1fa8-4da8-9716-80a2606a637c_foot.jpg" alt="Youth Flag Football" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>Youth Flag Football</h6><p>Competitive Youth Flag Football leagues are a great option for kids who are looking to keep active throughout the year.</p><p><a href="https://southernusa.salvationarmy.org/tulsa-area-command/youth-flag-football" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div></div><div class="row"><div class="col-lg-6 col-md-6 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/f3f983f3-17c8-4fe2-82d9-ca236c985bbf_swim.jpg" alt="Youth Swimming Programs" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>Youth Swimming Programs</h6><p>From open swimming sessions, to group swim lessons, the Red Shield Youth Center is a great place to cool off in the summer.</p><p><a href="https://southernusa.salvationarmy.org/tulsa-area-command/youth-swimming-programs" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div><div class="col-lg-6 col-md-6 col-sm-12"><div class="ministries-card"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/d0ca3051-d142-42b2-8ab3-04521c386177_aerobic.jpg" alt="Adult Water Aerobics" class="img-fluid d-block mx-auto w-100 mb-2" loading="lazy"><h6>Adult Water Aerobics</h6><p>For adults looking for a fun way to remain active and stay fit, the Red Shield Youth Center facility offers Adult Water Aerobics.</p><p><a href="https://southernusa.salvationarmy.org/tulsa-area-command/adult-water-aerobics" target="_blank"><span class="btn btn-solid btn-red">Learn More</span></a></p></div></div></div></div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:80"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:17:73">Our Programs</h6>
+<div class="row my-3" data-zesty-id="design:columns:2columns:24:4">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:24:4-1:2 Columns - Equal:0">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:18:14"><i class="icon icon-homework"></i> Homework Assistance and Counseling</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:19:40">
+							The Salvation Army Red Shield Youth Centers serve children and youth of all ages, up to 18 years old. We provide one-on-one assistance with homework and school assignments, as well as the teaching and advancement of literacy and study skills.
+						</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:20:69">
+							Many of our facilities also include computer labs to help children with their homework.&nbsp;
+						</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:24:4-1:2 Columns - Equal:1">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:21:41"><i class="icon icon-kid-ball"></i> Sports, Clubs, and Extracurricular Activities</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:22:22">
+							Healthy minds and healthy bodies are both crucial elements of youth development. Our low-cost programs offer children from low-income neighborhoods a chance to play sports, learn athletic skills, and cultivate healthy, safe relationships with friends through better social skills.
+						</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:23:65">
+							These programs go far beyond athletics.&nbsp;At our clubs we off STEM programs, giving students a chance to learn in an engaging, interesting way.
+						</p>
+				</div>
+			</div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:29:48">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:29:48-1:2 Columns - Equal:0">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:25:92"><i class="icon icon-paint"></i>&nbsp;Art&nbsp;and Music Programs</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:26:66">
+							Our youth community programs enable children to experience music and art education in positive, safe&nbsp;environments. Our wide array of classes focuses on everything from choir, band, and dancing to drawing, photography, writing, and acting.
+						</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:29:48-1:2 Columns - Equal:1">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:27:49"><i class="icon icon-family"></i> Spiritual Mentorship</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:28:80">
+							Each Red Shield Youth Center is dedicated to helping students discover their own relationship with God. From devotionals and chapel services, to having mentors at the Youth Center&nbsp;passionate about helping people on their journey.&nbsp;
+						</p>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:30:6"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:31:71">Our Programs</h6>
+<div class="row my-3" data-zesty-id="design:columns:2columns:38:61">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:38:61-1:2 Columns - Equal:0">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:32:58"><i class="icon icon-homework"></i> Homework Assistance and Counseling</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:33:8">
+							The Salvation Army Red Shield Youth Centers serve children and youth of all ages, up to 18 years old. We provide one-on-one assistance with homework and school assignments, as well as the teaching and advancement of literacy and study skills.
+						</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:34:16">
+							Many of our facilities also include computer labs to help children with their homework.&nbsp;
+						</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:38:61-1:2 Columns - Equal:1">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:35:80"><i class="icon icon-kid-ball"></i> Sports, Clubs, and Extracurricular Activities</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:36:4">
+							Healthy minds and healthy bodies are both crucial elements of youth development. Our low-cost programs offer children from low-income neighborhoods a chance to play sports, learn athletic skills, and cultivate healthy, safe relationships with friends through better social skills.
+						</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:37:43">
+							These programs go far beyond athletics.&nbsp;At our clubs we off STEM programs, giving students a chance to learn in an engaging, interesting way.
+						</p>
+				</div>
+			</div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:43:63">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:43:63-1:2 Columns - Equal:0">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:39:86"><i class="icon icon-paint"></i>&nbsp;Art&nbsp;and Music Programs</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:40:61">
+							Our youth community programs enable children to experience music and art education in positive, safe&nbsp;environments. Our wide array of classes focuses on everything from choir, band, and dancing to drawing, photography, writing, and acting.
+						</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:43:63-1:2 Columns - Equal:1">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:41:70"><i class="icon icon-family"></i> Spiritual Mentorship</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:42:6">
+							Each Red Shield Youth Center is dedicated to helping students discover their own relationship with God. From devotionals and chapel services, to having mentors at the Youth Center&nbsp;passionate about helping people on their journey.&nbsp;
+						</p>
+				</div>
+			</div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/18cab063-7017-4861-a412-1fc5e4834a00_IMG_8794.JPG" alt="Theater Image" class="filter filter-none img-fluid w-100" style="display:block;max-width:100%;height:auto;margin:1rem auto;" loading="lazy" data-zesty-id="content:wysiwyg_basic:44:8">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:45:86"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:46:29">Our Locations</h6>
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:47:33"><b>CREEK COUNTY/SAPULPA UNIT:</b></h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:48:95">
+			1721 South Hickory, Sapulpa, OK
+		</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:49:3">
+			<a href="tel:9182244415">918.224.4415</a> |&nbsp;<a href="mailto:sapulpabgc@uss.salvationarmy.org">sapulpabgc@uss.salvationarmy.org</a>&nbsp;
+		</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:50:65"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:51:64">
+			Unit Director: Mallory Parker
+		</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:52:4"></div>
+<div style="text-align:center;" data-zesty-id="content:wysiwyg_basic:53:0"><a href="https://southernusa.salvationarmy.org/tulsa-area-command/creek-county-red-shield-youth-center" target="_blank" style="text-align:center;"><span class="btn btn-solid btn-red">More Information</span></a></div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:54:1"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:69:36">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:69:36-1:2 Columns - Equal:0">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:55:83"><b>MABEE RED SHIELD UNIT</b></h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:56:78">
+			1231 North Harvard, Tulsa, OK
+		</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:57:30">
+			<a href="tel:9188342464">918.834.2464</a> |&nbsp;<a href="mailto:mabeeredshieldbgc@uss.salvationarmy.org">mabeeredshieldbgc@uss.salvationarmy.org</a>&nbsp;
+		</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:59:19">
+			Unit Director: Jamar Giddings
+		</p>
+<div style="text-align:center;" data-zesty-id="content:wysiwyg_basic:60:88"><a href="https://southernusa.salvationarmy.org/tulsa-area-command/mabee-red-shield-youth-center" target="_blank" style="text-align:center;"><span class="btn btn-solid btn-red">More Information</span></a></div>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:69:36-1:2 Columns - Equal:1">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:62:86">NORTH MABEE UNIT</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:63:57">
+			3001 North Martin Luther King Jr. Blvd, Tulsa, OK&nbsp;
+		</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:64:38">
+			<a href="tel:9184257534">918.425.7534</a> |&nbsp;<a href="mailto:northmabeebgc@uss.salvationarmy.org">northmabeebgc@uss.salvationarmy.org</a>&nbsp;
+		</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:66:5">
+			Unit Director: Latrice Fowlkes
+		</p>
+<div style="text-align:center;" data-zesty-id="content:wysiwyg_basic:67:35"><a href="https://southernusa.salvationarmy.org/tulsa-area-command/north-mabee-red-shield-youth-center" target="_blank" style="text-align:center;"><span class="btn btn-solid btn-red">More Information</span></a></div>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:73:98"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:84:31">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:84:31-1:2 Columns - Equal:0">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:70:87">SAND SPRINGS UNIT</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:71:35">
+			4403 South 129 West Ave. Sand Springs, OK
+		</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:72:67">
+			<a href="tel:9182452237">918.245.2237</a> |&nbsp;<a href="mailto:sandspringsbgc@uss.salvationarmy.org">sandspringsbgc@uss.salvationarmy.org</a>
+		</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:74:98">
+			Unit Director:&nbsp;Mary Bechtold
+		</p>
+<div style="text-align:center;" data-zesty-id="content:wysiwyg_basic:75:86"><a href="https://southernusa.salvationarmy.org/tulsa-area-command/sand-springs-red-shield-youth-center" target="_blank" style="text-align:center;"><span class="btn btn-solid btn-red">More Information</span></a></div>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:84:31-1:2 Columns - Equal:1">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:77:7">ADMINISTRATIVE OFFICES</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:78:26">
+			1231 N. Harvard Ave. Tulsa, OK
+		</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:79:83">
+			<a href="tel:9188356902">918.835.6902</a> |&nbsp;<a href="mailto:MetroTulsaBGC@uss.salvationarmy.org">MetroTulsaBGC@uss.salvationarmy.org</a>
+		</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:81:22">
+			Executive Director: Jake Law
+		</p>
+<div style="text-align:center;" data-zesty-id="content:wysiwyg_basic:82:99"><a href="https://www.salarmytulsa.org" target="_blank" style="text-align:center;"><span class="btn btn-solid btn-red">More Information</span></a></div>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:85:66"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/0b4beeae-9ab7-4614-9876-873bacdd07ce_girls+smiling+and+hugging+2.jpg" alt="placeholder" class="img-fluid d-block m-auto my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:86:89">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:88:3"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:89:92">Make a difference in the life of a child</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:90:15">Sponsorships for The Salvation Army Red Shield Youth Centers empower youth through safe spaces &amp; learning opportunities. Join us in supporting a brighter future for our youth.</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:91:35"><a href="https://southernusa.salvationarmy.org/tulsa-area-command/red-shield-youth-centers"><span class="btn btn-solid btn-red">Sponsorships</span></a></p>
+		</div>
+	</div>
+</div>

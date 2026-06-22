@@ -1,0 +1,1287 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"design:columns:1 Column:77:76": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:77:76",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:77:76-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:74:7": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:74:7",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:1:64": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 class=\"u-standardCase\" style=\"text-align:center;\">Donate Money</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Donate Money",
+								"position": 1,
+								"fullName": "content:text:1:64",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:1:64",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:2:40": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"margin-bottom-xl padding-bottom-lg\" style=\"text-align:center;\">\n\t\t\t\t\t\tYour donations&nbsp;help us serve the most vulnerable members of our community. Please choose the program you would like to donate to below. Thank you for helping The Salvation Army do the most good!\n\t\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Your donations&nbsp;help us serve the most vulnerable members of our community. Please choose the program you would like to donate to below. Thank you for helping The Salvation Army do the most good!",
+								"position": 2,
+								"fullName": "content:textarea:2:40",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:2:40",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:3:81": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t<a href=\"https://give.salvationarmycarolinas.org/give/175533/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Greenville County</span></a>&nbsp;<a href=\"https://give.salvationarmycarolinas.org/give/364784/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Pickens County</span></a>&nbsp;<span class=\"btn btn-solid btn-red\"><a href=\"https://give.salvationarmycarolinas.org/give/364745/#!/donation/checkout\" target=\"\">Oconee Count</a>y</span>\n\t\t\t\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t<a href=\"https://give.salvationarmycarolinas.org/give/175533/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Greenville County</span></a>&nbsp;<a href=\"https://give.salvationarmycarolinas.org/give/364784/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Pickens County</span></a>&nbsp;<span class=\"btn btn-solid btn-red\"><a href=\"https://give.salvationarmycarolinas.org/give/364745/#!/donation/checkout\" target=\"\">Oconee Count</a>y</span>\n\t\t\t\t\t</p>",
+								"model": "6",
+								"position": 3,
+								"fullName": "content:wysiwyg_basic:3:81",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:3:81",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:4:26": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 4,
+								"fullName": "design:design:whitespace-sm:4:26",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:5:59": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t<a href=\"https://www.salvationarmycarolinas.org/greenvillesc/contribute/womens-auxiliary/\"><span class=\"btn btn-solid btn-red\">Women's Auxiliary</span></a>&nbsp;<a href=\"https://give.salvationarmycarolinas.org/give/368112/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Red Shield Youth Center</span></a>&nbsp;<a href=\"https://give.salvationarmycarolinas.org/give/368114/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Kroc Scholarship</span></a>\n\t\t\t\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t<a href=\"https://www.salvationarmycarolinas.org/greenvillesc/contribute/womens-auxiliary/\"><span class=\"btn btn-solid btn-red\">Women's Auxiliary</span></a>&nbsp;<a href=\"https://give.salvationarmycarolinas.org/give/368112/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Red Shield Youth Center</span></a>&nbsp;<a href=\"https://give.salvationarmycarolinas.org/give/368114/#!/donation/checkout\"><span class=\"btn btn-solid btn-red\">Kroc Scholarship</span></a>\n\t\t\t\t\t</p>",
+								"model": "6",
+								"position": 5,
+								"fullName": "content:wysiwyg_basic:5:59",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:5:59",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:6:80": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 6,
+								"fullName": "design:design:whitespace-sm:6:80",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:7:80": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t<a href=\"https://fundraise.givesmart.com/form/bbxMsA?vid=10y71y\"><span class=\"btn btn-solid btn-red\">Greenville Red Kettle Impact Campaign</span></a>&nbsp;&nbsp;\n\t\t\t\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t<a href=\"https://fundraise.givesmart.com/form/bbxMsA?vid=10y71y\"><span class=\"btn btn-solid btn-red\">Greenville Red Kettle Impact Campaign</span></a>&nbsp;&nbsp;\n\t\t\t\t\t</p>",
+								"model": "6",
+								"position": 7,
+								"fullName": "content:wysiwyg_basic:7:80",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:7:80",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:8:87": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 8,
+								"fullName": "design:design:whitespace-sm:8:87",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:horizontalrule:9:63": {
+								"uid": "13",
+								"name": "Horizontal Rule",
+								"type": "design",
+								"html": "<hr>",
+								"preview": "<hr>",
+								"classes": "",
+								"droppable": false,
+								"position": 9,
+								"fullName": "design:design:horizontalrule:9:63",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-xl:10:51": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 10,
+								"fullName": "design:design:whitespace-xl:10:51",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:25:81": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 11,
+								"fullName": "design:columns:2columns:25:81",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:25:81-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:12:41": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"217\" height=\"140\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/cf69c0e7-6c39-41cc-9fe4-3d4adf4e942d_Donor+Advised+Funds.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/cf69c0e7-6c39-41cc-9fe4-3d4adf4e942d_Donor+Advised+Funds.png",
+												"position": 0,
+												"fullName": "content:images:12:41",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:18:40": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:18:40",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:13:2": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<strong>Donor Advised Funds</strong>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Donor Advised Funds",
+												"position": 2,
+												"fullName": "content:textarea:13:2",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:13:2",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:14:1": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">Create a gift through your Donor Advised Fund.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Create a gift through your Donor Advised Fund.",
+												"position": 3,
+												"fullName": "content:textarea:14:1",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:14:1",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:15:15": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">You can also schedule a recurring gift through your DAF.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "You can also schedule a recurring gift through your DAF.",
+												"position": 4,
+												"fullName": "content:textarea:15:15",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:15:15",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:16:19": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://bnymelloncharitablegiftfund.org/salvationarmy/\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://bnymelloncharitablegiftfund.org/salvationarmy/\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 5,
+												"fullName": "content:wysiwyg_basic:16:19",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:16:19",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:25:81-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:19:25": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"169\" height=\"142\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/151053b1-29a3-4663-ba2b-3e7ffbdec29d_donate+goods+and+clothing.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/151053b1-29a3-4663-ba2b-3e7ffbdec29d_donate+goods+and+clothing.png",
+												"position": 0,
+												"fullName": "content:images:19:25",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:24:7": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:24:7",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"content:textarea:20:37": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\"><strong>Shop and Donate</strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Shop and Donate",
+												"position": 2,
+												"fullName": "content:textarea:20:37",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:20:37",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:21:6": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">Your donations to The Salvation Army Family thrift stores help fund life-saving programs in the community.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Your donations to The Salvation Army Family thrift stores help fund life-saving programs in the community.",
+												"position": 3,
+												"fullName": "content:textarea:21:6",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:21:6",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:22:87": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/greenvillesc/family-stores-s\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/greenvillesc/family-stores-s\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:22:87",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:22:87",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:25:81-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:30:14": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 12,
+								"fullName": "design:design:whitespace-sm:30:14",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:38:63": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 13,
+								"fullName": "design:columns:2columns:38:63",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:38:63-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:26:29": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"147\" height=\"142\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/9448f514-efc1-42bd-a8d9-06e126e7b8dc_bonds%2C+funds%2C+stocks.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/9448f514-efc1-42bd-a8d9-06e126e7b8dc_bonds%2C+funds%2C+stocks.png",
+												"position": 0,
+												"fullName": "content:images:26:29",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:31:66": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:31:66",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:27:39": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\"><strong>Bonds, Funds, Stocks, </strong><strong></strong><strong>and IRA Rollover</strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Bonds, Funds, Stocks, and IRA Rollover",
+												"position": 2,
+												"fullName": "content:textarea:27:39",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:27:39",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:28:3": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">You can make a gift of your bonds, funds, stocks, and other securities to help those who need it most.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "You can make a gift of your bonds, funds, stocks, and other securities to help those who need it most.",
+												"position": 3,
+												"fullName": "content:textarea:28:3",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:28:3",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:29:43": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/uss/donate-stock\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/uss/donate-stock\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:29:43",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:29:43",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:38:63-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:32:22": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"147\" height=\"142\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/df311b85-5fd7-49c9-93fa-43fe0fb50a95_Planning+Giving%2C+Wills+and+Gift+Annuities.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/df311b85-5fd7-49c9-93fa-43fe0fb50a95_Planning+Giving%2C+Wills+and+Gift+Annuities.png",
+												"position": 0,
+												"fullName": "content:images:32:22",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:37:23": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:37:23",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"content:textarea:33:38": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\"><strong>Planned Giving, Wills, </strong><strong>and Gift Annuities</strong><strong></strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Planned Giving, Wills, and Gift Annuities",
+												"position": 2,
+												"fullName": "content:textarea:33:38",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:33:38",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:34:47": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">When you consider a will or estate gift to The Salvation Army, you leave a legacy of love for those who need it.&nbsp;</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "When you consider a will or estate gift to The Salvation Army, you leave a legacy of love for those who need it.&nbsp;",
+												"position": 3,
+												"fullName": "content:textarea:34:47",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:34:47",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:35:46": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://tsalegacyoflove.com/\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://tsalegacyoflove.com/\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:35:46",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:35:46",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:39:50": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 14,
+								"fullName": "design:design:whitespace-sm:39:50",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:52:52": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 15,
+								"fullName": "design:columns:2columns:52:52",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:52:52-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:40:67": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"217\" height=\"140\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/88f31500-c740-4b2b-b864-6d822d4e8604_donate+your+vehicle+icon.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/88f31500-c740-4b2b-b864-6d822d4e8604_donate+your+vehicle+icon.png",
+												"position": 0,
+												"fullName": "content:images:40:67",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:45:58": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:45:58",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:41:94": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<b>Donate a Vehicle</b>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Donate a Vehicle",
+												"position": 2,
+												"fullName": "content:textarea:41:94",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:41:94",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:42:53": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\tWe convert vehicles into cash, which becomes a welcome donation to Salvation Army.\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "We convert vehicles into cash, which becomes a welcome donation to Salvation Army.",
+												"position": 3,
+												"fullName": "content:textarea:42:53",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:42:53",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:43:45": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://careasy.org/thesalvationarmygreenvillescareacommand\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://careasy.org/thesalvationarmygreenvillescareacommand\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:43:45",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:43:45",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:52:52-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:46:79": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"130\" height=\"134\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/b09f4579-8250-4e2e-af6b-c6f7c9c3061d_Cryptocurrency.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/b09f4579-8250-4e2e-af6b-c6f7c9c3061d_Cryptocurrency.png",
+												"position": 0,
+												"fullName": "content:images:46:79",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:51:83": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:51:83",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"content:textarea:47:61": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<b>Cryptocurrency</b>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Cryptocurrency",
+												"position": 2,
+												"fullName": "content:textarea:47:61",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:47:61",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:48:50": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\tThe Salvation Army now accepts donations via cryptocurrency such as Bitcoin.\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "The Salvation Army now accepts donations via cryptocurrency such as Bitcoin.",
+												"position": 3,
+												"fullName": "content:textarea:48:50",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:48:50",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:49:80": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://platform.engiven.com/give/258/widget/156\"><span class=\"btn btn-solid btn-blue\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://platform.engiven.com/give/258/widget/156\"><span class=\"btn btn-solid btn-blue\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:49:80",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:49:80",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:52:52-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:53:62": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 16,
+								"fullName": "design:design:whitespace-sm:53:62",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:66:63": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 17,
+								"fullName": "design:columns:2columns:66:63",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:66:63-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:54:72": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"197\" height=\"141\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/137c2fe2-8007-4117-8ac8-3e7d314d5e42_donate+money.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/137c2fe2-8007-4117-8ac8-3e7d314d5e42_donate+money.png",
+												"position": 0,
+												"fullName": "content:images:54:72",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:59:51": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:59:51",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:55:93": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<b>Matching Gifts</b>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Matching Gifts",
+												"position": 2,
+												"fullName": "content:textarea:55:93",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:55:93",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:56:61": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\tHelp us leverage your generous donation by getting your employer to match your contribution.\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Help us leverage your generous donation by getting your employer to match your contribution.",
+												"position": 3,
+												"fullName": "content:textarea:56:61",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:56:61",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:57:25": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/uss/matching-gifts?random=199\"><span class=\"btn btn-solid btn-red\">Learn More&nbsp;</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/uss/matching-gifts?random=199\"><span class=\"btn btn-solid btn-red\">Learn More&nbsp;</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:57:25",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:57:25",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:66:63-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:images:60:8": {
+												"icon": "images",
+												"name": "Image",
+												"type": "images",
+												"description": "Reference to image ZUIDs in Zesty.io",
+												"html": "<img width=\"217\" height=\"140\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/cf69c0e7-6c39-41cc-9fe4-3d4adf4e942d_Donor+Advised+Funds.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+												"draggable": true,
+												"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/cf69c0e7-6c39-41cc-9fe4-3d4adf4e942d_Donor+Advised+Funds.png",
+												"position": 0,
+												"fullName": "content:images:60:8",
+												"htmlElement": "img",
+												"primarytype": "content",
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"design:design:whitespace-sm:65:32": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:65:32",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											},
+											"content:textarea:61:52": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<b>Volunteer</b>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Volunteer",
+												"position": 2,
+												"fullName": "content:textarea:61:52",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:61:52",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:62:82": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t&nbsp;Donate your time to The Salvation Army to help create change and provide hope throughout your community.\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "&nbsp;Donate your time to The Salvation Army to help create change and provide hope throughout your community.",
+												"position": 3,
+												"fullName": "content:textarea:62:82",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:62:82",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:63:47": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/greenvillesc/volunteer\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"https://southernusa.salvationarmy.org/greenvillesc/volunteer\"><span class=\"btn btn-solid btn-red\">Learn More</span></a>\n\t\t\t\t\t\t\t\t\t</p>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:63:47",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:63:47",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:66:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-xl:67:72": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 18,
+								"fullName": "design:design:whitespace-xl:67:72",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-xl:69:17": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 19,
+								"fullName": "design:design:whitespace-xl:69:17",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:70:26": {
+								"icon": "outdent",
+								"name": "Background Section",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"background-color:#ED1C2B;color:#FFFFFF;padding:40px;\"><p style=\"text-align: center;\">\n\t<span style=\"font-size:16px;\"><strong>Please mail donation checks and other correspondence to The Salvation Army of Greenville,&nbsp;PO Box 1237, Greenville, SC 29602.</strong></span>\n</p></div>",
+								"content": "<div style=\"background-color:#ED1C2B;color:#FFFFFF;padding:40px;\"><p style=\"text-align: center;\">\n\t<span style=\"font-size:16px;\"><strong>Please mail donation checks and other correspondence to The Salvation Army of Greenville,&nbsp;PO Box 1237, Greenville, SC 29602.</strong></span>\n</p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"noChildren": true,
+								"children": {},
+								"position": 20,
+								"fullName": "content:wysiwyg_basic:70:26",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:70:26",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:77:76-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

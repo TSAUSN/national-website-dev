@@ -1,0 +1,82 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-bcfef2e0d6-3hrxjx')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:30:32">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:30:32-1:1 Column:0">
+<h6 style="text-align:center;" data-zesty-id="content:text:2:77"><i class="icon icon-center-heart"></i><br>
+				Cold Weather Shelter</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:14"><strong>The Salvation Army provides shelter to anyone in need when it is <u>35 degrees and below</u>. </strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:47">Hours: Open from 6:00&nbsp;pm – 7:00&nbsp;am&nbsp;</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:5:81">
+					The Salvation Army Center of Hope&nbsp;at 2019 22nd Street.
+				</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:6:67">
+					Doors open at 6:00 p.m. for Cold Weather Shelter clients and close at 10:00 p.m. for lights out. Dinner is at 6:30 p.m. and light breakfast will be provided at the shelter.
+				</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:7:67">
+					<span style="color:#ed1c2b;">Participation is primarily focused&nbsp;to individuals from the lower six counties; we are unable to accommodate unplanned participants from outside this area.</span>
+				</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:8:76"></div>
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:10:65"><i class="icon icon-snowflake"></i>Cold Weather Shelter</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:11:87">
+				We use the Gulfport International Airport weather&nbsp;to&nbsp;decide if the shelter will be open according to these weather reports so we can coordinate supplies and volunteers. &nbsp;
+			</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:12:5">
+				Small meals will be provided for dinner and breakfast. Guests must complete a health survey and present a photo ID prior to entry. Space is limited and available on a first-come, first-served basis.&nbsp;
+			</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:17:73"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:22:41">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:22:41-1:2 Columns - Equal:0">
+<h6 class="greyBoxes-title" style="text-align:center;" data-zesty-id="content:text:13:27"><i class="icon icon-shelter"></i>Shelter Rules</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:14:16">
+				COLD WEATHER SHELTER RULES
+			</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:15:49">
+				The Salvation Army MS Gulf Coast is happy to assist you on cold and extreme weather nights.&nbsp; However, for your safety, the safety of your neighbor, and the comfort of everyone staying we ask that you govern yourself by these guidelines.&nbsp; Violation of these guidelines can result in denial of services.
+			</p>
+<ul data-zesty-id="content:wysiwyg_basic:16:34">
+				<li>No Weapons</li>
+				<li>No Alcohol</li>
+				<li>No Drugs</li>
+				<li>No Profanity or Slurs</li>
+				<li>No Bullying</li>
+				<li>No Food or Drink Allowed in the sleeping area</li>
+				<li>No Sexual Acting out</li>
+				<li>Be respectful of yourself and others</li>
+				<li>Leave bad or quarrelsome attitudes off TSA property</li>
+				<li>Everyone entering consents to a Breathalyzer test and searches of their bags and person</li>
+				<li>Smoking is ONLY allowed Outside – Use Ash Cans</li>
+				<li>During these times: 6 to 10 PM and 6 to 7 AM</li>
+				<li>Smoking is NOT allowed during lights out.</li>
+				<li>Stay outside the door – Loitering around the building is NOT acceptable</li>
+			</ul>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:22:41-1:2 Columns - Equal:1">
+<ul data-zesty-id="content:wysiwyg_basic:19:4">
+				<li>Do not loiter in the front lobby. This area is closed during Cold Weather Shelter hours</li>
+				<li>Pets – we all love our pets, but we cannot bring them to the shelter</li>
+				<li>Enter or Exit ONLY through the entrance</li>
+				<li>During these times: 6&nbsp;to 10 PM and 6 to 7 AM</li>
+				<li>Stay out of areas marked “Employee Only”</li>
+				<li>TV will be at the discretion of the Volunteer in Charge and ONLY family-appropriate entertainment allowed</li>
+				<li>Dinner is at 6:30 PM – Eat what you want while it is being served.</li>
+				<li>When everyone is served, the food will be put away and the kitchen cleaned. Food will NOT be available after that</li>
+				<li>Water is the only beverage served after 8:30 PM</li>
+				<li>No Coffee will be brewed after 8:15 PM</li>
+				<li>Lights out from 10:00 PM to 6:00 AM. This means you are to be lying down on your cot, cell phones on silent and everyone is quiet.</li>
+			</ul>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:23:11"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:24:36">Volunteer</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:25:10">
+				Our Volunteers are the backbone of the work we do here at The Salvation Army.
+			</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:26:39">
+				We thank the Lord for you giving your time to help others.
+			</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:27:83">
+				Sign up to volunteer at our cold weather shelter by emailing <a href="mailto:Wanda.Lowe@uss.salvationarmy.org" target="">Wanda.Lowe@uss.salvationarmy.org.</a>
+			</p>
+		</div>
+	</div>
+</div>

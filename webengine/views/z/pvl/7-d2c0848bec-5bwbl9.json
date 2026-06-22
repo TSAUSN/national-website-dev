@@ -1,0 +1,777 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:77:0:59": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-d4fd9396fd-zs0wvq')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-d4fd9396fd-zs0wvq')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:77:0:59",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:2columns:9:54": {
+				"uid": "11",
+				"name": "2 Columns - Equal",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:2columns:9:54",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columns:9:54-1:2 Columns - Equal:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"design:columns:2columns:10:87": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columns:10:87",
+								"primarytype": "design",
+								"newLoc": "design:columns:2columns:9:54-1:2 Columns - Equal:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:10:87-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"design:design:whitespace:3:54": {
+												"uid": "99",
+												"name": "White Space",
+												"type": "design",
+												"html": "<br>",
+												"preview": "<div style=\"border-style: dashed; height: 20px;\"></div>",
+												"classes": "",
+												"droppable": false,
+												"position": 0,
+												"fullName": "design:design:whitespace:3:54",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:10:87-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:10:87-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:4:53": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h5><span style=\"color:#ed1c2b;\">Become a partner.</span>&nbsp;<br>\n\t\t\t\tHere's how you can get involved</h5>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Become a partner.&nbsp; Here's how you can get involved",
+												"position": 0,
+												"fullName": "content:text:4:53",
+												"htmlElement": "h5",
+												"primarytype": "content",
+												"id": "content:text:4:53",
+												"styles": {
+													"color": "#ed1c2b"
+												},
+												"newLoc": "design:columns:2columns:10:87-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columns:9:54-1:2 Columns - Equal:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"design:columns:2columns:11:99": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columns:11:99",
+								"primarytype": "design",
+								"newLoc": "design:columns:2columns:9:54-1:2 Columns - Equal:1",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:11:99-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:5:23": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tThe Salvation Army is one of the most recognized and beloved charities in the world and has a geographic footprint that stretches across almost every zip code in America, and 133&nbsp;countries.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "The Salvation Army is one of the most recognized and beloved charities in the world and has a geographic footprint that stretches across almost every zip code in America, and 133&nbsp;countries.",
+												"position": 0,
+												"fullName": "content:textarea:5:23",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:5:23",
+												"styles": {},
+												"newLoc": "design:columns:2columns:11:99-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:6:19": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tThis means the opportunities to create meaningful partnership experiences that match your business objectives, customer base, and corporate philanthropy focus are endless.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "This means the opportunities to create meaningful partnership experiences that match your business objectives, customer base, and corporate philanthropy focus are endless.",
+												"position": 1,
+												"fullName": "content:textarea:6:19",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:6:19",
+												"styles": {},
+												"newLoc": "design:columns:2columns:11:99-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:11:99-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-3 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-3 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"design:design:whitespace:8:17": {
+												"uid": "99",
+												"name": "White Space",
+												"type": "design",
+												"html": "<br>",
+												"preview": "<div style=\"border-style: dashed; height: 20px;\"></div>",
+												"classes": "",
+												"droppable": false,
+												"position": 0,
+												"fullName": "design:design:whitespace:8:17",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:11:99-1:2 Columns - Equal:1",
+												"oldLoc": "bank"
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"design:design:horizontalrule:12:13": {
+				"uid": "13",
+				"name": "Horizontal Rule",
+				"type": "design",
+				"html": "<hr>",
+				"preview": "<hr>",
+				"classes": "",
+				"droppable": false,
+				"position": 2,
+				"fullName": "design:design:horizontalrule:12:13",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:design:whitespace-xl:13:64": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 3,
+				"fullName": "design:design:whitespace-xl:13:64",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:text:14:20": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h6 style=\"text-align:center;\">Partnership Opportunities</h6>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "Partnership Opportunities",
+				"position": 4,
+				"fullName": "content:text:14:20",
+				"htmlElement": "h4",
+				"primarytype": "content",
+				"id": "content:text:14:20",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:15:38": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p style=\"text-align:center;\">\n\tWe look forward to discovering opportunities to work with you to engage employees, delight customers, and increase sales — all while doing good for people in need.&nbsp;\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "We look forward to discovering opportunities to work with you to engage employees, delight customers, and increase sales — all while doing good for people in need.&nbsp;",
+				"position": 5,
+				"fullName": "content:textarea:15:38",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:15:38",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:17:69": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 6,
+				"fullName": "design:design:whitespace-sm:17:69",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:columns:3 Columns:29:95": {
+				"uid": "300",
+				"name": "3 Columns",
+				"type": "columns",
+				"classes": "row g-3 my-3",
+				"html": "<div class=\"row g-3 my-3\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 3,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 7,
+				"fullName": "design:columns:3 Columns:29:95",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:3 Columns:29:95-1:3 Columns:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:23:0": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div class=\"card-background-content\" style=\"background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/b261d013-1e46-4173-b028-feed9263c375_5_Grants.jpg');background-size:cover;background-position:center;background-repeat:no-repeat;padding:20px;border-radius:8px;\"><div class=\"card-background-overlay\" style=\"padding:20px;border-radius:8px;color:#fff;\"><p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\"><br>\n\tIN-KIND</span><br>\n\t&nbsp;\n</p></div></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"card-background-content\" style=\"background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/b261d013-1e46-4173-b028-feed9263c375_5_Grants.jpg');background-size:cover;background-position:center;background-repeat:no-repeat;padding:20px;border-radius:8px;\"><div class=\"card-background-overlay\" style=\"padding:20px;border-radius:8px;color:#fff;\"><p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\"><br>\n\tIN-KIND</span><br>\n\t&nbsp;\n</p></div></div>",
+								"model": "6",
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:23:0",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:23:0",
+								"styles": {
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/b261d013-1e46-4173-b028-feed9263c375_5_Grants.jpg')",
+									"backgroundSize": "cover",
+									"backgroundPosition": "center",
+									"backgroundRepeat": "no-repeat",
+									"padding": "20px",
+									"borderRadius": "8px"
+								},
+								"newLoc": "design:columns:3 Columns:29:95-1:3 Columns:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:3 Columns:29:95-1:3 Columns:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:25:9": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div class=\"card-background-content\" style=\"background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/8f5a6c3f-9c48-453d-9772-893423e544a8_Grants.jpg');background-size:cover;background-position:center;background-repeat:no-repeat;padding:20px;border-radius:8px;\"><div class=\"card-background-overlay\" style=\"padding:20px;border-radius:8px;color:#fff;\"><p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\"><br>\n\tGRANTS</span><br>\n\t&nbsp;\n</p></div></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"card-background-content\" style=\"background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/8f5a6c3f-9c48-453d-9772-893423e544a8_Grants.jpg');background-size:cover;background-position:center;background-repeat:no-repeat;padding:20px;border-radius:8px;\"><div class=\"card-background-overlay\" style=\"padding:20px;border-radius:8px;color:#fff;\"><p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\"><br>\n\tGRANTS</span><br>\n\t&nbsp;\n</p></div></div>",
+								"model": "6",
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:25:9",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:25:9",
+								"styles": {
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/8f5a6c3f-9c48-453d-9772-893423e544a8_Grants.jpg')",
+									"backgroundSize": "cover",
+									"backgroundPosition": "center",
+									"backgroundRepeat": "no-repeat",
+									"padding": "20px",
+									"borderRadius": "8px"
+								},
+								"newLoc": "design:columns:3 Columns:29:95-1:3 Columns:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					},
+					"design:columns:3 Columns:29:95-1:3 Columns:2": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:27:59": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div class=\"card-background-content\" style=\"background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/c3078e92-3c03-4c75-9af7-4f0b7111f82f__Grant2s.jpg');background-size:cover;background-position:center;background-repeat:no-repeat;padding:20px;border-radius:8px;\"><div class=\"card-background-overlay\" style=\"padding:20px;border-radius:8px;color:#fff;\"><p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\"><br>\n\tDISASTER</span><br>\n\t&nbsp;\n</p></div></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"card-background-content\" style=\"background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/c3078e92-3c03-4c75-9af7-4f0b7111f82f__Grant2s.jpg');background-size:cover;background-position:center;background-repeat:no-repeat;padding:20px;border-radius:8px;\"><div class=\"card-background-overlay\" style=\"padding:20px;border-radius:8px;color:#fff;\"><p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\"><br>\n\tDISASTER</span><br>\n\t&nbsp;\n</p></div></div>",
+								"model": "6",
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:27:59",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:27:59",
+								"styles": {
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/c3078e92-3c03-4c75-9af7-4f0b7111f82f__Grant2s.jpg')",
+									"backgroundSize": "cover",
+									"backgroundPosition": "center",
+									"backgroundRepeat": "no-repeat",
+									"padding": "20px",
+									"borderRadius": "8px"
+								},
+								"newLoc": "design:columns:3 Columns:29:95-1:3 Columns:2",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 2
+					}
+				}
+			},
+			"design:design:whitespace-sm:30:19": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 8,
+				"fullName": "design:design:whitespace-sm:30:19",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:wysiwyg_basic:32:66": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/eb3652a2-45e0-4677-a9d7-130dd7a77cfd_9cbfb5a5-5896-4066-9ba2-b93afc64adef_stripe-giving.jpg');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h4 style=\"text-align:center;\"><span style=\"color:#ffffff;\">America's Favorite Charity</span></h4>\n\n<p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\">\"The Salvation Army is by far the most effective organization in the United States. No one else even comes close to it with respect to clarity of mission, ability to innovate, measurable results, dedication, and putting money to maximum use.\"</span>\n</p>\n\n<p style=\"text-align:center;color:#fff;\">\n\t<strong><span style=\"color:#ffffff;\">— Peter Drucker</strong></span>\n</p>\n                </div>\n            </div>\n        </div>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/eb3652a2-45e0-4677-a9d7-130dd7a77cfd_9cbfb5a5-5896-4066-9ba2-b93afc64adef_stripe-giving.jpg');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h4 style=\"text-align:center;\"><span style=\"color:#ffffff;\">America's Favorite Charity</span></h4>\n\n<p style=\"text-align:center;color:#fff;\">\n\t<span style=\"color:#ffffff;\">\"The Salvation Army is by far the most effective organization in the United States. No one else even comes close to it with respect to clarity of mission, ability to innovate, measurable results, dedication, and putting money to maximum use.\"</span>\n</p>\n\n<p style=\"text-align:center;color:#fff;\">\n\t<strong><span style=\"color:#ffffff;\">— Peter Drucker</strong></span>\n</p>\n                </div>\n            </div>\n        </div>",
+				"model": "6",
+				"position": 9,
+				"fullName": "content:wysiwyg_basic:32:66",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:32:66",
+				"styles": {
+					"position": "relative",
+					"overflow": "hidden",
+					"minHeight": "520px",
+					"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/eb3652a2-45e0-4677-a9d7-130dd7a77cfd_9cbfb5a5-5896-4066-9ba2-b93afc64adef_stripe-giving.jpg')",
+					"backgroundPosition": "center center",
+					"backgroundRepeat": "repeat",
+					"backgroundSize": "cover",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:33:3": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 10,
+				"fullName": "design:design:whitespace-sm:33:3",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:block:6-caf0f4baac-ctljlz:11:57": {
+				"html": "<div>{{block('/-/block/general_accordion.html?variant=7-82fab6e58f-ld8sw7')}}</div>",
+				"content": "{{block('/-/block/general_accordion.html?variant=7-82fab6e58f-ld8sw7')}}",
+				"model": "6-caf0f4baac-ctljlz",
+				"name": "General Accordion",
+				"position": 11,
+				"fullName": "content:block:6-caf0f4baac-ctljlz:11:57",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"id": "content:block:6-caf0f4baac-ctljlz:11:57",
+				"styles": {},
+				"contentOverride": false
+			},
+			"content:text:35:48": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h6 style=\"text-align:center;\">In challenging times, we’re more committed than ever to serving all with love, kindness, and hope.</h6>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "In challenging times, we’re more committed than ever to serving all with love, kindness, and hope.",
+				"position": 12,
+				"fullName": "content:text:35:48",
+				"htmlElement": "h4",
+				"primarytype": "content",
+				"id": "content:text:35:48",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columns:40:72": {
+				"uid": "11",
+				"name": "2 Columns - Equal",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 13,
+				"fullName": "design:columns:2columns:40:72",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columns:40:72-1:2 Columns - Equal:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:text:36:71": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6>Real Impact</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Real Impact",
+								"position": 0,
+								"fullName": "content:text:36:71",
+								"htmlElement": "h6",
+								"primarytype": "content",
+								"id": "content:text:36:71",
+								"styles": {},
+								"newLoc": "design:columns:2columns:40:72-1:2 Columns - Equal:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:37:24": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>The Salvation Army helps more than 30 million people each year. That&#39;s nearly one person every second. With programs that meet the specific needs of each unique community we serve, The Salvation Army is filling some of the most critical gaps in society. Join us in making a marked impact in people&#39;s lives.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "The Salvation Army helps more than 30 million people each year. That&#39;s nearly one person every second. With programs that meet the specific needs of each unique community we serve, The Salvation Army is filling some of the most critical gaps in society. Join us in making a marked impact in people&#39;s lives.",
+								"position": 1,
+								"fullName": "content:textarea:37:24",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:37:24",
+								"styles": {},
+								"newLoc": "design:columns:2columns:40:72-1:2 Columns - Equal:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columns:40:72-1:2 Columns - Equal:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:text:38:64": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6>Unparalleled Reach</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Unparalleled Reach",
+								"position": 0,
+								"fullName": "content:text:38:64",
+								"htmlElement": "h6",
+								"primarytype": "content",
+								"id": "content:text:38:64",
+								"styles": {},
+								"newLoc": "design:columns:2columns:40:72-1:2 Columns - Equal:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:39:38": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>With a presence in 133 countries and programs touching nearly every zip code in America, partnership with The Salvation Army means joining a large sophisticated network of people who are actively strengthening communities, providing hope to those in despair and reducing human suffering.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "With a presence in 133 countries and programs touching nearly every zip code in America, partnership with The Salvation Army means joining a large sophisticated network of people who are actively strengthening communities, providing hope to those in despair and reducing human suffering.",
+								"position": 1,
+								"fullName": "content:textarea:39:38",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:39:38",
+								"styles": {},
+								"newLoc": "design:columns:2columns:40:72-1:2 Columns - Equal:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					}
+				}
+			},
+			"design:design:whitespace-xl:41:94": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 14,
+				"fullName": "design:design:whitespace-xl:41:94",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:text:42:46": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h6 style=\"text-align:center;\">Interested in becoming a partner?</h6>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "Interested in becoming a partner?",
+				"position": 15,
+				"fullName": "content:text:42:46",
+				"htmlElement": "h4",
+				"primarytype": "content",
+				"id": "content:text:42:46",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:43:10": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p style=\"text-align:center;\">\n\tA partnership with The Salvation Army can have a positive social impact on your organization and engage employees &amp; stakeholders. Our team will work with you to develop a program that is customized for our shared values. In return, you will receive a lift in your brand’s reputation and the satisfaction of knowing you are part of the team that is Doing the Most Good.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "A partnership with The Salvation Army can have a positive social impact on your organization and engage employees &amp; stakeholders. Our team will work with you to develop a program that is customized for our shared values. In return, you will receive a lift in your brand’s reputation and the satisfaction of knowing you are part of the team that is Doing the Most Good.",
+				"position": 16,
+				"fullName": "content:textarea:43:10",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:43:10",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:44:96": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<p style=\"text-align:center;\">\n\t<span class=\"btn btn-solid btn-red\">Contact Us</span>\n</p>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<p style=\"text-align:center;\">\n\t<span class=\"btn btn-solid btn-red\">Contact Us</span>\n</p>",
+				"model": "6",
+				"position": 17,
+				"fullName": "content:wysiwyg_basic:44:96",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:44:96",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			}
+		}
+	}
+}

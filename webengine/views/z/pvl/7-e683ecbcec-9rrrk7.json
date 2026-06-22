@@ -1,0 +1,499 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:43:0:60": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-a6c8a094fb-xg1ln7')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-a6c8a094fb-xg1ln7')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:43:0:60",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:29:17": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:29:17",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:29:17-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:columns:2columns:7:77": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columns:7:77",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:29:17-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:7:77-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:2:96": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h5>Corporate Sponsors</h5>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Corporate Sponsors",
+												"position": 0,
+												"fullName": "content:text:2:96",
+												"htmlElement": "h5",
+												"primarytype": "content",
+												"id": "content:text:2:96",
+												"styles": {},
+												"newLoc": "design:columns:2columns:7:77-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:3:46": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tCompanies can adopt a meal and provide volunteers to serve the meal. Dates and times may vary. Meal sponsorship commitment is <strong>$500</strong> to pay for necessary ingredients to allow our staff the ability to prepare a meal for 300+ homeless individuals.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Companies can adopt a meal and provide volunteers to serve the meal. Dates and times may vary. Meal sponsorship commitment is $500 to pay for necessary ingredients to allow our staff the ability to prepare a meal for 300+ homeless individuals.",
+												"position": 1,
+												"fullName": "content:textarea:3:46",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:3:46",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:7:77-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:4:65": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tCorporate Benefits: Name displayed on Salvation Army meal service page. Social media mentions to our thousands of followers on multiple platforms.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Corporate Benefits: Name displayed on Salvation Army meal service page. Social media mentions to our thousands of followers on multiple platforms.",
+												"position": 2,
+												"fullName": "content:textarea:4:65",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:4:65",
+												"styles": {},
+												"newLoc": "design:columns:2columns:7:77-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:7:77-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:5:35": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h5>Adopt a Meal for a month</h5>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Adopt a Meal for a month",
+												"position": 0,
+												"fullName": "content:text:5:35",
+												"htmlElement": "h5",
+												"primarytype": "content",
+												"id": "content:text:5:35",
+												"styles": {},
+												"newLoc": "design:columns:2columns:7:77-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:6:54": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\tSupporters can adopt a month's worth of meals for a woman or child, staying at The Salvation Army Center of Hope Shelter. A <strong>$50</strong> commitment takes care of the individual food cost.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Supporters can adopt a month's worth of meals for a woman or child, staying at The Salvation Army Center of Hope Shelter. A $50 commitment takes care of the individual food cost.",
+												"position": 1,
+												"fullName": "content:textarea:6:54",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:6:54",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:7:77-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"content:wysiwyg_basic:8:45": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmycarolinas.org/give/237482/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Adopt a Meal</a></p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmycarolinas.org/give/237482/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Adopt a Meal</a></p>",
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:8:45",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:8:45",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:29:17-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			},
+			"content:block:6-caf0f4baac-ctljlz:2:70": {
+				"html": "<div>{{block('/-/block/general_accordion.html?variant=7-86e4dd9683-ztgf99')}}</div>",
+				"content": "{{block('/-/block/general_accordion.html?variant=7-86e4dd9683-ztgf99')}}",
+				"model": "6-caf0f4baac-ctljlz",
+				"name": "General Accordion",
+				"position": 2,
+				"fullName": "content:block:6-caf0f4baac-ctljlz:2:70",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"id": "content:block:6-caf0f4baac-ctljlz:2:70",
+				"styles": {},
+				"contentOverride": false
+			},
+			"design:columns:1 Column:30:70": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 3,
+				"fullName": "design:columns:1 Column:30:70",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:30:70-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:horizontalrule:11:98": {
+								"uid": "13",
+								"name": "Horizontal Rule",
+								"type": "design",
+								"html": "<hr>",
+								"preview": "<hr>",
+								"classes": "",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:horizontalrule:11:98",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:30:70-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:12:96": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmycarolinas.org/give/237482/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Adopt a Meal</a></p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmycarolinas.org/give/237482/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Adopt a Meal</a></p>",
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:12:96",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:12:96",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:30:70-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:13:24": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 2,
+								"fullName": "design:design:whitespace-sm:13:24",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:30:70-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:14:25": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\">Sponsors</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Sponsors",
+								"position": 3,
+								"fullName": "content:text:14:25",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:14:25",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:30:70-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:15:92": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 4,
+								"fullName": "design:design:whitespace-sm:15:92",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:30:70-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:22:90": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 5,
+								"fullName": "design:columns:3 Columns:22:90",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:30:70-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:22:90-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:16:62": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<ul>\n\t\t\t\t\t<li>New Bethel Church of God in Christ</li>\n\t\t\t\t\t<li>Sharon Presbyterian Church</li>\n\t\t\t\t\t<li>South Mecklenburg Presbyterian Church</li>\n\t\t\t\t\t<li>Myers Park United Methodist Church</li>\n\t\t\t\t\t<li>C.N. Jenkins Memorial Presbyterian Church</li>\n\t\t\t\t</ul>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<ul>\n\t\t\t\t\t<li>New Bethel Church of God in Christ</li>\n\t\t\t\t\t<li>Sharon Presbyterian Church</li>\n\t\t\t\t\t<li>South Mecklenburg Presbyterian Church</li>\n\t\t\t\t\t<li>Myers Park United Methodist Church</li>\n\t\t\t\t\t<li>C.N. Jenkins Memorial Presbyterian Church</li>\n\t\t\t\t</ul>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:16:62",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:16:62",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:22:90-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:22:90-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:18:2": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<ul>\n\t\t\t\t\t<li>St. Ann’s Catholic Church</li>\n\t\t\t\t\t<li>Central Church</li>\n\t\t\t\t\t<li>Kairos</li>\n\t\t\t\t\t<li>Rockwell ame Zion Church</li>\n\t\t\t\t\t<li>Perfect Provisions Soup Kitchen</li>\n\t\t\t\t</ul>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<ul>\n\t\t\t\t\t<li>St. Ann’s Catholic Church</li>\n\t\t\t\t\t<li>Central Church</li>\n\t\t\t\t\t<li>Kairos</li>\n\t\t\t\t\t<li>Rockwell ame Zion Church</li>\n\t\t\t\t\t<li>Perfect Provisions Soup Kitchen</li>\n\t\t\t\t</ul>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:18:2",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:18:2",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:22:90-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:22:90-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-12 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-12 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:20:99": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<ul>\n\t\t\t\t\t<li>Logan Chapel cme Church</li>\n\t\t\t\t\t<li>Greater Vision United Methodist Church</li>\n\t\t\t\t\t<li>Greater Providence Baptist Church</li>\n\t\t\t\t</ul>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<ul>\n\t\t\t\t\t<li>Logan Chapel cme Church</li>\n\t\t\t\t\t<li>Greater Vision United Methodist Church</li>\n\t\t\t\t\t<li>Greater Providence Baptist Church</li>\n\t\t\t\t</ul>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:20:99",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:20:99",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:22:90-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

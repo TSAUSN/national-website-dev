@@ -1,0 +1,264 @@
+<div className={styles.pvlRoot}>
+	<!-- Theater Image - theaterimage -->
+<p></p>
+<!-- Theater Image -->
+<section id="Theater-Image" class="migration-component py-5">
+<div class="container">
+<h5 class="text-center mb-2">The Salvation Army</h5>
+<p class="text-muted text-center mb-3">Advisory Board</p>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/729a7e94-8cb7-4600-981b-1d48a38025a1_planeed+giving.png" alt="The Salvation Army" class="filter filter-none img-fluid rounded d-block mx-auto my-3" style="max-width: 100%; height: auto;" loading="lazy"></div>
+</section>
+<!-- Free Text Area - freetextarea -->
+<p></p>
+<!-- Free Text Area -->
+<section id="Free-Text-Area-1" class="migration-component py-5">
+<div class="container">
+<div class="bg-white rounded p-4 mb-4">
+<div class="btgrid">
+<div class="row row-1">
+<div class="col col-md-4">
+<div class="content">
+<p><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a98a813d-c031-4424-9913-7fadc99a8077_16b160d0-4c6c-47bd-94ff-efcd64c5087e_264801985_5280325475316733_4831626149530872173_n.jpg" class="img-fluid d-block mx-auto my-3" loading="lazy"></p>
+</div>
+</div>
+<div class="col col-md-8">
+<div class="content">
+<h2 style="text-align: center;">Called To Serve</h2>
+<p>Serving on a Salvation Army Advisory Board or Council presents an extraordinary opportunity to make a profound and lasting impact on both the organization and your own community.</p>
+<p>As a member, you become a champion of The Salvation Army's mission, advocating for positive change and harnessing your unique skills and expertise to drive meaningful progress. By lending your voice and strategic insights, you have the power to shape the direction, policies, and initiatives of our organization. This opportunity allows you to collaborate with like-minded individuals, building a network of passionate and influential changemakers who share your commitment to creating a better world. Moreover, serving on a non-profit advisory board offers personal and professional growth opportunities, enabling you to broaden your horizons, strengthen your leadership abilities, and deepen your understanding of social and economic challenges. It is a chance to leave a lasting legacy and be part of a collective force for good, leaving an indelible mark on the lives of those we serve and inspiring others to join the cause.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Free Text Area - freetextarea -->
+<p></p>
+<!-- Free Text Area -->
+<section id="Free-Text-Area-1" class="migration-component py-5">
+<div class="container">
+<div class="rounded overflow-hidden mb-4 d-grid position-relative" style="grid-template-columns: 100%; min-height: 300px; background-color: u-sa-blackbg;"><!-- Desktop Aspect Ratio Spacer (enforces MINIMUM ~1300/512 ratio) -->
+<div class="d-none d-md-block" style="grid-area: 1/1; width: 100%; aspect-ratio: 2.54 / 1; pointer-events: none;"></div>
+<!-- Mobile Aspect Ratio Spacer --> <img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/ba1ae43a-1116-430b-a313-47c06d536cc0_Blue+BG.png" class="w-100 d-block d-md-none img-fluid mx-auto my-3" style="grid-area: 1/1; visibility: hidden; pointer-events: none;" loading="lazy"> <!-- Desktop Background (Contain + Tiling) -->
+<div class="d-none d-md-block" style="grid-area: 1/1; background: url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/ba1ae43a-1116-430b-a313-47c06d536cc0_Blue+BG.png') repeat center center; background-size: contain; z-index: 1;"></div>
+<!-- Mobile Background (Cover + Tiling) -->
+<div class="d-block d-md-none" style="grid-area: 1/1; background: url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/ba1ae43a-1116-430b-a313-47c06d536cc0_Blue+BG.png') repeat center center; background-size: cover; z-index: 1;"></div>
+<div style="position: absolute; inset: 0; background-color: rgba(0, 0, 0, 0.4); z-index: 2;"></div>
+<!-- Content Wrapper -->
+<div class="d-flex align-items-center justify-content-start" style="grid-area: 1/1; z-index: 3;">
+<div class="w-100 p-4 p-md-5" style="color: #000000;">
+<div>
+<h2 style="text-align: center;"> </h2>
+<h2 style="text-align: center;">Our Advisory Board Members</h2>
+<p>The Birmingham Alabama Area Command advisory board consists of a wide spectrum of hard-working men and women who share in the vision to transform and restore lives in the Greater Birmingham Area.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Free Text Area - freetextarea -->
+<p></p>
+<!-- Free Text Area -->
+<section id="Free-Text-Area-1" class="migration-component py-5">
+<div class="container">
+<div class="bg-white rounded p-4 mb-4">
+<h2 style="text-align: center;"><span style="font-size: 20px;">Majors Robert &amp; Karen Lyle</span></h2>
+<p style="text-align: center;"><strong>Area Commanders</strong></p>
+<p style="text-align: center;"><span style="font-size: 20px;">Jim Bradford</span></p>
+<p style="text-align: center;"><span style="color: #111111;"><strong>Chairman</strong></span></p>
+<div class="btgrid">
+<div class="row row-1">
+<div class="col col-md-6">
+<div class="content">
+<p>Anita Allcorn</p>
+<p>Charles Baldone</p>
+<p>Brian Barr</p>
+<p>Rob Bedwell</p>
+<p>Jim Bradford</p>
+<p>Jeff Brooks</p>
+<p>Luther Cale*</p>
+<p>Carol Collinsworth</p>
+<p>Marty Connors*</p>
+<p>Marty Connors*</p>
+<p>Matthew Dent</p>
+<p>Patrick Drummond</p>
+</div>
+</div>
+<div class="col col-md-6">
+<div class="content">
+<p>Trey Echols</p>
+<p>David Edmonds</p>
+<p>Gary Fenton</p>
+<p>Wayne Gillis</p>
+<p>Jim Gorrie</p>
+<p>Kerry Gossett</p>
+<p>Steve Graham</p>
+<p>David Jernigan</p>
+<p>Lawrence Johnson</p>
+<p>Sheila Kent</p>
+<p>Marcus King</p>
+<p>Ravoyl Land</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Free Text Area - freetextarea -->
+<p></p>
+<!-- Free Text Area -->
+<section id="Free-Text-Area-1" class="migration-component py-5">
+<div class="container">
+<div class="bg-white rounded p-4 mb-4">
+<h2 style="text-align: center;"><span style="font-size: 20px;">Randy Pittman</span></h2>
+<p style="text-align: center;"><strong>Immediate Past Chair</strong></p>
+<h2 style="text-align: center;"><span style="font-size: 20px;">Shelley Barlow</span></h2>
+<p style="text-align: center;"><span style="font-size: 20px;"></span><strong>Women’s Auxiliary President</strong><span style="font-size: 20px;"></span></p>
+<div class="btgrid">
+<div class="row row-1">
+<div class="col col-md-6">
+<div class="content">
+<p>Matt Lembke</p>
+<p>Sherrie LeMier</p>
+<p>David Lott</p>
+<p>Russell Lynch</p>
+<p>Eddie Miller*</p>
+<p>Bob Mitchell</p>
+<p>Larry Newman</p>
+<p>Vic Nichol</p>
+<p>Wayne Pate</p>
+<p>Curtis Pickens</p>
+<p>Randy Pittman</p>
+</div>
+</div>
+<div class="col col-md-6">
+<div class="content">
+<p>Brandon Powell</p>
+<p>Barbara Pugh</p>
+<p>Randy Raiford</p>
+<p>Robert Lee Smith</p>
+<p>Stan Starnes</p>
+<p>Bill Stevens</p>
+<p>Scott Summers</p>
+<p>Tom Thagard</p>
+<p>Mike Thompson</p>
+<p>Regina Vann Williams</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Accordion - accordiongroup -->
+<p></p>
+<!-- Accordion -->
+<section id="Accordion" class="migration-component py-5">
+<div class="container">
+<div class="accordion my-3" id="accordion-8a808034">
+<div class="accordion-item">
+<h2 class="accordion-header" id="heading-8a808034-1"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a808034-1" aria-expanded="false" aria-controls="collapse-8a808034-1"> Echelon Junior Board </button></h2>
+<div id="collapse-8a808034-1" class="accordion-collapse collapse" aria-labelledby="heading-8a808034-1" data-bs-parent="#accordion-8a808034">
+<div class="accordion-body">
+<h2 style="text-align: center;">Who We Are</h2>
+<p><strong><span style="font-size: 20px;">Echelon: Elevating Communities with The Salvation Army</span></strong></p>
+<p>Welcome to Echelon, a dynamic and passionate community of young professionals dedicated to making a positive impact on the world through The Salvation Army. Echelon is not just a network; it's a movement, a force for good, and an opportunity to be part of something greater than yourself.</p>
+<p>Echelon seeks to mobilize the next generation for The Salvation Army by providing opportunities for young adults to engage with the organization through fellowship and networking, donations and fundraising, and service and volunteering.</p>
+<p>Echelon members participate in a variety of networking, volunteer, and fundraising activities. These activities directly support Salvation Army services within a chapter’s local community. Whether we are serving, attending one of our social events, or raising money, you will find Echelon is a connected community full of people who are making a difference. </p>
+<p><strong>Our Mission:</strong><br>Echelon is committed to supporting The Salvation Army's vital work in communities across the globe. Our mission is clear: we aim to elevate the lives of those in need by raising awareness, volunteering our time, and fundraising to support critical programs and initiatives.</p>
+<p><strong>What We Do:</strong><br>As an Echelon member, you'll have the chance to:</p>
+<p>Connect with Purpose: Join a diverse group of like-minded individuals who share a passion for service and philanthropy.</p>
+<p>Make a Difference Locally and Globally: Through fundraising events, volunteer opportunities, and advocacy efforts, we directly impact the lives of those who need it most.</p>
+<p>Develop Leadership Skills: Echelon provides a platform for personal and professional growth, fostering leadership and teamwork.</p>
+<p>Foster Lasting Relationships: Build meaningful connections with fellow members, forging friendships and professional networks that can last a lifetime.</p>
+<p><strong>Why Join Echelon:</strong><br>When you become an Echelon member, you become a part of a powerful force for good. Your involvement translates into tangible, positive change in communities facing challenges such as homelessness, hunger, addiction, and disaster recovery.</p>
+<p><strong>Get Involved:</strong><br>Ready to be a force for change? Join Echelon and discover the joy of giving back while connecting with others who share your commitment to making the world a better place.</p>
+<p>Together, we amplify our impact, create lasting change, and elevate communities. Join Echelon and be part of a movement that stands for compassion, service, and social responsibility. Your journey of impact begins here.</p>
+<p>For more information on serving with Echelon, please contact Renae Dismuke at <a href="mailto:Renae.Dismuke@uss.SalvationArmy.org" target="">Renae.Dismuke@uss.SalvationArmy.org</a> or call <a href="tel: 205-328-0743"> 205-328-0743 </a>. </p>
+<div class="btgrid">
+<div class="row row-1">
+<div class="col col-md-4">
+<div class="content">
+<p><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/3a989a91-b7d6-4f7f-b42d-32382e7ef103_abe14721-a25f-4c52-a728-c284fedd0acb_347281336_6160740437355530_8097817787563344462_n.jpg" style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid d-block mx-auto my-3" loading="lazy"></p>
+</div>
+</div>
+<div class="col col-md-4">
+<div class="content">
+<p><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/495276bf-d9a2-4b55-9263-8346da510c5b_5c212b5f-af20-4597-9f66-3717c7cb90da_302166771_6103833549632584_4765558886006735393_n.jpg" style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid d-block mx-auto my-3" loading="lazy"></p>
+</div>
+</div>
+<div class="col col-md-4">
+<div class="content">
+<p><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/52e168f4-b8e9-42b4-b969-b40ce38a7739_ca4c8853-2d96-498b-96a4-e6e518b64af3_347281370_1417759019023452_2403160201806012956_n.jpg" style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid d-block mx-auto my-3" loading="lazy"></p>
+</div>
+</div>
+</div>
+</div>
+<h2 style="text-align: center;"><span style="font-size: 20px;">JaKeta Williams</span></h2>
+<p style="text-align: center;"><strong>President</strong></p>
+<div class="btgrid">
+<div class="row row-1">
+<div class="col col-md-6">
+<div class="content">
+<p>Aubrey Dodt</p>
+<p>Martha Hayes</p>
+<p>Jake Schuhmann</p>
+<p>Katherine Beshear</p>
+<p>Kristina Coffman</p>
+<p>Grace Ann Hardison</p>
+<p>Will Hardison</p>
+</div>
+</div>
+<div class="col col-md-6">
+<div class="content">
+<p>JaKeta Williams</p>
+<p>Aushanada Williams</p>
+<p>Chitra Kirpalani </p>
+<p>Vinay Patel</p>
+<p>Tyler Smith</p>
+<p>Grace Register</p>
+<p>Mills Gorrie</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="heading-8a808034-2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-8a808034-2" aria-expanded="false" aria-controls="collapse-8a808034-2"> Women's Auxiliary </button></h2>
+<div id="collapse-8a808034-2" class="accordion-collapse collapse" aria-labelledby="heading-8a808034-2" data-bs-parent="#accordion-8a808034">
+<div class="accordion-body">
+<p>Organized in 1962, the Women’s Auxiliary has been serving the Greater Birmingham area for over 60 years. This group has tremendous community support and is among the largest in the world.  As a member and volunteer of the Women’s Auxiliary, you will have many opportunities to share your talents and skills, with members of the Women’s Auxiliary providing over 16,000 volunteer hours last year alone.</p>
+<p>Moreover, you will enjoy a unique camaraderie with many of the active members of the Auxiliary.  Seen by many as the leaders of vital Christmas programs such as the Angel Tree Program, the Women’s Auxiliary also plays an important part in the entire range of assistance offered to those in need by the local Greater Birmingham Area Command.</p>
+<p>Members participate in arts  &amp; crafts, fundraising events, fellowship, veteran appreciation events, culinary pursuits, and many other wonderful volunteer programs. This group of women are generous with their time and talents and work hard to further the mission of The Salvation Army in all that they do.</p>
+<p>If you would like to join the Women’s Auxiliary or would like to request more information, please contact Darlene Ray at <a href="tel: 205-328-4015">205-328-4015</a> or at <a href="mailto:Darlene.Ray@uss.SalvationArmy.org" target="">Darlene.Ray@uss.SalvationArmy.org</a>.</p>
+<div class="btgrid">
+<div class="row row-1">
+<div class="col col-md-4">
+<div class="content">
+<p><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/485f9504-3df5-4d39-965f-0b1de443b7e9_332f30c9-1597-4599-8074-83cb47eb33a5_WOMENS%2BAUXILIARY.jpg" style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid d-block mx-auto my-3" loading="lazy"></p>
+</div>
+</div>
+<div class="col col-md-4">
+<div class="content">
+<p><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/33773eaa-e0e8-43cc-9cc1-9f1b69d89c9e_914fd148-e65d-4e86-bee5-a991eae79d81_347413645_625639552933345_8055579511891874383_n%2B%281%29.jpg" style="display: block; margin-left: auto; margin-right: auto;" class="img-fluid d-block mx-auto my-3" loading="lazy"></p>
+</div>
+</div>
+<div class="col col-md-4">
+<div class="content">
+<p><img class="img-fluid d-block mx-auto my-3" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/d444b51b-8a44-418b-ba18-7a3f21dd0244_5261281a-d35b-4718-94a7-ba9edf626fed_285298502_5843566618992613_135504765718475991_n.jpg" style="display: block; margin-left: auto; margin-right: auto;" loading="lazy"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>

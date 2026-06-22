@@ -1,0 +1,7 @@
+<div className={styles.pvlRoot}>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:5:89">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:5:89-1:1 Column:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/30eddaab-2f03-4873-8e56-8d63be196c6d_Sponsor+a+Kettle%2C+flyer%2C+webpage.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:1:95">
+		</div>
+	</div>
+</div>

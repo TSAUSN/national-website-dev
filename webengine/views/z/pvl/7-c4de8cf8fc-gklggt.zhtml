@@ -1,0 +1,38 @@
+<div classname="{styles.pvlRoot}">
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:22:47">
+<div style="flex:1" class="column" data-zesty-id="design:columns:1 Column:22:47-1:1 Column:0">
+<h6 data-zesty-id="content:text:1:58">Civil Rights Nondiscrimination Statement</h6>
+<h5 data-zesty-id="content:text:2:10">Statement</h5>
+<p data-zesty-id="content:textarea:3:16">
+	In accordance with Federal civil rights law and U.S. Department of Agriculture (usda) civil rights regulations and policies, the usda, its Agencies, offices, and employees, and institutions participating in or administering usda programs are prohibited from discriminating based on race, color, national origin, sex, disability, age, or reprisal or retaliation for prior civil rights activity in any program or activity conducted or funded by usda.
+</p>
+<p data-zesty-id="content:wysiwyg_basic:4:82">
+	Persons with disabilities who require alternative means of communication for program information (e.g. Braille, large print, audiotape, American Sign Language, etc.), should contact the Agency (State or local) where they applied for benefits. Individuals who are deaf, hard of hearing, or have speech disabilities may contact usda through the Federal Relay Service at <a href="tel:8008778339">800-877-8339</a>. Additionally, program information may be made available in languages other than English.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:38"></div>
+<h5 data-zesty-id="content:text:7:82">To File a Complaint</h5>
+<p data-zesty-id="content:wysiwyg_basic:8:62">
+	To file a program complaint of discrimination, complete the usda Program Discrimination Complaint Form, (ad-3027) found online at: How to File a Complaint, and at any usda office, or write a letter addressed to usda and provide in the letter all of the information requested in the form. To request a copy of the complaint form, call <a href="tel:8666329992">(866) 632-9992</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:72"></div>
+<h5 data-zesty-id="content:text:11:77">Directions</h5>
+<p data-zesty-id="content:textarea:12:73">
+	Submit your completed form or letter to usda by:
+</p>
+<p data-zesty-id="content:textarea:13:24">
+	1. Mail: U.S. Department of Agriculture Office of the Assistant Secretary for Civil Rights 1400 Independence Avenue, sw Washington, D.C. 20250-9410
+</p>
+<p data-zesty-id="content:wysiwyg_basic:14:10">
+	2. Fax: <a href="tel:2026907442">202-690-7442</a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:1"></div>
+<p data-zesty-id="content:wysiwyg_basic:16:7">
+	3. Email: <a href="mailto:program.intake@usda.gov">program.intake@usda.gov</a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:17:61"></div>
+<p data-zesty-id="content:textarea:18:22">
+	This institution is an equal opportunity provider.
+</p>
+		</div>
+	</div>
+</div>

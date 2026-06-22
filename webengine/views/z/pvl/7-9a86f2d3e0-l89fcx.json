@@ -1,0 +1,309 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:wysiwyg_basic:1:68": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/2e61761e-8799-49c8-92bd-a2fb8614346a_daycampback.png');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5 style=\"text-align:center;\">For More Information</h5>\n<p style=\"text-align:center;;color:#fff>\n\tPlease click on the location you are interested in<br>\n\tand contact us directly by phone or email.\n</p>\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;;color:#fff>\n\t\t\t\t\t<strong>Lake Worth Corps</strong><br>\n\t\t\t\t\t4051 Kirk Rd<br>\n\t\t\t\t\tLake Worth, FL 33461<br>\n\t\t\t\t\t<a href=\"tel:+15619688189\" target=\"\">(561) 968-8189</a><br>\n\t\t\t\t\t<a href=\"mailto:Victoria.Frutos@uss.salvationarmy.org\" target=\"\">Victoria.Frutos@uss.salvationarmy.org</a>\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"col col-md-6 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;;color:#fff>\n\t\t\t\t\t<strong>Northwest Community Center</strong><br>\n\t\t\t\t\t600 N Rosemary Ave<br>\n\t\t\t\t\tWest Palm Beach, FL 33401<br>\n\t\t\t\t\t<a href=\"tel:+15618336767\" target=\"\">(561) 833-6767</a><br>\n\t\t\t\t\t<a href=\"mailto:Victoria.Frutos@uss.salvationarmy.org\" target=\"\">Victoria.Frutos@uss.salvationarmy.org</a>\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n                </div>\n            </div>\n        </div>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<div style=\"position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/2e61761e-8799-49c8-92bd-a2fb8614346a_daycampback.png');background-position:center center;background-repeat:repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5 style=\"text-align:center;\">For More Information</h5>\n\n<p style=\"text-align:center;;color:#fff>\n\tPlease click on the location you are interested in<br>\n\tand contact us directly by phone or email.\n</p>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;;color:#fff>\n\t\t\t\t\t<strong>Lake Worth Corps</strong><br>\n\t\t\t\t\t4051 Kirk Rd<br>\n\t\t\t\t\tLake Worth, FL 33461<br>\n\t\t\t\t\t<a href=\"tel:+15619688189\" target=\"\">(561) 968-8189</a><br>\n\t\t\t\t\t<a href=\"mailto:Victoria.Frutos@uss.salvationarmy.org\" target=\"\">Victoria.Frutos@uss.salvationarmy.org</a>\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-6 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;;color:#fff>\n\t\t\t\t\t<strong>Northwest Community Center</strong><br>\n\t\t\t\t\t600 N Rosemary Ave<br>\n\t\t\t\t\tWest Palm Beach, FL 33401<br>\n\t\t\t\t\t<a href=\"tel:+15618336767\" target=\"\">(561) 833-6767</a><br>\n\t\t\t\t\t<a href=\"mailto:Victoria.Frutos@uss.salvationarmy.org\" target=\"\">Victoria.Frutos@uss.salvationarmy.org</a>\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n                </div>\n            </div>\n        </div>",
+				"model": "6",
+				"position": 0,
+				"fullName": "content:wysiwyg_basic:1:68",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:1:68",
+				"styles": {
+					"position": "relative",
+					"overflow": "hidden",
+					"minHeight": "520px",
+					"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/2e61761e-8799-49c8-92bd-a2fb8614346a_daycampback.png')",
+					"backgroundPosition": "center center",
+					"backgroundRepeat": "repeat",
+					"backgroundSize": "cover",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:2:24": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 1,
+				"fullName": "design:design:whitespace-sm:2:24",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:text:3:29": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">Summer Day Camp 2026<br>\n&nbsp;</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "Summer Day Camp 2026 &nbsp;",
+				"position": 2,
+				"fullName": "content:text:3:29",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:3:29",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:8:39": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 3,
+				"fullName": "design:design:whitespace-sm:8:39",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:columns:2columnswideleft:15:47": {
+				"uid": "19",
+				"name": "2 Columns - Left Big",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "4",
+						"html": "<div class=\"col-md-7 col-sm-12\">*</div>",
+						"classes": "col-md-7 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "2",
+						"html": "<div class=\"col-md-5 col-sm-12\">*</div>",
+						"classes": "col-md-5 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 4,
+				"fullName": "design:columns:2columnswideleft:15:47",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0": {
+						"width": "4",
+						"html": "<div class=\"col-md-7 col-sm-12\">*</div>",
+						"classes": "col-md-7 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:4:92": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t\t\t\t\t<strong>Ages:</strong> Children 5 years to&nbsp;13 years old.\n\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Ages: Children 5 years to&nbsp;13 years old.",
+								"position": 0,
+								"fullName": "content:textarea:4:92",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:4:92",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:5:64": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>Hours: </strong>8:00am - 5:30pm</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Hours: 8:00am - 5:30pm",
+								"position": 1,
+								"fullName": "content:textarea:5:64",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:5:64",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:6:69": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>Fee:</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Fee:",
+								"position": 2,
+								"fullName": "content:textarea:6:69",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:6:69",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:7:69": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<ul>\n\t\t\t\t\t<li>First child $75&nbsp;weekly</li>\n\t\t\t\t\t<li>Family discount available for families with one or more child</li>\n\t\t\t\t</ul>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<ul>\n\t\t\t\t\t<li>First child $75&nbsp;weekly</li>\n\t\t\t\t\t<li>Family discount available for families with one or more child</li>\n\t\t\t\t</ul>",
+								"model": "6",
+								"position": 3,
+								"fullName": "content:wysiwyg_basic:7:69",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:7:69",
+								"styles": {},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:9:39": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>Registration Fee:</strong>&nbsp;$25.00 per child</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Registration Fee:&nbsp;$25.00 per child",
+								"position": 4,
+								"fullName": "content:textarea:9:39",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:9:39",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:10:77": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>Amazing Benefits:</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Amazing Benefits:",
+								"position": 5,
+								"fullName": "content:textarea:10:77",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:10:77",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:11:61": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<ul>\n\t\t\t\t\t<li>Bible Classes</li>\n\t\t\t\t\t<li>Character Building</li>\n\t\t\t\t\t<li>Field Trips</li>\n\t\t\t\t\t<li>Christian Environment</li>\n\t\t\t\t\t<li>Daily Lunch and 2 Snacks&nbsp;</li>\n\t\t\t\t\t<li>STEM, Music/Arts, and&nbsp;Other Enrichment Activities</li>\n\t\t\t\t</ul>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<ul>\n\t\t\t\t\t<li>Bible Classes</li>\n\t\t\t\t\t<li>Character Building</li>\n\t\t\t\t\t<li>Field Trips</li>\n\t\t\t\t\t<li>Christian Environment</li>\n\t\t\t\t\t<li>Daily Lunch and 2 Snacks&nbsp;</li>\n\t\t\t\t\t<li>STEM, Music/Arts, and&nbsp;Other Enrichment Activities</li>\n\t\t\t\t</ul>",
+								"model": "6",
+								"position": 6,
+								"fullName": "content:wysiwyg_basic:11:61",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:11:61",
+								"styles": {},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:13:43": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t\t\t\t\t<strong>Including a first come, first served residential camp at Camp Keystone, FL.</strong>\n\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Including a first come, first served residential camp at Camp Keystone, FL.",
+								"position": 7,
+								"fullName": "content:textarea:13:43",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:13:43",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columnswideleft:15:47-4:2 Columns - Left Big:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columnswideleft:15:47-2:2 Columns - Left Big:1": {
+						"width": "2",
+						"html": "<div class=\"col-md-5 col-sm-12\">*</div>",
+						"classes": "col-md-5 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:14:34": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"100%\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/e2b47c6c-a758-4b9a-a430-0d869c2ee03a_28680_Tuscon_Children_Smiling_4.png\" alt=\"placeholder\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/e2b47c6c-a758-4b9a-a430-0d869c2ee03a_28680_Tuscon_Children_Smiling_4.png",
+								"position": 0,
+								"fullName": "content:images:14:34",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:2columnswideleft:15:47-2:2 Columns - Left Big:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					}
+				}
+			}
+		}
+	}
+}

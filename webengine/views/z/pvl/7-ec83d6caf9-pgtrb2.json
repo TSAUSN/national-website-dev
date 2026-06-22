@@ -1,0 +1,115 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"design:columns:1 Column:10:85": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:10:85",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:10:85-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:columns:2columnswideleft:7:26": {
+								"uid": "19",
+								"name": "2 Columns - Left Big",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:4\"></div><div style=\"flex:2\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "4",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "2",
+										"html": "<div class=\"col-md-5 col-sm-12\">*</div>",
+										"classes": "col-md-5 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 0,
+								"fullName": "design:columns:2columnswideleft:7:26",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:10:85-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columnswideleft:7:26-2:2 Columns - Left Big:1": {
+										"width": "2",
+										"html": "<div class=\"col-md-5 col-sm-12\">*</div>",
+										"classes": "col-md-5 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:4:67": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<script>\n\n\n var _ctct_m = \"6e1bcaad9bb68e8ea9f855d654915e76\";\t\t\t\t</script>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<script>\n\n\n var _ctct_m = \"6e1bcaad9bb68e8ea9f855d654915e76\";\t\t\t\t</script>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:4:67",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:4:67",
+												"styles": {},
+												"newLoc": "design:columns:2columnswideleft:7:26-2:2 Columns - Left Big:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

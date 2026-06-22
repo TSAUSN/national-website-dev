@@ -1,0 +1,28 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-dae7c69396-z9m6qx')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:16:8">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:16:8-1:1 Column:0">
+<h5 data-zesty-id="content:text:1:41">Emergency Homeless Shelters</h5>
+<p data-zesty-id="content:textarea:2:26">
+	The Salvation Army emergency homeless shelters address the temporary housing needs of transient, chronically, at-risk, and newly homeless individuals in Greenville County. Our emergency homeless shelters provide a clean, safe, and comfortable environment to those experiencing homelessness, and shelter residents also receive three meals per day, personal hygiene items, clothing, and referrals to other agencies based on individual assessment.
+</p>
+<p data-zesty-id="content:wysiwyg_basic:3:56">
+	These critical community services greatly enhance an individual's or family's ability to regain financial stability. Due to the high demand in our community, our shelters have slowed intake of new residents. Please call <a href="tel:8642354803" target=""><strong>864-235-4803</strong></a> (men’s shelter extension: <strong>66126</strong> and women’s shelter extension:<strong> 66147</strong>) to speak to the shelter staff about available bed space. Note: we do not hold beds.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:45"></div>
+<p data-zesty-id="content:textarea:5:45">
+	In addition, individuals who pass through our shelters receive a wide range of services to help them work toward a stable residence. The Salvation Army's emergency homeless shelters provide more than just a good night's sleep for homeless men and women; they provide the necessary tools to transition men and women from homelessness to self-sufficiency. Currently, the Women's and Children's Refuge houses up to 36 women and children, and the Men's Refuge houses up to 60 men.&nbsp;
+</p>
+<p data-zesty-id="content:wysiwyg_basic:6:8">
+	United Way is a good resource if we are not available to help you. You can reach them by Phone: <a href="tel: 8644673333" target="">864-467-3333</a>&nbsp;and&nbsp;Email:&nbsp;<a href="mailto:info@unitedwaygc.org" target="">info@unitedwaygc.org</a>.&nbsp;
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:7:30"></div>
+<p data-zesty-id="content:textarea:9:32">
+	If you'd like to donate to support our mission to provide shelter for those experiencing homelessness in Greenville County, SC, please click on the button below. Thank you!
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:10:50">
+	<a href="https://give.salvationarmycarolinas.org/give/175533/#!/donation/checkout"><span class="btn btn-solid btn-red">Donate Now</span></a>
+</p>
+		</div>
+	</div>
+</div>

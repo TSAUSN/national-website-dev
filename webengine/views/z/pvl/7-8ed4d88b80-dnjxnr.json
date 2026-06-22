@@ -1,0 +1,1828 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:67:0:62": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-eaa7a3f891-mcltz3')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-eaa7a3f891-mcltz3')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:67:0:62",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:105:97": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:flex;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:105:97",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:105:97-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:102:73": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:102:73",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:1:1": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 style=\"text-align:center;\">Who we are</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Who we are",
+								"position": 1,
+								"fullName": "content:text:1:1",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:1:1",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:2:19": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tThe Salvation Army Red Shield Youth Centers&nbsp;of Tulsa Metropolitan&nbsp;area provide a safe and nurturing environment for young people to succeed academically, develop good character and leadership skills, engage in healthy activities, and find spiritual guidance. These clubs offer programs such as tutoring, sports, arts, and character-building activities to encourage personal growth.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "The Salvation Army Red Shield Youth Centers&nbsp;of Tulsa Metropolitan&nbsp;area provide a safe and nurturing environment for young people to succeed academically, develop good character and leadership skills, engage in healthy activities, and find spiritual guidance. These clubs offer programs such as tutoring, sports, arts, and character-building activities to encourage personal growth.",
+								"position": 2,
+								"fullName": "content:textarea:2:19",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:2:19",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:3:63": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tThrough a holistic approach that incorporates faith-based values, the clubs help young people find purpose and meaning in their lives, and offer love and acceptance to all. The goal is to help kids and adults build better futures, whether through academic achievement, athletic success, artistic expression, or personal growth.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Through a holistic approach that incorporates faith-based values, the clubs help young people find purpose and meaning in their lives, and offer love and acceptance to all. The goal is to help kids and adults build better futures, whether through academic achievement, athletic success, artistic expression, or personal growth.",
+								"position": 3,
+								"fullName": "content:textarea:3:63",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:3:63",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-md:4:54": {
+								"uid": "352",
+								"name": "Whitespace - Medium",
+								"type": "design",
+								"classes": "my-4",
+								"html": "<div class=\"my-4\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 4,
+								"fullName": "design:design:whitespace-md:4:54",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:images:4:94": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/5cb966d1-6fde-45e6-b62a-6fa2b056521e_Screen+Shot+2023-05-15+at+8.33.13+AM.png\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/5cb966d1-6fde-45e6-b62a-6fa2b056521e_Screen+Shot+2023-05-15+at+8.33.13+AM.png",
+								"position": 5,
+								"fullName": "content:images:4:94",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:6:83": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 6,
+								"fullName": "design:design:whitespace-sm:6:83",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:7:54": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 style=\"text-align:center;\">Our Programs</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Our Programs",
+								"position": 7,
+								"fullName": "content:text:7:54",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:7:54",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:8:94": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tThe Salvation Army Red Shield Youth Centers offers a range of programs for youth, including seasonal camps, sports such as volleyball and flag football, swimming lessons, and after-school programs. These programs provide a safe and fun environment where children can learn new skills, make friends, and build confidence and self-esteem. The camps and sports programs teach important life skills like teamwork and sportsmanship, while the after-school programs promote academic success and personal development.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "The Salvation Army Red Shield Youth Centers offers a range of programs for youth, including seasonal camps, sports such as volleyball and flag football, swimming lessons, and after-school programs. These programs provide a safe and fun environment where children can learn new skills, make friends, and build confidence and self-esteem. The camps and sports programs teach important life skills like teamwork and sportsmanship, while the after-school programs promote academic success and personal development.",
+								"position": 8,
+								"fullName": "content:textarea:8:94",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:8:94",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:9:23": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tIf you're interested in learning more about the&nbsp;Red Shield Youth Centers and the programs we offer, contact the Youth Center nearest to you&nbsp;to get more information about specific programs, schedules, and availability.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "If you're interested in learning more about the&nbsp;Red Shield Youth Centers and the programs we offer, contact the Youth Center nearest to you&nbsp;to get more information about specific programs, schedules, and availability.",
+								"position": 9,
+								"fullName": "content:textarea:9:23",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:9:23",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:10:29": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 10,
+								"fullName": "design:design:whitespace-xl:10:29",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:11:35": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/red-shield-youth-centers-of-tulsa\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">Find A Location Near You</span></a></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/red-shield-youth-centers-of-tulsa\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">Find A Location Near You</span></a></div>",
+								"model": "6",
+								"position": 11,
+								"fullName": "content:wysiwyg_basic:11:35",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:11:35",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:12:11": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 12,
+								"fullName": "design:design:whitespace-sm:12:11",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:14:67": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div class=\"ministries-grid\"><div class=\"row\"><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/02c6a888-31c1-47b4-99ec-41f7eac5ec54_kidsweb2.jpg\" alt=\"After School Program\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>After School Program</h6><p>The Red Shield Youth Centers provide a safe and nurturing environment for kids who need a place to land after school.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/after-school-program\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/a574a350-e0e0-437c-96c6-ce4a168aa6d6_ministryGrid-teachKids.jpg\" alt=\"Summer Day Camp\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Summer Day Camp</h6><p>When the school year ends, many parents rely on the Red Shield Youth Centers to provide the care and supervision throughout the work week.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/summer-day-camp\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/7a338585-f03b-458c-8825-8888c520ecbc_Camp.jpg\" alt=\"Heart O Hills (Overnight Camp)\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Heart O Hills (Overnight Camp)</h6><p>Located just outside of Tahlequah, Oklahoma, Camp Heart O Hills provides the camping adventure of a lifetime.</p><p><a href=\"http://www.campheartohills.com\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div></div><div class=\"row\"><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/815186be-9957-487f-b2ca-f5823a0144a4_basketball.jpg\" alt=\"Youth Basketball\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Basketball</h6><p>The Red Shield Youth Center hosts youth basketball leagues for children of all ages.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-basketball\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/b03a1f64-e472-4fa8-b4ac-783425804e0c_volley.jpg\" alt=\"Youth Girl's Volleyball\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Girl's Volleyball</h6><p>Youth Girl's Volleyball leagues are available at the Red Shield Youth Centers, encouraging a spirit of competition in a safe setting.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-girls-volleyball\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/35dc438b-1fa8-4da8-9716-80a2606a637c_foot.jpg\" alt=\"Youth Flag Football\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Flag Football</h6><p>Competitive Youth Flag Football leagues are a great option for kids who are looking to keep active throughout the year.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-flag-football\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div></div><div class=\"row\"><div class=\"col-lg-6 col-md-6 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f3f983f3-17c8-4fe2-82d9-ca236c985bbf_swim.jpg\" alt=\"Youth Swimming Programs\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Swimming Programs</h6><p>From open swimming sessions, to group swim lessons, the Red Shield Youth Center is a great place to cool off in the summer.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-swimming-programs\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-6 col-md-6 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d0ca3051-d142-42b2-8ab3-04521c386177_aerobic.jpg\" alt=\"Adult Water Aerobics\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Adult Water Aerobics</h6><p>For adults looking for a fun way to remain active and stay fit, the Red Shield Youth Center facility offers Adult Water Aerobics.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/adult-water-aerobics\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div></div></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"ministries-grid\"><div class=\"row\"><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/02c6a888-31c1-47b4-99ec-41f7eac5ec54_kidsweb2.jpg\" alt=\"After School Program\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>After School Program</h6><p>The Red Shield Youth Centers provide a safe and nurturing environment for kids who need a place to land after school.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/after-school-program\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/a574a350-e0e0-437c-96c6-ce4a168aa6d6_ministryGrid-teachKids.jpg\" alt=\"Summer Day Camp\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Summer Day Camp</h6><p>When the school year ends, many parents rely on the Red Shield Youth Centers to provide the care and supervision throughout the work week.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/summer-day-camp\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/7a338585-f03b-458c-8825-8888c520ecbc_Camp.jpg\" alt=\"Heart O Hills (Overnight Camp)\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Heart O Hills (Overnight Camp)</h6><p>Located just outside of Tahlequah, Oklahoma, Camp Heart O Hills provides the camping adventure of a lifetime.</p><p><a href=\"http://www.campheartohills.com\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div></div><div class=\"row\"><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/815186be-9957-487f-b2ca-f5823a0144a4_basketball.jpg\" alt=\"Youth Basketball\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Basketball</h6><p>The Red Shield Youth Center hosts youth basketball leagues for children of all ages.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-basketball\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/b03a1f64-e472-4fa8-b4ac-783425804e0c_volley.jpg\" alt=\"Youth Girl's Volleyball\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Girl's Volleyball</h6><p>Youth Girl's Volleyball leagues are available at the Red Shield Youth Centers, encouraging a spirit of competition in a safe setting.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-girls-volleyball\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-4 col-md-4 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/35dc438b-1fa8-4da8-9716-80a2606a637c_foot.jpg\" alt=\"Youth Flag Football\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Flag Football</h6><p>Competitive Youth Flag Football leagues are a great option for kids who are looking to keep active throughout the year.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-flag-football\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div></div><div class=\"row\"><div class=\"col-lg-6 col-md-6 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f3f983f3-17c8-4fe2-82d9-ca236c985bbf_swim.jpg\" alt=\"Youth Swimming Programs\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Youth Swimming Programs</h6><p>From open swimming sessions, to group swim lessons, the Red Shield Youth Center is a great place to cool off in the summer.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/youth-swimming-programs\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div><div class=\"col-lg-6 col-md-6 col-sm-12\"><div class=\"ministries-card\"><img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d0ca3051-d142-42b2-8ab3-04521c386177_aerobic.jpg\" alt=\"Adult Water Aerobics\" class=\"img-fluid d-block mx-auto w-100 mb-2\" loading=\"lazy\"><h6>Adult Water Aerobics</h6><p>For adults looking for a fun way to remain active and stay fit, the Red Shield Youth Center facility offers Adult Water Aerobics.</p><p><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/adult-water-aerobics\" target=\"_blank\"><span class=\"btn btn-solid btn-red\">Learn More</span></a></p></div></div></div></div>",
+								"model": "6",
+								"position": 13,
+								"fullName": "content:wysiwyg_basic:14:67",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:14:67",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:15:80": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 14,
+								"fullName": "design:design:whitespace-sm:15:80",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:17:73": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 style=\"text-align:center;\">Our Programs</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Our Programs",
+								"position": 15,
+								"fullName": "content:text:17:73",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:17:73",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:columns:2columns:24:4": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 16,
+								"fullName": "design:columns:2columns:24:4",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:24:4-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:18:14": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-homework\"></i> Homework Assistance and Counseling</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Homework Assistance and Counseling",
+												"position": 0,
+												"fullName": "content:text:18:14",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:18:14",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:24:4-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:19:40": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tThe Salvation Army Red Shield Youth Centers serve children and youth of all ages, up to 18 years old. We provide one-on-one assistance with homework and school assignments, as well as the teaching and advancement of literacy and study skills.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "The Salvation Army Red Shield Youth Centers serve children and youth of all ages, up to 18 years old. We provide one-on-one assistance with homework and school assignments, as well as the teaching and advancement of literacy and study skills.",
+												"position": 1,
+												"fullName": "content:textarea:19:40",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:19:40",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:24:4-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:20:69": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tMany of our facilities also include computer labs to help children with their homework.&nbsp;\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Many of our facilities also include computer labs to help children with their homework.&nbsp;",
+												"position": 2,
+												"fullName": "content:textarea:20:69",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:20:69",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:24:4-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:24:4-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:21:41": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-kid-ball\"></i> Sports, Clubs, and Extracurricular Activities</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Sports, Clubs, and Extracurricular Activities",
+												"position": 0,
+												"fullName": "content:text:21:41",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:21:41",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:24:4-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:22:22": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tHealthy minds and healthy bodies are both crucial elements of youth development. Our low-cost programs offer children from low-income neighborhoods a chance to play sports, learn athletic skills, and cultivate healthy, safe relationships with friends through better social skills.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Healthy minds and healthy bodies are both crucial elements of youth development. Our low-cost programs offer children from low-income neighborhoods a chance to play sports, learn athletic skills, and cultivate healthy, safe relationships with friends through better social skills.",
+												"position": 1,
+												"fullName": "content:textarea:22:22",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:22:22",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:24:4-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:23:65": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tThese programs go far beyond athletics.&nbsp;At our clubs we off STEM programs, giving students a chance to learn in an engaging, interesting way.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "These programs go far beyond athletics.&nbsp;At our clubs we off STEM programs, giving students a chance to learn in an engaging, interesting way.",
+												"position": 2,
+												"fullName": "content:textarea:23:65",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:23:65",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:24:4-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:columns:2columns:29:48": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 17,
+								"fullName": "design:columns:2columns:29:48",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:29:48-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:25:92": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-paint\"></i>&nbsp;Art&nbsp;and Music Programs</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "&nbsp;Art&nbsp;and Music Programs",
+												"position": 0,
+												"fullName": "content:text:25:92",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:25:92",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:29:48-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:26:66": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tOur youth community programs enable children to experience music and art education in positive, safe&nbsp;environments. Our wide array of classes focuses on everything from choir, band, and dancing to drawing, photography, writing, and acting.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Our youth community programs enable children to experience music and art education in positive, safe&nbsp;environments. Our wide array of classes focuses on everything from choir, band, and dancing to drawing, photography, writing, and acting.",
+												"position": 1,
+												"fullName": "content:textarea:26:66",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:26:66",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:48-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:29:48-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:27:49": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-family\"></i> Spiritual Mentorship</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Spiritual Mentorship",
+												"position": 0,
+												"fullName": "content:text:27:49",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:27:49",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:29:48-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:28:80": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tEach Red Shield Youth Center is dedicated to helping students discover their own relationship with God. From devotionals and chapel services, to having mentors at the Youth Center&nbsp;passionate about helping people on their journey.&nbsp;\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Each Red Shield Youth Center is dedicated to helping students discover their own relationship with God. From devotionals and chapel services, to having mentors at the Youth Center&nbsp;passionate about helping people on their journey.&nbsp;",
+												"position": 1,
+												"fullName": "content:textarea:28:80",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:28:80",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:48-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:30:6": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 18,
+								"fullName": "design:design:whitespace-sm:30:6",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:31:71": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 style=\"text-align:center;\">Our Programs</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Our Programs",
+								"position": 19,
+								"fullName": "content:text:31:71",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:31:71",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:columns:2columns:38:61": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 20,
+								"fullName": "design:columns:2columns:38:61",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:38:61-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:32:58": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-homework\"></i> Homework Assistance and Counseling</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Homework Assistance and Counseling",
+												"position": 0,
+												"fullName": "content:text:32:58",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:32:58",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:38:61-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:33:8": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tThe Salvation Army Red Shield Youth Centers serve children and youth of all ages, up to 18 years old. We provide one-on-one assistance with homework and school assignments, as well as the teaching and advancement of literacy and study skills.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "The Salvation Army Red Shield Youth Centers serve children and youth of all ages, up to 18 years old. We provide one-on-one assistance with homework and school assignments, as well as the teaching and advancement of literacy and study skills.",
+												"position": 1,
+												"fullName": "content:textarea:33:8",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:33:8",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:61-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:34:16": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tMany of our facilities also include computer labs to help children with their homework.&nbsp;\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Many of our facilities also include computer labs to help children with their homework.&nbsp;",
+												"position": 2,
+												"fullName": "content:textarea:34:16",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:34:16",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:61-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:38:61-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:35:80": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-kid-ball\"></i> Sports, Clubs, and Extracurricular Activities</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Sports, Clubs, and Extracurricular Activities",
+												"position": 0,
+												"fullName": "content:text:35:80",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:35:80",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:38:61-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:36:4": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tHealthy minds and healthy bodies are both crucial elements of youth development. Our low-cost programs offer children from low-income neighborhoods a chance to play sports, learn athletic skills, and cultivate healthy, safe relationships with friends through better social skills.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Healthy minds and healthy bodies are both crucial elements of youth development. Our low-cost programs offer children from low-income neighborhoods a chance to play sports, learn athletic skills, and cultivate healthy, safe relationships with friends through better social skills.",
+												"position": 1,
+												"fullName": "content:textarea:36:4",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:36:4",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:61-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:37:43": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tThese programs go far beyond athletics.&nbsp;At our clubs we off STEM programs, giving students a chance to learn in an engaging, interesting way.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "These programs go far beyond athletics.&nbsp;At our clubs we off STEM programs, giving students a chance to learn in an engaging, interesting way.",
+												"position": 2,
+												"fullName": "content:textarea:37:43",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:37:43",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:38:61-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:columns:2columns:43:63": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 21,
+								"fullName": "design:columns:2columns:43:63",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:43:63-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:39:86": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-paint\"></i>&nbsp;Art&nbsp;and Music Programs</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "&nbsp;Art&nbsp;and Music Programs",
+												"position": 0,
+												"fullName": "content:text:39:86",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:39:86",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:43:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:40:61": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tOur youth community programs enable children to experience music and art education in positive, safe&nbsp;environments. Our wide array of classes focuses on everything from choir, band, and dancing to drawing, photography, writing, and acting.\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Our youth community programs enable children to experience music and art education in positive, safe&nbsp;environments. Our wide array of classes focuses on everything from choir, band, and dancing to drawing, photography, writing, and acting.",
+												"position": 1,
+												"fullName": "content:textarea:40:61",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:40:61",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:43:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:43:63-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:41:70": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><i class=\"icon icon-family\"></i> Spiritual Mentorship</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Spiritual Mentorship",
+												"position": 0,
+												"fullName": "content:text:41:70",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:41:70",
+												"styles": {
+													"textAlign": "center",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:43:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:42:6": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t\t\tEach Red Shield Youth Center is dedicated to helping students discover their own relationship with God. From devotionals and chapel services, to having mentors at the Youth Center&nbsp;passionate about helping people on their journey.&nbsp;\n\t\t\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Each Red Shield Youth Center is dedicated to helping students discover their own relationship with God. From devotionals and chapel services, to having mentors at the Youth Center&nbsp;passionate about helping people on their journey.&nbsp;",
+												"position": 1,
+												"fullName": "content:textarea:42:6",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:42:6",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:43:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"content:wysiwyg_basic:44:8": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/18cab063-7017-4861-a412-1fc5e4834a00_IMG_8794.JPG\" alt=\"Theater Image\" class=\"filter filter-none img-fluid w-100\" style=\"display:block;max-width:100%;height:auto;margin:1rem auto;\" loading=\"lazy\">",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/18cab063-7017-4861-a412-1fc5e4834a00_IMG_8794.JPG\" alt=\"Theater Image\" class=\"filter filter-none img-fluid w-100\" style=\"display:block;max-width:100%;height:auto;margin:1rem auto;\" loading=\"lazy\">",
+								"model": "6",
+								"position": 22,
+								"fullName": "content:wysiwyg_basic:44:8",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:44:8",
+								"styles": {
+									"display": "block",
+									"maxWidth": "100%",
+									"height": "auto",
+									"margin": "1rem auto"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:45:86": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 23,
+								"fullName": "design:design:whitespace-sm:45:86",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:46:29": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 style=\"text-align:center;\">Our Locations</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Our Locations",
+								"position": 24,
+								"fullName": "content:text:46:29",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:46:29",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:text:47:33": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><b>CREEK COUNTY/SAPULPA UNIT:</b></h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "CREEK COUNTY/SAPULPA UNIT:",
+								"position": 25,
+								"fullName": "content:text:47:33",
+								"htmlElement": "h6",
+								"primarytype": "content",
+								"id": "content:text:47:33",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:48:95": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t1721 South Hickory, Sapulpa, OK\n\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "1721 South Hickory, Sapulpa, OK",
+								"position": 26,
+								"fullName": "content:textarea:48:95",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:48:95",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:49:3": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9182244415\">918.224.4415</a> |&nbsp;<a href=\"mailto:sapulpabgc@uss.salvationarmy.org\">sapulpabgc@uss.salvationarmy.org</a>&nbsp;\n\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9182244415\">918.224.4415</a> |&nbsp;<a href=\"mailto:sapulpabgc@uss.salvationarmy.org\">sapulpabgc@uss.salvationarmy.org</a>&nbsp;\n\t\t</p>",
+								"model": "6",
+								"position": 27,
+								"fullName": "content:wysiwyg_basic:49:3",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:49:3",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:50:65": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 28,
+								"fullName": "design:design:whitespace-sm:50:65",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:51:64": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t\t\tUnit Director: Mallory Parker\n\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Unit Director: Mallory Parker",
+								"position": 29,
+								"fullName": "content:textarea:51:64",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:51:64",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:52:4": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 30,
+								"fullName": "design:design:whitespace-xl:52:4",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:53:0": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/creek-county-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/creek-county-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+								"model": "6",
+								"position": 31,
+								"fullName": "content:wysiwyg_basic:53:0",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:53:0",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:54:1": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 32,
+								"fullName": "design:design:whitespace-sm:54:1",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:69:36": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 33,
+								"fullName": "design:columns:2columns:69:36",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:69:36-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:55:83": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\"><b>MABEE RED SHIELD UNIT</b></h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "MABEE RED SHIELD UNIT",
+												"position": 0,
+												"fullName": "content:text:55:83",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:55:83",
+												"styles": {
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:56:78": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t1231 North Harvard, Tulsa, OK\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1231 North Harvard, Tulsa, OK",
+												"position": 1,
+												"fullName": "content:textarea:56:78",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:56:78",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:57:30": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9188342464\">918.834.2464</a> |&nbsp;<a href=\"mailto:mabeeredshieldbgc@uss.salvationarmy.org\">mabeeredshieldbgc@uss.salvationarmy.org</a>&nbsp;\n\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9188342464\">918.834.2464</a> |&nbsp;<a href=\"mailto:mabeeredshieldbgc@uss.salvationarmy.org\">mabeeredshieldbgc@uss.salvationarmy.org</a>&nbsp;\n\t\t</p>",
+												"model": "6",
+												"position": 2,
+												"fullName": "content:wysiwyg_basic:57:30",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:57:30",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:59:19": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\tUnit Director: Jamar Giddings\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Unit Director: Jamar Giddings",
+												"position": 3,
+												"fullName": "content:textarea:59:19",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:59:19",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:60:88": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/mabee-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/mabee-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:60:88",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:60:88",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:69:36-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:62:86": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\">NORTH MABEE UNIT</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "NORTH MABEE UNIT",
+												"position": 0,
+												"fullName": "content:text:62:86",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:62:86",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:63:57": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t3001 North Martin Luther King Jr. Blvd, Tulsa, OK&nbsp;\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "3001 North Martin Luther King Jr. Blvd, Tulsa, OK&nbsp;",
+												"position": 1,
+												"fullName": "content:textarea:63:57",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:63:57",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:64:38": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9184257534\">918.425.7534</a> |&nbsp;<a href=\"mailto:northmabeebgc@uss.salvationarmy.org\">northmabeebgc@uss.salvationarmy.org</a>&nbsp;\n\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9184257534\">918.425.7534</a> |&nbsp;<a href=\"mailto:northmabeebgc@uss.salvationarmy.org\">northmabeebgc@uss.salvationarmy.org</a>&nbsp;\n\t\t</p>",
+												"model": "6",
+												"position": 2,
+												"fullName": "content:wysiwyg_basic:64:38",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:64:38",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:66:5": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\tUnit Director: Latrice Fowlkes\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Unit Director: Latrice Fowlkes",
+												"position": 3,
+												"fullName": "content:textarea:66:5",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:66:5",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:67:35": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/north-mabee-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/north-mabee-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:67:35",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:67:35",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:69:36-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:73:98": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 34,
+								"fullName": "design:design:whitespace-sm:73:98",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:84:31": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 35,
+								"fullName": "design:columns:2columns:84:31",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:84:31-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:70:87": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\">SAND SPRINGS UNIT</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "SAND SPRINGS UNIT",
+												"position": 0,
+												"fullName": "content:text:70:87",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:70:87",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:71:35": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t4403 South 129 West Ave. Sand Springs, OK\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "4403 South 129 West Ave. Sand Springs, OK",
+												"position": 1,
+												"fullName": "content:textarea:71:35",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:71:35",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:72:67": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9182452237\">918.245.2237</a> |&nbsp;<a href=\"mailto:sandspringsbgc@uss.salvationarmy.org\">sandspringsbgc@uss.salvationarmy.org</a>\n\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9182452237\">918.245.2237</a> |&nbsp;<a href=\"mailto:sandspringsbgc@uss.salvationarmy.org\">sandspringsbgc@uss.salvationarmy.org</a>\n\t\t</p>",
+												"model": "6",
+												"position": 2,
+												"fullName": "content:wysiwyg_basic:72:67",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:72:67",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:74:98": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\tUnit Director:&nbsp;Mary Bechtold\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Unit Director:&nbsp;Mary Bechtold",
+												"position": 3,
+												"fullName": "content:textarea:74:98",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:74:98",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:75:86": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/sand-springs-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<div style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/sand-springs-red-shield-youth-center\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:75:86",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:75:86",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:84:31-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:77:7": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6 class=\"greyBoxes-title\" style=\"text-align:center;\">ADMINISTRATIVE OFFICES</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "ADMINISTRATIVE OFFICES",
+												"position": 0,
+												"fullName": "content:text:77:7",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:77:7",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:78:26": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t1231 N. Harvard Ave. Tulsa, OK\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1231 N. Harvard Ave. Tulsa, OK",
+												"position": 1,
+												"fullName": "content:textarea:78:26",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:78:26",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:79:83": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9188356902\">918.835.6902</a> |&nbsp;<a href=\"mailto:MetroTulsaBGC@uss.salvationarmy.org\">MetroTulsaBGC@uss.salvationarmy.org</a>\n\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\">\n\t\t\t<a href=\"tel:9188356902\">918.835.6902</a> |&nbsp;<a href=\"mailto:MetroTulsaBGC@uss.salvationarmy.org\">MetroTulsaBGC@uss.salvationarmy.org</a>\n\t\t</p>",
+												"model": "6",
+												"position": 2,
+												"fullName": "content:wysiwyg_basic:79:83",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:79:83",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:81:22": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t\t\tExecutive Director: Jake Law\n\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Executive Director: Jake Law",
+												"position": 3,
+												"fullName": "content:textarea:81:22",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:81:22",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:82:99": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<div style=\"text-align:center;\"><a href=\"https://www.salarmytulsa.org\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<div style=\"text-align:center;\"><a href=\"https://www.salarmytulsa.org\" target=\"_blank\" style=\"text-align:center;\"><span class=\"btn btn-solid btn-red\">More Information</span></a></div>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:82:99",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:82:99",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:84:31-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:85:66": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 36,
+								"fullName": "design:design:whitespace-sm:85:66",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:images:86:89": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/0b4beeae-9ab7-4614-9876-873bacdd07ce_girls+smiling+and+hugging+2.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/0b4beeae-9ab7-4614-9876-873bacdd07ce_girls+smiling+and+hugging+2.jpg",
+								"position": 37,
+								"fullName": "content:images:86:89",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:88:3": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 38,
+								"fullName": "design:design:whitespace-sm:88:3",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:89:92": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\">Make a difference in the life of a child</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Make a difference in the life of a child",
+								"position": 39,
+								"fullName": "content:text:89:92",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:89:92",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:90:15": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">Sponsorships for The Salvation Army Red Shield Youth Centers empower youth through safe spaces &amp; learning opportunities. Join us in supporting a brighter future for our youth.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Sponsorships for The Salvation Army Red Shield Youth Centers empower youth through safe spaces &amp; learning opportunities. Join us in supporting a brighter future for our youth.",
+								"position": 40,
+								"fullName": "content:textarea:90:15",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:90:15",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:91:35": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/red-shield-youth-centers\"><span class=\"btn btn-solid btn-red\">Sponsorships</span></a></p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\"><a href=\"https://southernusa.salvationarmy.org/tulsa-area-command/red-shield-youth-centers\"><span class=\"btn btn-solid btn-red\">Sponsorships</span></a></p>",
+								"model": "6",
+								"position": 41,
+								"fullName": "content:wysiwyg_basic:91:35",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:91:35",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:105:97-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "flex"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

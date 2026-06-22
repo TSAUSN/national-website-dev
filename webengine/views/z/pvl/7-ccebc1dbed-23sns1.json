@@ -1,0 +1,408 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:15:0:63": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-d6faa98ad9-vqwj1m')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-d6faa98ad9-vqwj1m')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:15:0:63",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:25:27": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:25:27",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:25:27-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:images:1:52": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/dab438ea-0ceb-467a-bcc7-f44f1a949a49_Angel+Tree+icon.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/dab438ea-0ceb-467a-bcc7-f44f1a949a49_Angel+Tree+icon.png",
+								"position": 0,
+								"fullName": "content:images:1:52",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:3:67": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:3:67",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:4:7": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\">Angel Tree Assistance In Oconee County</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Angel Tree Assistance In Oconee County",
+								"position": 2,
+								"fullName": "content:text:4:7",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:4:7",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:5:32": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 3,
+								"fullName": "design:design:whitespace-xl:5:32",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:6:55": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tHolidays often bring added stress to already difficult financial situations. The Salvation Army is here to lend a helping hand to families struggling during this time. We can help provide Christmas gifts, coats and shoes to children ages 0 to 12 years of age. Applications for help are done by appointment only during the month of October each year. Required documents are listed below.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Holidays often bring added stress to already difficult financial situations. The Salvation Army is here to lend a helping hand to families struggling during this time. We can help provide Christmas gifts, coats and shoes to children ages 0 to 12 years of age. Applications for help are done by appointment only during the month of October each year. Required documents are listed below.",
+								"position": 4,
+								"fullName": "content:textarea:6:55",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:6:55",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:7:67": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\tFor an appointment, call <a href=\"tel:8648821160\">864-882-1160</a>.\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\tFor an appointment, call <a href=\"tel:8648821160\">864-882-1160</a>.\n</p>",
+								"model": "6",
+								"position": 5,
+								"fullName": "content:wysiwyg_basic:7:67",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:7:67",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:8:54": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 6,
+								"fullName": "design:design:whitespace-sm:8:54",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:9:55": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong>Documentation Required for Angel Tree Assistance:</strong>\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Documentation Required for Angel Tree Assistance:",
+								"position": 7,
+								"fullName": "content:textarea:9:55",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:9:55",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:10:45": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tCurrent <strong>Photo ID</strong> of parent or legal guardian applying for assistance,&nbsp;<strong>Proof of Guardianship</strong>, if applicable\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Current Photo ID of parent or legal guardian applying for assistance,&nbsp;Proof of Guardianship, if applicable",
+								"position": 8,
+								"fullName": "content:textarea:10:45",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:10:45",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:11:35": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tCurrent <strong>ID for EACH</strong> child being registered that shows their date of birth (birth certificate, Medicaid card, vaccination or school records)\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Current ID for EACH child being registered that shows their date of birth (birth certificate, Medicaid card, vaccination or school records)",
+								"position": 9,
+								"fullName": "content:textarea:11:35",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:11:35",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:12:42": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tCurrent <strong>DSS Household Summary</strong> (if applicable) income verification for the past 30 days for ALL household members\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Current DSS Household Summary (if applicable) income verification for the past 30 days for ALL household members",
+								"position": 10,
+								"fullName": "content:textarea:12:42",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:12:42",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:13:64": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong>Proof of Expenses</strong>&nbsp;for the past 30 days for ALL household members\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Proof of Expenses&nbsp;for the past 30 days for ALL household members",
+								"position": 11,
+								"fullName": "content:textarea:13:64",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:13:64",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:14:47": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong>Proof of Residence</strong> (children must live within Oconee County)\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Proof of Residence (children must live within Oconee County)",
+								"position": 12,
+								"fullName": "content:textarea:14:47",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:14:47",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:15:24": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong>Proof of Emergency</strong> (identify specific emergency outside your control that has occurred within the past 30 days and has kept you from paying a bill or being unable to manage your regular monthly expenses)\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Proof of Emergency (identify specific emergency outside your control that has occurred within the past 30 days and has kept you from paying a bill or being unable to manage your regular monthly expenses)",
+								"position": 13,
+								"fullName": "content:textarea:15:24",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:15:24",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:16:0": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<strong>Coat and shoe size</strong>, <strong>toy ideas</strong> for each child (electronics such as phones, ipads, gaming devices, etc. are not allowed; suggested toy ideas will be provided at time of appointment if needed; <strong>specific toy requests such as bicycles are not guaranteed</strong>)\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Coat and shoe size, toy ideas for each child (electronics such as phones, ipads, gaming devices, etc. are not allowed; suggested toy ideas will be provided at time of appointment if needed; specific toy requests such as bicycles are not guaranteed)",
+								"position": 14,
+								"fullName": "content:textarea:16:0",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:16:0",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:17:6": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t* All information must be provided in order for assistance to be considered\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "* All information must be provided in order for assistance to be considered",
+								"position": 15,
+								"fullName": "content:textarea:17:6",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:17:6",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:18:64": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t* Please be advised that all recipient’s names will be provided to other Oconee County Christmas charities to avoid duplication of assistance.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "* Please be advised that all recipient’s names will be provided to other Oconee County Christmas charities to avoid duplication of assistance.",
+								"position": 16,
+								"fullName": "content:textarea:18:64",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:18:64",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-md:19:83": {
+								"uid": "352",
+								"name": "Whitespace - Medium",
+								"type": "design",
+								"classes": "my-4",
+								"html": "<div class=\"my-4\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 17,
+								"fullName": "design:design:whitespace-md:19:83",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:images:19:79": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"864\" height=\"931\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/ccec6e29-5937-463d-b682-cc06480653ce_Angel+Tree+Partners.jpeg\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/ccec6e29-5937-463d-b682-cc06480653ce_Angel+Tree+Partners.jpeg",
+								"position": 18,
+								"fullName": "content:images:19:79",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:25:27-1:1 Column:0",
+								"oldLoc": "bank"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

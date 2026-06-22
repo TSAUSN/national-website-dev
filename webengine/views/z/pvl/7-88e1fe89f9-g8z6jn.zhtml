@@ -1,0 +1,167 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-ae88a5cfb5-lpw42g')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:63:49">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:63:49-1:1 Column:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a84e5bd0-47b4-41c3-8bfd-eee7947f1cc3_26896_shield.jpg" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:1:81">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:3:42"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:4:72">Who we are</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:5:69">
+	The Salvation Army&nbsp;Youth Centers&nbsp;provide a safe and nurturing environment for children ages six to 18 with a focus&nbsp;on academic success, healthy lifestyles and vocational and character development.&nbsp;
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:6:94">
+	The Centers&nbsp;lead&nbsp;with&nbsp;a holistic approach that incorporates&nbsp;faith-based values into the programs offered. From making new friends and playing sports to getting help with homework and exploring their creativity, the ministries&nbsp;are a place for children to grow and thrive.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:7:27"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/3dc8ce02-f218-4480-9f1a-db4d1fb97a6e_BGC+pic.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:7:91">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:99"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:10:42">Our Programs</h6>
+<p data-zesty-id="content:textarea:11:8">
+	The Salvation Army Youth Centers&nbsp;offer a range of programs for youth including after school programs, seasonal camps, sports such as flag football and basketball, leadership development and more.&nbsp;
+</p>
+<p data-zesty-id="content:textarea:12:18">
+	<strong>Health and Physical Development Programs&nbsp;</strong>emphasize&nbsp;sports leagues, individual sports, physical fitness, health and nutrition classes, medical and dental check-ups, summer lunch programs and outdoor education.
+</p>
+<p data-zesty-id="content:textarea:13:52">
+	<strong>Cultural Enrichment Programs&nbsp;</strong>emphasize&nbsp;arts and crafts, fine arts, photography, music instruction, learning center/library activities such as homework aid, reading and computer instruction, and educational field trips.
+</p>
+<p data-zesty-id="content:textarea:14:40">
+	<strong>Social and Leadership Development Programs&nbsp;</strong>emphasize&nbsp;games room activities, tournaments, quiet games, special interest clubs, special events, and inter-club activities.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:15:95"></div>
+<p data-zesty-id="content:textarea:16:19">
+	<span style="color:#4daee2;"><strong>Membership Requirements</strong></span>
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:17:84"></div>
+<p data-zesty-id="content:textarea:18:39">
+	<span style="color:#4daee2;"><strong>Ages</strong></span>
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:19:43"></div>
+<p data-zesty-id="content:textarea:20:61">
+	Youth ages 6-18
+</p>
+<p data-zesty-id="content:textarea:21:97"><span><span style="color:#4daee2;"><strong>Fees</strong></span></p>
+<p data-zesty-id="content:textarea:22:16">After School Program: $35 annual fee</p>
+<p data-zesty-id="content:textarea:23:62">Summer Program: $150 for year-round members</p>
+<p data-zesty-id="content:textarea:24:67">$250 for Summer Only Members</span></p>
+<p data-zesty-id="content:textarea:25:87"><span><span style="color:#4daee2;"><strong>Hours of Operation</strong></span></span><span><span style="color:#4daee2;"></span></p>
+<p data-zesty-id="content:textarea:26:35"><span style="color:#4daee2;"><u>School Year</u></span></p>
+<p data-zesty-id="content:textarea:27:97">Monday through Friday</p>
+<p data-zesty-id="content:textarea:28:35">2:30 p.m. to 8:30 p.m.</span></p>
+<p data-zesty-id="content:textarea:29:50"><span><span style="color:#4daee2;"><u>Summer</u></span></p>
+<p data-zesty-id="content:textarea:30:34">7:30 a.m. to 6:00 p.m.&nbsp;</span></p>
+<p data-zesty-id="content:textarea:31:59">
+	If you are interested in learning more about The Salvation Army Youth Centers&nbsp;and the programs we offer, contact the location&nbsp;nearest to you to get more information about specific programs and opportunities.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:32:77">
+	<a href="https://southernusa.salvationarmy.org/metro-atlanta/the-salvation-army-youth--centers#Free-Text-Area-4"><span class="btn btn-solid btn-red">Find a Location Near You</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:33:28"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/9e198719-0167-4e6d-8b6a-c8ee31c3ae87_IMG_9525+%281%29.jpg" alt="Theater Image" class="filter filter-none img-fluid" style="display:block;max-width:100%;height:auto;margin:1rem auto;" loading="lazy" data-zesty-id="content:wysiwyg_basic:34:36">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:35:28"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:36:73">Our Locations</h6>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:37:11"></div>
+<div class="btgrid" data-zesty-id="content:wysiwyg_basic:38:23">
+	<div class="row row-1">
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p>
+					<img class="img-fluid" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/bd983d62-10c0-4e07-9fa4-958fbd9d667f_redshield-copy.png" style="width:127px;height:141.234px;float:right;">
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p>
+					<strong>BELLWOOD YOUTH CENTER</strong><br>
+					777 Donald Lee Hollowell Parkway NW<br>
+					Atlanta, GA 30318
+				</p>
+
+				<p>
+					404-486-2765
+				</p>
+
+				<p>
+					Club Manager: Kevin Johnson
+				</p>
+
+				<p>
+					<a href="https://southernusa.salvationarmy.org/metro-atlanta/bellwood-youth-ministry"><span class="btn btn-solid btn-red">More Information</span></a>
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-2">
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p>
+					&nbsp;
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p>
+					&nbsp;
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-3">
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p>
+					<img class="img-fluid" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/bd983d62-10c0-4e07-9fa4-958fbd9d667f_redshield-copy.png" style="width:127px;height:141.234px;float:right;">
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p>
+					<strong>PEACHCREST YOUTH CENTER</strong><br>
+					3500 Sherrydale Lane<br>
+					Decatur, GA 30032
+				</p>
+
+				<p>
+					404-486-2880
+				</p>
+
+				<p>
+					Club Manager: Jordan Truesdale
+				</p>
+
+				<p>
+					<a href="https://southernusa.salvationarmy.org/metro-atlanta/peachcrest-youth-ministry"><span class="btn btn-solid btn-red">More Information</span></a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:39:65"></div>
+<hr data-zesty-id="design:design:horizontalrule:41:14">
+<h5 style="text-align:center;" data-zesty-id="content:text:42:74">Administrative Office</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:43:24"><span>The Salvation Army Youth Centers</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:44:54">1000 Center Place Norcross, GA 30093</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:45:88"><a href="tel:4044862962">404-486-2962</a>&nbsp;</span></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:46:13"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:48:22">
+	The Salvation Army Youth Centers&nbsp;are managed by a professional staff of trained personnel with assistance from&nbsp;a volunteer Advisory Council. As members of The Salvation Army Metro Atlanta organization, the Centers&nbsp;are&nbsp;further monitored and administered by an Administrative Office and a Corporate Board of Directors.
+</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:49:26"></div>
+<hr data-zesty-id="design:design:horizontalrule:50:70">
+<p style="text-align:center;" data-zesty-id="content:textarea:51:81">
+	The Salvation Army Youth Ministries&nbsp;are&nbsp;proud to be taking steps to become more environmentally sustainable.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:52:48"></div>
+<img width="263" height="205" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/6db23aef-e4fe-4125-943b-5f2a09721519_Screen+Shot+2021-08-19+at+11.30.21+AM.png" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:52:68">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:54:94"></div>
+<hr data-zesty-id="design:design:horizontalrule:55:89">
+		</div>
+	</div>
+</div>

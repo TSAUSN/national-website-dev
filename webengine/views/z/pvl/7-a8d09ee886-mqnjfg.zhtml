@@ -1,0 +1,131 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-e4aeeacf98-100fc3')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:78:67">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:78:67-1:1 Column:0">
+<h6 style="text-align:center;" data-zesty-id="content:text:1:75">The Salvation Army of Chatham County</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:2:11">The Salvation Army Chatham County Crisis Assistance Program is a social service agency</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:33">that assists individuals and families in various capacities to prevent homelessness and address the client's</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:19">basic needs that lead to self-sufficiency such as food, clothing, hotel vouchers, rental, and utility assistance.</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:5:85">
+	<a href="https://give.salvationarmycarolinas.org/campaign/744868/donate"><span class="btn btn-solid btn-red">Donate</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:6:23"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:7:34">Volunteers Needed</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:8:26">Interested in helping us out? Contact us today about our volunteer opportunities!</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:9:71">Please contact us&nbsp;at <a href="tel:336-763-6400" target="">(336) 763-6400</a>&nbsp;or complete our <a href="https://forms.gle/WiqSj5kw4FtNq8Xy6" target="_blank">VOLUNTEER SIGN UP FORM</a> if you are interested in volunteering this year!</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:10:71"></div>
+<h6 data-zesty-id="content:text:13:66">Crisis Assistance Program Services Provided</h6>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:14:5"></div>
+<img width="716" height="512" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/4137c3ce-689d-4a1f-b200-10790667cace_chuckwagon-and-SA-CCSU.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:14:54">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:16:25"></div>
+<p data-zesty-id="content:textarea:17:32">To schedule an appointment for assistance with other areas call:</p>
+<p data-zesty-id="content:wysiwyg_basic:18:18"><a href="tel:336-763-6400" target="">(336) 763-6400</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:19:80"></div>
+<p data-zesty-id="content:textarea:20:34"><strong>Siler City Office</strong><strong> </strong></p>
+<p data-zesty-id="content:wysiwyg_basic:21:87"><a href="https://goo.gl/maps/Et76tJWw1wAbcgCfA" target="">126 Village Lake Rd,</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:22:88"></div>
+<p data-zesty-id="content:textarea:23:26">Siler City, NC 27344</a></p>
+<p data-zesty-id="content:textarea:24:16"><em>Hours of Operation:</em></p>
+<p data-zesty-id="content:textarea:25:90">Monday - Friday 9:00 am - 4:30 pm</p>
+<p data-zesty-id="content:textarea:26:10"><strong>The Housing Crisis: Pathway to Success Program</strong></p>
+<p data-zesty-id="content:textarea:27:62">An expansion of The Salvation Army Greensboro Crisis Assistance Program.&nbsp;&nbsp;It is a comprehensive collaborative project to assist households at or below the federal poverty guideline with flexible service delivery that fills gaps of services in the community’s response to Homelessness, Housing Instability, Poverty, Unemployment, Underemployment, Childcare, Transportation, Mental Health and Substance Abuse for up to 2 years.&nbsp;&nbsp;&nbsp;The Salvation Army Greensboro and Chatham County&nbsp;goal&nbsp;is to eliminate barriers and reducing challenges associated with people in a housing crisis by operating a housing crisis center.</p>
+<p data-zesty-id="content:wysiwyg_basic:28:43">
+	Participants that are experiencing a housing&nbsp;crisis can contact The Salvation Army of Chatham County at <a href="tel:336-763-6400" target="">(336) 763-6400</a>&nbsp;between the hours of 9:00 AM and 4:30 PM Monday – Friday to speak to a housing specialist to interview and determine the appropriate services needed based on each individual’s situation.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:29:88"></div>
+<p data-zesty-id="content:textarea:31:32">
+	<strong>Emergency Financial Assistance</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:32:17">
+	<li><strong>Financial Assistance is open to Chatham County residents ONLY.&nbsp;</strong></li>
+	<li><strong>Applicants may receive assistance ONCE EVERY TWO YEARS.&nbsp;</strong></li>
+	<li>Please specify Rent/Utility</li>
+	<li>Please provide valid photo ID and copy of past due bill or late rental notice.&nbsp;</li>
+	<li>To qualify for assistance:<ul>
+		<li>The bill or lease MUST match the name of the applicant.&nbsp;</li>
+		<li>Applicants must meet Health and Human Services Current Income Guidelines (to be completed at intake interview)&nbsp;</li>
+		<li>Rental Assistance applications must have an eviction letter or late notice from landlord or court.&nbsp;</li>
+		<li>Provide a copy of current lease agreement and copy of current lease"ledger" stating payment history.&nbsp;</li>
+	</ul>
+	</li>
+	<li>Due to sustainability and funding restrictions, you may be required to <strong>show proof of income</strong> to receive assistance.&nbsp;</li>
+	<li>Applicants are required to provide a valid photo ID. Accepted forms of ID are Driver's License, State ID, Prison ID, Student ID, Work, ID, Passport, or any government-issued ID with a picture on it. Birth certificates for children in the household.&nbsp;</li>
+	<li>You must be in a crisis to receive emergency assistance funds meaning you are behind in a utility or rental bill, resulting in imminent disconnection or eviction.&nbsp;</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:33:49"></div>
+<p data-zesty-id="content:textarea:34:8">&nbsp;<br><strong>All items must be present at the time of the appointment. </strong></p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:35:8"></div>
+<img width="538" height="404" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/dd6d116e-7d6f-4b10-91ac-c4a9265b8eeb_Image-1.jpeg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:35:3">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:37:89"></div>
+<p data-zesty-id="content:textarea:38:28">
+	<strong>Supplemental Assistance (Food, etc)</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:39:55">
+	<li>Emergency/Supplemental shelf-stable groceries and frozen entrees are distributed as available during regular office hours. There is no income requirement for food assistance.&nbsp;</li>
+	<li>Chuckwagon Weekly Frozen Entree Distrubtion<ul>
+		<li>Every Friday between 11:30 am and 1:00 pm at <strong>Countryside Collectibles/Harbor Freight</strong> parking lot on Highway 64 East in Siler City (look for the "Free Meals Today" sign).&nbsp;</li>
+	</ul>
+	</li>
+	<li>A small amount of supplemental clothing, personal care, and survival needs (sleeping bags, blankets, seasonal accessories) is a distributed as available during regular office hours. There is no income requirement for these items.&nbsp;</li>
+	<li>Bundles of Hope Diaper Program - Generous Community Members provide a quarterly donation of diapers, wipes, formulas, and baby clothing in various sizes. <strong>SUPPLIES ARE LIMITED.&nbsp;</strong></li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:40:3"></div>
+<p data-zesty-id="content:textarea:41:62">
+	<strong>Countryside Collectibles FOOD BOOTH</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:42:37">
+	<li>The Chatham County Service Unit maintains a booth at the Countryside Antique Mal at 219 Chatham Square, Highway 64 E in Siler City. The merchandise changes weekly, and sales from all food, clothing, and accessories benefit our community.&nbsp;</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:43:99"></div>
+<p data-zesty-id="content:textarea:44:33">Food assistance is collaborated with:</p>
+<p data-zesty-id="content:textarea:45:73"><strong>West Chatham Food Pantry -&nbsp;Siler City</strong></p>
+<p data-zesty-id="content:textarea:46:55">• Monday - 4:30-6:00 pm</p>
+<p data-zesty-id="content:textarea:47:30">• Wednesday - 12:30-2:00 pm</p>
+<p data-zesty-id="content:textarea:48:39">• Friday - 12:30-2:00 pm</p>
+<p data-zesty-id="content:textarea:49:70"><strong>CORA Food Pantry - Pittsboro</strong></p>
+<p data-zesty-id="content:textarea:50:51">M-F - 10:00-2:00 pm</p>
+<p data-zesty-id="content:textarea:51:89">
+	No referral is required, but you must have two forms of ID
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:52:43">
+	<li>You need to present a picture ID and social security number for everyone living in your household to enter into HMIS.</li>
+	<li>Households are eligible for food once per month.</li>
+	<li>Food assistance provided as available at our Siler City office</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:53:99"></div>
+<p data-zesty-id="content:textarea:55:39">
+	<strong>Additional services</strong>
+</p>
+<p data-zesty-id="content:textarea:56:19">
+	<strong>Seasonal Assistance:</strong> providing food, toys, gifts, clothing, and cheer to needy children and adults during the Christmas holidays.
+</p>
+<p data-zesty-id="content:textarea:57:27">
+	<strong>Summer Camp</strong>: affording children&nbsp;the opportunity to attend The Salvation Army's residential camp in Denton, NC for a time for spiritual growth, fellowship, and recreation.
+</p>
+<p style="font-weight:700;" data-zesty-id="content:textarea:58:57">Chatham County Stories</p>
+<div style="display:flex" class="row ratio ratio-16x9 d-flex" data-zesty-id="design:columns:1 Column:60:52">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:60:52-1:1 Column:0">
+<iframe src="https://www.youtube.com/embed/m92QgUn3b-4?si=SHbpkfiHkr9LYEU0" title="YouTube video player" allowfullscreen loading="lazy" class="w-100 h-100" data-zesty-id="content:embed:59:95"></iframe>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:61:79"></div>
+<div style="display:flex" class="row ratio ratio-16x9 d-flex" data-zesty-id="design:columns:1 Column:64:75">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:64:75-1:1 Column:0">
+<iframe src="https://www.youtube.com/embed/hfneieiRbDc" title="YouTube video player" allowfullscreen loading="lazy" class="w-100 h-100" data-zesty-id="content:embed:63:7"></iframe>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:65:44"></div>
+<div style="display:flex" class="row ratio ratio-16x9 d-flex" data-zesty-id="design:columns:1 Column:67:70">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:67:70-1:1 Column:0">
+<iframe src="https://www.youtube.com/embed/bDZKPBLdZl0" title="YouTube video player" allowfullscreen loading="lazy" class="w-100 h-100" data-zesty-id="content:embed:66:83"></iframe>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:68:69"></div>
+<p data-zesty-id="content:wysiwyg_basic:69:29">
+	<a href="https://www.chathamalliance.org/news/oh-what-fun-it-is-to-slide-d3zey-27d4r" target="">Read about our Partnership with Chatham Alliance! -&nbsp;A Partnership Built on Service</a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:70:80"></div>
+<img width="527" height="422" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/6c088f29-6a64-41fb-bbd2-881d1a017d0c_ChathamAlliance.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:71:19">
+		</div>
+	</div>
+</div>

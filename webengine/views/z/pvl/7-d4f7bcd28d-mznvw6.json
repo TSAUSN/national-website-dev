@@ -1,0 +1,392 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:53:0:52": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-d4848cb198-d9nv50')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-d4848cb198-d9nv50')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:53:0:52",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:23:16": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:23:16",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:23:16-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:images:1:34": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/e7adb0a6-17fe-4276-9026-d0652f305b74_CWJ-+Star+Camper+2025.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/e7adb0a6-17fe-4276-9026-d0652f305b74_CWJ-+Star+Camper+2025.png",
+								"position": 0,
+								"fullName": "content:images:1:34",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:3:75": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:3:75",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:4:41": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><u><strong>About Derek</strong></u></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "About Derek",
+								"position": 2,
+								"fullName": "content:textarea:4:41",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:4:41",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:5:78": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>Derek is 12-years-old and is the brother of last year's Star Camper- Neveah Davis. He is a Second Class Scout in Boy Scout Troop 74 at Brookland Baptist Church. Derek is passionate about Boy Scouts and aspires to achieve the rank of Eagle Scout one day. He is a Junior Swimming Coach for the Special Olympics South Carolina and was the third-place winner in the Brookland Baptist Church Oratorical contest.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Derek is 12-years-old and is the brother of last year's Star Camper- Neveah Davis. He is a Second Class Scout in Boy Scout Troop 74 at Brookland Baptist Church. Derek is passionate about Boy Scouts and aspires to achieve the rank of Eagle Scout one day. He is a Junior Swimming Coach for the Special Olympics South Carolina and was the third-place winner in the Brookland Baptist Church Oratorical contest.",
+								"position": 3,
+								"fullName": "content:textarea:5:78",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:5:78",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:6:22": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><u><strong>Why&nbsp;Derek Was Nominated</strong></u></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Why&nbsp;Derek Was Nominated",
+								"position": 4,
+								"fullName": "content:textarea:6:22",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:6:22",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:7:53": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>We chose Derek as the Star Camper because he is a very respectful and well-mannered young man. He has enjoyed attending Camp Walter Johnson every summer for the past 3 years. He gets along well with other campers and makes friends easily. This year he stated that he really enjoyed the paddle boats on the lake. He went to camp after spending several days with his Boy Scout troop. Derek attends church with his grandmother and other family members every Sunday.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "We chose Derek as the Star Camper because he is a very respectful and well-mannered young man. He has enjoyed attending Camp Walter Johnson every summer for the past 3 years. He gets along well with other campers and makes friends easily. This year he stated that he really enjoyed the paddle boats on the lake. He went to camp after spending several days with his Boy Scout troop. Derek attends church with his grandmother and other family members every Sunday.",
+								"position": 5,
+								"fullName": "content:textarea:7:53",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:7:53",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:8:28": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t<a href=\"https://give.salvationarmycarolinas.org/campaign/730882/donate\"><span class=\"btn btn-solid btn-red\">HELP SEND A KID TO CAMP</span></a>\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t<a href=\"https://give.salvationarmycarolinas.org/campaign/730882/donate\"><span class=\"btn btn-solid btn-red\">HELP SEND A KID TO CAMP</span></a>\n</p>",
+								"model": "6",
+								"position": 6,
+								"fullName": "content:wysiwyg_basic:8:28",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:8:28",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:9:42": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 7,
+								"fullName": "design:design:whitespace-sm:9:42",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:10:40": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>Letter to The Walter E. Hayden Family Regarding Camp Walter Johnson</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Letter to The Walter E. Hayden Family Regarding Camp Walter Johnson",
+								"position": 8,
+								"fullName": "content:textarea:10:40",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:10:40",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:11:70": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><strong>August </strong>22, 2025</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "August 22, 2025",
+								"position": 9,
+								"fullName": "content:textarea:11:70",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:11:70",
+								"styles": {
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:12:82": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p><em>My name is Derek Amir Sumter and this is my experience at Camp Walter Johnson.&nbsp;</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "My name is Derek Amir Sumter and this is my experience at Camp Walter Johnson.&nbsp;",
+								"position": 10,
+								"fullName": "content:textarea:12:82",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:12:82",
+								"styles": {
+									"fontStyle": "italic"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:13:83": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>Camp Walter Johnson&nbsp;is one of the best places a kid can go. From swimming in a lake to jumping&nbsp;off a boat, exploring the outdoors, and so many more activities. I have been going to Camp Walter Johnson&nbsp;as long as I can remember and honestly, the best part is not the activities, it's the people that you meet.</em></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Camp Walter Johnson&nbsp;is one of the best places a kid can go. From swimming in a lake to jumping&nbsp;off a boat, exploring the outdoors, and so many more activities. I have been going to Camp Walter Johnson&nbsp;as long as I can remember and honestly, the best part is not the activities, it's the people that you meet.",
+								"position": 11,
+								"fullName": "content:textarea:13:83",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:13:83",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:14:78": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\r\n\t<em>Every year I learn something new. This year I realized you don't always need to be doing something \"fun\" to have a good time. Like my grandma always says, \"live in the moment\". To me that means no matter what you're doing, find a way to enjoy it.</em>\r\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Every year I learn something new. This year I realized you don't always need to be doing something \"fun\" to have a good time. Like my grandma always says, \"live in the moment\". To me that means no matter what you're doing, find a way to enjoy it.",
+								"position": 12,
+								"fullName": "content:textarea:14:78",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:14:78",
+								"styles": {
+									"fontStyle": "italic"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:15:70": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\r\n\t<em>This year felt a little different though. Usually, I run into at least one person that I know, but this time I didn't know anyone.&nbsp;I was a little nervous about at first but it turned out to be one of the best surprises. The new people that I met were fun to be around and I made some great friends.</em>\r\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "This year felt a little different though. Usually, I run into at least one person that I know, but this time I didn't know anyone.&nbsp;I was a little nervous about at first but it turned out to be one of the best surprises. The new people that I met were fun to be around and I made some great friends.",
+								"position": 13,
+								"fullName": "content:textarea:15:70",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:15:70",
+								"styles": {
+									"fontStyle": "italic"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:16:59": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\r\n\t<em>When I heard that I was chosen for the Star Camper Award it really made me happy. This award is a great honor. I want to thank you for giving me the chance to be part of this amazing experience.</em>\r\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "When I heard that I was chosen for the Star Camper Award it really made me happy. This award is a great honor. I want to thank you for giving me the chance to be part of this amazing experience.",
+								"position": 14,
+								"fullName": "content:textarea:16:59",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:16:59",
+								"styles": {
+									"fontStyle": "italic"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:17:44": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\r\n\t<em>Camp Walter Johnson holds a dear place in my heart, and I will carry these wonderful memories with me forever.</em>\r\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Camp Walter Johnson holds a dear place in my heart, and I will carry these wonderful memories with me forever.",
+								"position": 15,
+								"fullName": "content:textarea:17:44",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:17:44",
+								"styles": {
+									"fontStyle": "italic"
+								},
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-md:18:42": {
+								"uid": "352",
+								"name": "Whitespace - Medium",
+								"type": "design",
+								"classes": "my-4",
+								"html": "<div class=\"my-4\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 16,
+								"fullName": "design:design:whitespace-md:18:42",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:images:18:79": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/6209681b-b17f-42a7-af5b-479b3ad4b718_Camp+Walter+Johnson.png\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/6209681b-b17f-42a7-af5b-479b3ad4b718_Camp+Walter+Johnson.png",
+								"position": 17,
+								"fullName": "content:images:18:79",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:23:16-1:1 Column:0",
+								"oldLoc": "bank"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

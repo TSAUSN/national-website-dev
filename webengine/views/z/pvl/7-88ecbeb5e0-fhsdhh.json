@@ -1,0 +1,721 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"design:design:whitespace-xl:1:45": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 0,
+				"fullName": "design:design:whitespace-xl:1:45",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:images:2:11": {
+				"icon": "images",
+				"name": "Image",
+				"type": "images",
+				"description": "Reference to image ZUIDs in Zesty.io",
+				"html": "<img width=\"1040\" height=\"325\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/9e9a5934-c8b4-4406-bd18-9febe02fd828_R4H+with+tagline+%28800x250%29.svg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+				"draggable": true,
+				"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/9e9a5934-c8b4-4406-bd18-9febe02fd828_R4H+with+tagline+%28800x250%29.svg",
+				"position": 1,
+				"fullName": "content:images:2:11",
+				"htmlElement": "img",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:design:whitespace-sm:4:43": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 2,
+				"fullName": "design:design:whitespace-sm:4:43",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:text:5:66": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h6><span style=\"color:#ed1c2b;\"><u>here's how we delivered in 2024...</u></span></h6>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "here's how we delivered in 2024...",
+				"position": 3,
+				"fullName": "content:text:5:66",
+				"htmlElement": "h4",
+				"primarytype": "content",
+				"id": "content:text:5:66",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:6:82": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<em><strong>Scroll to Bottom for Photo samples and Sponsor Banner&nbsp;</strong></em><br>\n\t&nbsp;\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Scroll to Bottom for Photo samples and Sponsor Banner&nbsp; &nbsp;",
+				"position": 4,
+				"fullName": "content:textarea:6:82",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:6:82",
+				"styles": {
+					"fontWeight": "700",
+					"fontStyle": "italic"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:text:7:29": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5>AD Runs in the Richmond Times-Dispatch</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "AD Runs in the Richmond Times-Dispatch",
+				"position": 5,
+				"fullName": "content:text:7:29",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:7:29",
+				"styles": {},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:8:43": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<ul>\n\t<li>Friday, August 23 - Quarter&nbsp;Page AD Run (<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f46c4760-586b-4feb-afd9-bc7ea6cb5d87_RTD+8.23.24+AD+Clip.pdf\">View AD</a>)<br>\n\t&nbsp;</li>\n\t<li>Sunday, September 1 - Half Page AD Run (<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/9ed6dd58-31e4-4495-8393-944853e9c8d8_RTD+9.1.24+AD+Clip.pdf\">View AD</a>)<br>\n\t&nbsp;</li>\n\t<li>Thursday, September 12 &amp; Sunday, September 15 - Half Page AD Run (<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/599b6620-e11b-4fbc-acee-ae2960db1c8d_RTD+9.15.24+AD+Clip.pdf\">View AD</a>)<ul>\n\t\t<li>Half Page AD included in spadea at the annual Richmond Times-Dispatch THE BEST&nbsp;awards show, with 800 copies printed and distributed to attendees.</li>\n\t\t<li>Half Page AD ran in Special Edition on&nbsp;Sunday, September 15.</li>\n\t</ul>\n\t</li>\n</ul>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<ul>\n\t<li>Friday, August 23 - Quarter&nbsp;Page AD Run (<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f46c4760-586b-4feb-afd9-bc7ea6cb5d87_RTD+8.23.24+AD+Clip.pdf\">View AD</a>)<br>\n\t&nbsp;</li>\n\t<li>Sunday, September 1 - Half Page AD Run (<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/9ed6dd58-31e4-4495-8393-944853e9c8d8_RTD+9.1.24+AD+Clip.pdf\">View AD</a>)<br>\n\t&nbsp;</li>\n\t<li>Thursday, September 12 &amp; Sunday, September 15 - Half Page AD Run (<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/599b6620-e11b-4fbc-acee-ae2960db1c8d_RTD+9.15.24+AD+Clip.pdf\">View AD</a>)<ul>\n\t\t<li>Half Page AD included in spadea at the annual Richmond Times-Dispatch THE BEST&nbsp;awards show, with 800 copies printed and distributed to attendees.</li>\n\t\t<li>Half Page AD ran in Special Edition on&nbsp;Sunday, September 15.</li>\n\t</ul>\n\t</li>\n</ul>",
+				"model": "6",
+				"position": 6,
+				"fullName": "content:wysiwyg_basic:8:43",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:8:43",
+				"styles": {},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:9:82": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 7,
+				"fullName": "design:design:whitespace-sm:9:82",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:text:11:91": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5>Paid Facebook ADs</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "Paid Facebook ADs",
+				"position": 8,
+				"fullName": "content:text:11:91",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:11:91",
+				"styles": {},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:12:57": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<ul>\n\t<li>13-day AD run</li>\n\t<li>Reached 6,684 accounts</li>\n\t<li>Resulted in: <strong>291 Post engagements </strong>and <strong>269 link clicks</strong></li>\n</ul>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<ul>\n\t<li>13-day AD run</li>\n\t<li>Reached 6,684 accounts</li>\n\t<li>Resulted in: <strong>291 Post engagements </strong>and <strong>269 link clicks</strong></li>\n</ul>",
+				"model": "6",
+				"position": 9,
+				"fullName": "content:wysiwyg_basic:12:57",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:12:57",
+				"styles": {
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:13:84": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 10,
+				"fullName": "design:design:whitespace-sm:13:84",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:text:15:24": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5>Onsite and Year-Round Visibility</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "Onsite and Year-Round Visibility",
+				"position": 11,
+				"fullName": "content:text:15:24",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:15:24",
+				"styles": {},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:16:40": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<ul>\n\t<li><strong>ONSITE:</strong> (3) 10 x 3 ft banners displayed at the race (see photos below)\n<ul>\n\t\t<li>(2) on the finisher barricades</li>\n\t\t<li>(1) on the pop-up tent by the step and repeat<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><strong>YEAR-ROUND: Physical Footprint</strong><ul>\n\t\t<li>Race t-shirts worn and seen around town (see photo below or post of&nbsp;<a href=\"https://www.facebook.com/photo/?fbid=905066014989822&amp;set=gm.1018802169991841&amp;idorvanity=939360217936037\" target=\"\">t-shirt on social media</a>)</li>\n\t\t<li>(50) Yard signs displayed around Greater Richmond</li>\n\t\t<li>All (3) banners will be displayed at The Salvation Army Boys &amp; Girls Club of Richmond (3701 R Street)<ul>\n\t\t\t<li>(2) will be hung on fence enclosing the outdoor play are</li>\n\t\t\t<li>(1) will be hung under the score board in the gym<br>\n\t\t\t&nbsp;</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li><strong>YEAR-ROUND: Digital Footprint (<span style=\"color:#22b573;\"><em>sponsor company name&nbsp;tagged, as available, in all social media posts</em></span>)</strong><ul>\n\t\t<li>Event recap and photos on our <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Run-for-Hope-Sept-14-2024\" target=\"\">Past Events webpage</a></li>\n\t\t<li>Social media posts and reels on Facebook</li>\n\t\t<li><a href=\"https://www.facebook.com/media/set/?set=a.909422491220841&amp;type=3\" target=\"\">Facebook Event Album</a>&nbsp;and <a href=\"https://www.facebook.com/reel/8118624761518098\" target=\"\">Pre-Event Reel</a> (already 2.5K plays between all platforms)</li>\n\t\t<li><a href=\"https://www.linkedin.com/posts/salarmyrva_rva-rva-peoplepowered-activity-7242167740059332608-bTz8?utm_source=share&amp;utm_medium=member_desktop\" target=\"\">LinkedIn Event Album</a></li>\n\t</ul>\n\t</li>\n</ul>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<ul>\n\t<li><strong>ONSITE:</strong> (3) 10 x 3 ft banners displayed at the race (see photos below)\n<ul>\n\t\t<li>(2) on the finisher barricades</li>\n\t\t<li>(1) on the pop-up tent by the step and repeat<br>\n\t\t&nbsp;</li>\n\t</ul>\n\t</li>\n\t<li><strong>YEAR-ROUND: Physical Footprint</strong><ul>\n\t\t<li>Race t-shirts worn and seen around town (see photo below or post of&nbsp;<a href=\"https://www.facebook.com/photo/?fbid=905066014989822&amp;set=gm.1018802169991841&amp;idorvanity=939360217936037\" target=\"\">t-shirt on social media</a>)</li>\n\t\t<li>(50) Yard signs displayed around Greater Richmond</li>\n\t\t<li>All (3) banners will be displayed at The Salvation Army Boys &amp; Girls Club of Richmond (3701 R Street)<ul>\n\t\t\t<li>(2) will be hung on fence enclosing the outdoor play are</li>\n\t\t\t<li>(1) will be hung under the score board in the gym<br>\n\t\t\t&nbsp;</li>\n\t\t</ul>\n\t\t</li>\n\t</ul>\n\t</li>\n\t<li><strong>YEAR-ROUND: Digital Footprint (<span style=\"color:#22b573;\"><em>sponsor company name&nbsp;tagged, as available, in all social media posts</em></span>)</strong><ul>\n\t\t<li>Event recap and photos on our <a href=\"https://southernusa.salvationarmy.org/centralvirginia/past-events#Run-for-Hope-Sept-14-2024\" target=\"\">Past Events webpage</a></li>\n\t\t<li>Social media posts and reels on Facebook</li>\n\t\t<li><a href=\"https://www.facebook.com/media/set/?set=a.909422491220841&amp;type=3\" target=\"\">Facebook Event Album</a>&nbsp;and <a href=\"https://www.facebook.com/reel/8118624761518098\" target=\"\">Pre-Event Reel</a> (already 2.5K plays between all platforms)</li>\n\t\t<li><a href=\"https://www.linkedin.com/posts/salarmyrva_rva-rva-peoplepowered-activity-7242167740059332608-bTz8?utm_source=share&amp;utm_medium=member_desktop\" target=\"\">LinkedIn Event Album</a></li>\n\t</ul>\n\t</li>\n</ul>",
+				"model": "6",
+				"position": 12,
+				"fullName": "content:wysiwyg_basic:16:40",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:16:40",
+				"styles": {
+					"color": "#22b573",
+					"fontWeight": "700",
+					"fontStyle": "italic"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:17:23": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 13,
+				"fullName": "design:design:whitespace-sm:17:23",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:columns:3 Columns:28:10": {
+				"uid": "300",
+				"name": "3 Columns",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 3,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 14,
+				"fullName": "design:columns:3 Columns:28:10",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:3 Columns:28:10-1:3 Columns:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:20:17": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/35763d7d-527e-4160-9f82-741704fed3a7_IMG_4371.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/35763d7d-527e-4160-9f82-741704fed3a7_IMG_4371.jpg",
+								"position": 0,
+								"fullName": "content:images:20:17",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:3 Columns:28:10-1:3 Columns:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:22:66": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:22:66",
+								"primarytype": "design",
+								"newLoc": "design:columns:3 Columns:28:10-1:3 Columns:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:21:19": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>10 x 3 foot Banner at event</strong>\n\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "10 x 3 foot Banner at event",
+								"position": 2,
+								"fullName": "content:textarea:21:19",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:21:19",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:3 Columns:28:10-1:3 Columns:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:3 Columns:28:10-1:3 Columns:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:23:11": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"454\" height=\"341\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/93c74a14-022c-4d58-8230-a82e4d540c5a_IMG_6808+2.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/93c74a14-022c-4d58-8230-a82e4d540c5a_IMG_6808+2.jpg",
+								"position": 0,
+								"fullName": "content:images:23:11",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:3 Columns:28:10-1:3 Columns:1",
+								"oldLoc": "bank"
+							}
+						},
+						"position": 1
+					},
+					"design:columns:3 Columns:28:10-1:3 Columns:2": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:26:27": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"454\" height=\"341\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d5bb6894-52e7-43e9-afac-6c9c3b3b5cf8_IMG_6881+2.jpg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/d5bb6894-52e7-43e9-afac-6c9c3b3b5cf8_IMG_6881+2.jpg",
+								"position": 0,
+								"fullName": "content:images:26:27",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:3 Columns:28:10-1:3 Columns:2",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:27:58": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:27:58",
+								"primarytype": "design",
+								"newLoc": "design:columns:3 Columns:28:10-1:3 Columns:2",
+								"oldLoc": "bank"
+							},
+							"content:textarea:24:53": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>10 x 3 foot Banner on finisher barricade at event</strong>\n\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "10 x 3 foot Banner on finisher barricade at event",
+								"position": 2,
+								"fullName": "content:textarea:24:53",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:24:53",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:3 Columns:28:10-1:3 Columns:2",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 2
+					}
+				}
+			},
+			"design:design:horizontalrule:29:4": {
+				"uid": "13",
+				"name": "Horizontal Rule",
+				"type": "design",
+				"html": "<hr>",
+				"preview": "<hr>",
+				"classes": "",
+				"droppable": false,
+				"position": 15,
+				"fullName": "design:design:horizontalrule:29:4",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:design:whitespace-sm:30:82": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 16,
+				"fullName": "design:design:whitespace-sm:30:82",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:columns:3 Columns:40:99": {
+				"uid": "300",
+				"name": "3 Columns",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 3,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 17,
+				"fullName": "design:columns:3 Columns:40:99",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:3 Columns:40:99-1:3 Columns:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:31:97": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"310\" height=\"414\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/7c14246a-5805-4aa4-b34f-3ad4761caec3_R4H+Shirt+Back.png\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/7c14246a-5805-4aa4-b34f-3ad4761caec3_R4H+Shirt+Back.png",
+								"position": 0,
+								"fullName": "content:images:31:97",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:33:16": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:33:16",
+								"primarytype": "design",
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:32:82": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>Back of Run for Hope race t-shirt</strong>\n\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Back of Run for Hope race t-shirt",
+								"position": 2,
+								"fullName": "content:textarea:32:82",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:32:82",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:3 Columns:40:99-1:3 Columns:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:34:55": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/84998f15-197e-4ad3-b7ed-a15bcc3351be_R4H+Yard+Sign.png\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/84998f15-197e-4ad3-b7ed-a15bcc3351be_R4H+Yard+Sign.png",
+								"position": 0,
+								"fullName": "content:images:34:55",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:1",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:36:5": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:36:5",
+								"primarytype": "design",
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:1",
+								"oldLoc": "bank"
+							},
+							"content:textarea:35:84": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">&nbsp;<br><strong>YARD SIGN: 50&nbsp;displayed around Greater Richmond</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "&nbsp;YARD SIGN: 50&nbsp;displayed around Greater Richmond",
+								"position": 2,
+								"fullName": "content:textarea:35:84",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:35:84",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					},
+					"design:columns:3 Columns:40:99-1:3 Columns:2": {
+						"width": "1",
+						"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+						"classes": "col-lg-4 col-md-4 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:images:37:57": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"323\" height=\"418\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/892736a6-e608-44cc-8f35-324b6a29b747_Current+Flyer+clickable.svg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/892736a6-e608-44cc-8f35-324b6a29b747_Current+Flyer+clickable.svg",
+								"position": 0,
+								"fullName": "content:images:37:57",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:2",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:39:7": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:39:7",
+								"primarytype": "design",
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:2",
+								"oldLoc": "bank"
+							},
+							"content:textarea:38:75": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t\t\t\t\t<strong>One version of Run for Hope race flyer posted around town and digitally</strong>\n\t\t\t\t</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "One version of Run for Hope race flyer posted around town and digitally",
+								"position": 2,
+								"fullName": "content:textarea:38:75",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:38:75",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:3 Columns:40:99-1:3 Columns:2",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 2
+					}
+				}
+			},
+			"design:design:horizontalrule:41:88": {
+				"uid": "13",
+				"name": "Horizontal Rule",
+				"type": "design",
+				"html": "<hr>",
+				"preview": "<hr>",
+				"classes": "",
+				"droppable": false,
+				"position": 18,
+				"fullName": "design:design:horizontalrule:41:88",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:design:whitespace-xl:42:23": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 19,
+				"fullName": "design:design:whitespace-xl:42:23",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:images:43:84": {
+				"icon": "images",
+				"name": "Image",
+				"type": "images",
+				"description": "Reference to image ZUIDs in Zesty.io",
+				"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/2760a134-2f84-411e-865c-a8d1c302ef30_Sponsor+Banner.svg\" alt=\"placeholder\" class=\"img-fluid d-block m-auto my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+				"draggable": true,
+				"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/2760a134-2f84-411e-865c-a8d1c302ef30_Sponsor+Banner.svg",
+				"position": 20,
+				"fullName": "content:images:43:84",
+				"htmlElement": "img",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			}
+		}
+	}
+}

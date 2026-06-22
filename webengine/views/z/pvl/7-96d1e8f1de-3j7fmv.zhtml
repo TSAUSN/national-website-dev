@@ -1,0 +1,6 @@
+<div className={styles.pvlRoot}>
+	<div>{{block('/-/block/hero_full.html?variant=7-ccbd808bb3-7mvwqz')}}</div>
+	{{block('/-/block/text_left_with_cta_image_right.html?variant=7-8a8481f7ba-x4pn9h')}}
+	<div class="py-5"></div>
+	{{block('/-/block/info_block_4_column.html?variant=7-e8b4cbfde0-zxpn9t')}}
+</div>

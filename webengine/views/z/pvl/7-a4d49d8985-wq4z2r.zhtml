@@ -1,0 +1,56 @@
+<div classname="{styles.pvlRoot}">
+	{{block('/-/block/hero_full.html?variant=7-86cadf969a-c5h58b')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:17:93">
+<div style="flex:1" class="column" data-zesty-id="design:columns:1 Column:17:93-1:1 Column:0">
+<div style="color:#FFFFFF;padding:40px;" data-zesty-id="content:wysiwyg_basic:2:4"><h1 style="text-align:center;">Support Your Neighbors In Need&nbsp;This Holiday Season</h1></div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:3:21"></div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:32"></div>
+<div class="row my-3" data-zesty-id="design:columns:Four Columns:12:10">
+<div class="col-lg-3 col-md-6 col-sm-12 bg-area bg-secondary-200" data-zesty-id="design:columns:Four Columns:12:10-1:Four Columns:0">
+<h4 data-zesty-id="content:wysiwyg_basic:4:38"><img class="img-fluid" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/956faefd-273d-4f08-96fc-281bf39d330c_give-bellringer.png"></h4>
+
+<h6>Register to Ring</h6>
+
+<p>
+	Help make Christmas bright by volunteering to ring a bell at a Salvation Army Red Kettle. Your time ringing will help people in need in your community.
+</p>
+
+<p class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-start"><a href="https://www.registertoring.com/" class="btn btn-light gap-1 mt-2">Register to Ring</a></p>
+				</div>
+<div class="col-lg-3 col-md-6 col-sm-12 bg-area bg-secondary-200" data-zesty-id="design:columns:Four Columns:12:10-1:Four Columns:1">
+<h6 data-zesty-id="content:wysiwyg_basic:6:95"><img class="img-fluid" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a7120abd-d524-4a78-99ba-2df578ad8c03_give-angel-tree.jpg"></h6>
+
+<h6>Angel Tree</h6>
+
+<p>
+	Share your gift of love with a child in need this Christmas. Adopt an Angel from one of The Salvation Army's Angel Trees in your community.
+</p>
+
+<p class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-start"><a href="mailto:Rosa.Portillo@uss.salvationarmy.org" class="btn btn-light gap-1 mt-2">Contact Us</a></p>
+				</div>
+<div class="col-lg-3 col-md-6 col-sm-12 bg-area bg-secondary-200" data-zesty-id="design:columns:Four Columns:12:10-1:Four Columns:2">
+<h5 data-zesty-id="content:wysiwyg_basic:8:44"><img class="img-fluid" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/ca17d5df-9021-4e9b-bbab-c4e661e73dd0_give-vrk.png"></h5>
+
+<h6>Virtual Red Kettle</h6>
+
+<p>
+	The Virtual Red Kettle is as close as your phone, tablet, or computer. It's a convenient&nbsp;way to make a difference this holiday season.
+</p>
+
+<p class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-start"><a href="https://give.salvationarmycarolinas.org/campaign/731671/donate" target="_blank" class="btn btn-light gap-1 mt-2">Visit Our Red Kettle</a></p>
+				</div>
+<div class="col-lg-3 col-md-6 col-sm-12 bg-area bg-secondary-200" data-zesty-id="design:columns:Four Columns:12:10-1:Four Columns:3">
+<h5 data-zesty-id="content:wysiwyg_basic:10:86"><img class="img-fluid" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/99288499-e135-48f2-ba4f-f91eac5d99f2_give-kettle.png"></h5>
+
+<h6>Red Kettle Campaign</h6>
+
+<p>
+	Help our neighbors in need this holiday season by giving to The Salvation Army Red Kettle. Every dollar dropped into a Red Kettle provides year-round&nbsp;support to local families and individuals.
+</p>
+
+<p class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-start"><a href="https://www.salvationarmyusa.org/usn/red-kettle-history/" class="btn btn-light gap-1 mt-2">History of the Red Kettle</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

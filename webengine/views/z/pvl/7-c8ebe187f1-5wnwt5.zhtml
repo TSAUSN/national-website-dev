@@ -1,0 +1,85 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-bae0ced8aa-67zzb4')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:45:50">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:45:50-1:1 Column:0">
+<h6 style="text-align:center;" data-zesty-id="content:text:1:42">2024 Red Kettle Challenge Winners</h6>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:2:5"></div>
+<div style="display:flex" class="row my-3" data-zesty-id="design:columns:Four Columns:15:64">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:Four Columns:15:64-1:Four Columns:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/f1383191-325a-4fef-8a9c-258cca329835_8.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:3:38">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:7"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:43">
+					<strong>Pass Christian Fire Department</strong>
+				</p>
+				</div>
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:Four Columns:15:64-1:Four Columns:1">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/f2393289-34be-4dc1-a003-66014ba3b5d0_9.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:6:23">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:8:35"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:7:76">
+					<strong>Wiggins Police Department</strong>
+				</p>
+				</div>
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:Four Columns:15:64-1:Four Columns:2">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/82631239-e733-45f2-add3-42a5b9d9bfeb_10.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:9:40">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:40"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:10:95">
+					<strong>Stone County Sheriffs Department</strong>
+				</p>
+				</div>
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:Four Columns:15:64-1:Four Columns:3">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/44e60001-f0d1-4559-91b2-55fa215b55f1_11.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:12:52">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:14:4"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:13:16">
+					<strong>D'Iberville Mayor's Office</strong>
+				</p>
+				</div>
+			</div>
+<hr data-zesty-id="design:design:horizontalrule:16:76">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:17:60"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:18:54">Our Red Kettle 2025&nbsp;Campaign Goal</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:19:43"><strong>Serving the bottom 6-coastal counties in Mississippi is $280,000.&nbsp;</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:20:11">Harrison, Hancock, Pearl River, Stone Counties = $220,000</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:21:9">
+	Jackson &amp; George Counties = $60,000
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:22:0">
+	Funds raised in the communities stay in the communities they were intended for. You can help by creating an online fundraiser to help us meet our goal or simply give a one time or monthly donation.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:23:23">
+	<a href="https://give.salvationarmyalm.org/campaign/the-salvation-army-mississippi-gulf-coast-area-command-virtual-red-kettle-fy26/c725580"><span class="btn btn-solid btn-red">DONATE NOW TO THE MS GULF COAST</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:24:41"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:35:81">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:35:81-1:2 Columns - Equal:0">
+<p data-zesty-id="content:textarea:26:15">
+					ONLINE FUNDRAISING OPTIONS:
+				</p>
+<p data-zesty-id="content:textarea:27:38">
+					As an Individual&nbsp;– Sign up to get started right away and start getting donations to help those who need it most.
+				</p>
+<p data-zesty-id="content:textarea:28:86">
+					Join A Team&nbsp;– If your school, business, or other group has already created a team, join with them to transform even more lives.
+				</p>
+<p data-zesty-id="content:textarea:29:46">
+					Create a Team&nbsp;– If you plan on recruiting your friends and family to set up fundraising pages in addition to yourself, make sure to create a team so that you can work together to make a larger impact.
+				</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:30:55"></div>
+<p data-zesty-id="content:wysiwyg_basic:31:76">
+					<a href="https://give.salvationarmyalm.org/campaign/the-salvation-army-ms-gulf-coast-area-command-2024-virtual-red-kettle/c618179"><span class="btn btn-solid btn-red">Become a viritual fundraiser!</span></a>
+				</p>
+				</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:35:81-1:2 Columns - Equal:1">
+<img width="331" height="331" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2bdc45a8-6275-48ab-b0a0-c342a1dfa327_dollar_kettle.gif" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:33:88">
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:36:17"></div>
+<h5 data-zesty-id="content:text:37:59">Register to Ring | Volunteers &amp; Group Leaders!</h5>
+<p data-zesty-id="content:textarea:38:25">
+	We’re so excited you've decided to volunteer on behalf of The Salvation Army’s Red Kettle Campaign. Register to Ring will help you find the perfect time and place to ring bells. Find the time and place that best fits your busy schedule to volunteer to ring.&nbsp;
+</p>
+<p data-zesty-id="content:wysiwyg_basic:39:91">
+	<a href="https://www.registertoring.com/zip.aspx"><span class="btn btn-solid btn-red">Register</span></a>
+</p>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,597 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:45:0:89": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-b4aaacea80-bw7vfv')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-b4aaacea80-bw7vfv')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:45:0:89",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"content:images:1:5168": {
+				"icon": "images",
+				"name": "Image",
+				"type": "images",
+				"description": "Reference to image ZUIDs in Zesty.io",
+				"html": "<img width=\"100%\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/c97de85f-ba81-44d9-869d-eee85344b4b3_Red+Shield+Family+%281%29.jpg\" alt=\"placeholder\" />",
+				"draggable": true,
+				"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/c97de85f-ba81-44d9-869d-eee85344b4b3_Red+Shield+Family+%281%29.jpg",
+				"position": 1,
+				"fullName": "content:images:1:5168",
+				"htmlElement": "img",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:1:35": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p style=\"text-align:center;\"><strong>RED SHIELD SERVICES</strong></p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "RED SHIELD SERVICES",
+				"position": 2,
+				"fullName": "content:textarea:1:35",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:1:35",
+				"styles": {
+					"textAlign": "center",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:2:46": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p style=\"text-align:center;\">469 Marietta Street</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "469 Marietta Street",
+				"position": 3,
+				"fullName": "content:textarea:2:46",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:2:46",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:3:19": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p style=\"text-align:center;\">Atlanta, GA 30313</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Atlanta, GA 30313",
+				"position": 4,
+				"fullName": "content:textarea:3:19",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:3:19",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:4:49": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<p style=\"text-align:center;\"><span style=\"color:#ed1c2b;\"><a href=\"tel:4044862700\">404-486-2700</a></span></p>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<p style=\"text-align:center;\"><span style=\"color:#ed1c2b;\"><a href=\"tel:4044862700\">404-486-2700</a></span></p>",
+				"model": "6",
+				"position": 5,
+				"fullName": "content:wysiwyg_basic:4:49",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:4:49",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:5:64": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 6,
+				"fullName": "design:design:whitespace-sm:5:64",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:7:41": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>Purpose Statement</strong></span>\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Purpose Statement",
+				"position": 7,
+				"fullName": "content:textarea:7:41",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:7:41",
+				"styles": {
+					"color": "#ed1c2b",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:8:10": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\tThe purpose of The Salvation Army Metro Atlanta Red Shield Services Emergency and Transitional Housing Facility (Red Shield Shelter) is to provide strategic intervention, refuge and safe lodging for homeless men, women and families with children in crisis. Our focus is to provide emergency, transitional and recovery programs that empower people of all ages to begin their transition to stable independence; by discovering and overcoming the root causes of their homelessness.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "The purpose of The Salvation Army Metro Atlanta Red Shield Services Emergency and Transitional Housing Facility (Red Shield Shelter) is to provide strategic intervention, refuge and safe lodging for homeless men, women and families with children in crisis. Our focus is to provide emergency, transitional and recovery programs that empower people of all ages to begin their transition to stable independence; by discovering and overcoming the root causes of their homelessness.",
+				"position": 8,
+				"fullName": "content:textarea:8:10",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:8:10",
+				"styles": {},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-xl:9:36": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 9,
+				"fullName": "design:design:whitespace-xl:9:36",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:wysiwyg_basic:10:14": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<p style=\"text-align:center;\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/29b7089f-673c-4f6f-a30d-81a29db8b508_Red+Shield+Shelter+Brochure+Updated+2024.pdf\"><span class=\"btn btn-solid btn-red\">Download The Red Shield Shelter Brochure</span></a>\n</p>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<p style=\"text-align:center;\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/29b7089f-673c-4f6f-a30d-81a29db8b508_Red+Shield+Shelter+Brochure+Updated+2024.pdf\"><span class=\"btn btn-solid btn-red\">Download The Red Shield Shelter Brochure</span></a>\n</p>",
+				"model": "6",
+				"position": 10,
+				"fullName": "content:wysiwyg_basic:10:14",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:10:14",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:11:72": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 11,
+				"fullName": "design:design:whitespace-sm:11:72",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:textarea:13:71": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>HOUSING PROGRAMS PROVIDED:</strong></span>\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "HOUSING PROGRAMS PROVIDED:",
+				"position": 12,
+				"fullName": "content:textarea:13:71",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:13:71",
+				"styles": {
+					"color": "#ed1c2b",
+					"fontWeight": "700"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:14:71": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Cold Weather Program:&nbsp;</span>When the weather is below 40 degrees and if the applicant is not intoxicated.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Cold Weather Program:&nbsp;When the weather is below 40 degrees and if the applicant is not intoxicated.",
+				"position": 13,
+				"fullName": "content:textarea:14:71",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:14:71",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:15:2": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Emergency Assessment Program:&nbsp;</span>Individual applicants can access this program for a 30 day stay, once in a twelve-month period. Applicants must be homeless and need to present a valid form of identification.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Emergency Assessment Program:&nbsp;Individual applicants can access this program for a 30 day stay, once in a twelve-month period. Applicants must be homeless and need to present a valid form of identification.",
+				"position": 14,
+				"fullName": "content:textarea:15:2",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:15:2",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:16:24": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Family Emergency Program:&nbsp;</span>Applicants must be the head of household with documented proof of custody of children. Applicants can stay up to 60 days, once in a twelve-month period. Applicants must present a valid form of identification.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Family Emergency Program:&nbsp;Applicants must be the head of household with documented proof of custody of children. Applicants can stay up to 60 days, once in a twelve-month period. Applicants must present a valid form of identification.",
+				"position": 15,
+				"fullName": "content:textarea:16:24",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:16:24",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:17:55": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Supportive Emergency Program:&nbsp;</span>Applicants can stay up to 90 days, must be homeless, need to present two forms of identification, and must have an income or sponsorship.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Supportive Emergency Program:&nbsp;Applicants can stay up to 90 days, must be homeless, need to present two forms of identification, and must have an income or sponsorship.",
+				"position": 16,
+				"fullName": "content:textarea:17:55",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:17:55",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:18:43": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Re-entry Program:</span>&nbsp;Applicants can stay up to three months and must be referred by the State Board of Pardons and the Paroles Housing Coordinator.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Re-entry Program:&nbsp;Applicants can stay up to three months and must be referred by the State Board of Pardons and the Paroles Housing Coordinator.",
+				"position": 17,
+				"fullName": "content:textarea:18:43",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:18:43",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:19:96": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Harbor Light Drug Treatment:</span>&nbsp;Applicants are entered into a 90-day program, must be homeless or referred through U.S. District Courts, must have qualifying medical paperwork prior to entry (call for details) and must complete a screening interview prior to entry. Most beds are fee-based, some are free or sponsored.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Harbor Light Drug Treatment:&nbsp;Applicants are entered into a 90-day program, must be homeless or referred through U.S. District Courts, must have qualifying medical paperwork prior to entry (call for details) and must complete a screening interview prior to entry. Most beds are fee-based, some are free or sponsored.",
+				"position": 18,
+				"fullName": "content:textarea:19:96",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:19:96",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:20:77": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Rapid Rehousing Programs:</span>&nbsp;Rapid Rehousing programs are designed to provide services to those who are in need of obtaining permanent housing or maintaining current housing. These services include financial assistance and a referral to the Furniture Bank (if needed), determined on a case by case basis. The Home Again program provides assistance to families that are categorized as either homeless, at risk of becoming homeless or are at imminent risk of losing their current housing.&nbsp; The Housing Stability program provides assistance to singles that are currently residing within The Salvation Army Red Shield Services on a referral basis. The DeKalb Rehousing program provides assistance after a coordinated assessment with security and utility deposits.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Rapid Rehousing Programs:&nbsp;Rapid Rehousing programs are designed to provide services to those who are in need of obtaining permanent housing or maintaining current housing. These services include financial assistance and a referral to the Furniture Bank (if needed), determined on a case by case basis. The Home Again program provides assistance to families that are categorized as either homeless, at risk of becoming homeless or are at imminent risk of losing their current housing.&nbsp; The Housing Stability program provides assistance to singles that are currently residing within The Salvation Army Red Shield Services on a referral basis. The DeKalb Rehousing program provides assistance after a coordinated assessment with security and utility deposits.",
+				"position": 19,
+				"fullName": "content:textarea:20:77",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:20:77",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:21:87": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">S</span><span style=\"color:#ed1c2b;\">upportive Emergency Family Program:</span>&nbsp;Applicants must be the head of household with documented proof of custody of children. Families can stay up to 90 days and must have income or sponsorship.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Supportive Emergency Family Program:&nbsp;Applicants must be the head of household with documented proof of custody of children. Families can stay up to 90 days and must have income or sponsorship.",
+				"position": 20,
+				"fullName": "content:textarea:21:87",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:21:87",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:textarea:22:11": {
+				"icon": "align-justify",
+				"name": "Paragraph",
+				"type": "textarea",
+				"html": "<p>\n\t<span style=\"color:#ed1c2b;\">Veterans on the Move:</span>&nbsp;Applicants can stay up to two years and must be referred through the Veterans Administration Homeless Program.\n</p>",
+				"description": "Mixed Plain and Rich Text",
+				"draggable": true,
+				"content": "Veterans on the Move:&nbsp;Applicants can stay up to two years and must be referred through the Veterans Administration Homeless Program.",
+				"position": 21,
+				"fullName": "content:textarea:22:11",
+				"htmlElement": "p",
+				"primarytype": "content",
+				"id": "content:textarea:22:11",
+				"styles": {
+					"color": "#ed1c2b"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"content:wysiwyg_basic:23:57": {
+				"icon": "outdent",
+				"name": "WYSIWYG",
+				"type": "wysiwyg_basic",
+				"html": "<p style=\"text-align:center;\">\n\t<a href=\"https://www.amazon.com/hz/wishlist/ls/2018D2MG7RAVK?ref_=wl_share\"><span class=\"btn btn-solid btn-red\">View Red Shield's Amazon Wishlist</span></a>\n</p>",
+				"description": "Text with HTML references.",
+				"draggable": true,
+				"content": "<p style=\"text-align:center;\">\n\t<a href=\"https://www.amazon.com/hz/wishlist/ls/2018D2MG7RAVK?ref_=wl_share\"><span class=\"btn btn-solid btn-red\">View Red Shield's Amazon Wishlist</span></a>\n</p>",
+				"model": "6",
+				"position": 22,
+				"fullName": "content:wysiwyg_basic:23:57",
+				"htmlElement": "html",
+				"primarytype": "content",
+				"id": "content:wysiwyg_basic:23:57",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:design:whitespace-sm:24:76": {
+				"uid": "351",
+				"name": "Whitespace - Small",
+				"type": "design",
+				"classes": "my-2",
+				"html": "<div class=\"my-2\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+				"droppable": true,
+				"position": 23,
+				"fullName": "design:design:whitespace-sm:24:76",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:design:horizontalrule:26:7": {
+				"uid": "13",
+				"name": "Horizontal Rule",
+				"type": "design",
+				"html": "<hr>",
+				"preview": "<hr>",
+				"classes": "",
+				"droppable": false,
+				"position": 24,
+				"fullName": "design:design:horizontalrule:26:7",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"design:design:whitespace-xl:27:59": {
+				"uid": "354",
+				"name": "Whitespace - Extra Large",
+				"type": "design",
+				"classes": "py-5",
+				"html": "<div class=\"py-5\"></div>",
+				"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+				"droppable": false,
+				"position": 25,
+				"fullName": "design:design:whitespace-xl:27:59",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank"
+			},
+			"content:text:28:17": {
+				"icon": "text-height",
+				"name": "Heading",
+				"type": "text",
+				"html": "<h5 style=\"text-align:center;\">donate&nbsp;in-kind items or gifts</h5>",
+				"description": "Plain Text",
+				"draggable": true,
+				"content": "donate&nbsp;in-kind items or gifts",
+				"position": 26,
+				"fullName": "content:text:28:17",
+				"htmlElement": "h5",
+				"primarytype": "content",
+				"id": "content:text:28:17",
+				"styles": {
+					"textAlign": "center"
+				},
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"contentOverride": false
+			},
+			"design:columns:2columns:31:73": {
+				"uid": "11",
+				"name": "2 Columns - Equal",
+				"type": "columns",
+				"classes": "row my-3",
+				"html": "<div class=\"row my-3\">*</div>",
+				"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+				"droppable": false,
+				"numberOfColumns": 2,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					},
+					{
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 27,
+				"fullName": "design:columns:2columns:31:73",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:2columns:31:73-1:2 Columns - Equal:0": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:29:9": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\t<span style=\"color:#ed1c2b;\"><strong>Important Links:&nbsp;</strong></span>\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Important Links:&nbsp;",
+								"position": 0,
+								"fullName": "content:textarea:29:9",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:29:9",
+								"styles": {
+									"color": "#ed1c2b",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columns:31:73-1:2 Columns - Equal:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 0
+					},
+					"design:columns:2columns:31:73-1:2 Columns - Equal:1": {
+						"width": "1",
+						"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+						"classes": "col-lg-6 col-md-6 col-sm-12",
+						"droppable": true,
+						"children": {
+							"content:textarea:30:66": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t<strong>Funding to Support Services Provided By</strong>\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Funding to Support Services Provided By",
+								"position": 0,
+								"fullName": "content:textarea:30:66",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:30:66",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:2columns:31:73-1:2 Columns - Equal:1",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"position": 1
+					}
+				}
+			}
+		}
+	}
+}

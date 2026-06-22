@@ -1,0 +1,75 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-c4ece48cb5-rf0q98')}}
+	<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/cea96aeb-dd73-4e2d-8b57-4b0050d97440_PALM+BEACH+2026+Day+Camp+BANNER-01b.png" alt="placeholder" class="img-fluid d-block mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:1:6101">
+	<div style="position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/2e61761e-8799-49c8-92bd-a2fb8614346a_daycampback.png');background-position:center center;background-repeat:repeat;background-size:cover;" data-zesty-id="content:wysiwyg_basic:1:24">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5 style="text-align:center;">For More Information</h5>
+<p style="text-align:center;color:#fff;">
+	Please click on the location you are interested in<br>
+	and contact us directly by phone or email.
+</p>
+<div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p style="text-align:center;color:#fff;">
+					<strong>Lake Worth Corps</strong><br>
+					4051 Kirk Rd<br>
+					Lake Worth, FL 33461<br>
+					<a href="tel:+15619688189" target="">(561) 968-8189</a><br>
+					<a href="mailto:Victoria.Frutos@uss.salvationarmy.org" target="">Victoria.Frutos@uss.salvationarmy.org</a>
+				</p>
+			</div>
+		</div>
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				<p style="text-align:center;color:#fff;">
+					<strong>Northwest Community Center</strong><br>
+					600 N Rosemary Ave<br>
+					West Palm Beach, FL 33401<br>
+					<a href="tel:+15618336767" target="">(561) 833-6767</a><br>
+					<a href="mailto:Victoria.Frutos@uss.salvationarmy.org" target="">Victoria.Frutos@uss.salvationarmy.org</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+                </div>
+            </div>
+        </div>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:2:34"></div>
+	<h5 style="text-align:center;" data-zesty-id="content:text:3:22">Summer Day Camp 2026<br>
+&nbsp;</h5>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:59"></div>
+	<div class="row my-3" data-zesty-id="design:columns:2columnswideleft:17:74">
+<div class="col-md-7 col-sm-12" data-zesty-id="design:columns:2columnswideleft:17:74-4:2 Columns - Left Big:0">
+<p data-zesty-id="content:textarea:5:55">
+					<strong>Ages:</strong> Children 5 years to&nbsp;13 years old.
+				</p>
+<p data-zesty-id="content:textarea:6:22"><strong>Hours: </strong>8:00am - 5:30pm</p>
+<p data-zesty-id="content:textarea:7:70"><strong>Fee:</strong></p>
+<ul data-zesty-id="content:wysiwyg_basic:8:27">
+					<li>First child $75&nbsp;weekly</li>
+					<li>Family discount available for families with one or more child</li>
+				</ul>
+<p data-zesty-id="content:textarea:10:48"><strong>Registration Fee:</strong>&nbsp;$25.00 per child</p>
+<p data-zesty-id="content:textarea:11:43"><strong>Amazing Benefits:</strong></p>
+<ul data-zesty-id="content:wysiwyg_basic:12:2">
+					<li>Bible Classes</li>
+					<li>Character Building</li>
+					<li>Field Trips</li>
+					<li>Christian Environment</li>
+					<li>Daily Lunch and 2 Snacks&nbsp;</li>
+					<li>STEM, Music/Arts, and&nbsp;Other Enrichment Activities</li>
+				</ul>
+<p data-zesty-id="content:textarea:14:97">
+					<strong>Including a first come, first served residential camp at Camp Keystone, FL.</strong>
+				</p>
+		</div>
+<div class="col-md-5 col-sm-12" data-zesty-id="design:columns:2columnswideleft:17:74-2:2 Columns - Left Big:1">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/e2b47c6c-a758-4b9a-a430-0d869c2ee03a_28680_Tuscon_Children_Smiling_4.png" alt="placeholder" class="img-fluid d-block m-auto my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:15:37">
+		</div>
+	</div>
+</div>

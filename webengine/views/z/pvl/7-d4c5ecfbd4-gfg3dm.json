@@ -1,0 +1,326 @@
+{
+  "layout:root:column:0": {
+    "name": "layout:root:column:0",
+    "html": "<div className={styles.pvlRoot}>*</div>",
+    "children": {
+      "content:text:0:75": {
+        "icon": "text-height",
+        "name": "Heading",
+        "type": "text",
+        "html": "<h4   style=\"text-align: center\">This Is Hope&nbsp;Campaign Virtual Packet</h4>",
+        "description": "Plain Text",
+        "draggable": true,
+        "content": "This Is Hope&nbsp;Campaign Virtual Packet",
+        "position": 0,
+        "fullName": "content:text:0:75",
+        "htmlElement": "h4",
+        "primarytype": "content",
+        "id": "content:text:0:75",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:text:1:53": {
+        "icon": "text-height",
+        "name": "Heading",
+        "type": "text",
+        "html": "<h5   style=\"text-align: center\">The Salvation Army Central Virginia</h5>",
+        "description": "Plain Text",
+        "draggable": true,
+        "content": "The Salvation Army Central Virginia",
+        "position": 1,
+        "fullName": "content:text:1:53",
+        "htmlElement": "h5",
+        "primarytype": "content",
+        "id": "content:text:1:53",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "design:design:whitespace-xl:2:81": {
+        "uid": "81",
+        "name": "Whitespace - Extra Large",
+        "type": "design",
+        "classes": "my-5",
+        "html": "<div class=\"my-5\"></div>",
+        "preview": "<div style=\"border-style:dashed; height:40px; width:100%;\"></div>",
+        "droppable": true,
+        "position": 2,
+        "fullName": "design:design:whitespace-xl:2:81",
+        "primarytype": "design",
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank"
+      },
+      "content:wysiwyg_basic:3:39": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://thisishoperva.org/\" target=\"\">This is Hope Brochure</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://thisishoperva.org/\" target=\"\">This is Hope Brochure</a>\n</p>",
+        "position": 3,
+        "fullName": "content:wysiwyg_basic:3:39",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:3:39",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:wysiwyg_basic:4:47": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/6f2d5479-523b-41d9-b7e6-10cca28381cd_Hope+is+Power.pdf\">Hope is Power&nbsp;Info Sheet</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/6f2d5479-523b-41d9-b7e6-10cca28381cd_Hope+is+Power.pdf\">Hope is Power&nbsp;Info Sheet</a>\n</p>",
+        "position": 4,
+        "fullName": "content:wysiwyg_basic:4:47",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:4:47",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:wysiwyg_basic:5:14": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/401c65c1-e11f-47af-abb1-2ad6cd54b120_2025+January+PIT+Count.pdf\">2025 January&nbsp;PIT Snapshot</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/401c65c1-e11f-47af-abb1-2ad6cd54b120_2025+January+PIT+Count.pdf\">2025 January&nbsp;PIT Snapshot</a>\n</p>",
+        "position": 5,
+        "fullName": "content:wysiwyg_basic:5:14",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:5:14",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:wysiwyg_basic:6:61": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/8443459b-116e-427b-ba3c-245d7dd15376_2022+Poverty+Rates.pdf\">2022 Richmond City Poverty Rates</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/8443459b-116e-427b-ba3c-245d7dd15376_2022+Poverty+Rates.pdf\">2022 Richmond City Poverty Rates</a>\n</p>",
+        "position": 6,
+        "fullName": "content:wysiwyg_basic:6:61",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:6:61",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:wysiwyg_basic:7:8": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/annual-reports\">2024&nbsp;Annual Report</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/annual-reports\">2024&nbsp;Annual Report</a>\n</p>",
+        "position": 7,
+        "fullName": "content:wysiwyg_basic:7:8",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:7:8",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:wysiwyg_basic:8:24": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/77ef2a8c-227a-4de1-9249-008fd72fe639_2024.03.11+SALVATION+ARMY+-+CENTER+OF+HOPE+-+24x36+BLOCKING+DIAGRAM.pdf\">Center of Hope Diagram</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/77ef2a8c-227a-4de1-9249-008fd72fe639_2024.03.11+SALVATION+ARMY+-+CENTER+OF+HOPE+-+24x36+BLOCKING+DIAGRAM.pdf\">Center of Hope Diagram</a>\n</p>",
+        "position": 8,
+        "fullName": "content:wysiwyg_basic:8:24",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:8:24",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:wysiwyg_basic:9:54": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d30c4c71-87ba-4d8c-99fa-607e6a81e411_2024+This+Is+Hope+Recognition+Opportunities.pdf\">This is Hope Recognition Opportunities</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/d30c4c71-87ba-4d8c-99fa-607e6a81e411_2024+This+Is+Hope+Recognition+Opportunities.pdf\">This is Hope Recognition Opportunities</a>\n</p>",
+        "position": 9,
+        "fullName": "content:wysiwyg_basic:9:54",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:9:54",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "content:wysiwyg_basic:10:1": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/21b34f22-bb33-4315-ba7a-cda49e62822b_This+is+Hope+Pledge+Card.pdf\">This is Hope Pledge Card</a>\n</p>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<p   style=\"text-align: center\">\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/21b34f22-bb33-4315-ba7a-cda49e62822b_This+is+Hope+Pledge+Card.pdf\">This is Hope Pledge Card</a>\n</p>",
+        "position": 10,
+        "fullName": "content:wysiwyg_basic:10:1",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:10:1",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "design:design:whitespace-xl:11:73": {
+        "uid": "73",
+        "name": "Whitespace - Extra Large",
+        "type": "design",
+        "classes": "my-5",
+        "html": "<div class=\"my-5\"></div>",
+        "preview": "<div style=\"border-style:dashed; height:40px; width:100%;\"></div>",
+        "droppable": true,
+        "position": 11,
+        "fullName": "design:design:whitespace-xl:11:73",
+        "primarytype": "design",
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank"
+      },
+      "design:design:horizontalrule:12:97": {
+        "uid": "13",
+        "name": "Horizontal Rule",
+        "type": "design",
+        "html": "<hr>",
+        "preview": "<hr>",
+        "classes": "",
+        "droppable": false,
+        "position": 12,
+        "fullName": "design:design:horizontalrule:12:97",
+        "primarytype": "design",
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank"
+      },
+      "content:wysiwyg_basic:13:77": {
+        "icon": "outdent",
+        "name": "WYSIWYG",
+        "type": "wysiwyg_basic",
+        "html": "<div  class=\"btgrid\">\n\t<div  class=\"row row-1\">\n\t\t<div  class=\"col col-md-5\">\n\t\t\t<div  class=\"content\">\n\t\t\t\t<h5  style=\"text-align: center\">What Is The Salvation Army?</h5>\n\n\t\t\t\t<p  style=\"text-align: center\">\n\t\t\t\t\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/uuxwvC-7SLk?si=UIVvcX3XrOE23VSO&amp;start=1\" title=\"YouTube video player\" width=\"560\"></iframe>\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div  class=\"col col-md-6\">\n\t\t\t<div  class=\"content\">\n\t\t\t\t<p>\n\t\t\t\t\t&nbsp;\n\t\t\t\t</p>\n\n\t\t\t\t<p>\n\t\t\t\t\tFounded in London, England in 1865 by William and Catherine Booth, today The Salvation Army&nbsp;is in over 130 countries serving the greatest need for each community.\n\t\t\t\t</p>\n\n\t\t\t\t<p>\n\t\t\t\t\tWe work to assess local needs by identifying the obstacles and challenges, then design local programs to offer immediate relief, short-term care and long-term growth.\n\t\t\t\t</p>\n\n\t\t\t\t<div>\n\t\t\t\t\t<p>\n\t\t\t\t\t\tWe are serving people of all ages and all walks of life according to our core values: to love, serve and disciple.\n\t\t\t\t\t</p>\n\n\t\t\t\t\t<p>\n\t\t\t\t\t\tFrom food and financial assistance programs to emergency shelters, from Christmas giving to youth and family programs, from worship services to rehabilitation programs, Salvation Army officers, soldiers, employees, volunteers, donors and friends work to uphold our branding promise of <strong>Doing The Most Good.</strong>\n\t\t\t\t\t</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>",
+        "description": "Text with HTML references.",
+        "draggable": true,
+        "content": "<div  class=\"btgrid\">\n\t<div  class=\"row row-1\">\n\t\t<div  class=\"col col-md-5\">\n\t\t\t<div  class=\"content\">\n\t\t\t\t<h5  style=\"text-align: center\">What Is The Salvation Army?</h5>\n\n\t\t\t\t<p  style=\"text-align: center\">\n\t\t\t\t\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/uuxwvC-7SLk?si=UIVvcX3XrOE23VSO&amp;start=1\" title=\"YouTube video player\" width=\"560\"></iframe>\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div  class=\"col col-md-6\">\n\t\t\t<div  class=\"content\">\n\t\t\t\t<p>\n\t\t\t\t\t&nbsp;\n\t\t\t\t</p>\n\n\t\t\t\t<p>\n\t\t\t\t\tFounded in London, England in 1865 by William and Catherine Booth, today The Salvation Army&nbsp;is in over 130 countries serving the greatest need for each community.\n\t\t\t\t</p>\n\n\t\t\t\t<p>\n\t\t\t\t\tWe work to assess local needs by identifying the obstacles and challenges, then design local programs to offer immediate relief, short-term care and long-term growth.\n\t\t\t\t</p>\n\n\t\t\t\t<div>\n\t\t\t\t\t<p>\n\t\t\t\t\t\tWe are serving people of all ages and all walks of life according to our core values: to love, serve and disciple.\n\t\t\t\t\t</p>\n\n\t\t\t\t\t<p>\n\t\t\t\t\t\tFrom food and financial assistance programs to emergency shelters, from Christmas giving to youth and family programs, from worship services to rehabilitation programs, Salvation Army officers, soldiers, employees, volunteers, donors and friends work to uphold our branding promise of <strong>Doing The Most Good.</strong>\n\t\t\t\t\t</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>",
+        "position": 13,
+        "fullName": "content:wysiwyg_basic:13:77",
+        "htmlElement": "html",
+        "primarytype": "content",
+        "id": "content:wysiwyg_basic:13:77",
+        "styles": {
+          "textAlign": "center"
+        },
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank",
+        "contentOverride": false
+      },
+      "design:design:whitespace-xl:14:56": {
+        "uid": "56",
+        "name": "Whitespace - Extra Large",
+        "type": "design",
+        "classes": "my-5",
+        "html": "<div class=\"my-5\"></div>",
+        "preview": "<div style=\"border-style:dashed; height:40px; width:100%;\"></div>",
+        "droppable": true,
+        "position": 14,
+        "fullName": "design:design:whitespace-xl:14:56",
+        "primarytype": "design",
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank"
+      },
+      "design:design:whitespace-xl:15:94": {
+        "uid": "94",
+        "name": "Whitespace - Extra Large",
+        "type": "design",
+        "classes": "my-5",
+        "html": "<div class=\"my-5\"></div>",
+        "preview": "<div style=\"border-style:dashed; height:40px; width:100%;\"></div>",
+        "droppable": true,
+        "position": 15,
+        "fullName": "design:design:whitespace-xl:15:94",
+        "primarytype": "design",
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank"
+      },
+      "design:design:whitespace-md:17:19": {
+        "uid": "19",
+        "name": "Whitespace - Medium",
+        "type": "design",
+        "classes": "my-4",
+        "html": "<div class=\"my-4\"></div>",
+        "preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+        "droppable": true,
+        "position": 16,
+        "fullName": "design:design:whitespace-md:17:19",
+        "primarytype": "design",
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank"
+      },
+      "design:design:whitespace-md:18:21": {
+        "uid": "21",
+        "name": "Whitespace - Medium",
+        "type": "design",
+        "classes": "my-4",
+        "html": "<div class=\"my-4\"></div>",
+        "preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+        "droppable": true,
+        "position": 17,
+        "fullName": "design:design:whitespace-md:18:21",
+        "primarytype": "design",
+        "newLoc": "layout:root:column:0",
+        "oldLoc": "bank"
+      }
+    }
+  }
+}

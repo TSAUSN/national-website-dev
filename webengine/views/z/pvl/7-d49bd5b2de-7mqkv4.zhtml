@@ -1,0 +1,59 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-f6bad3bdc0-sm66hl')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:28:26">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:28:26-1:1 Column:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:2:96">Equipping Our Community</h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:3:40"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columnswideright:10:84">
+<div class="col-md-4 col-sm-12" data-zesty-id="design:columns:2columnswideright:10:84-2:2 Columns - Left Small:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/22069c23-1d57-49ec-aa8b-1f3c5ce017e0_b5bd9c43-feb2-4430-b82c-3dc3256f727b_ED%2BWORKFORCE%2BPIC.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:4:83">
+				</div>
+<div class="col-md-8 col-sm-12" data-zesty-id="design:columns:2columnswideright:10:84-4:2 Columns - Left Small:1">
+<p data-zesty-id="content:textarea:7:83">
+					The Education &amp; Workforce Development Center works to help each participant reach their full potential by offering classes, trainings, workshops, professional development events and opportunities, through collaborative partnerships.&nbsp;&nbsp;
+				</p>
+<p data-zesty-id="content:wysiwyg_basic:8:56">
+					For more information on upcoming offerings, please call&nbsp;&nbsp;<a href="tel:+12053282420" target="">205-328-2420</a>.
+				</p>
+				</div>
+			</div>
+<p data-zesty-id="content:textarea:11:46">
+	<em><strong>All classes and trainings are held at The Center of Hope in the Education Workforce Development Center (E&amp;WDC) located at 2015 26th Avenue North Birmingham, AL 35234.</strong></em>
+</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:12:72"></div>
+<h5 style="text-align:center;" class="text-white" data-zesty-id="content:text:13:76">Education</h5>
+<div class="row my-3" data-zesty-id="design:columns:2columns:16:53">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:16:53-1:2 Columns - Equal:0">
+<p class="text-white" data-zesty-id="content:textarea:14:86">
+	<strong>GED&nbsp;</strong>
+</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:16:53-1:2 Columns - Equal:1">
+<p class="text-white" data-zesty-id="content:textarea:15:87">
+	<strong>Literacy&nbsp;Remediation&nbsp;</strong>
+</p>
+				</div>
+			</div>
+<h5 style="text-align:center;" data-zesty-id="content:text:17:6">Job &amp; Career&nbsp;Readiness</h5>
+<p data-zesty-id="content:textarea:18:22"><strong>WorkFaith&nbsp;Birmingham&nbsp;</strong></p>
+<p data-zesty-id="content:textarea:19:45">In this 2-week job readiness program participants will create a resume, as well as templates for a cover letter and thank your letter; formulate a “30-second commercial" to effectively answer that dreaded interview question, “Tell me a little about yourself?"; become familiar with 21st century job search techniques; brush up on interview skills and participate in mock interviews designed to ensure the participant conveys his message effectively to an employer. Participants must be work ready – be able to present a valid state ID and Social Security Card and have no pending court cases that will interfere with employment and be able to pass a drug screen.&nbsp;</p>
+<p data-zesty-id="content:textarea:20:1"><strong>Alabama&nbsp;Career Essentials (ACE)&nbsp;</strong></p>
+<p data-zesty-id="content:textarea:21:59">In this FREE training course designed by the Alabama Community College System to provide Alabamians with relevant, innovative, and industry-driven employability skills training to better prepare individuals for the Alabama workforce. The main goal of the new ACE course is to ensure current and future workers are equipped with the skills necessary to enter the 21st-century Alabama workforce. Participants will learn skills in the following areas:&nbsp;</p>
+<ul data-zesty-id="content:wysiwyg_basic:22:16">
+	<li>Computer Literacy&nbsp;</li>
+	<li>Effective Communication&nbsp;</li>
+	<li>Employment Preparation&nbsp;</li>
+	<li>Math for Work&nbsp;</li>
+	<li>Resolving Problems in the Workplace&nbsp;</li>
+	<li>Healthy Workplace Environments&nbsp;</li>
+	<li>Financial Literacy&nbsp;</li>
+	<li>Workplace Etiquette&nbsp;</li>
+	<li>Workplace Safety&nbsp;</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:23:45"></div>
+<p data-zesty-id="content:textarea:24:88">
+	The new ACE curriculum is based on the most current ACCCP and Technical Advisory Committee's five most in-demand career clusters. The course will be delivered online, hybrid, and in-person and can be customized to meet the training and educational needs of business and industry.&nbsp;
+</p>
+		</div>
+	</div>
+</div>

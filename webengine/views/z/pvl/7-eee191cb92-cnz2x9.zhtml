@@ -1,0 +1,38 @@
+<div classname="{styles.pvlRoot}">
+	{{block('/-/block/hero_full.html?variant=7-94aae4ada1-9ccjrz')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:24:93">
+<div style="flex:1" class="column" data-zesty-id="design:columns:1 Column:24:93-1:1 Column:0">
+<div class="rounded bg-secondary-200" style="color:#FFFFFF;padding:40px;" data-zesty-id="content:wysiwyg_basic:2:31"><h1 style="text-align:center;">It Takes An Army</h1></div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:3:99"></div>
+<p data-zesty-id="content:textarea:4:90">
+	Wake County is a wonderful place to live, work, and raise a family. Consistently ranked among the nation’s “Best Places for Business and Careers,” our community is thriving with growth and prosperity visible around nearly every corner.
+</p>
+<p data-zesty-id="content:textarea:5:75">
+	But not everyone shares in that success.
+</p>
+<p data-zesty-id="content:textarea:6:36">
+	Every day, thousands of our neighbors — men, women, and children — face unimaginable challenges. They’re battling hunger. Struggling with mental illness. Fighting to break free from the grip of human trafficking. And as our population grows, so too does the need. A&nbsp;need that is quickly outpacing available resources.
+</p>
+<p data-zesty-id="content:textarea:7:69">Since 1887, <b>The Salvation Army of Wake County</b> has stood beside those in greatest need.</p>
+<p data-zesty-id="content:textarea:8:13">We provide:</p>
+<ul data-zesty-id="content:wysiwyg_basic:9:57">
+	<li><span style="tab-stops:list .5in;">Shelter for the homeless</span></li>
+	<li><span style="tab-stops:list .5in;">Disaster relief for families in crisis</span></li>
+	<li><span style="tab-stops:list .5in;">Hot meals and food support for the hungry</span></li>
+	<li><span style="tab-stops:list .5in;">Pathways to freedom for victims of human trafficking</span></li>
+	<li><span style="tab-stops:list .5in;">Holiday hope for over 7,000 children annually through our Angel Tree program</span></li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:10:88"></div>
+<p data-zesty-id="content:textarea:11:4">It takes <b>an Army</b> to meet these needs.</p>
+<p data-zesty-id="content:textarea:12:85">It takes <strong>volunteers</strong> who give their time.</p>
+<p data-zesty-id="content:textarea:13:70">It takes <strong>community</strong> partners who care.</p>
+<p data-zesty-id="content:textarea:14:57">And it takes <b>donors like you</b>, turning compassion into action.</p>
+<p data-zesty-id="content:textarea:15:37"><b>Join Our Army. Become a Shield Sustainer Today.</b></p>
+<p data-zesty-id="content:textarea:16:7">
+	Your gift helps lift those in in need offering them not just assistance, but a fighting chance at a better life.
+</p>
+<p data-zesty-id="content:textarea:17:96">Together, we can make a difference.</p>
+<p data-zesty-id="content:textarea:18:17"><b>Please give today and help us help our neighbors in need across Wake County.</b></p>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,43 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-ace2cbfdbe-8l1469')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:22:79">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:22:79-1:1 Column:0">
+<h6 style="text-align:center;" data-zesty-id="content:text:1:58">Hunger Relief Programs</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:2:89">
+	No one should have to choose between paying bills and putting food on the table. Unfortunately, that is the reality for many of our neighbors in the Carolinas. That's why we offer hunger relief programs and services to combat food insecurities.
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:8">
+	Friendly Meals! -&gt; Every 3rd Thursday from 5PM - 7PM:
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:4:5"><a href="https://maps.google.com/?saddr=Current+Location&amp;daddr=1001%20Freeman%20Mill%20Rd.,,Greensboro,North%20Carolina&amp;dirflg=d" target="">1001 Freeman Mill Rd.</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:57"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:6:57">Greensboro, NC 27406</a></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:7:55">Or contact&nbsp;us via phone:</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:8:94"><a href="tel:3362735572">336.273.5572</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:44"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:3 Columns:16:15">
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-navyBg" data-zesty-id="design:columns:3 Columns:16:15-1:3 Columns:0">
+<h6 data-zesty-id="content:wysiwyg_basic:10:59">Food Pantry</h6>
+
+<p>
+	Our food pantries are a great way for struggling individuals and families to supplement their existing groceries.&nbsp;
+</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-navyBg" data-zesty-id="design:columns:3 Columns:16:15-1:3 Columns:1">
+<h6 data-zesty-id="content:wysiwyg_basic:12:51">Soup Kitchens</h6>
+
+<p>
+	A hot meal can make a world of difference to someone that is struggling with food insecurity or homelessness.&nbsp;
+</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-navyBg" data-zesty-id="design:columns:3 Columns:16:15-1:3 Columns:2">
+<h6 data-zesty-id="content:wysiwyg_basic:14:34">Community Centers</h6>
+
+<p>
+	Families are particularly vulnerable during the summer months when children are out of school and eating at home.&nbsp;
+</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

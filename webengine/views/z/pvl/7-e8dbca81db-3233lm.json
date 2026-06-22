@@ -1,0 +1,326 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:33:0:42": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-d6c48087e6-dvc8s0')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-d6c48087e6-dvc8s0')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:33:0:42",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:19:26": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:19:26",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:19:26-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" classname=\"{styles.pvlColumn}\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:1:37": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6 style=\"text-align:center;\">Senior Programs</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Senior Programs",
+								"position": 0,
+								"fullName": "content:text:1:37",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:1:37",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:2:3": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tMore than 14% of Americans over age 71 are affected by dementia. Research suggests that elderly care involving human contact and interpersonal conversation lowers the impact of dementia and depression. The Salvation Army works to provide&nbsp;programs and services to assist seniors socially, emotionally, and financially.&nbsp;\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "More than 14% of Americans over age 71 are affected by dementia. Research suggests that elderly care involving human contact and interpersonal conversation lowers the impact of dementia and depression. The Salvation Army works to provide&nbsp;programs and services to assist seniors socially, emotionally, and financially.&nbsp;",
+								"position": 1,
+								"fullName": "content:textarea:2:3",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:2:3",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:3:55": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\"><strong>Community Center</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Community Center",
+								"position": 2,
+								"fullName": "content:textarea:3:55",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:3:55",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:4:78": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">902 Wake Forest Road</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "902 Wake Forest Road",
+								"position": 3,
+								"fullName": "content:textarea:4:78",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:4:78",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:5:84": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">Raleigh, NC 27604</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Raleigh, NC 27604",
+								"position": 4,
+								"fullName": "content:textarea:5:84",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:5:84",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:6:29": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\">\n\t<a href=\"tel:919-832-6918\" target=\"\">919-832-6918</a>\n</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\">\n\t<a href=\"tel:919-832-6918\" target=\"\">919-832-6918</a>\n</p>",
+								"model": "6",
+								"position": 5,
+								"fullName": "content:wysiwyg_basic:6:29",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:6:29",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:7:67": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 6,
+								"fullName": "design:design:whitespace-sm:7:67",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:8:85": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://goo.gl/maps/3eoobgKJSmcGM8sk9\" target=\"_blank\" class=\"btn btn-secondary gap-1 mt-2\">Directions</a></p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://goo.gl/maps/3eoobgKJSmcGM8sk9\" target=\"_blank\" class=\"btn btn-secondary gap-1 mt-2\">Directions</a></p>",
+								"model": "6",
+								"position": 7,
+								"fullName": "content:wysiwyg_basic:8:85",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:8:85",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:9:70": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 8,
+								"fullName": "design:design:whitespace-sm:9:70",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:14:73": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row g-3 my-3 align-items-stretch",
+								"html": "<div class=\"row g-3 my-3 align-items-stretch\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-12 col-sm-12 bg-area bg-secondary-200\">*</div>",
+										"classes": "col-lg-6 col-md-12 col-sm-12 bg-area u-sa-navyBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-12 col-sm-12 bg-area bg-secondary-200\">*</div>",
+										"classes": "col-lg-6 col-md-12 col-sm-12 bg-area u-sa-navyBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 9,
+								"fullName": "design:columns:2columns:14:73",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:19:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:14:73-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-12 col-sm-12 bg-area bg-secondary-200\">*</div>",
+										"classes": "col-lg-6 col-md-12 col-sm-12 bg-area u-sa-navyBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:10:64": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h6>Community Centers</h6>\n\n<p>\n\tThe Salvation Army community centers support senior citizens in different ways. Through a wide variety of programs, older adults can gather together to share interests, develop new skills, and enjoy the company of their peers.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h6>Community Centers</h6>\n\n<p>\n\tThe Salvation Army community centers support senior citizens in different ways. Through a wide variety of programs, older adults can gather together to share interests, develop new skills, and enjoy the company of their peers.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:10:64",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:10:64",
+												"styles": {},
+												"newLoc": "design:columns:2columns:14:73-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:14:73-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-12 col-sm-12 bg-area bg-secondary-200\">*</div>",
+										"classes": "col-lg-6 col-md-12 col-sm-12 bg-area u-sa-navyBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:12:40": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h6>Activities</h6>\n\n<p>\n\tThe Salvation Army works to stimulate the minds and bodies of older adults via educational opportunities, low-impact exercise, dances, lunches, fellowship, and countless other young-at-heart&nbsp;activities.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h6>Activities</h6>\n\n<p>\n\tThe Salvation Army works to stimulate the minds and bodies of older adults via educational opportunities, low-impact exercise, dances, lunches, fellowship, and countless other young-at-heart&nbsp;activities.\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:12:40",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:12:40",
+												"styles": {},
+												"newLoc": "design:columns:2columns:14:73-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

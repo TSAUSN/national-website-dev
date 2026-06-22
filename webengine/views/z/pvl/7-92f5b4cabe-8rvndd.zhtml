@@ -1,0 +1,38 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-a8e38a96ca-9xjc23')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:15:25">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:15:25-1:1 Column:0">
+<p data-zesty-id="content:textarea:1:51">
+	Join us on Wednesday July 30th at the Peters Creek Walmart in Winston-Salem at&nbsp;3475 Parkway Village Court.
+</p>
+<p data-zesty-id="content:textarea:2:8">
+	We will be there from 7:00am to 7:00pm.
+</p>
+<p data-zesty-id="content:textarea:3:83">
+	After you are done shopping, please stop by to donate school supplies to kids in need.
+</p>
+<p data-zesty-id="content:textarea:4:42">&nbsp;<br><strong>Here are some ideas for things kids need most:&nbsp; </strong></p>
+<p data-zesty-id="content:textarea:5:42">
+	&nbsp; &nbsp; &nbsp; -&nbsp; Bookbags, notebooks, pencils, colored pencils, markers, crayons, glue sticks, scissors, erasers, pencil bags,
+</p>
+<p data-zesty-id="content:textarea:6:44">
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3-ring binders, loose-leaf paper, hand sanitizer.
+</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:7:16"></div>
+<p data-zesty-id="content:textarea:8:73">
+	There are hundreds, if not thousands, of children in the Winston-Salem area who cannot afford the basic school supplies.
+</p>
+<p data-zesty-id="content:textarea:9:36">
+	With your help, we can give them the supplies and the confidence to show up at school ready to learn!&nbsp;
+</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:10:1"></div>
+<p data-zesty-id="content:wysiwyg_basic:11:37">
+	Or, you can <a href="https://give.salvationarmycarolinas.org/give/424184/#!/donation/checkout" target=""><strong>donate now</strong></a>, if that works better for you.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:12:77"></div>
+<p data-zesty-id="content:textarea:13:89">
+	Thanks so much!
+</p>
+		</div>
+	</div>
+</div>

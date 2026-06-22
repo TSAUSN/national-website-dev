@@ -1,0 +1,109 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-c6d3ecd994-xl12sl')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:62:98">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:62:98-1:1 Column:0">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:61:59"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:1:69">Membership Levels</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:2:34">
+	Annual Membership ($85.00 per fiscal year)
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:46">
+	Lifetime Membership ($1,000)
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:39">
+	Annual membership is from Oct 1st – Sept 30th (fiscal year). If the joining date is after July 1, 2026, membership payment will cover the following fiscal year (Oct 1, 2026 - Sept 30, 2027)
+</p>
+<hr data-zesty-id="design:design:horizontalrule:5:8">
+<h6 style="text-align:center;" id="form" data-zesty-id="content:text:6:7">Join or Renew Membership Now</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:7:39">
+	Complete the form below to renew your current membership, or apply for new membership
+</p>
+<h6 style="text-align:center;" data-zesty-id="content:text:8:94">Membership Payment</h6>
+<p data-zesty-id="content:textarea:9:72">You can pay your Member Dues through the following options:</p>
+<p data-zesty-id="content:textarea:10:33"><strong>1) Cash or check in person</strong></p>
+<p data-zesty-id="content:textarea:11:86">
+	You can also mail membership checks addressed to SAWA, 501 Rutherford St., Greenville, SC 29609.
+</p>
+<p data-zesty-id="content:textarea:12:3">
+	<strong>2) Pay online through the button below</strong>
+</p>
+<p data-zesty-id="content:textarea:13:51">
+	<em>(Please be sure to type in the correct payment amount, and then select the membership type in the drop-down box)</em>
+</p>
+<p data-zesty-id="content:wysiwyg_basic:14:89">
+	<a href="https://fundraise.givesmart.com/form/jiuzcg?vid=1i9w6c"><span class="btn btn-solid btn-red">Pay Online</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:51"></div>
+<p data-zesty-id="content:textarea:16:27">
+	<strong>3) Venmo through the button below</strong>
+</p>
+<p data-zesty-id="content:wysiwyg_basic:17:99">
+	<a href="https://venmo.com/sawagvl"><span class="btn btn-solid btn-red">Venmo @SAWAGVL</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:18:68"></div>
+<p data-zesty-id="content:textarea:20:66">
+	If you'd rather download the SAWA membership or renewal forms, click the buttons below. You can also click the button to gift a membership to someone else.&nbsp;
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:21:14"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:28:57">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:28:57-1:2 Columns - Equal:0">
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:22:89">
+					<strong><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/ef2e91f8-6b5f-487a-9d77-164d24bae6cb_SAWA+Membership+Application+2025-2026.pdf"><span class="btn btn-solid btn-red">New Membership Form</span></a></strong>
+				</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:24:22">
+					<strong><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/5fad091d-29c5-420b-9b15-22699d4895e0_Renewal+Form+2025-2026.pdf"><span class="btn btn-solid btn-red">Renewal Form</span></a></strong>
+				</p>
+				</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:28:57-1:2 Columns - Equal:1">
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:26:2">
+					<strong><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/82679cd7-6d24-454b-82b9-b41c8544677c_Gift+Membership+2024.pdf"><span class="btn btn-solid btn-red">Gift Membership</span></a></strong>
+				</p>
+				</div>
+			</div>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:29:12"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/c4a02428-0cda-4d45-83fd-e68589b97216_IMG_4411.JPG" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:29:82">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:31:48"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:32:80">WHO WE ARE &amp; WHAT WE DO</h5>
+<p data-zesty-id="content:textarea:33:21">
+	SAWA is the volunteer, educational and fundraising arm of The Salvation Army of Greenville, SC, supporting initiatives that enrich the lives of those individuals living in in our community by meeting them at their point of need.
+</p>
+<p data-zesty-id="content:textarea:34:48">
+	As a member of SAWA, you are among Greenville's most influential and active community leaders, women with a generous spirit and determination to be “doing the most good." Meetings are held on the 2nd Wednesday of each month (except July) at 11:30 a.m. at the Kroc Center located at 42 Westfield Street in Greenville (lunch is served).&nbsp;&nbsp;Members have many opportunities throughout the year to volunteer and attend social events and meetings.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:35:50"></div>
+<div class="row my-3" data-zesty-id="design:columns:3 Columns:42:21">
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:42:21-1:3 Columns:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/f715147e-bace-4d10-87b4-408eebbe11ec_9D8299FD-15BD-463E-8846-9B96B55FDF94.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:36:57">
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:42:21-1:3 Columns:1">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/0e4c1a1c-fd00-4c4d-8bb9-86c386ee8050_IMG_2378.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:38:6">
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:42:21-1:3 Columns:2">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/ce7f30e2-ea7a-48d5-9b7a-1d357d60cba3_IMG_1223.JPG" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:40:32">
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:43:25"></div>
+<div class="row my-3" data-zesty-id="design:columns:3 Columns:47:54">
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:47:54-1:3 Columns:0">
+<h5 data-zesty-id="content:text:44:2">Fellowship Opportunities</h5>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:47:54-1:3 Columns:1">
+<h5 data-zesty-id="content:text:45:53">Supporting Shelter Services</h5>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12" data-zesty-id="design:columns:3 Columns:47:54-1:3 Columns:2">
+<h5 data-zesty-id="content:text:46:28">Community Service</h5>
+				</div>
+			</div>
+<hr data-zesty-id="design:design:horizontalrule:48:92">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:49:61"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:50:16">Connect with Us</h5>
+<p data-zesty-id="content:wysiwyg_basic:51:82">
+	Follow The Salvation Army Women's Auxiliary on <a href="https://www.facebook.com/GVLWomensAux" target="">Facebook</a> and <a href="http://www.instagram.com/gvlwomensaux" target="">Instagram</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:52:19"></div>
+<p data-zesty-id="content:wysiwyg_basic:53:52">
+	For more information about SAWA memberships, please email the Women's Auxiliary Coordinator:&nbsp;<a href="mailto:amanda.link@uss.salvationarmy.org" target="">Amanda Link</a>
+</p>
+		</div>
+	</div>
+</div>

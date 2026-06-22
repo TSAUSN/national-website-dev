@@ -1,0 +1,10 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-9ec6cf99d2-p3tdbx')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:5:45">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:5:45-1:1 Column:0">
+<p data-zesty-id="content:textarea:2:84">
+					Do you know someone who would be a valuable addition to The Salvation Army of Greenville, SC Advisory Board? We welcome nominations for individuals who are interested in helping us serve our most vulnerable neighbors by participating in our Board. Nominate a candidate through the form below, and someone will follow up shortly. &nbsp;
+				</p>
+		</div>
+	</div>
+</div>

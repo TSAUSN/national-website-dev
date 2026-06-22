@@ -1,0 +1,30 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-a6af8bd9e9-6twsr7')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:28:77">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:28:77-1:1 Column:0">
+<h5 data-zesty-id="content:text:2:82"><span><span style="color:#ed1c2b;"><strong>We did it!!!</strong></span></span></h5>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:3:87"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/72927442-4f0f-4843-a543-47b109b8e8e5_100.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:4:86">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:6:76"></div>
+<p data-zesty-id="content:textarea:8:66">
+	To the hundreds of donors who adopted our angels and lovingly shopped to bring joy to a child--to the volunteers who generously donated their time to help us receive, sort, and distribute gifts--<strong>THANK YOU&nbsp;</strong>from the bottom of our hearts. 
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:9:29"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a1e55f6f-8d43-4ba1-b5ff-60a12495e41d_1.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:9:75">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:55"></div>
+<p data-zesty-id="content:textarea:12:91">
+	This year was a challenge. We had more than 8,000 angels, one thousand more wish lists to fulfill from&nbsp;2024. We worried. We prayed. Our prayers were answered thanks to ALL of you! 
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:13:75"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/be675d87-e88e-4854-8fa1-1934168958fb_Princeton+High+School.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:13:27">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:98"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/19d483a7-82ff-4907-97ea-8471817f95b9_6.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:16:22">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:18:89"></div>
+<p data-zesty-id="content:textarea:19:71">
+	This holiday season, may we all reflect and be grateful for the blessings in our lives.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:20:18"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2ee868dc-0fea-4500-9f85-30df4c7fbd8d_Crabtree+7.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:20:43">
+		</div>
+	</div>
+</div>

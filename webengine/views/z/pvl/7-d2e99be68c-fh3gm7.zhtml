@@ -1,0 +1,48 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-aeaeebfa9f-hr93lh')}}
+	<div style="display:flex" className={styles.pvlRow}>
+<div style="flex:1" className={styles.pvlColumn}>
+<p><strong>Central Virginia Area Command</strong></p>
+</div>
+<div style="flex:1" className={styles.pvlColumn}>
+<p>Email: <a href="mailto:pmccvacquestions@uss.salvationarmy.org">pmccvacquestions@uss.salvationarmy.org</a></p>
+</div>
+<div style="flex:1" className={styles.pvlColumn}>
+<p>Phone: <a href="tel:8045913838">(804) 591-3838</a></p>
+</div>
+</div>
+	<p>
+	The Salvation Army Central Virginia is excited to utilize its athletic and fitness facilities at its P Street location to offer sport, health and wellness programs to benefit East End Richmond and Henrico families.
+</p>
+	<p>
+	A generous program grant from&nbsp;Bon Secours Richmond Health System&nbsp;enables membership to the Oasis Wellness Center to be accessible and affordable.
+</p>
+	<p>
+	Bon Secours Richmond Health System, in addition to underwriting Oasis Wellness Center programming, was the largest corporate contributor to The Salvation Army’s multimillion-dollar renovation of the 48-year old Youth Ministry Program building, completed in April 2019, where Oasis Wellness Center is housed.
+</p>
+	<div class="my-4"></div>
+	<img width="100%" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/febfdf0c-f817-4e5a-b686-621abc25765a_swimming+pool.jpeg" alt="placeholder" />
+	<div class="my-4"></div>
+	<p>
+	Our state-of-the-art swimming pool provides a year-round opportunity for community members to be physically active. Swimming lessons are offered in order reduce risk of injury and create strong swimmers living in the river city.
+</p>
+	<p>
+	The pool can serve as a competition practice pool for local neighborhood swim teams, a place for lap swim or to host an indoor pool party.
+</p>
+	<div class="my-4"></div>
+	<img width="100%" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/c8af41c0-b402-4ef4-a813-b73a04f961f5_gym.jpeg" alt="placeholder" />
+	<div class="my-4"></div>
+	<p>
+	The full-length basketball court and gymnasium lends space for a wide variety of physical activities. With a total of 6 drop-down basketball hoops, it is the perfect location for a pick-up or league basketball game. When the basketball hoops are raised, the gymnasium floor can be transformed for soccer, volleyball, relay races, dodgeball and many other activities.
+</p>
+	<h4>Our Location &amp; Hours</h4>
+	<h5>3701 P Street, Richmond VA 23223</h5>
+	<div class="row my-3">
+<div class="col-lg-6 col-md-6 col-sm-12">
+<img width="100%" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/6d9f7c77-b401-4c32-a9ad-c273143f5bbc_Fall+HOURS.svg" alt="placeholder" />
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12">
+<iframe allowfullscreen="" height="595" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.016509648391!2d-77.4021104!3d37.53110809999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b110eb33fb9d1d%3A0xa49dea1a6be06c55!2s3701%20P%20St%2C%20Richmond%2C%20VA%2023223!5e0!3m2!1sen!2sus!4v1754331245587!5m2!1sen!2sus" style="border:0;" width="595"></iframe>
+</div>
+</div>
+</div>

@@ -1,0 +1,230 @@
+<div className={styles.pvlRoot}>
+	<!-- hero-placeholder -->
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:118:57">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:118:57-1:1 Column:0">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:116:9"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:1:56"><span style="color:#ed1c2b;">Creating a Brighter Future for North Texas</span></h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:2:26">
+	For more than 130 years, The Salvation Army of North Texas has demonstrated a proven history of doing the most good&nbsp;for the most people. As the region's largest social service provider,&nbsp;our impact radiates across North Texas.
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:83">
+	While much of North Texas is flourishing, many are left behind. The needs are&nbsp;particularly acute in Dallas County, but we face a battle across multiple fronts.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:4:10">
+	<a href="https://give.salvationarmytexas.org/One-Army-Many-Fronts"><span class="btn btn-solid btn-red">SUPPORT THE CAMPAIGN</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:5:53"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:3 Columns:12:99">
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg" data-zesty-id="design:columns:3 Columns:12:99-1:3 Columns:0">
+<h6 data-zesty-id="content:wysiwyg_basic:6:68">poverty</h6><p>
+	628,000<span><span><br>
+	NORTH TEXANS ARE EXPERIENCING FOOD INSECURITY<span><span>, AND 115,000 ARE AT RISK OF EVICTION.</span></span></span></span>
+</p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg" data-zesty-id="design:columns:3 Columns:12:99-1:3 Columns:1">
+<h6 data-zesty-id="content:wysiwyg_basic:8:63">addiction</h6><p>
+	1 in 5<span><span><br>
+	NORTH TEXAS CHILDREN LIVE IN A HOME WHERE SOMEONE IS ABUSING DRUGS&nbsp;OR&nbsp;ALCOHOL.</span></span>
+</p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-orangeBg" data-zesty-id="design:columns:3 Columns:12:99-1:3 Columns:2">
+<h6 data-zesty-id="content:wysiwyg_basic:10:27">homelessness</h6><p>
+	2 MILLION<span><span><br>
+	NORTH TEXAS ADULTS&nbsp;HAVE DIFFICULTY AFFORDING BASIC HOUSEHOLD NEEDS.</span></span>
+</p>
+				</div>
+			</div>
+<h5 id="about;" style="text-align:center;" data-zesty-id="content:text:13:22"><span style="color:#ed1c2b;">Bold Goals</span></h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:14:23">
+	To help our neighbors in crisis and meet the growing demand for our services, we developed a comprehensive strategic plan with bold goals to revolutionize our people, programs, partnerships, and places to advance the well-being of North Texans for decades to come.&nbsp;This visionary campaign will drive maximum impact and sustainable growth, enabling us to more than double the number of individuals and families lifted out of homelessness each year.
+</p>
+<h5 style="text-align:center;" data-zesty-id="content:text:15:68"><span style="color:#ed1c2b;">A New Dallas Campus</span></h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:16:37">
+	As the cornerstone of the campaign, we will create a new flagship campus on a generously donated 21-acre parcel of land, designed to provide centralized, high-capacity services. The Salvation Army of North Texas Dallas Social Service Center will feature emergency shelter, recovery programs, and family services, and will act as a hub for our enhanced programs and services, expanding our scope across North Texas.&nbsp;By addressing multiple needs under one roof, The Salvation Army aims to set a new standard for integrated social services, serving as a model for the region while fostering community engagement through volunteer opportunities and partnerships. This initiative reflects The Salvation Army's mission to serve without discrimination, reduce barriers to assistance, and provide comprehensive, life-changing support.
+</p>
+<div style="display:flex" class="row ratio ratio-16x9 d-flex" data-zesty-id="design:columns:1 Column:18:45">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:18:45-1:1 Column:0">
+<iframe src="https://www.youtube.com/embed/Fney6GZ8du8" style="border:0;" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" class="w-100 h-100" data-zesty-id="content:embed:17:12"></iframe>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:19:68"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:21:40"><span style="color:#ed1c2b;">Join Us</span></h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:22:43">
+	You are integral to our transformative plan, which centers around three growing challenges: poverty, addiction, and homelessness.&nbsp;This campaign is a long-term investment in the community, ensuring the sustainability of enhanced facilities and programs for generations to come. Join us today and become part of a renewed vision for North Texas. Together, we are one army across many fronts.<span><span></span></span>
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:23:32">
+	<span style="display:none;">&nbsp;</span>Reach out to our team:&nbsp;<a href="mailto:NTXCampaign@uss.salvationarmy.org" target="">NTXCampaign@uss.salvationarmy.org</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:24:28"></div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:25:78">
+	Make a donation:&nbsp;<span><span><span style="color:#57687d;"><a href="https://give.salvationarmytexas.org/One-Army-Many-Fronts">give.salvationarmytexas.org/One-Army-Many-Fronts</a></span></span></span><span><span>.</span></span>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:26:42"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:27:48">
+	<i>Cash, pledges, planned and deferred gifts are welcome at any level. Unique naming opportunities are available&nbsp;for&nbsp;leadership&nbsp;gifts&nbsp;that&nbsp;help&nbsp;set&nbsp;the&nbsp;pace&nbsp;for&nbsp;support. </i>
+</p>
+<div style="position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/1d373194-dfd0-4d5d-befd-fc7a8447a57f_Clint+Riley+-+Campaign+-+01+-+Admin+Entry+Night_RGB.jpg');background-position:center center;background-repeat:repeat;background-size:cover;" data-zesty-id="content:wysiwyg_basic:28:60">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5><span style="color:#ffffff;">"With the funds raised through this campaign, along with the expertise of The Salvation Army, Dallas will revolutionize the way in which it cares for the most vulnerable in our community</span><span style="color:#ffffff;">."</span></h5>
+
+<p style="color:#fff">
+	<span style="color:#ffffff;">– Michal Powell, Campaign Co-Chair</span>
+</p>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:29:61"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:30:73"><span style="color:#ed1c2b;">Measurable Outcomes</span></h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:32:90"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:3 Columns:37:5">
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg" data-zesty-id="design:columns:3 Columns:37:5-1:3 Columns:0">
+<h5 data-zesty-id="content:wysiwyg_basic:31:5"><img class="img-fluid w-100" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/d6cb4cfb-c49b-4d2b-a134-b5a49b506541_Artboard+3%402x.png"></h5>
+
+<h5>Alleviate Poverty</h5>
+
+<p>
+	Grinding poverty often passes from one generation to the next. Your support helps us offer clients spaces, programs, and services to alleviate poverty with sustainable steps forward.
+</p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg" data-zesty-id="design:columns:3 Columns:37:5-1:3 Columns:1">
+<h5 data-zesty-id="content:wysiwyg_basic:33:20"><img class="img-fluid w-100" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/05f3d288-25af-4bed-b65c-680ad5232005_Artboard+4%402x.png"></h5>
+
+<h5>Fight Addiction</h5>
+
+<p>
+	Any number of factors can lead to addiction for neighbors near you, which tears at the fabric of families. Your support helps clients fight addiction and paves the way to a fresh start through evidence-based programs.
+</p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12 bg-area u-sa-blueLightBg" data-zesty-id="design:columns:3 Columns:37:5-1:3 Columns:2">
+<h5 data-zesty-id="content:wysiwyg_basic:35:77"><img class="img-fluid w-100" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/65d30c66-2c39-4f73-b1e4-bfb5c2948da6_Artboard+6%402x.png"></h5>
+
+<h5>Reverse Homelessness</h5>
+
+<p>
+	Hundreds of thousands of North Texans struggle with poverty each year, falling behind on rent or turning to high-interest lenders. The homelessness that results traumatizes those affected, especially children. Your support helps clients rise above economic instability and homelessness to self-sufficiency through our housing services, safe shelters that keep families intact, and innovative&nbsp;programming.
+</p>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:38:25"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:43:45">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:43:45-1:2 Columns - Equal:0">
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:39:36">
+					<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/6caaf015-9f94-4720-927b-674856cbc499_2024_impact_report_FINAL.pdf"><span class="btn btn-solid btn-red">VIEW IMPACT REPORT</span></a>
+				</p>
+				</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:43:45-1:2 Columns - Equal:1">
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:41:1">
+					<a href="https://salvationarmyntx.org/north-texas/newsletter"><span class="btn btn-solid btn-red">READ CLIENT STORIES</span></a>
+				</p>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:44:32"></div>
+<div style="position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/da9edb36-372e-4b54-8377-e315ac47519a_20121204_gc_163_rgb-tinted.jpg');background-position:center center;background-repeat:repeat;background-size:cover;" data-zesty-id="content:wysiwyg_basic:45:82">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5><span style="color:#ffffff;">“The Salvation Army has developed a new strategic plan to change our organizational structure and services, allowing us to expand and improve our outreach to thousands of individuals, giving them a truly life-changing pathway to hope.”</span></h5>
+
+<p style="color:#fff">
+	<span style="color:#ffffff;">– Bernie DiFiore, Campaign Co-Chair</span>
+</p>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:46:93"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:47:77"><span style="color:#ed1c2b;">Campaign Leadership</span></h5>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:48:70"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:65:28">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:65:28-1:2 Columns - Equal:0">
+<div class="row my-3" data-zesty-id="design:columns:2columns:66:37">
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:66:37-1:2 Columns - Equal:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/af70daa7-282f-4b31-81e5-abc274c3787a_lt+col+william+mockabee.jpg" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:49:95">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:52:70"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:50:75"><strong>Lt. Colonel William Mockabee</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:51:17"><em>Executive Officer for the Campaign</em></p>
+						</div>
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:66:37-1:2 Columns - Equal:1">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/c2ed6a3e-ac78-404c-be30-5c9f66433b83_SA-headshots-website3.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:53:93">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:56:57"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:54:42"><strong>Michal Powell</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:55:80"><em>Campaign Co-Chair</em></p>
+						</div>
+					</div>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:65:28-1:2 Columns - Equal:1">
+<div class="row my-3" data-zesty-id="design:columns:2columns:67:4">
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:67:4-1:2 Columns - Equal:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/40a1e10d-41fb-4f5c-9d10-f79c059cc251_SNTX_Bernie+DiFiore-2.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:57:33">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:60:75"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:58:73"><strong>Bernie DiFiore</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:59:37"><em>Campaign Co-Chair</em></p>
+						</div>
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:67:4-1:2 Columns - Equal:1">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2756714a-386d-41be-b243-8f2e9f5bb663_SNTX_Mark+Schortman-06.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:61:97">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:64:78"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:62:24"><strong>Mark Schortman</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:63:34"><em>Dallas Advisory Board Chair</em></p>
+						</div>
+					</div>
+				</div>
+			</div>
+<div class="row my-3" data-zesty-id="design:columns:2columns:83:93">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:83:93-1:2 Columns - Equal:0">
+<div class="row my-3" data-zesty-id="design:columns:2columns:84:19">
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:84:19-1:2 Columns - Equal:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/7d6fc757-8b6d-4a0c-802f-dce1f86b2c76_SA-headshots-website.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:68:99">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:71:8"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:69:80"><strong>William Ross</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:70:2"><em>Executive Committee Co-Chair</em></p>
+						</div>
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:84:19-1:2 Columns - Equal:1">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/5fe79c48-e029-49cc-a497-049e68940fdd_SNTX_Judy+Gibbs-06.jpg" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:72:54">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:76:31"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:73:87"><strong>Judy Gibbs</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:74:69"><em>Dallas Advisory Board</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:75:2">Campaign Chair</em></p>
+						</div>
+					</div>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:83:93-1:2 Columns - Equal:1">
+<div class="row my-3" data-zesty-id="design:columns:2columns:85:31">
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:85:31-1:2 Columns - Equal:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/e5487dad-a1cc-4d3c-ad1d-6ebdce0dcccb_SA-headshots-website2.jpg" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:77:97">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:80:80"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:78:65"><strong>Christina Cavalier</strong></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:79:37"><i>Managing Director</i></p>
+						</div>
+<div class="col-lg-3 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:85:31-1:2 Columns - Equal:1">*</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div data-zesty-id="content:block:6-caf0f4baac-ctljlz:1:10">{{block('/-/block/general_accordion.html?variant=7-d2c69df7b0-d40c2h')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:119:9">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:119:9-1:1 Column:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:88:34"><span style="color:#ed1c2b;">Campaign News</span></h5>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:89:39">
+	<a href="https://salvationarmyntx.org/north-texas/field-reports"><span class="btn btn-solid btn-red">VIEW CAMPAIGN NEWS</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:90:82"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:92:39"><span style="color:#ed1c2b;">Get Involved</span></h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:93:4">
+					The love we have for our community and one another can transform people’s lives and the future of our region. We invite you to join us as part of One&nbsp;Army,&nbsp;Many&nbsp;Fronts as we strive to Do the Most Good.
+				</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:94:17">
+					If you're interested in joining the campaign or learning more, please email us below or call us at&nbsp;<a href="tel:2146378131">214-637-8131</a>.
+				</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:95:86"></div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:96:69">
+					<a href="mailto:NTXCampaign@uss.salvationarmy.org"><span class="btn btn-solid btn-red">EMAIL US</span></a>
+				</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:97:75"></div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:98:92">
+					<a href="https://give.salvationarmytexas.org/One-Army-Many-Fronts"><span class="btn btn-solid btn-red">DONATE</span></a>
+				</p>
+		</div>
+	</div>
+</div>

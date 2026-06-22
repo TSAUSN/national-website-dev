@@ -1,0 +1,56 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-d2ccfdf7a4-q6x0q9')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:19:54">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:19:54-1:1 Column:0">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:18:89"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:3 Columns:7:54">
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:3 Columns:7:54-1:3 Columns:0">
+<h5 data-zesty-id="content:wysiwyg_basic:1:66">Our Belief</h5>
+
+<p>
+	Racism is fundamentally incompatible with the Christian conviction that all people are made in the image of God and are equal in value. The Salvation Army believes that the world is enriched by a diversity of cultures and ethnicities. “There before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and before the Lamb.” (Revelation 7:9)
+</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:3 Columns:7:54-1:3 Columns:1">
+<h5 data-zesty-id="content:wysiwyg_basic:3:43">Our Commitment</h5>
+
+<p>
+	The Salvation Army is committed to combatting racism and its impacts at an organizational, individual, and societal level. We recognize the importance of robust systems to report and discuss racism without fear and will endeavor to provide these and will continue to make efforts to ensure ethnic diversity in international and territorial leadership.
+</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:3 Columns:7:54-1:3 Columns:2">
+<h5 data-zesty-id="content:wysiwyg_basic:5:12">Our Work</h5>
+
+<p>
+	In providing its programs and services, The Salvation Army is committed to accommodating all those in need without unlawful discrimination or harassment based on age, race, color, religion, sex, national origin, marital status, disability, citizenship, sexual orientation, gender identity, gender expression, or any other characteristic in accordance with our capacity to help.
+</p>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:98"></div>
+<div class="row g-3 my-3" data-zesty-id="design:columns:3 Columns:14:12">
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:3 Columns:14:12-1:3 Columns:0">
+<h5 data-zesty-id="content:wysiwyg_basic:8:60">Our Employment Practices</h5>
+
+<p>
+	The Salvation Army is an Equal Opportunity Employer and committed to providing a respectful environment for all applicants and employees that is free from unlawful discrimination or harassment based on age, race, color, religion, sex, national origin, marital status, disability, citizenship, sexual orientation, gender identity, gender expression, or any other characteristic protected by law. Such equal opportunity for employment will apply to recruitment and hiring, training, promotion, salaries and other compensation, transfers and layoffs or termination.
+</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:3 Columns:14:12-1:3 Columns:1">
+<h5 data-zesty-id="content:wysiwyg_basic:10:85">Acknowledgment</h5>
+
+<p>
+	While many Salvationists have acted firmly and courageously against racism, we acknowledge that Salvationists have sometimes conformed to economic, political, social, and internal pressures that perpetuate racism. The Salvation Army is committed to fighting against racism wherever it is experienced and will speak into societies around the world wherever we encounter it.
+</p>
+				</div>
+<div class="col-lg-4 col-md-12 col-sm-12 bg-area u-sa-greyVeryLightBg" data-zesty-id="design:columns:3 Columns:14:12-1:3 Columns:2">
+<h5 data-zesty-id="content:wysiwyg_basic:12:37">Mission Statement</h5>
+
+<p>
+	The Salvation Army, an international movement, is an evangelical part of the universal Christian Church. Its message is based on the Bible. Its ministry is motivated by the love of God. Its mission is to preach the gospel of Jesus Christ and to meet human needs in His name without discrimination.
+</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div data-zesty-id="content:block:6-caf0f4baac-ctljlz:2:11">{{block('/-/block/general_accordion.html?variant=7-8c94f3f6ac-tphnfl')}}</div>
+</div>

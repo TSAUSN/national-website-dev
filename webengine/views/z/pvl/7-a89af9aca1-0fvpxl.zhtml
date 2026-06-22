@@ -1,0 +1,64 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-dc8598d0b1-hq0299')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:23:71">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:23:71-1:1 Column:0">
+<h5 data-zesty-id="content:text:1:27">Summer Day Camp</h5>
+<p data-zesty-id="content:textarea:2:25">
+	The Salvation Army's Summer Day Camp provides youth ages 5-15 with a safe, structured, and enjoyable environment during the summer months. While running, jumping, and playing, kids will meet new friends, have fun and learn about God through Bible study.&nbsp;Summer activities will include (but not limited to)&nbsp;swimming (tentative based on City of Raleigh pool availability), skating, local museum and park visits, on-site Bounce House, and much more.&nbsp;
+</p>
+<p data-zesty-id="content:wysiwyg_basic:3:92">
+	<a href="https://www.easyreg.org/cgi-bin/acct/UIVWDBCZX4/displayForm.pl?dir=O99UUL88_2025" target="">Registration</a>&nbsp;will be on a first come, first serve basis. Participants must register for&nbsp;a minimum of two&nbsp;weeks unless special circumstances are needed.&nbsp;***Parents must complete the permission and waiver forms that are attached at the end of the registration form***
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:34"></div>
+<ul data-zesty-id="content:wysiwyg_basic:5:19">
+	<li>Camp dates: June 23- August 15, 2025&nbsp; (Summer Day Camp will be closed on Friday, July 4, 2025&nbsp;in observance of Independence Day)</li>
+	<li>Hours: 8:00 a.m.&nbsp;- 5:00 p.m.&nbsp;(Monday - Friday)</li>
+	<li>Ages: 5-15 (as of June 1, 2025)</li>
+	<li>Weekly cost: $70.00 per week (8&nbsp;weeks)</li>
+	<li>Weekly Activity Fee: $20.00 (8 weeks)</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:6:95"></div>
+<p data-zesty-id="content:textarea:7:83">
+	We will continue to follow all the recommended CDC and Salvation Army guidelines regarding COVID-19 and adhere to all safety practices and procedures.
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:8:52">
+	<li>Mask or face covering (optional)</li>
+	<li>We sanitize and clean the facility throughout the day</li>
+	<li>Anyone displaying COVID-19 symptoms will not be able to&nbsp;attend summer camp</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:9:75"></div>
+<p data-zesty-id="content:textarea:10:94"><strong>Nutrition and Fitness</strong></p>
+<p data-zesty-id="content:textarea:11:10">Our campers will participate in the following:</p>
+<ul data-zesty-id="content:wysiwyg_basic:12:87">
+	<li>Food &amp; Nutrition Program as presented by Wake County 4H Club &amp; NC State</li>
+	<li>Garden &amp; Farm Club-presented by our local Food Bank staff</li>
+	<li>Campers will enjoy recreation time through staff-led activities</li>
+	<li>Summer activities will include (but not limited to)--swimming (tentative based on City of Raleigh pool availability), skating, local museum and park visits, movies, healthy habits, smart moves, reaching enrichment, power hour, workshops, guest speakers, morning workouts, and more.</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:13:56"></div>
+<p data-zesty-id="content:textarea:14:70">
+	<strong>Pick Up and Arrival</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:15:83">
+	<li>Morning arrival: all campers will need to be at the center by 8:00 am - 8:30&nbsp;a.m.</li>
+	<li>Afternoon pickup: all campers will need to be picked up each day by 5:00 p.m.</li>
+	<li>We will use our carpool method for morning arrival and afternoon pickup</li>
+	<li>Payments can be received upon arrival&nbsp;(Parents can also call our office and make credit card payments)</li>
+</ul>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:16:98"></div>
+<p data-zesty-id="content:textarea:17:75">
+	<strong>Campers will need the following:</strong>
+</p>
+<ul data-zesty-id="content:wysiwyg_basic:18:54">
+	<li>Water bottle</li>
+	<li>Disposal bag&nbsp;lunch (NO lunch boxes)</li>
+	<li>3 - 4 healthy snacks</li>
+	<li>Swimming trunks (boys) and one-piece bathing suits (girls) on water day</li>
+	<li>No open-toed shoes of any kind can be worn during camp</li>
+	<li>Campers can bring swim shoes on water day</li>
+	<li>Extra change of clothes</li>
+	<li>Backpacks are acceptable to place campers' items in</li>
+</ul>
+		</div>
+	</div>
+</div>

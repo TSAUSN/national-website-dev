@@ -1,0 +1,8 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-8eb2eeb5b2-pb8pkm')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:7:74">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:7:74-1:1 Column:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2737c38f-5e23-405f-830d-8bc7c643d52f_Courtyard-before+and+after3+%281%29.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:1:2">
+		</div>
+	</div>
+</div>

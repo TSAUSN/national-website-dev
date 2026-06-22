@@ -1,0 +1,1161 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"design:columns:1 Column:70:98": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:flex;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:70:98",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:70:98-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:66:36": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:66:36",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:1:10": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6>Meeting the Greatest Need:</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Meeting the Greatest Need:",
+								"position": 1,
+								"fullName": "content:text:1:10",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:1:10",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:text:2:94": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5>How We Help Provide Housing and Assistance</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "How We Help Provide Housing and Assistance",
+								"position": 2,
+								"fullName": "content:text:2:94",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:2:94",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:3:88": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tWe are a nonprofit organization that works to alleviate human suffering and distress without discrimination. Our Emergency Shelter Services help all residents break the cycle of homelessness and relieve ongoing crisis by providing shelter, case management support and referrals to other agencies that specialize in the many barriers individuals experiencing homelessness encounter.&nbsp;\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "We are a nonprofit organization that works to alleviate human suffering and distress without discrimination. Our Emergency Shelter Services help all residents break the cycle of homelessness and relieve ongoing crisis by providing shelter, case management support and referrals to other agencies that specialize in the many barriers individuals experiencing homelessness encounter.&nbsp;",
+								"position": 3,
+								"fullName": "content:textarea:3:88",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:3:88",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:4:56": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 4,
+								"fullName": "design:design:whitespace-sm:4:56",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:12:52": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 5,
+								"fullName": "design:columns:2columns:12:52",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:12:52-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:5:3": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\"><a href=\"https://forms.office.com/r/abe86bcbv6\"><span class=\"btn btn-solid btn-red\">Request&nbsp;Utility Assistance</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\"><a href=\"https://forms.office.com/r/abe86bcbv6\"><span class=\"btn btn-solid btn-red\">Request&nbsp;Utility Assistance</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:5:3",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:5:3",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:12:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:7:70": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">(Henrico County, Mechanicsville and the</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "(Henrico County, Mechanicsville and the",
+												"position": 1,
+												"fullName": "content:textarea:7:70",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:7:70",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:12:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:8:19": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">City of Richmond ONLY)</span></a></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "City of Richmond ONLY)",
+												"position": 2,
+												"fullName": "content:textarea:8:19",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:8:19",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:12:52-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:12:52-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:9:65": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p style=\"text-align:center;\"><a href=\"https://forms.office.com/r/L7bkL79hD6\"><span class=\"btn btn-solid btn-red\">Request Utility Assistance</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p style=\"text-align:center;\"><a href=\"https://forms.office.com/r/L7bkL79hD6\"><span class=\"btn btn-solid btn-red\">Request Utility Assistance</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:9:65",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:9:65",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:12:52-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:11:79": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">(Petersburg &amp; Hopewell&nbsp;ONLY)</span></a></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "(Petersburg &amp; Hopewell&nbsp;ONLY)",
+												"position": 1,
+												"fullName": "content:textarea:11:79",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:11:79",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:12:52-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:13:64": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 6,
+								"fullName": "design:design:whitespace-sm:13:64",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:25:31": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 7,
+								"fullName": "design:columns:3 Columns:25:31",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:25:31-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:14:81": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6>UTILITY ASSISTANCE</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "UTILITY ASSISTANCE",
+												"position": 0,
+												"fullName": "content:text:14:81",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:14:81",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:15:58": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\tMillions of people across the country are forced into making a choice between things like being able to keep the lights on or&nbsp;put&nbsp;food on their family's table.\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Millions of people across the country are forced into making a choice between things like being able to keep the lights on or&nbsp;put&nbsp;food on their family's table.",
+												"position": 1,
+												"fullName": "content:textarea:15:58",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:15:58",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:16:24": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\tWe believe no one should have to make a decision like that, so we provide utility assistance and relief to those who need it. We have always fought to ensure that no one goes without heat in the coldest winters, air conditioning in the brutal summers or fresh water to drink and bathe in.\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "We believe no one should have to make a decision like that, so we provide utility assistance and relief to those who need it. We have always fought to ensure that no one goes without heat in the coldest winters, air conditioning in the brutal summers or fresh water to drink and bathe in.",
+												"position": 2,
+												"fullName": "content:textarea:16:24",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:16:24",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:25:31-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:17:82": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6>EMERGENCY SHELTER</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "EMERGENCY SHELTER",
+												"position": 0,
+												"fullName": "content:text:17:82",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:17:82",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:18:58": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t2 W GRACE STREET: Serving single men and families who are experiencing homelessnes.\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "2 W GRACE STREET: Serving single men and families who are experiencing homelessnes.",
+												"position": 1,
+												"fullName": "content:textarea:18:58",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:18:58",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:19:86": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t1900 CHAMBERLAYNE AVENUE: Serving single men who are experiencing homelessness.\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1900 CHAMBERLAYNE AVENUE: Serving single men who are experiencing homelessness.",
+												"position": 2,
+												"fullName": "content:textarea:19:86",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:19:86",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:20:46": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p>\n\tIf you are within 3 days of experiencing homelessness, please contact the Homeless Connection Line at <a href=\"tel:8049720813\">804-972-0813</a>.\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p>\n\tIf you are within 3 days of experiencing homelessness, please contact the Homeless Connection Line at <a href=\"tel:8049720813\">804-972-0813</a>.\n</p>",
+												"model": "6",
+												"position": 3,
+												"fullName": "content:wysiwyg_basic:20:46",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:20:46",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:25:31-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:22:49": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6>CASE MANAGEMENT</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "CASE MANAGEMENT",
+												"position": 0,
+												"fullName": "content:text:22:49",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:22:49",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:23:91": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\tOur case managers concentrate on helping residents identify problems that may have contributed to their homelessness, including substance abuse, employment, education deficiencies, financial mismanagement and mental health. </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Our case managers concentrate on helping residents identify problems that may have contributed to their homelessness, including substance abuse, employment, education deficiencies, financial mismanagement and mental health.",
+												"position": 1,
+												"fullName": "content:textarea:23:91",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:23:91",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:24:98": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>  Staff assist each resident in developing realistic goals to overcome their situations. Substance abuse, motivational, and ‘Life Skills Enrichment’ meetings are conducted weekly at the shelter.\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Staff assist each resident in developing realistic goals to overcome their situations. Substance abuse, motivational, and ‘Life Skills Enrichment’ meetings are conducted weekly at the shelter.",
+												"position": 2,
+												"fullName": "content:textarea:24:98",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:24:98",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:25:31-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							},
+							"design:columns:2columns:32:78": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 8,
+								"fullName": "design:columns:2columns:32:78",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:32:78-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:26:93": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6>REFERERAL SERVICES</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "REFERERAL SERVICES",
+												"position": 0,
+												"fullName": "content:text:26:93",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:26:93",
+												"styles": {},
+												"newLoc": "design:columns:2columns:32:78-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:27:99": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\tWe provide referral services as part of our broader community services. This includes connecting individuals and families with resources for various needs, such as housing, food, financial assistance and educational opportunities.\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "We provide referral services as part of our broader community services. This includes connecting individuals and families with resources for various needs, such as housing, food, financial assistance and educational opportunities.",
+												"position": 1,
+												"fullName": "content:textarea:27:99",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:27:99",
+												"styles": {},
+												"newLoc": "design:columns:2columns:32:78-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:32:78-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:28:95": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h6>BUILDING WEALTH &amp; HEALTH NETWORK</h6>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "BUILDING WEALTH &amp; HEALTH NETWORK",
+												"position": 0,
+												"fullName": "content:text:28:95",
+												"htmlElement": "h6",
+												"primarytype": "content",
+												"id": "content:text:28:95",
+												"styles": {},
+												"newLoc": "design:columns:2columns:32:78-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:29:32": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\nThis a free, 16-session curriculum over eight weeks, promoting financial literacy and self empowerment.</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "This a free, 16-session curriculum over eight weeks, promoting financial literacy and self empowerment.",
+												"position": 1,
+												"fullName": "content:textarea:29:32",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:29:32",
+												"styles": {},
+												"newLoc": "design:columns:2columns:32:78-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:30:11": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p> \n  Participation is limited to Richmond City residents who care for one or more children, 18-years or younger. </p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Participation is limited to Richmond City residents who care for one or more children, 18-years or younger.",
+												"position": 2,
+												"fullName": "content:textarea:30:11",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:30:11",
+												"styles": {},
+												"newLoc": "design:columns:2columns:32:78-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:31:0": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\nTo learn more about the Network and register for one of two informations sessions, visit our EVENTS page and click on \"Building Wealth and Health Network - Cohort 3.\"\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "To learn more about the Network and register for one of two informations sessions, visit our EVENTS page and click on \"Building Wealth and Health Network - Cohort 3.\"",
+												"position": 3,
+												"fullName": "content:textarea:31:0",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:31:0",
+												"styles": {},
+												"newLoc": "design:columns:2columns:32:78-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:33:81": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 9,
+								"fullName": "design:design:whitespace-sm:33:81",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:36:97": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 10,
+								"fullName": "design:columns:2columns:36:97",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:36:97-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:34:16": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h5>Homeless Connection line&nbsp;</h5>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Homeless Connection line&nbsp;",
+												"position": 0,
+												"fullName": "content:text:34:16",
+												"htmlElement": "h5",
+												"primarytype": "content",
+												"id": "content:text:34:16",
+												"styles": {},
+												"newLoc": "design:columns:2columns:36:97-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:36:97-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:text:35:13": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h5>Chamberlayne Avenue Emergency Shelter</h5>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Chamberlayne Avenue Emergency Shelter",
+												"position": 0,
+												"fullName": "content:text:35:13",
+												"htmlElement": "h5",
+												"primarytype": "content",
+												"id": "content:text:35:13",
+												"styles": {},
+												"newLoc": "design:columns:2columns:36:97-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							},
+							"design:design:whitespace-sm:39:36": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 11,
+								"fullName": "design:design:whitespace-sm:39:36",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:58:79": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3",
+								"html": "<div class=\"row my-3\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 12,
+								"fullName": "design:columns:2columns:58:79",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:70:98-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:58:79-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:37:19": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\t<strong><em>If you are within 3 days of losing housing, contact the Homeless Crisis Line for support.&nbsp;</em></strong>The Homeless Connection Line (HCL) is managed by Homeward and is a crucial community resource for those experiencing homelessness or within a few days of losing their current housing. The HCL offers trained Diversion Specialists who can assist households within 3 days of losing their housing to problem-solve, access community resources, and connect to homeless assistance if needed.\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "If you are within 3 days of losing housing, contact the Homeless Crisis Line for support.&nbsp;The Homeless Connection Line (HCL) is managed by Homeward and is a crucial community resource for those experiencing homelessness or within a few days of losing their current housing. The HCL offers trained Diversion Specialists who can assist households within 3 days of losing their housing to problem-solve, access community resources, and connect to homeless assistance if needed.",
+												"position": 0,
+												"fullName": "content:textarea:37:19",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:37:19",
+												"styles": {
+													"fontWeight": "700",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:38:81": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p>\n\t\t\t\t\tThe&nbsp;Central Intake System is managed by&nbsp;<a href=\"http://www.homewardva.org\" target=\"\">Homeward</a>. They are&nbsp;the first point of entry into shelter services.&nbsp;\n\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p>\n\t\t\t\t\tThe&nbsp;Central Intake System is managed by&nbsp;<a href=\"http://www.homewardva.org\" target=\"\">Homeward</a>. They are&nbsp;the first point of entry into shelter services.&nbsp;\n\t\t\t\t</p>",
+												"model": "6",
+												"position": 1,
+												"fullName": "content:wysiwyg_basic:38:81",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:38:81",
+												"styles": {},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:40:85": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p>\n\t\t\t\t\t<em>Homeless Connection Line Intake: <a href=\"tel:8049720813\" target=\"\">804.972.0813</a></em>\n\t\t\t\t</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p>\n\t\t\t\t\t<em>Homeless Connection Line Intake: <a href=\"tel:8049720813\" target=\"\">804.972.0813</a></em>\n\t\t\t\t</p>",
+												"model": "6",
+												"position": 2,
+												"fullName": "content:wysiwyg_basic:40:85",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:40:85",
+												"styles": {
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:42:17": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<ul>\n\t\t\t\t\t<li>Weekdays: 8:00 a.m. -&nbsp;9:00 p.m.</li>\n\t\t\t\t\t<li>Weekends: 1:00 - 9:00 p.m.</li>\n\t\t\t\t</ul>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<ul>\n\t\t\t\t\t<li>Weekdays: 8:00 a.m. -&nbsp;9:00 p.m.</li>\n\t\t\t\t\t<li>Weekends: 1:00 - 9:00 p.m.</li>\n\t\t\t\t</ul>",
+												"model": "6",
+												"position": 3,
+												"fullName": "content:wysiwyg_basic:42:17",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:42:17",
+												"styles": {},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:58:79-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-md-6 col-sm-12\">*</div>",
+										"classes": "col-md-6 col-sm-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:44:63": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>\n\t\t\t\t\t1900 Chamberlayne Avenue, Richmond, VA 23222\n\t\t\t\t</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "1900 Chamberlayne Avenue, Richmond, VA 23222",
+												"position": 0,
+												"fullName": "content:textarea:44:63",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:44:63",
+												"styles": {},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:45:38": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><strong><em>Men's Emergency Shelter</em></strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Men's Emergency Shelter",
+												"position": 1,
+												"fullName": "content:textarea:45:38",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:45:38",
+												"styles": {
+													"fontWeight": "700",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:46:71": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p><em>Homeless Connection Line Intake: <a href=\"tel:8049720813\" target=\"\">804.972.0813</a></em></p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p><em>Homeless Connection Line Intake: <a href=\"tel:8049720813\" target=\"\">804.972.0813</a></em></p>",
+												"model": "6",
+												"position": 2,
+												"fullName": "content:wysiwyg_basic:46:71",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:46:71",
+												"styles": {
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:48:87": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><strong><em>Inclement Weather Shelter</em></strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Inclement Weather Shelter",
+												"position": 3,
+												"fullName": "content:textarea:48:87",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:48:87",
+												"styles": {
+													"fontWeight": "700",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:49:94": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<ul>\n\t\t\t\t\t<li>Extreme Heat &amp; Weather Shelter: April 16 - Nov. 14<ul>\n\t\t\t\t\t\t<li><a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f0975423-cf50-4ecf-a175-39d7fe2798d3_Cooling+Center+Flyer_RGB_Digital.pdf\">View Cooling Center Flyer</a><br>\n\t\t\t\t\t\t&nbsp;</li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>Cold Weather Shelter: Nov. 15 - April 15</li>\n\t\t\t\t\t<li><em>Main Line: <span style=\"color:#ed1c2b;\"><u>804.653.5707</u></span></em></li>\n\t\t\t\t</ul>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<ul>\n\t\t\t\t\t<li>Extreme Heat &amp; Weather Shelter: April 16 - Nov. 14<ul>\n\t\t\t\t\t\t<li><a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/f0975423-cf50-4ecf-a175-39d7fe2798d3_Cooling+Center+Flyer_RGB_Digital.pdf\">View Cooling Center Flyer</a><br>\n\t\t\t\t\t\t&nbsp;</li>\n\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>Cold Weather Shelter: Nov. 15 - April 15</li>\n\t\t\t\t\t<li><em>Main Line: <span style=\"color:#ed1c2b;\"><u>804.653.5707</u></span></em></li>\n\t\t\t\t</ul>",
+												"model": "6",
+												"position": 4,
+												"fullName": "content:wysiwyg_basic:49:94",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:49:94",
+												"styles": {
+													"color": "#ed1c2b",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:51:27": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><strong><em>Community Resource &amp; Training Center</em></strong></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Community Resource &amp; Training Center",
+												"position": 5,
+												"fullName": "content:textarea:51:27",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:51:27",
+												"styles": {
+													"fontWeight": "700",
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:52:61": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p>(provided by the City of Richmond)</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "(provided by the City of Richmond)",
+												"position": 6,
+												"fullName": "content:textarea:52:61",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:52:61",
+												"styles": {},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:53:31": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p><em>City of Richmond Dept. of Homeless Services: <font color=\"#ed1c2b\"><u><a href=\"tel:8046463111\">804.646.3111</a></u></font></em></p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p><em>City of Richmond Dept. of Homeless Services: <font color=\"#ed1c2b\"><u><a href=\"tel:8046463111\">804.646.3111</a></u></font></em></p>",
+												"model": "6",
+												"position": 7,
+												"fullName": "content:wysiwyg_basic:53:31",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:53:31",
+												"styles": {
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:55:54": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p><a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/ef0a0312-ca1c-49f4-868b-5e6f8a8f5c73_2026+CAES+Housing+Info+Sheet.pdf\">View Info Sheet for a full listing of services and operating hours</a></p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p><a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/ef0a0312-ca1c-49f4-868b-5e6f8a8f5c73_2026+CAES+Housing+Info+Sheet.pdf\">View Info Sheet for a full listing of services and operating hours</a></p>",
+												"model": "6",
+												"position": 8,
+												"fullName": "content:wysiwyg_basic:55:54",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:55:54",
+												"styles": {},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:57:54": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p><em>(Updated January 21, 2026)</em></p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "(Updated January 21, 2026)",
+												"position": 9,
+												"fullName": "content:textarea:57:54",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:57:54",
+												"styles": {
+													"fontStyle": "italic"
+												},
+												"newLoc": "design:columns:2columns:58:79-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "flex"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

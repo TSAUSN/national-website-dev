@@ -1,0 +1,25 @@
+.community-leaders-swiper {
+}
+
+.community-leaders-swiper .swiper-pagination {
+  bottom: 0;
+}
+
+.community-leaders-swiper .swiper-slide {
+  height: auto;
+  background: transparent;
+}
+
+#community-leaders img.card-img-top {
+  height: 50% !important;
+  max-height: 50%;
+  @media screen and (max-width: 767px) {
+    height: 50% !important;
+    max-height: 50%;
+  }
+}
+
+/* Lerma QA line 73 */
+.biograph-card {
+  padding: 1rem 0;
+}

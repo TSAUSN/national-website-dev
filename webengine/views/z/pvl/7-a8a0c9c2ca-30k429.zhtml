@@ -1,0 +1,57 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-a2c2dba6f6-9n45fs')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:5:55">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:5:55-1:1 Column:0">
+<div style="background-color:#0072CE;color:#FFFFFF;padding:40px;" data-zesty-id="content:wysiwyg_basic:2:57"><p style="text-align: center;">
+	<strong>PEACHCREST&nbsp;YOUTH MINISTRY</strong>
+</p>
+
+<p style="text-align: center;">
+	3500 Sherrydale Lane
+</p>
+
+<p style="text-align: center;">
+	Decatur, GA 30032
+</p>
+
+<p style="text-align: center;">
+	404-486-2880
+</p>
+
+<p style="text-align: center;">
+	<strong>Club Manager: Jordan Truesdale</strong>
+</p>
+
+<p style="text-align: center;">
+	&nbsp;
+</p>
+
+<p style="text-align: center;">
+	<u>Hours of Operation</u>
+</p>
+
+<p style="text-align: center;">
+	<strong>School Year</strong><br>
+	Monday through Friday<br>
+	2:30 p.m. to 8:30 p.m.
+</p>
+
+<p style="text-align: center;">
+	<strong>Summer</strong><br>
+	Monday through Friday<br>
+	7:30 a.m. to 6:00 p.m.&nbsp;
+</p>
+
+<p style="text-align: center;">
+	&nbsp;YOUTH AGES 6 to 18
+</p>
+
+<p style="text-align: center;">
+	<strong>Membership Fees</strong><br>
+	After School Program: $35 annually<br>
+	Summer Program: $150 for year-round members<br>
+	$250 for Summer Only Members
+</p></div>
+		</div>
+	</div>
+</div>

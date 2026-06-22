@@ -1,0 +1,64 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-f6a2d7d893-h4x0d9')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:58:39">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:58:39-1:1 Column:0">
+<h5 data-zesty-id="content:text:1:58">The Women's Auxiliary Mission Statement</h5>
+<p data-zesty-id="content:textarea:2:7">
+	The Women’s Auxiliary functions as a fundraising and volunteer service group that seeks to support The Salvation Army in its mission of spiritual redemption and social rehabilitation of those it serves.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:3:31"></div>
+<h5 data-zesty-id="content:text:4:39">Statement of Purpose</h5>
+<p data-zesty-id="content:textarea:5:13">
+	To promote and support the work of The Salvation Army and to strengthen the hands of those who have dedicated their lives to its cause.
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:6:97"></div>
+<h5 data-zesty-id="content:text:7:94">Join Us</h5>
+<p data-zesty-id="content:textarea:8:45">
+	The Salvation Army Women’s Auxiliary of Greenville is the only auxiliary in the state of South Carolina. &nbsp;It is a committed volunteer group dedicated to doing the most good in our community. Meetings are held on the 2nd Wednesday of each month (except July) at 11:30 a.m. at the Kroc Center located at 42 Westfield Street in Greenville (lunch is served).&nbsp;
+</p>
+<p data-zesty-id="content:wysiwyg_basic:9:22">
+	For more information about SAWA memberships, please email the Women's Auxiliary Coordinator:&nbsp;<a href="mailto:amanda.link@uss.salvationarmy.org" target="">Amanda Link</a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:10:54"></div>
+<p data-zesty-id="content:textarea:11:50">
+	If you are interested in joining SAWA, please visit the link below.&nbsp;
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:12:74">
+	<a href="https://migration.salvationarmy.org/greenvillesc/become-a-sawa-member?random=662"><span class="btn btn-solid btn-red">Become a Member Today</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:13:91"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/90b637fd-cb6f-4197-9c51-42ef0db95162_SAWA+Brunch+Invite+2026+Updated.png" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:14:82">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:16:58"></div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:17:52">
+	<a href="https://createcards.io/card/sawabrunch?lang=en_us"><span class="btn btn-solid btn-red">RSVP HERE</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:18:96"></div>
+<hr data-zesty-id="design:design:horizontalrule:19:5">
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:20:65">
+	<a href="http://localendar.com/public/SAWAGreenville"><span class="btn btn-solid btn-red">2026&nbsp;Events Calendar</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:21:99"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/41ae8986-7d87-49f3-86c8-9b104627d154_IMG_4469.JPG" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:22:93">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:24:76"></div>
+<h5 data-zesty-id="content:text:25:98">Connect with Us</h5>
+<p data-zesty-id="content:wysiwyg_basic:26:92">
+	Follow "The Salvation Army Women's Auxiliary of Greenville, SC" @GVLWomensAux&nbsp;on&nbsp;<a href="https://www.facebook.com/GVLWomensAux" target="">Facebook</a>.&nbsp;
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:27:87"></div>
+<p data-zesty-id="content:wysiwyg_basic:28:63">
+	Follow "Greenville Women's Auxiliary" @gvlwomensaux on&nbsp;<a href="https://www.instagram.com/gvlwomensaux/" target="">Instagram</a>.&nbsp;
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:29:99"></div>
+<h5 data-zesty-id="content:text:32:86">Donate</h5>
+<p data-zesty-id="content:textarea:33:26">
+	When you make a financial contribution to The Women's Auxiliary of Greenville, your donation will be used to help your neighbors receive the help that they need.&nbsp;By mail at: The Salvation Army Women's Auxiliary | PO Box 1237 Greenville, SC, 29602.&nbsp;Click the red button below&nbsp;to donate online.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:34:11">
+	<a href="https://give.salvationarmycarolinas.org/give/389338/#!/donation/checkout"><span class="btn btn-solid btn-red">Donate to SAWA</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:35:64"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/9d2a981b-acdd-4b6c-aa84-ae16dd78292f_IMG_2850.jpg" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:36:81">
+		</div>
+	</div>
+	<div data-zesty-id="content:block:6-caf0f4baac-ctljlz:2:69">{{block('/-/block/general_accordion.html?variant=7-9e97add997-dghgzj')}}</div>
+</div>

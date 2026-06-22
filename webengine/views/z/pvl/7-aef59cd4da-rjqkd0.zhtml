@@ -1,0 +1,89 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-e8c8f8b680-k86klh')}}
+	<div style="background-color:;display:flex;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:25:14">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:25:14-1:1 Column:0">
+<div class="row my-3" data-zesty-id="design:columns:2columns:7:87">
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:7:87-1:2 Columns - Equal:0">
+<div class="row my-3" data-zesty-id="design:columns:2columns:1:40">
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:1:40-1:2 Columns - Equal:0">
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:1:68">
+					<a href="https://www.facebook.com/groups/254528735548458/"><span class="btn btn-solid btn-red">Watch Live</span></a>
+				</p>
+						</div>
+<div class="col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:1:40-1:2 Columns - Equal:1">
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:3:4">
+					<a href="https://www.facebook.com/groups/254528735548458/"><span class="btn btn-solid btn-red">Prayer Requests</span></a>
+				</p>
+						</div>
+					</div>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12" data-zesty-id="design:columns:2columns:7:87-1:2 Columns - Equal:1">
+<iframe src="https://www.google.com/maps?q=4025%20W%20Brookstown%20Dr%2C%20Baton%20Rouge%2C%20Louisiana%2C%2070805&amp;output=embed" style="border:0;" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" class="w-100 h-100" data-zesty-id="content:embed:6:43"></iframe>
+				</div>
+			</div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:8:26"></div>
+<div style="position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/d66aa8be-9105-4e58-b95b-3484d0e03f67_Blue+BG.png');background-position:center center;background-repeat:repeat;background-size:cover;" class="text-white" data-zesty-id="content:wysiwyg_basic:10:98">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-2 col-sm-12">
+			<div class="content">
+				
+			</div>
+		</div>
+
+		<div class="col col-md-8 col-sm-12">
+			<div class="content">
+				<h6 style="text-align:center;">MISSION STATEMENT</h6>
+
+				<p style="text-align:center;color:#fff;">
+					The Salvation Army, an international movement, is an evangelical part of the universal Christian church. Its message is based on the Bible. Its ministry is motivated by the love of God. Its mission is to preach the Gospel of Jesus Christ and to meet human needs in His name without discrimination.
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-2 col-sm-12">
+			<div class="content">
+				
+			</div>
+		</div>
+	</div>
+</div>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:11:96"></div>
+<div style="position:relative;overflow:hidden;min-height:520px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/180ec6a3-c81c-4a66-9a9c-7036200c699e_b-leadership-hat.jpg');background-position:center center;background-repeat:repeat;background-size:cover;" class="text-white" data-zesty-id="content:wysiwyg_basic:12:99">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:520px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5 style="text-align:center;"><span style="color:#ffffff;">THE DOCTRINES OF The Salvation Army</span></h5>
+
+
+
+<ol>
+	<li><span style="color:#ffffff;"><strong>We believe</strong> that the Scriptures of the Old and New Testaments were given by inspiration of God, and that they only constitute the Divine rule of Christian faith and practice.</span></li>
+	<li><span style="color:#ffffff;"></span><span style="color:#ffffff;"><strong>We believe </strong>that there is only one God, who is infinitely perfect, the Creator, Preserver, and Governor of all things, and who is the only proper object of religious worship.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe</strong> that there are three persons in the Godhead – the Father, the Son and the Holy Ghost, undivided in essence and co-equal in power and glory.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe</strong> that in the person of Jesus Christ the Divine and human natures are united, so that He is truly and properly God and truly and properly man.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe </strong>that our first parents were created in a state of innocency, but by their disobedience they lost their purity and happiness, and that in consequence of their fall all men have become sinners, totally depraved, and as such are justly exposed to the wrath of God.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe</strong> that the Lord Jesus Christ has by His suffering and death made an atonement for the whole world so that whosoever will may be saved.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe </strong>that repentance towards God, faith in our Lord Jesus Christ, and regeneration by the Holy Spirit, are necessary to salvation.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe</strong> that we are justified by grace through faith in our Lord Jesus Christ and that he that believeth hath the witness in himself.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe</strong> that continuance in a state of salvation depends upon continued obedient faith in Christ.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe</strong> that it is the privilege of all believers to be wholly sanctified, and that their whole spirit and soul and body may be preserved blameless unto the coming of our Lord Jesus Christ.</span></li>
+	<li><span style="color:#ffffff;"><strong>We believe </strong>in the immortality of the soul; in the resurrection of the body; in the general judgment at the end of the world; in the eternal happiness of the righteous; and in the endless punishment of the wicked.</span></li>
+</ol>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:13:39"></div>
+<h6 style="text-align:center;" data-zesty-id="content:text:15:39"><span style="color:#ed1c2b;">For More Information Please...</span></h6>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:16:63">
+	<a href="/baton-rouge/contact"><span class="btn btn-solid btn-red">Contact Us</span></a>
+</p>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,9 @@
+<div className={styles.pvlRoot}>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:7:49">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:7:49-1:1 Column:0">
+<p style="text-align:center;" data-zesty-id="content:textarea:1:99">Sponsor a Red Kettle</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:2:38"></div>
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/e1d0b5c8-16f2-4edf-9138-87c815a07a27_Red+Kettle+Sponsor+for+Website-Classy+Link+%281%29.png" alt="placeholder" class="img-fluid d-block my-3" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:2:13">
+		</div>
+	</div>
+</div>

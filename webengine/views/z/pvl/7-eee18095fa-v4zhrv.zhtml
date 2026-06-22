@@ -1,0 +1,53 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-809299f688-wj5rcf')}}
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:42:4">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:42:4-1:1 Column:0">
+<div class="row my-3" data-zesty-id="design:columns:3 Columns:6:36">
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:6:36-1:3 Columns:0">
+<p data-zesty-id="content:textarea:1:38"><strong>Sergeant Evelini Gonzalez</strong></p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:6:36-1:3 Columns:1">
+<p data-zesty-id="content:wysiwyg_basic:2:21">Email: <a href="mailto:evelini.gonzalez@uss.salvationarmy.org">evelini.gonzalez@uss.salvationarmy.org</a></p>
+				</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:6:36-1:3 Columns:2">
+<p data-zesty-id="content:wysiwyg_basic:4:29">Phone: <a href="tel:3364991196">(336) 499-1196</a></p>
+				</div>
+			</div>
+<h5 style="text-align:center;" data-zesty-id="content:text:7:89">Home League</h5>
+<p data-zesty-id="content:textarea:8:86">
+	The Home League is a program designed for women aged 18 and above. It aims to&nbsp;provide programming for worship, education, fellowship, and service opportunities, as well as creative outreach and focus group ideas that meet the needs of local women. The group engages&nbsp;in various activities including crafts, artistic pursuits, singing, sharing personal and educational experiences, studying the Bible, receiving informative messages, and more.&nbsp;
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:9:25"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:10:89"><br>
+<em>La Liga del Hogar</em></h5>
+<p data-zesty-id="content:textarea:11:19">
+	<em>La liga del hogar es un programa disenado solo para mujeres desde 18 anos en adelante. Ofrece diferentes actividades, como manualidades (handcraft), actividades artisticas, cantan, comparten experiencias personales, educativas, Estudian la biblia, alguien presenta un mensaje de </em><em>interes&nbsp;para el grupo y muchas cosas mas. Este programa esta abierto a todas las mujeres jovenes y adultas de nuestra comunidad.&nbsp;</em>
+</p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:12:10"></div>
+<img width="74" height="74" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/d3332bd7-1830-4d92-9d7c-497ca03083bf_download.png" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:13:26">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:15:28"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:16:90">2850 New Walkertown Road</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:17:54">Winston-Salem, NC 27105</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:18:11">
+	<a href="https://www.google.com/maps/place/2850+New+Walkertown+Rd,+Winston-Salem,+NC+27105/@36.1162407,-80.2097783,17z/data=!3m1!4b1!4m6!3m5!1s0x8853aea200e9d1e7:0x28a99e48cbbe608f!8m2!3d36.1162407!4d-80.2097783!16s%2Fg%2F11c4rz4345?entry=ttu"><span class="btn btn-solid btn-red">Directions</span></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="tel:3364991196"><span class="btn btn-solid btn-red">Call</span></a>
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:19:18"></div>
+<img width="89" height="89" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/5921579e-95ce-4dbc-8db5-5e5c2c91b25c_clock.png" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:20:30">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:22:39"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:23:12">Hours of Operation</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:24:46">Monday - Thursday: 8:00 am&nbsp;- 5:00&nbsp;pm</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:25:84"><em>Lunes - jueves a las 8:00&nbsp;am&nbsp;- 5:00 pm</em></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:26:69">Friday: 8:00 am&nbsp;- 12 pm</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:27:8"><em>Viernes: 8:00 am&nbsp;- 12 pm</em></p>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:28:5"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:29:56">Program Schedule</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:30:70">Every second Saturday of the month: 10:00 am&nbsp;- 12:00 pm</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:31:3"><em>Segundo sabado del mes ellas se reunen de 10:00 am&nbsp;a las 12:00 pm&nbsp;</em></p>
+<p style="text-align:center;" data-zesty-id="content:textarea:32:1">
+	<strong>Generously Supported by</strong>
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:33:84"></div>
+<img width="120" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/5d9dbc01-2d73-4867-a6f6-a7c00b73dd42_uwfc-logo-2015.jpg" alt="placeholder" class="img-fluid d-block my-3 mx-auto" style="max-width:100%;height:auto;" loading="lazy" / data-zesty-id="content:images:33:46">
+		</div>
+	</div>
+</div>

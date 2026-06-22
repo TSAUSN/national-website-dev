@@ -1,0 +1,143 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-9cfca2e9d7-h2tv49')}}
+	<h4 style="text-align:center;">The Salvation Army of The Midlands</h4>
+	<p style="text-align:center;">
+	Serving Fairfield, Kershaw, Lexington, Newberry, Calhoun, Orangeburg, Bamberg, and Richland Counties<br>
+	&nbsp;
+</p>
+	<p style="text-align:center;;color:#fff>
+	<a href="https://southernusa.salvationarmy.org/midlands/volunteer" target=""><span class="btn btn-solid btn-red">VOLUNTEER</span></a>
+</p>
+	<div class="row my-3">
+<div class="col-lg-6 col-md-6 col-sm-12">
+<p><strong>GIVE HELP</strong></p>
+<p>When you support The Salvation Army, you are making a difference in the lives of people in your community.</p>
+<p>
+					<strong>Make a Financial Gift</strong>
+				</p>
+<p><a href="https://give.salvationarmycarolinas.org/give/427453/#!/donation/checkout?amount=100&amp;recurring=0&amp;c_src=WebsiteUSS&amp;c_src2=PrimaryDonateButton" target="">Donate Online</a></p>
+<p><a href="tel:8007252769" target="">1-800-SAL-ARMY</a>&nbsp;(800-725-2769)</p>
+<p><strong>By Mail:</strong></p>
+<p>The Salvation Army of the Midlands</p>
+<p>P.O. Box 2786</p>
+<p>Columbia, SC 29202</p>
+<p>
+					Thank you for your generous gift. It&nbsp;will be proudly used to serve people in our local community.
+				</p>
+<p>
+					<strong>Donate a Vehicle:</strong>
+				</p>
+<p>
+					<a href="https://careasy.org/thesalvationarmyofmidlandscolumbiasc" target="">Visit our vehicle donation page</a>&nbsp;for more information about how donating a vehicle can help change lives.
+				</p>
+<p><strong>Volunteer</strong></p>
+<p>For additional information about volunteering, please email:</p>
+<p><a href="mailto:Shannon.chapman@uss.salvationarmy.org">Shannon.chapman@uss.salvationarmy.org</a> or call&nbsp;</p>
+<p><a href="tel:803-765-0260" target="">803-309-3244</a></p>
+<div class="py-5"></div>
+<div class="py-5"></div>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12">
+<p><strong>GET HELP</strong></p>
+<p>If you are in need of support, there are many ways The Salvation Army may be able to help. Please feel free to contact us about the services below:</p>
+<ul>
+					<li>Worship</li>
+					<li>Disaster Relief</li>
+					<li>Christmas Assistance</li>
+					<li>Homelessness Prevention Services</li>
+					<li>Clothing and Furniture Vouchers</li>
+					<li>Rent &amp; Utilities Emergency Assistance</li>
+					<li>Food Pantry</li>
+					<li>Afterschool Programs</li>
+					<li>Meal Service for those experiencing homelessness</li>
+				</ul>
+<p>
+					<strong>Spiritual Help</strong>
+				</p>
+<p>
+					In addition to our social ministries, The Salvation Army is a Christian Evangelical Church and we hold weekly worship services.&nbsp;
+				</p>
+<p>
+					<strong>For assistance and/or to reach our Social Services Department</strong>
+				</p>
+<p>Phone:&nbsp;<a href="tel:803-765-0260" target="">803-765-0260</a></p>
+<p>Email: <a href="mailto:midlandssc@uss.salvationarmy.org" target="">nscMidlands.Services@uss.salvationarmy.org</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+					<strong>GENERAL INQUIRIES</strong>
+				</p>
+<p>Phone:&nbsp;<a href="tel:803-765-0260" target="">803-765-0260</a></p>
+<p>Email:&nbsp;<a href="mailto:midlandssc@uss.salvationarmy.org" target="">midlandsSC@uss.salvationarmy.org</a></p>
+<p><strong>Street Address:</strong></p>
+</div>
+</div>
+	<div class="my-2"></div>
+	<div class="py-5"></div>
+	<div style="display:flex" className={styles.pvlRow}>
+<div style="flex:1" className={styles.pvlColumn}>
+<p><strong>Center for Worship and Social Services</strong></p>
+<p>3024 Farrow Road</p>
+<p>Columbia, SC 29203</p>
+<p><a href="tel:803-765-0260" target="">803-765-0260</a></p>
+<p><a href="mailto:MidlandsSC@uss.salvationarmy.org" target="">MidlandsSC@uss.salvationarmy.org</a></p>
+<p>
+	<a href="https://goo.gl/maps/kjm9Vts6m7oFo8bu6" target=""><span class="btn btn-solid btn-red">Directions</span></a>
+</p>
+</div>
+<div style="flex:1" className={styles.pvlColumn}>
+<p><strong>Irmo Center for Worship and Social Services</strong></p>
+<p>7532 Irmo Drive</p>
+<p>Irmo, SC 29212</p>
+<p><a href="tel:803-781-1511" target="">803-781-1511</a></p>
+<p><a href="mailto:MidlandsSC@uss.salvationarmy.org" target="">MidlandsSC@uss.salvationarmy.org</a></p>
+<p>
+	<a href="https://goo.gl/maps/sPTFamKqx6sHdxL26" target=""><span class="btn btn-solid btn-red">Directions</span></a>
+</p>
+</div>
+<div style="flex:1" className={styles.pvlColumn}>
+<p><strong>Orangeburg Social Services</strong></p>
+<p>265 Stonewall Jackson Blvd.</p>
+<p>
+	<a href="tel:803-534-6805" target="">803-534-6805</a>
+</p>
+<p>
+	<a href="https://maps.app.goo.gl/uMoWejXpnkPeMYQh6" target=""><span class="btn btn-solid btn-red">Directions</span></a>
+</p>
+</div>
+</div>
+	<div class="py-5"></div>
+	<div style="display:flex" className={styles.pvlRow}>
+<div style="flex:1" className={styles.pvlColumn}>
+<p><strong>Columbia/Milwood Thrift Store</strong></p>
+<p>1312 North Millwood Avenue</p>
+<p>Columbia, SC 29204</p>
+<p><a href="tel:803-748-9964" target="">803-748-9964</a></p>
+<p><a href="mailto:MidlandsSC@uss.salvationarmy.org" target="">MidlandsSC@uss.salvationarmy.org</a></p>
+<p>
+	<a href="https://goo.gl/maps/Hda2WH1DfCvRiUeH9" target=""><span class="btn btn-solid btn-red">Directions</span></a>
+</p>
+</div>
+<div style="flex:1" className={styles.pvlColumn}>
+<p><strong>Ballentine/Irmo Thrift Store</strong></p>
+<p>1341 Dutch Fork Drive</p>
+<p>Irmo, SC 29063</p>
+<p><a href="tel:803-403-1372" target="">803-403-1372</a></p>
+<p><a href="mailto:MidlandsSC@uss.salvationarmy.org" target="">MidlandsSC@uss.salvationarmy.org</a></p>
+<p>
+	<a href="https://goo.gl/maps/amEsprSQ6Cfcu2eG7" target=""><span class="btn btn-solid btn-red">Directions</span></a>
+</p>
+</div>
+<div style="flex:1" className={styles.pvlColumn}>
+<p>
+	<strong>Orangeburg Thrift Store</strong>
+</p>
+<p>459 Stonewall Jackson Blvd.</p>
+<p>Orangeburg, SC&nbsp;29115</p>
+<p>
+	<a href="tel:803-534-0785" target="">803-534-0785</a>
+</p>
+<p>
+	<a href="https://maps.app.goo.gl/if9stNM3Rv9ZW4Kq8" target=""><span class="btn btn-solid btn-red">Directions</span></a>
+</p>
+</div>
+</div>
+</div>

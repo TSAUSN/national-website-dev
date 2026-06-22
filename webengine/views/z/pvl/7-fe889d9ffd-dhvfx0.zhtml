@@ -1,0 +1,145 @@
+<div className={styles.pvlRoot}>
+	{{block('/-/block/hero_full.html?variant=7-d4c0dea2d4-zjd626')}}
+	<h5 style="text-align:center;" data-zesty-id="content:text:1:80">Get Your Business Involved Supporting</h5>
+	<h5 style="text-align:center;" data-zesty-id="content:text:2:86">The Oconee Red Kettle Campaign</h5>
+	<p style="text-align:center;" data-zesty-id="content:textarea:3:34">
+	Being a part of the Red Kettle campaign is easy! We have several opportunities to get your employees involved to support Oconee County's local services.
+</p>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:10:84"></div>
+	<div class="row my-3" data-zesty-id="design:columns:3 Columns:25:25">
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:25:25-1:3 Columns:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:4:92">Ring Bells</h5>
+<p data-zesty-id="content:textarea:5:35">
+	Coordinate an employee group to ring at one of our locations for one or multiple days.
+</p>
+<p data-zesty-id="content:textarea:6:22">
+	It only takes five&nbsp;employees to cover a day of ringing.
+</p>
+<p data-zesty-id="content:textarea:7:43">
+	We ring at locations in Seneca, West Union and Westminster.
+</p>
+<p data-zesty-id="content:textarea:8:75">
+	Employees love dressing up and ringing bells to help others. It’s a great way to build your team and give back to your local communities.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:9:68">
+	<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/058415a8-8de5-4027-8715-df7d6826c378_Be+a+Bell+Ringer+Info+Flyer+Combined.pdf"><span class="btn btn-solid btn-red">Details</span></a>
+</p>
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:25:25-1:3 Columns:1">
+<h5 style="text-align:center;" data-zesty-id="content:text:11:96">Match a Kettle</h5>
+<p data-zesty-id="content:textarea:12:70">
+	As sites are covered at various locations, your business can offer to match the dollar amount raised at that site for the day.
+</p>
+<p data-zesty-id="content:textarea:13:34">
+	This helps us supplement the dollars lost from sites where we don’t have enough volunteers to man a kettle.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:15:28">
+	<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/24eb4d75-2946-4c9c-8cc5-341f3e957ca4_MAK+2024+Combined.pdf"><span class="btn btn-solid btn-red">Details</span></a>
+</p>
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:25:25-1:3 Columns:2">
+<h5 style="text-align:center;" data-zesty-id="content:text:17:69">Sponsor a Kettle</h5>
+<p data-zesty-id="content:textarea:18:55">
+	Your business can sponsor a kettle for a day!
+</p>
+<p data-zesty-id="content:textarea:19:3">
+	Your company logo and level of support is advertised at the kettle.
+</p>
+<p data-zesty-id="content:textarea:20:9">
+	You can choose your location and day. Sponsor packages range from $500 to $2,500. You can even choose to support one of our volunteer groups.
+</p>
+<p data-zesty-id="content:textarea:14:66">
+	Click below for details.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:21:62">
+	<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a14d4c54-6424-4460-a9b6-17c31c76545d_MAK+Flyer+Back+2025.jpeg"><span class="btn btn-solid btn-red">Details</span></a>
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:23:91">
+	<a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/a14d4c54-6424-4460-a9b6-17c31c76545d_MAK+Flyer+Back+2025.jpeg"><span class="btn btn-solid btn-red">See Past Sponsors</span></a>
+</p>
+		</div>
+	</div>
+	<div class="row my-3" data-zesty-id="design:columns:3 Columns:38:17">
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:38:17-1:3 Columns:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:26:91">Host a Virtual Kettle Drive</h5>
+<p data-zesty-id="content:textarea:27:31">
+	Use your social media footprint and your email resources to meet your own Red Kettle goal.
+</p>
+<p data-zesty-id="content:textarea:28:11">
+	We can set up an online virtual kettle that your company and employees can promote during the Red Kettle season. You choose your goal!
+</p>
+<p data-zesty-id="content:textarea:29:86">
+	You can also challenge other businesses to set up their own virtual Kettle Drive.
+</p>
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:38:17-1:3 Columns:1">
+<h5 style="text-align:center;" data-zesty-id="content:text:30:58">Coordinate an Onsite Drive</h5>
+<p data-zesty-id="content:textarea:31:39">
+	Provide your patrons with the opportunity to donate.
+</p>
+<p data-zesty-id="content:textarea:32:12">
+	We have paper pinups that allow your customers to “buy hope” for those we serve by donating $1 per pinup.
+</p>
+<p data-zesty-id="content:textarea:33:25">
+	It’s a great way to get your customers involved and creates visual awareness of the amazing support your business provides for our communities!
+</p>
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:38:17-1:3 Columns:2">
+<h5 style="text-align:center;" data-zesty-id="content:text:34:23">Host a Christmas Party Donation Station</h5>
+<p data-zesty-id="content:textarea:35:72">
+	Does your business celebrate the holidays with a company party?
+</p>
+<p data-zesty-id="content:textarea:36:24">
+	We can provide one of our iconic kettles and information on how your donor dollars impact lives locally.
+</p>
+<p data-zesty-id="content:textarea:37:30">
+	Embrace the spirit of Christmas by hosting a Donation Station.
+</p>
+		</div>
+	</div>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:52:94"></div>
+	<div class="row my-3" data-zesty-id="design:columns:3 Columns:54:78">
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:54:78-1:3 Columns:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:39:10">Host a Counter Kettle</h5>
+<p data-zesty-id="content:textarea:40:87">
+	Do you have a high-traffic business where patrons pay at the register?
+</p>
+<p data-zesty-id="content:textarea:41:84">
+	If so, you can host a Counter Kettle!
+</p>
+<p data-zesty-id="content:textarea:42:98">
+	This small version of our iconic red kettle is just the right size for a business to keep on their counter during the season.
+</p>
+<p data-zesty-id="content:textarea:43:62">
+	We deliver the kettle and check back with your business to collect the donations as needed.
+</p>
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:54:78-1:3 Columns:1">
+<h5 style="text-align:center;" data-zesty-id="content:text:44:95">Add Us to Your Employee Giving Program</h5>
+<p data-zesty-id="content:textarea:45:69">
+	Include The Salvation Army of Oconee within your company’s charitable giving program through payroll deduction.
+</p>
+<p data-zesty-id="content:textarea:46:66">
+	This is a simple way to support our services year round!
+</p>
+<p data-zesty-id="content:textarea:47:86">
+	Please contact us about how we can be included in your list of charities.
+</p>
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-12" data-zesty-id="design:columns:3 Columns:54:78-1:3 Columns:2">
+<h5 style="text-align:center;" data-zesty-id="content:text:48:27">Sign Us Up!</h5>
+<p data-zesty-id="content:textarea:49:66">
+	Let us know which one of these opportunities your business is interested in embracing!
+</p>
+<p data-zesty-id="content:textarea:50:97">
+	It truly takes an ARMY and we would love to have you join ours! Sign up today:
+</p>
+<p data-zesty-id="content:wysiwyg_basic:51:30">
+	Call: <a href="tel:8648821160">864-882-1160</a>
+</p>
+<p data-zesty-id="content:textarea:53:25">
+	Email: Debra.Andrews @uss.salvationarmy.org
+</p>
+		</div>
+	</div>
+</div>

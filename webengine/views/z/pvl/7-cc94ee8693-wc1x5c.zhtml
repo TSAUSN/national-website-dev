@@ -1,0 +1,44 @@
+<div className={styles.pvlRoot}>
+	<div style="background-color:;display:flex;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:23:54">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:23:54-1:1 Column:0">
+<h6 style="text-align:center;" data-zesty-id="content:text:1:78">Thank you for Doing The Most Good</h6>
+<p style="text-align:center;" data-zesty-id="content:textarea:2:47">
+	Thanks to generous community support, The Salvation Army Central Virginia Area Command is able to make a powerful impact on our community by serving those in need. The Army believes in treating each person who comes to us as an individual, not a statistic. And each person or family that The Army touches represents a miracle, whether it’s in the form of shelter, a hot meal, a listening ear, or any of our other services.
+</p>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:3:53">
+	View our current list&nbsp;of volunteer opportunities below or <a href="https://www.cervistech.com/acts/login.php?org_id=0243" target="">log in to your volunteer profile</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:98"></div>
+<p style="text-align:center;" data-zesty-id="content:wysiwyg_basic:5:14">
+	For <strong>group volunteer opportunities,</strong> please contact our <em>Volunteer &amp; Special Events Coordinator,</em> <a href="mailto:kathy.cundiff@uss.salvationarmy.org" target="">Kathy Cundiff</a>.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:6:51"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:7:57">
+	Thank you for serving your time to serve our community.
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:8:98"></div>
+<div class="row my-3" data-zesty-id="design:columns:2columnswideleft:17:49">
+<div class="col-md-8 col-sm-12" data-zesty-id="design:columns:2columnswideleft:17:49-4:2 Columns - Left Big:0">
+<p data-zesty-id="content:wysiwyg_basic:9:64">
+					
+					<iframe frameborder="0" height="550" id="myFrame" name="myFrame" src="https://volunteer.cvac.salvationarmypotomac.org/acts/webreg/eventwebreglist.php?org_id=0243" title="CERVIS Opportunity Registration" width="1050"></iframe>
+				</p>
+				</div>
+<div class="col-sm-4 col-sm-12" data-zesty-id="design:columns:2columnswideleft:17:49-2:2 Columns - Left Big:1">
+<p data-zesty-id="content:wysiwyg_basic:11:62">
+					<strong><img class="img-fluid w-100" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/810f59c1-446f-47b6-a4a8-e2f8d701bb1e_IMG_4963.jpeg"><br>
+					Volunteers prepping the dining room meal service for our shelter residents.</strong>
+				</p>
+<p data-zesty-id="content:wysiwyg_basic:13:24">
+					<strong><img class="img-fluid w-100" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/970714f5-feb3-4ee7-93ee-78d589927bcb_Senior+Connection+Scrapbooking.jpeg"><br>
+					A Senior Connections volunteer teaching a scrapbooking activity to the youth.</strong>
+				</p>
+<p data-zesty-id="content:wysiwyg_basic:15:36">
+					<strong><img class="img-fluid w-100" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/733b0621-1b60-4355-9ae1-b1b8cfb9f4dc_David%2C+Sammie%2C+James+food+organizing.jpeg"><br>
+					Organizing Feed More and Food Lion weekly deliveries.</strong>
+				</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

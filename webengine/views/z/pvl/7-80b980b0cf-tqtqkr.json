@@ -1,0 +1,922 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div className={styles.pvlRoot}>*</div>",
+		"children": {
+			"design:columns:1 Column:51:34": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" classname=\"{styles.pvlRow}\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:51:34",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:51:34-1:1 Column:0": {
+						"width": 1,
+						"html": "<div style=\"flex:1\" className={styles.pvlColumn}>*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:images:1:7": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img width=\"305\" height=\"296\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/10e9509e-253d-4f22-be2b-5a514d7ebf42_Majors+Ricky+and+Karla+Perez.jpg\" alt=\"placeholder\" class=\"img-fluid d-block my-3 mx-auto\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" />",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/10e9509e-253d-4f22-be2b-5a514d7ebf42_Majors+Ricky+and+Karla+Perez.jpg",
+								"position": 0,
+								"fullName": "content:images:1:7",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:3:92": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:3:92",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:4:46": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\">Majors Karla and Ricky Perez</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Majors Karla and Ricky Perez",
+								"position": 2,
+								"fullName": "content:text:4:46",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:4:46",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:5:61": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">\n\t<span><span lang=\"en-US\">Majors Karla and Ricky Perez&nbsp;arrived in Hickory June of 2024.&nbsp;&nbsp;</span></span>\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Majors Karla and Ricky Perez&nbsp;arrived in Hickory June of 2024.&nbsp;&nbsp;",
+								"position": 3,
+								"fullName": "content:textarea:5:61",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:5:61",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:6:87": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 4,
+								"fullName": "design:design:whitespace-xl:6:87",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:textarea:7:67": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">Major Ricky Perez was born in Rochester, NY. He grew up in New York and Florida. He is</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Major Ricky Perez was born in Rochester, NY. He grew up in New York and Florida. He is",
+								"position": 5,
+								"fullName": "content:textarea:7:67",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:7:67",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:8:98": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">working on a Christian Ministry degree with Trevecca Nazarene University.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "working on a Christian Ministry degree with Trevecca Nazarene University.",
+								"position": 6,
+								"fullName": "content:textarea:8:98",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:8:98",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:9:35": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">Major Karla Perez was born in Santurce, Puerto Rico. She moved to the United States when</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Major Karla Perez was born in Santurce, Puerto Rico. She moved to the United States when",
+								"position": 7,
+								"fullName": "content:textarea:9:35",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:9:35",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:10:32": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">she was 10 years old and grew up in Florida. She has a bachelor’s degree in Christian</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "she was 10 years old and grew up in Florida. She has a bachelor’s degree in Christian",
+								"position": 8,
+								"fullName": "content:textarea:10:32",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:10:32",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:11:1": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">Ministry from Trevecca Nazarene University and a master’s degree in clinical Mental Health</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Ministry from Trevecca Nazarene University and a master’s degree in clinical Mental Health",
+								"position": 9,
+								"fullName": "content:textarea:11:1",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:11:1",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:12:31": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">Counseling from Liberty University.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Counseling from Liberty University.",
+								"position": 10,
+								"fullName": "content:textarea:12:31",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:12:31",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:13:69": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">They got married on March 10, 2001, in Florida. They felt the call to become Officers and</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "They got married on March 10, 2001, in Florida. They felt the call to become Officers and",
+								"position": 11,
+								"fullName": "content:textarea:13:69",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:13:69",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:14:12": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">entered The Salvation Army training college in 2003 and graduated in 2005. Upon&nbsp;</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "entered The Salvation Army training college in 2003 and graduated in 2005. Upon&nbsp;",
+								"position": 12,
+								"fullName": "content:textarea:14:12",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:14:12",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:15:4": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">graduation, they were sent back home to serve in Florida. While in Florida, they served in</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "graduation, they were sent back home to serve in Florida. While in Florida, they served in",
+								"position": 13,
+								"fullName": "content:textarea:15:4",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:15:4",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:16:16": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">the following commands: Orlando, Stuart, Daytona Beach, Winter Haven, and Naples.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "the following commands: Orlando, Stuart, Daytona Beach, Winter Haven, and Naples.",
+								"position": 14,
+								"fullName": "content:textarea:16:16",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:16:16",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:17:89": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">After 13 years of serving in the Sunshine State of Florida, they were sent out of Florida for</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "After 13 years of serving in the Sunshine State of Florida, they were sent out of Florida for",
+								"position": 15,
+								"fullName": "content:textarea:17:89",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:17:89",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:18:33": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">the first time when they were appointed to Durham, NC in 2018, where they served for 6</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "the first time when they were appointed to Durham, NC in 2018, where they served for 6",
+								"position": 16,
+								"fullName": "content:textarea:18:33",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:18:33",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:19:13": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">years.&nbsp;</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "years.&nbsp;",
+								"position": 17,
+								"fullName": "content:textarea:19:13",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:19:13",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:20:75": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">They have 3 children. Ke’olani (19) attends Asbury University in Wilmore, KY. Their two</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "They have 3 children. Ke’olani (19) attends Asbury University in Wilmore, KY. Their two",
+								"position": 18,
+								"fullName": "content:textarea:20:75",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:20:75",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:21:86": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">youngest sons are Josiah (16) and Ezekiel (14). Major Ricky enjoys spending time in the</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "youngest sons are Josiah (16) and Ezekiel (14). Major Ricky enjoys spending time in the",
+								"position": 19,
+								"fullName": "content:textarea:21:86",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:21:86",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:22:97": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">outdoors, fishing, hunting, kayaking, cycling, and playing golf. Major Karla enjoys spending</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "outdoors, fishing, hunting, kayaking, cycling, and playing golf. Major Karla enjoys spending",
+								"position": 20,
+								"fullName": "content:textarea:22:97",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:22:97",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:23:88": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">time in nature, scrapbooking, crafting, and reading.</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "time in nature, scrapbooking, crafting, and reading.",
+								"position": 21,
+								"fullName": "content:textarea:23:88",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:23:88",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:24:14": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p class=\"MsoBodyText3\" style=\"text-align:center;\">They are looking forward for all that God has in store for their time in Hickory!</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "They are looking forward for all that God has in store for their time in Hickory!",
+								"position": 22,
+								"fullName": "content:textarea:24:14",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:24:14",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:25:95": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 23,
+								"fullName": "design:design:whitespace-xl:25:95",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:32:61": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row g-3 my-3",
+								"html": "<div class=\"row g-3 my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 24,
+								"fullName": "design:columns:3 Columns:32:61",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:32:61-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:26:64": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><strong>Corps Officers</strong></h5>\n\n<p>\n\tMajors Karla and Ricky Perez\n</p>\n\n<p>\n\t<a href=\"mailto:karla.perez@uss.salvationarmy.org\" target=\"\">Karla.Perez@uss.salvationarmy.org</a>\n</p>\n\n<p>\n\t<a href=\"mailto:Enrique.Perez@uss.salvationarmy.org\" target=\"\">Enrique.Perez@uss.salvationarmy.org</a>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><strong>Corps Officers</strong></h5>\n\n<p>\n\tMajors Karla and Ricky Perez\n</p>\n\n<p>\n\t<a href=\"mailto:karla.perez@uss.salvationarmy.org\" target=\"\">Karla.Perez@uss.salvationarmy.org</a>\n</p>\n\n<p>\n\t<a href=\"mailto:Enrique.Perez@uss.salvationarmy.org\" target=\"\">Enrique.Perez@uss.salvationarmy.org</a>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:26:64",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:26:64",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:3 Columns:32:61-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:32:61-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:28:38": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><strong>Business Administrator</strong></h5>\n\n<p>\n\tRegina Nantz\n</p>\n\n<p>\n\t<a href=\"mailto:Regina.Nantz@salvationarmy.org\" target=\"\">Regina.Nantz@uss.salvationarmy.org</a>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><strong>Business Administrator</strong></h5>\n\n<p>\n\tRegina Nantz\n</p>\n\n<p>\n\t<a href=\"mailto:Regina.Nantz@salvationarmy.org\" target=\"\">Regina.Nantz@uss.salvationarmy.org</a>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:28:38",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:28:38",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:3 Columns:32:61-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:32:61-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:30:42": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><strong>Development Director</strong></h5>\n\n<p>\n\tAndrea Beatty\n</p>\n\n<p>\n\t<a href=\"mailto:andrea.beatty@uss.salvationarmy.org\" target=\"\">Andrea.Beatty@uss.salvationarmy.org</a>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><strong>Development Director</strong></h5>\n\n<p>\n\tAndrea Beatty\n</p>\n\n<p>\n\t<a href=\"mailto:andrea.beatty@uss.salvationarmy.org\" target=\"\">Andrea.Beatty@uss.salvationarmy.org</a>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:30:42",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:30:42",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:3 Columns:32:61-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							},
+							"design:design:whitespace-sm:34:33": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 25,
+								"fullName": "design:design:whitespace-sm:34:33",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:39:5": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row g-3 my-3",
+								"html": "<div class=\"row g-3 my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 26,
+								"fullName": "design:columns:3 Columns:39:5",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:39:5-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:33:40": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Social Services Program Manager</h5>\n\n<p>\n\tJohn Hall\n</p>\n\n<p>\n\t<a href=\"http://mail to:John.Hall@uss.salvationarmy.org\" target=\"\">John.Hall@uss.salvationarmy.org</a>\n</p>\n\n<p>\n\t&nbsp;\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Social Services Program Manager</h5>\n\n<p>\n\tJohn Hall\n</p>\n\n<p>\n\t<a href=\"http://mail to:John.Hall@uss.salvationarmy.org\" target=\"\">John.Hall@uss.salvationarmy.org</a>\n</p>\n\n<p>\n\t&nbsp;\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:33:40",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:33:40",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:39:5-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:39:5-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:35:25": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Chief Accountant</h5>\n\n<p>\n\tTammy Wallace\n</p>\n\n<p>\n\t<a href=\"mailto:tammy.wallace@uss.salvationarmy.org\" target=\"\">Tammy.Wallace@uss.salvationarmy.org</a>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Chief Accountant</h5>\n\n<p>\n\tTammy Wallace\n</p>\n\n<p>\n\t<a href=\"mailto:tammy.wallace@uss.salvationarmy.org\" target=\"\">Tammy.Wallace@uss.salvationarmy.org</a>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:35:25",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:35:25",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:39:5-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:39:5-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:37:88": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5>Red Shield Youth Center</h5>\n\n<p>\n\tKelsey Biggers\n</p>\n\n<p>\n\t<a href=\"mailto:kelsey.biggers@uss.salvationarmy.org\" target=\"\">Kelsey.Biggers@uss.salvationarmy.org</a>\n</p>\n\n<p>\n\t&nbsp;\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5>Red Shield Youth Center</h5>\n\n<p>\n\tKelsey Biggers\n</p>\n\n<p>\n\t<a href=\"mailto:kelsey.biggers@uss.salvationarmy.org\" target=\"\">Kelsey.Biggers@uss.salvationarmy.org</a>\n</p>\n\n<p>\n\t&nbsp;\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:37:88",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:37:88",
+												"styles": {},
+												"newLoc": "design:columns:3 Columns:39:5-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							},
+							"design:design:whitespace-sm:41:90": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 27,
+								"fullName": "design:design:whitespace-sm:41:90",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:3 Columns:46:95": {
+								"uid": "300",
+								"name": "3 Columns",
+								"type": "columns",
+								"classes": "row g-3 my-3",
+								"html": "<div class=\"row g-3 my-3\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"droppable": false,
+								"numberOfColumns": 3,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 28,
+								"fullName": "design:columns:3 Columns:46:95",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:51:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:3 Columns:46:95-1:3 Columns:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:40:58": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><strong>Human Resource Administrator</strong></h5>\n\n<p>\n\tDonald Bushee\n</p>\n\n<p>\n\t<a href=\"mailto:Donald.Bushee@uss.salvationarmy.org\" target=\"\">Donald.Bushee</a><a href=\"mailto:Regina.Nantz@uss.salvationarmy.org\" target=\"\">@uss.salvationarmy.org</a>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><strong>Human Resource Administrator</strong></h5>\n\n<p>\n\tDonald Bushee\n</p>\n\n<p>\n\t<a href=\"mailto:Donald.Bushee@uss.salvationarmy.org\" target=\"\">Donald.Bushee</a><a href=\"mailto:Regina.Nantz@uss.salvationarmy.org\" target=\"\">@uss.salvationarmy.org</a>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:40:58",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:40:58",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:3 Columns:46:95-1:3 Columns:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:3 Columns:46:95-1:3 Columns:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:42:24": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><strong>High Country Service Center Director</strong></h5>\n\n<p>\n\tSindy Connell\n</p>\n\n<p>\n\t<a href=\"mailto:Sindy.Connell@uss.salvationarmy.org\" target=\"\">Sindy.Connell@uss.salvationarmy.org</a>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><strong>High Country Service Center Director</strong></h5>\n\n<p>\n\tSindy Connell\n</p>\n\n<p>\n\t<a href=\"mailto:Sindy.Connell@uss.salvationarmy.org\" target=\"\">Sindy.Connell@uss.salvationarmy.org</a>\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:42:24",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:42:24",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:3 Columns:46:95-1:3 Columns:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									},
+									"design:columns:3 Columns:46:95-1:3 Columns:2": {
+										"width": "1",
+										"html": "<div class=\"col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg\">*</div>",
+										"classes": "col-lg-4 col-md-4 col-sm-12 bg-area u-sa-greyVeryLightBg",
+										"droppable": true,
+										"children": {
+											"content:wysiwyg_basic:44:49": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<h5><strong>Director of Family Thrift Store Operations</strong></h5>\n\n<p>\n\t&nbsp;\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<h5><strong>Director of Family Thrift Store Operations</strong></h5>\n\n<p>\n\t&nbsp;\n</p>",
+												"model": "6",
+												"position": 0,
+												"fullName": "content:wysiwyg_basic:44:49",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:44:49",
+												"styles": {
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:3 Columns:46:95-1:3 Columns:2",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 2
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

@@ -1,0 +1,11 @@
+<div className={styles.pvlRoot}>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:10:85">
+<div style="flex:1" className={styles.pvlColumn} class="column" data-zesty-id="design:columns:1 Column:10:85-1:1 Column:0">
+<div class="row my-3" data-zesty-id="design:columns:2columnswideleft:7:26">
+<div class="col-md-5 col-sm-12" data-zesty-id="design:columns:2columnswideleft:7:26-2:2 Columns - Left Big:1">
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
