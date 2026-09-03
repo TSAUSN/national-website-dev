@@ -1321,6 +1321,10 @@ function setDynamicColumnCount() {
 }
 
   async function init() {
+    if (window.cookiesReady) {
+      await window.cookiesReady;
+    }
+
     sortServices();
     await setupInformationalPages();
     setUpCookieValues();
