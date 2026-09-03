@@ -1008,9 +1008,9 @@
 
       case `6-ced7fce1d9-76hr5q`: // Informational Page Clone
         const informationalContext = resolveInformationalPageContext({
-          locations: `{{!this.locations}}`,
-          divisions: `{{!this.divisions}}`,
-          territories: `{{!this.territories}}`
+          locations: `{{!this.location}}`,
+          divisions: `{{!this.division}}`,
+          territories: `{{!this.territory}}`
         });
 
         if (informationalContext.type === `national`) {
