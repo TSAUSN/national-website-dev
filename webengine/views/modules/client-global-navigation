@@ -1006,7 +1006,7 @@
         }
         break;
 
-      case `6-c2b7f2a9ad-k4frxv`: // Informational Page
+      case `6-ced7fce1d9-76hr5q`: // Informational Page Clone
         const informationalContext = resolveInformationalPageContext({
           locations: `{{!this.locations}}`,
           divisions: `{{!this.divisions}}`,

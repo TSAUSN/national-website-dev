@@ -1,7 +1,7 @@
 {{$zuid = {request.queryParam(zuid)} }}
 {{$pageFound = 0}}
 
-{{each informational_pages as ip WHERE z.zuid = '{$zuid}' LIMIT 1}}
+{{each informational_page_clone as ip WHERE z.zuid = '{$zuid}' LIMIT 1}}
     {{$pageFound = 1}}
     {{$locationCount = 0}}
     {{$divisionCount = 0}}
