@@ -9,19 +9,19 @@
 
     {{if {ip.location} }}
         {{each {ip.location} as relatedLocation}}
-            {{$locationCount = {relatedLocation._length}}}
+            {{$locationCount = {relatedLocation._length} }}
         {{/each}}
     {{/if}}
 
     {{if {ip.division} }}
         {{each {ip.division} as relatedDivision}}
-            {{$divisionCount = {relatedDivision._length}}}
+            {{$divisionCount = {relatedDivision._length} }}
         {{/each}}
     {{/if}}
 
     {{if {ip.territory} }}
         {{each {ip.territory} as relatedTerritory}}
-            {{$territoryCount = {relatedTerritory._length}}}
+            {{$territoryCount = {relatedTerritory._length} }}
         {{/each}}
     {{/if}}
 
