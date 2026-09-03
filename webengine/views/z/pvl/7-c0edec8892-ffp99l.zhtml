@@ -1,0 +1,42 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:40:0:16">{{block('/-/block/hero_full.html?variant=7-e688af87a8-twv8cg')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:12:63">
+<div class="column" data-zesty-id="design:columns:1 Column:12:63-1:1 Column:0">
+<div style="position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;" class="text-white rounded p-6 gap-3 my-5" data-zesty-id="content:wysiwyg_basic:1:13">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5 style="text-align:center;"><br>
+Serving Hinds, Madison, Rankin,<br>
+Copiah, Scott, and Yazoo Counties<br>
+&nbsp;</h5>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:2:15"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:4:60">Check-in Daily 4:30-6:30pm</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:5:49">
+	Must have photo ID
+</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:6:30">
+	Men &amp; women housed on separate floors (no children)<br>
+	&nbsp;
+</p>
+<div style="position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;" class="text-white rounded p-6 gap-3 my-5" data-zesty-id="content:wysiwyg_basic:7:43">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5 style="text-align:center;"><span style="color:#ed1c2b;"><br>
+Questions?</span></h5>
+
+<p style="text-align:center;color:#fff;">
+	Contact Us for More Information.
+</p>
+
+<p style="text-align:center;color:#fff;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://southernusa.salvationarmy.org/jackson-ms/contact-us" class="btn btn-secondary gap-1 mt-2">Contact Us</a></p>
+                </div>
+            </div>
+        </div>
+		</div>
+	</div>
+</div>

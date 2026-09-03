@@ -9,3 +9,10 @@
         {{response.redirect301({this.external_link})}}"
     {{/if}}
 {{/if}}
+
+
+<script>
+
+console.log({{ isPublished({this.zuid}) }})
+
+</script>

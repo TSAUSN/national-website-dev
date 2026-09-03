@@ -1,0 +1,88 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"design:columns:1 Column:5:21": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:5:21",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:5:21-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:1:19": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:1:19",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:5:21-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:2:81": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\"><h4>Programs we Provide and Areas We Service</h4>\n\n<p>\n\tLocally, The Salvation Army Central Virginia Area Command provides year-round services and support to over 7,000 individuals through our:\n</p>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Men's and Family Emergency Shelter</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Inclement Weather&nbsp;Shelter</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/services\" target=\"\">Rent and Utility&nbsp;Assistance</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/christmas\" target=\"\">Christmas Assistance / Angel Tree</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/the-salvation-army-boys-and-girls-club\" target=\"\">Our Y</a><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/youth-ministry\" target=\"\">outh Ministry Program</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/oasis-wellness-center\" target=\"\">Oasis Wellness Center</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Disaster Response</li>\n\t\t\t\t\t<li>Pathway of Hope</li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Ministry / Canteen Ministry</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<p>\n\t<span style=\"display:none;\"> </span><span style=\"display:none;\"> </span><span style=\"display:none;\"> </span>Our service area includes: \n</p>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Ashland</li>\n\t\t\t\t\t<li>City of Richmond</li>\n\t\t\t\t\t<li>Chesterfield </li>\n\t\t\t\t\t<li>Henrico </li>\n\t\t\t\t\t<li>Hopewell</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Colonial Heights</li>\n\t\t\t\t\t<li>Petersburg </li>\n\t\t\t\t\t<li>Prince George </li>\n\t\t\t\t\t<li>King William</li>\n\t\t\t\t\t<li>King and Queen </li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>New Kent</li>\n\t\t\t\t\t<li>Charles City </li>\n\t\t\t\t\t<li>Dinwiddie</li>\n\t\t\t\t\t<li>Powhatan </li>\n\t\t\t\t\t<li>Hanover </li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\"><h4>Programs we Provide and Areas We Service</h4>\n\n<p>\n\tLocally, The Salvation Army Central Virginia Area Command provides year-round services and support to over 7,000 individuals through our:\n</p>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Men's and Family Emergency Shelter</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Inclement Weather&nbsp;Shelter</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/services\" target=\"\">Rent and Utility&nbsp;Assistance</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/christmas\" target=\"\">Christmas Assistance / Angel Tree</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/the-salvation-army-boys-and-girls-club\" target=\"\">Our Y</a><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/youth-ministry\" target=\"\">outh Ministry Program</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/oasis-wellness-center\" target=\"\">Oasis Wellness Center</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Disaster Response</li>\n\t\t\t\t\t<li>Pathway of Hope</li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Ministry / Canteen Ministry</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<p>\n\t<span style=\"display:none;\"> </span><span style=\"display:none;\"> </span><span style=\"display:none;\"> </span>Our service area includes: \n</p>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Ashland</li>\n\t\t\t\t\t<li>City of Richmond</li>\n\t\t\t\t\t<li>Chesterfield </li>\n\t\t\t\t\t<li>Henrico </li>\n\t\t\t\t\t<li>Hopewell</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Colonial Heights</li>\n\t\t\t\t\t<li>Petersburg </li>\n\t\t\t\t\t<li>Prince George </li>\n\t\t\t\t\t<li>King William</li>\n\t\t\t\t\t<li>King and Queen </li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>New Kent</li>\n\t\t\t\t\t<li>Charles City </li>\n\t\t\t\t\t<li>Dinwiddie</li>\n\t\t\t\t\t<li>Powhatan </li>\n\t\t\t\t\t<li>Hanover </li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:2:81",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:2:81",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:5:21-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3 mt-3\"><h4>Programs we Provide and Areas We Service</h4>\n\n<p>\n\tLocally, The Salvation Army Central Virginia Area Command provides year-round services and support to over 7,000 individuals through our:\n</p>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Men's and Family Emergency Shelter</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Inclement Weather&nbsp;Shelter</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/services\" target=\"\">Rent and Utility&nbsp;Assistance</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/christmas\" target=\"\">Christmas Assistance / Angel Tree</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/the-salvation-army-boys-and-girls-club\" target=\"\">Our Y</a><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/youth-ministry\" target=\"\">outh Ministry Program</a></li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/oasis-wellness-center\" target=\"\">Oasis Wellness Center</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Disaster Response</li>\n\t\t\t\t\t<li>Pathway of Hope</li>\n\t\t\t\t\t<li><a href=\"https://cvac.salvationarmypotomac.org/centralvirginia/contact-us\" target=\"\">Ministry / Canteen Ministry</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<p>\n\t<span style=\"display:none;\"> </span><span style=\"display:none;\"> </span><span style=\"display:none;\"> </span>Our service area includes: \n</p>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Ashland</li>\n\t\t\t\t\t<li>City of Richmond</li>\n\t\t\t\t\t<li>Chesterfield </li>\n\t\t\t\t\t<li>Henrico </li>\n\t\t\t\t\t<li>Hopewell</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>Colonial Heights</li>\n\t\t\t\t\t<li>Petersburg </li>\n\t\t\t\t\t<li>Prince George </li>\n\t\t\t\t\t<li>King William</li>\n\t\t\t\t\t<li>King and Queen </li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-4\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li>New Kent</li>\n\t\t\t\t\t<li>Charles City </li>\n\t\t\t\t\t<li>Dinwiddie</li>\n\t\t\t\t\t<li>Powhatan </li>\n\t\t\t\t\t<li>Hanover </li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

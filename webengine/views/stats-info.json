@@ -11,28 +11,30 @@
       {{$count = 1}}
     {{/each}}
 
-    {{if $count === 0 }}
+    {{if {$count} === 0 }}
       {{each stats as stat WHERE stat.divisions = '{$parent_division}' limit 1 }}
           {{$count = 2}}
       {{/each}}
     {{/if}}
 
-    {{if $count === 0 }}
+    {{if {$count} === 0 }}
       {{each stats as stat WHERE stat.territories = '{$parent_territory}' limit 1 }}
         {{$count = 3}}
       {{/each}}
     {{/if}}
-    
+
     {{if {$count} === 1 }}
       {{each stats as stat WHERE stat.locations = '{$zuid}' }}
     {
+          {{$rsc  = {stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\)} }}
+          {{$description = {stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\)} }}
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{$description.escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{$rsc.escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -45,11 +47,11 @@
  {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -62,11 +64,11 @@
  {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -79,11 +81,11 @@
  {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -100,7 +102,7 @@
           {{$count = 1}}
       {{/each}}
     
-    {{if $count === 0 }}
+    {{if {$count} === 0 }}
       {{each stats as stat WHERE stat.territories = '{$parent_territory}' limit 1 }}
         {{$count = 2}}
       {{/each}}
@@ -111,11 +113,11 @@
        {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -128,11 +130,11 @@
  {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -145,11 +147,11 @@
  {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -172,11 +174,11 @@
          {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -189,11 +191,11 @@
  {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",
@@ -210,11 +212,11 @@
        {
           "general_statistic": "{{stat.general_statistic}}",
           "categories": "{{stat.categories}}",
-          "stats_name": "{{stat.stats_name}}",
-          "stats_sub_text": "{{stat.stats_sub_text}}",
-          "description": "{{stat.description.striptags()}}",
-          "right_side_header": "{{stat.right_side_header.striptags()}}",
-          "right_side_content": "{{stat.right_side_content.striptags()}}",
+          "stats_name": "{{stat.stats_name.escapeForJs()}}",
+          "stats_sub_text": "{{stat.stats_sub_text.escapeForJs()}}",
+          "description": "{{stat.description.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
+          "right_side_header": "{{stat.right_side_header.striptags().escapeForJs()}}",
+          "right_side_content": "{{stat.right_side_content.striptags().preg_replace(/\\\\/,\\\\\\\\).escapeForJs()}}",
           "territories": "{{stat.territories}}",
           "divisions": "{{stat.divisions}}",
           "locations": "{{stat.locations}}",

@@ -17,6 +17,7 @@ const FULL_SYNC = process.env.FULL_SYNC === 'true' || process.argv.includes('--f
 // the instance's current content is fetched and compared so no-op saves are
 // skipped. NO_API_CHECK disables it.
 const CAN_CHECK = !!(INSTANCE_ZUID && TOKEN) && process.env.NO_API_CHECK !== 'true';
+const FETCH_CONCURRENCY = Number.parseInt(process.env.ZESTY_FETCH_CONCURRENCY || '8', 10) || 8;
 const norm = (s) =>
   s == null
     ? ''
@@ -120,11 +121,18 @@ async function apiRequest(method, endpointPath, body) {
   return res;
 }
 
-// Each resource exists in two statuses: "dev" (the stage/working copy) and
-// "live" (what's published to production), each with its own code. Fetch the
-// one the run needs (stage→dev, production→live) via ?status=, one list call
-// per section, and build a zuid→code map. Resources missing from the map fall
-// through to a write.
+function addFetchedCode(map, item) {
+  if (item && item.ZUID && typeof item.code === 'string') {
+    map.set(item.ZUID, { code: item.code, version: item.version });
+    return true;
+  }
+  return false;
+}
+
+// Bulk fallback: each resource exists in two statuses: "dev" (the stage/working
+// copy) and "live" (what's published to production), each with its own code.
+// Fetch the one the run needs via ?status=, one list call per section, and build
+// a zuid→code map. Resources missing from the map fall through to a write.
 async function fetchInstanceCode(status) {
   const map = new Map();
   for (const meta of Object.values(SECTIONS)) {
@@ -134,14 +142,59 @@ async function fetchInstanceCode(status) {
       if (!res.ok) continue;
       const json = await res.json();
       for (const item of json.data || []) {
-        if (item && item.ZUID && typeof item.code === 'string') {
-          map.set(item.ZUID, { code: item.code, version: item.version });
-        }
+        addFetchedCode(map, item);
       }
     } catch {
       /* leave map partial */
     }
   }
+  return map;
+}
+
+// Fetch only the resources in the current git diff scope. If any scoped lookup
+// fails or returns an unexpected shape, fall back to the original bulk fetch so
+// verification failure does not cause a wave of unnecessary PUT requests.
+async function fetchScopedInstanceCode(status, items) {
+  if (!items.length) return new Map();
+
+  const map = new Map();
+  const queue = [...items];
+  let failures = 0;
+  const concurrency = Math.max(1, Math.min(FETCH_CONCURRENCY, queue.length));
+
+  async function worker() {
+    while (queue.length) {
+      const item = queue.shift();
+      try {
+        const url = `https://${INSTANCE_ZUID}.api.zesty.io/v1/web/${item.endpoint}/${item.zuid}?status=${status}`;
+        const res = await fetch(url, { headers: { Authorization: `Bearer ${TOKEN}` } });
+        if (!res.ok) {
+          failures++;
+          continue;
+        }
+
+        const json = await res.json();
+        const data = json.data || json;
+        if (Array.isArray(data)) {
+          if (!data.some((entry) => addFetchedCode(map, entry))) failures++;
+        } else if (!addFetchedCode(map, data)) {
+          failures++;
+        }
+      } catch {
+        failures++;
+      }
+    }
+  }
+
+  await Promise.all(Array.from({ length: concurrency }, worker));
+
+  if (failures) {
+    console.warn(
+      `⚠️  ${failures} scoped ${status} fetch(es) failed — falling back to bulk ${status} fetch for safe comparison.`
+    );
+    return fetchInstanceCode(status);
+  }
+
   return map;
 }
 
@@ -395,7 +448,7 @@ async function runStage(items, newFiles, manifest, config, indent) {
     fs.writeFileSync(CONFIG_PATH, JSON.stringify(config, null, indent) + '\n');
     console.log(`📝 Mapped ${created.length} new resource(s) into zesty.config.json.`);
   }
-  const devMap = CAN_CHECK ? await fetchInstanceCode('dev') : null;
+  const devMap = CAN_CHECK ? await fetchScopedInstanceCode('dev', items) : null;
   const written = [];
   let skipped = 0;
   for (const item of items) {
@@ -417,8 +470,8 @@ async function runProduction(items, newFiles, manifest) {
     );
     for (const nf of newFiles) console.warn(`   - ${path.relative(process.cwd(), nf.localPath)}`);
   }
-  const devMap = CAN_CHECK ? await fetchInstanceCode('dev') : null;
-  const liveMap = CAN_CHECK ? await fetchInstanceCode('live') : null;
+  const devMap = CAN_CHECK ? await fetchScopedInstanceCode('dev', items) : null;
+  const liveMap = CAN_CHECK ? await fetchScopedInstanceCode('live', items) : null;
   const published = [];
   let skipped = 0;
   for (const item of items) {

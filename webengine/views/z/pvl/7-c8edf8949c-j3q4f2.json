@@ -1,0 +1,213 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"design:columns:1 Column:14:53": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:14:53",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:14:53-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:1:70": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:1:70",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:14:53-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:2:63": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h4 style=\"text-align:center;\">Listen to Pamela's Story</h4>\n\n<p style=\"text-align:center;\">\n\t<span style=\"font-size:18px;\">Pamela walked through our doors in crisis. Years later, she’s the one greeting others with open arms.<br>\n\tAs a Family Case Worker, she leads with lived experience and unmatched compassion.<br>\n\t<strong>Honor her journey. Help her change lives. Make a gift today.</strong></span>\n</p></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h4 style=\"text-align:center;\">Listen to Pamela's Story</h4>\n\n<p style=\"text-align:center;\">\n\t<span style=\"font-size:18px;\">Pamela walked through our doors in crisis. Years later, she’s the one greeting others with open arms.<br>\n\tAs a Family Case Worker, she leads with lived experience and unmatched compassion.<br>\n\t<strong>Honor her journey. Help her change lives. Make a gift today.</strong></span>\n</p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:2:63",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:2:63",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:14:53-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3\"><h4 style=\"text-align:center;\">Listen to Pamela's Story</h4>\n\n<p style=\"text-align:center;\">\n\t<span style=\"font-size:18px;\">Pamela walked through our doors in crisis. Years later, she’s the one greeting others with open arms.<br>\n\tAs a Family Case Worker, she leads with lived experience and unmatched compassion.<br>\n\t<strong>Honor her journey. Help her change lives. Make a gift today.</strong></span>\n</p></div>"
+							},
+							"design:design:whitespace-xl:3:54": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 2,
+								"fullName": "design:design:whitespace-xl:3:54",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:14:53-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"design:columns:1 Column:5:27": {
+								"uid": "NaN",
+								"name": "1 Column",
+								"type": "columns",
+								"html": "<div style=\"display:flex;flex-wrap:wrap\" class=\"row d-flex\">*</div>",
+								"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+								"classes": "row d-flex",
+								"droppable": "true",
+								"numberOfColumns": 1,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": 1,
+										"html": "<div class=\"col-lg-9 col-md-11 col-sm-12 m-auto mt-3 ratio ratio-16x9\">*</div>",
+										"classes": "column col-lg-9 col-md-11 col-sm-12 m-auto mt-3 ratio ratio-16x9",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 3,
+								"fullName": "design:columns:1 Column:5:27",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:14:53-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:1 Column:5:27-1:1 Column:0": {
+										"width": 1,
+										"html": "<div class=\"column col-lg-9 col-md-11 col-sm-12 m-auto mt-3 ratio ratio-16x9\">*</div>",
+										"classes": "column col-lg-9 col-md-11 col-sm-12 m-auto mt-3 ratio ratio-16x9",
+										"droppable": true,
+										"children": {
+											"content:embed:4:55": {
+												"icon": "embed",
+												"name": "Embed",
+												"type": "embed",
+												"html": "<iframe src=\"https://www.youtube.com/embed/h52EC-kTp3Y\" style=\"border:0;\" loading=\"lazy\" allowfullscreen=\"\" referrerpolicy=\"no-referrer-when-downgrade\" class=\"w-100 h-100\"></iframe>",
+												"description": "Embedded content (iframe)",
+												"draggable": true,
+												"content": "<iframe src=\"https://www.youtube.com/embed/h52EC-kTp3Y\" style=\"border:0;\" loading=\"lazy\" allowfullscreen=\"\" referrerpolicy=\"no-referrer-when-downgrade\" class=\"w-100 h-100\"></iframe>",
+												"position": 0,
+												"fullName": "content:embed:4:55",
+												"htmlElement": "iframe",
+												"classes": "w-100 h-100",
+												"primarytype": "content",
+												"id": "content:embed:4:55",
+												"styles": {},
+												"newLoc": "design:columns:1 Column:5:27-1:1 Column:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									}
+								},
+								"id": "design:columns:1 Column:5:27",
+								"styles": {},
+								"htmlElement": "div",
+								"content": "<div style=\"display:flex;flex-wrap:wrap\" class=\"row d-flex\">*</div>",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:6:8": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 4,
+								"fullName": "design:design:whitespace-xl:6:8",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:14:53-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-xl:8:85": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 5,
+								"fullName": "design:design:whitespace-xl:8:85",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:14:53-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:9:62": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h4 style=\"text-align:center;\">Ways to Give</h4>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col-lg-6 col-md-12 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmygeorgia.org/give/522199/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Donate</a></p>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col-lg-6 col-md-12 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://salvationarmyaugusta.galaxydigital.com/\" class=\"btn btn-secondary gap-1 mt-2\">Volunteer</a></p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h4 style=\"text-align:center;\">Ways to Give</h4>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col-lg-6 col-md-12 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmygeorgia.org/give/522199/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Donate</a></p>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col-lg-6 col-md-12 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://salvationarmyaugusta.galaxydigital.com/\" class=\"btn btn-secondary gap-1 mt-2\">Volunteer</a></p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 6,
+								"fullName": "content:wysiwyg_basic:9:62",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:9:62",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:14:53-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3\"><h4 style=\"text-align:center;\">Ways to Give</h4>\n\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col-lg-6 col-md-12 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmygeorgia.org/give/522199/#!/donation/checkout\" class=\"btn btn-light\">Donate</a></p>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col-lg-6 col-md-12 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://salvationarmyaugusta.galaxydigital.com/\" class=\"btn btn-light\">Volunteer</a></p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

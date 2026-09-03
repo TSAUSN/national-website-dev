@@ -1,0 +1,627 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:12:0:85": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-c2fec290fb-r8xj7z')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-c2fec290fb-r8xj7z')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:12:0:85",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:31:34": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:31:34",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:31:34-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-sm:27:45": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 0,
+								"fullName": "design:design:whitespace-sm:27:45",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:31:34-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:columns:2columns:29:63": {
+								"uid": "11",
+								"name": "2 Columns - Equal",
+								"type": "columns",
+								"classes": "row my-3 g-4",
+								"html": "<div class=\"row my-3 g-4\">*</div>",
+								"preview": "<div style=\"display:flex\"><div style=\"flex:1\"></div><div style=\"flex:1\"></div></div>",
+								"droppable": false,
+								"numberOfColumns": 2,
+								"widthPerColumns": "1",
+								"columns": [
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12 col-xs-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12 col-xs-12",
+										"droppable": true
+									},
+									{
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12 col-xs-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12 col-xs-12",
+										"droppable": true
+									}
+								],
+								"groupCategory": "isNew",
+								"group": "",
+								"position": 1,
+								"fullName": "design:columns:2columns:29:63",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:31:34-1:1 Column:0",
+								"oldLoc": "bank",
+								"children": {
+									"design:columns:2columns:29:63-1:2 Columns - Equal:0": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12 col-xs-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12 col-xs-12",
+										"droppable": true,
+										"children": {
+											"content:textarea:2:12": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\t<span style=\"line-height:normal;\"></span>Pantry packages include canned goods at a minimum but often include fresh bread, bakery items, meat, and produce. As an ongoing effort to meet the needs of our neighbors, The Salvation Army Food Pantry continues to operate as a drive-thru service. Individuals and families needing immediate food assistance can drive through the Food Pantry.\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Pantry packages include canned goods at a minimum but often include fresh bread, bakery items, meat, and produce. As an ongoing effort to meet the needs of our neighbors, The Salvation Army Food Pantry continues to operate as a drive-thru service. Individuals and families needing immediate food assistance can drive through the Food Pantry.",
+												"position": 0,
+												"fullName": "content:textarea:2:12",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:2:12",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"design:design:whitespace-sm:3:96": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 1,
+												"fullName": "design:design:whitespace-sm:3:96",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:text:4:59": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h5 style=\"text-align:center;\">Hours of Operation</h5>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "Hours of Operation",
+												"position": 2,
+												"fullName": "content:text:4:59",
+												"htmlElement": "h5",
+												"primarytype": "content",
+												"id": "content:text:4:59",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:5:32": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tMonday-Wednesday: 1:00 Pm-3:00 pm\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Monday-Wednesday: 1:00 Pm-3:00 pm",
+												"position": 3,
+												"fullName": "content:textarea:5:32",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:5:32",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:6:36": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tThursday: Closed\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Thursday: Closed",
+												"position": 4,
+												"fullName": "content:textarea:6:36",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:6:36",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:7:52": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tFriday: 11:30 am to 1:30 pm\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Friday: 11:30 am to 1:30 pm",
+												"position": 5,
+												"fullName": "content:textarea:7:52",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:7:52",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"design:design:whitespace-xl:8:43": {
+												"uid": "354",
+												"name": "Whitespace - Extra Large",
+												"type": "design",
+												"classes": "py-5",
+												"html": "<div class=\"py-5\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+												"droppable": false,
+												"position": 6,
+												"fullName": "design:design:whitespace-xl:8:43",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:text:9:1": {
+												"icon": "text-height",
+												"name": "Heading",
+												"type": "text",
+												"html": "<h5 style=\"text-align:center;\">**Upcoming Closures**</h5>",
+												"description": "Plain Text",
+												"draggable": true,
+												"content": "**Upcoming Closures**",
+												"position": 7,
+												"fullName": "content:text:9:1",
+												"htmlElement": "h5",
+												"primarytype": "content",
+												"id": "content:text:9:1",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:10:37": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tFriday, April 3, 2026\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Friday, April 3, 2026",
+												"position": 8,
+												"fullName": "content:textarea:10:37",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:10:37",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:11:92": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tMonday, May 25, 2026\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Monday, May 25, 2026",
+												"position": 9,
+												"fullName": "content:textarea:11:92",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:11:92",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:12:80": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tFriday, July 3, 2026\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Friday, July 3, 2026",
+												"position": 10,
+												"fullName": "content:textarea:12:80",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:12:80",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:13:81": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tMonday, September 7, 2026\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Monday, September 7, 2026",
+												"position": 11,
+												"fullName": "content:textarea:13:81",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:13:81",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:14:28": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tFriday, November 27, 2026\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Friday, November 27, 2026",
+												"position": 12,
+												"fullName": "content:textarea:14:28",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:14:28",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:15:24": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"text-align:center;\">\n\tFriday, December 25, 2026\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Friday, December 25, 2026",
+												"position": 13,
+												"fullName": "content:textarea:15:24",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:15:24",
+												"styles": {
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"design:design:whitespace-xl:16:80": {
+												"uid": "354",
+												"name": "Whitespace - Extra Large",
+												"type": "design",
+												"classes": "py-5",
+												"html": "<div class=\"py-5\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+												"droppable": false,
+												"position": 14,
+												"fullName": "design:design:whitespace-xl:16:80",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:17:58": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p style=\"margin-bottom:0in;text-align:center;\">\n\t<span style=\"line-height:normal;\"><b><u>Details</u></b></span>\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Details",
+												"position": 15,
+												"fullName": "content:textarea:17:58",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:17:58",
+												"styles": {
+													"marginBottom": "0in",
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:18:80": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<span style=\"line-height:normal;\">Portions given will depend on the amount of stock on hand.</span><br>\n\t \n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Portions given will depend on the amount of stock on hand.",
+												"position": 16,
+												"fullName": "content:textarea:18:80",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:18:80",
+												"styles": {
+													"marginBottom": "0in",
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:textarea:19:54": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<span style=\"line-height:normal;\"><b>Frequency </b>- Customers can come for a full distribution once per calendar month though USDA canned goods can be picked up weekly if needed.</span>\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Frequency - Customers can come for a full distribution once per calendar month though USDA canned goods can be picked up weekly if needed.",
+												"position": 17,
+												"fullName": "content:textarea:19:54",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:19:54",
+												"styles": {
+													"marginBottom": "0in",
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"design:design:whitespace-sm:20:34": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 18,
+												"fullName": "design:design:whitespace-sm:20:34",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:21:94": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<span style=\"line-height:normal;\"><b>Documentation </b>- Customers will be asked to verbally provide their name, address, and income/sources during their first visit and to sign TEFAP/USDA paperwork at every visit. No ID is required for pickup.</span>\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Documentation - Customers will be asked to verbally provide their name, address, and income/sources during their first visit and to sign TEFAP/USDA paperwork at every visit. No ID is required for pickup.",
+												"position": 19,
+												"fullName": "content:textarea:21:94",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:21:94",
+												"styles": {
+													"marginBottom": "0in",
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"design:design:whitespace-sm:22:98": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 20,
+												"fullName": "design:design:whitespace-sm:22:98",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:23:48": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<span style=\"line-height:normal;\"><b>Alternates </b>- If you cannot pick up your food yourself, you must attend at least once each year (July-June) to sign paperwork and assign an alternate to make your pickups. Assigned alternates must bring a picture ID! Alternates can also pick up for a previously registered applicant with a written note from the applicant. Still they would need to provide a new note at each pick-up until the applicant officially assigned them as an alternate on our SDI form.</span>\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "Alternates - If you cannot pick up your food yourself, you must attend at least once each year (July-June) to sign paperwork and assign an alternate to make your pickups. Assigned alternates must bring a picture ID! Alternates can also pick up for a previously registered applicant with a written note from the applicant. Still they would need to provide a new note at each pick-up until the applicant officially assigned them as an alternate on our SDI form.",
+												"position": 21,
+												"fullName": "content:textarea:23:48",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:23:48",
+												"styles": {
+													"marginBottom": "0in",
+													"textAlign": "center",
+													"fontWeight": "700"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"design:design:whitespace-sm:24:11": {
+												"uid": "351",
+												"name": "Whitespace - Small",
+												"type": "design",
+												"classes": "my-2",
+												"html": "<div class=\"my-2\"></div>",
+												"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+												"droppable": true,
+												"position": 22,
+												"fullName": "design:design:whitespace-sm:24:11",
+												"primarytype": "design",
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank"
+											},
+											"content:textarea:25:94": {
+												"icon": "align-justify",
+												"name": "Paragraph",
+												"type": "textarea",
+												"html": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<span style=\"line-height:normal;\">“Under Federal Law and U.S. Department of Agriculture policy, this Agency is prohibited from discriminating based on race, color, national origin, sex, age or disability.” </span>\n</p>",
+												"description": "Mixed Plain and Rich Text",
+												"draggable": true,
+												"content": "“Under Federal Law and U.S. Department of Agriculture policy, this Agency is prohibited from discriminating based on race, color, national origin, sex, age or disability.”",
+												"position": 23,
+												"fullName": "content:textarea:25:94",
+												"htmlElement": "p",
+												"primarytype": "content",
+												"id": "content:textarea:25:94",
+												"styles": {
+													"marginBottom": "0in",
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											},
+											"content:wysiwyg_basic:26:21": {
+												"icon": "outdent",
+												"name": "WYSIWYG",
+												"type": "wysiwyg_basic",
+												"html": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<a href=\"http://www.fns.usda.gov/cr/fns-nondiscrimination-statement\">www.fns.usda.gov/cr/fns-nondiscrimination-statement</a>\n</p>",
+												"description": "Text with HTML references.",
+												"draggable": true,
+												"content": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<a href=\"http://www.fns.usda.gov/cr/fns-nondiscrimination-statement\">www.fns.usda.gov/cr/fns-nondiscrimination-statement</a>\n</p>",
+												"model": "6",
+												"manualContent": "<p align=\"center\" style=\"margin-bottom:0in;text-align:center;\">\n\t<a href=\"http://www.fns.usda.gov/cr/fns-nondiscrimination-statement\">www.fns.usda.gov/cr/fns-nondiscrimination-statement</a>\n</p>",
+												"position": 24,
+												"fullName": "content:wysiwyg_basic:26:21",
+												"htmlElement": "html",
+												"primarytype": "content",
+												"id": "content:wysiwyg_basic:26:21",
+												"styles": {
+													"marginBottom": "0in",
+													"textAlign": "center"
+												},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:0",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 0
+									},
+									"design:columns:2columns:29:63-1:2 Columns - Equal:1": {
+										"width": "1",
+										"html": "<div class=\"col-lg-6 col-md-6 col-sm-12 col-xs-12\">*</div>",
+										"classes": "col-lg-6 col-md-6 col-sm-12 col-xs-12",
+										"droppable": true,
+										"children": {
+											"content:embed:28:71": {
+												"icon": "embed",
+												"name": "Embed",
+												"type": "embed",
+												"html": "<iframe src=\"https://www.google.com/maps?q=5525%20Raby%20Road%2C%20Norfolk%2C%20VA%2C%2023502&amp;output=embed\" style=\"border:0;height:100%;min-height:420px;\" loading=\"lazy\" allowfullscreen=\"\" referrerpolicy=\"no-referrer-when-downgrade\" class=\"w-100 h-100 rounded\"></iframe>",
+												"description": "Embedded content (iframe)",
+												"draggable": true,
+												"content": "<iframe src=\"https://www.google.com/maps?q=5525%20Raby%20Road%2C%20Norfolk%2C%20VA%2C%2023502&amp;output=embed\" style=\"border:0;height:100%;min-height:420px;\" loading=\"lazy\" allowfullscreen=\"\" referrerpolicy=\"no-referrer-when-downgrade\" class=\"w-100 h-100 rounded\"></iframe>",
+												"position": 0,
+												"fullName": "content:embed:28:71",
+												"htmlElement": "iframe",
+												"classes": "w-100 h-100 rounded",
+												"primarytype": "content",
+												"id": "content:embed:28:71",
+												"styles": {},
+												"newLoc": "design:columns:2columns:29:63-1:2 Columns - Equal:1",
+												"oldLoc": "bank",
+												"contentOverride": false
+											}
+										},
+										"position": 1
+									}
+								}
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

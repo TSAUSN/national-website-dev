@@ -1,0 +1,82 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:41:0:71">{{block('/-/block/hero_full.html?variant=7-da8bfb9890-bnjnpk')}}</div>
+	<div class="my-2" data-zesty-id="design:design:whitespace-sm:1:5122"></div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:13:74">
+<div class="column" data-zesty-id="design:columns:1 Column:13:74-1:1 Column:0">
+<div class="position-relative d-block w-100" style="overflow:hidden;" data-zesty-id="content:images:0:4679"><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/30d42e61-b9d2-479a-8912-83eacb04425f_first+stop+web.png" alt="placeholder" class="slide-thumbnail img-fluid w-100 d-block mx-auto mb-3 rounded" style="width:100%; height:100%; object-fit:cover;" loading="lazy"></div>
+<div style="color:#111111;" class="rounded p-6 gap-3" data-zesty-id="content:wysiwyg_basic:2:31"><p>
+	The Salvation Army's First Stop Center is a facility designed to provide people in need of assistance with a place to go where they can meet with multiple non-profit agencies. These agencies can provide utility assistance, housing support, homeless prevention services, support for Peachcare or Medicaid, legal services, and employment services. The First Stop Center is located at 1765 Broad Street, next to the Kroc Center of Augusta.
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	You may apply for utility assistance through the Project Share program. Funds are available for Richmond, Columbia, Wilkes, Burke, McDuffie, and Glascock County residents. To apply fill out the application below.
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	<strong><span style="font-size:24px;">NOTE: Assistance May also be available through the Hurricane Helene Community Crisis Fund. Learn more <a href="https://southernusa.salvationarmy.org/augusta/helene-recovery-assistance" target="">here</a>.</span></strong>
+</p>
+
+<p>
+	 
+</p>
+
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfMvz_034s1YWz0yOjg9PQKTNdtkKUl67uFG4K-RW_fPYqdSA/viewform" class="btn btn-secondary gap-1 mt-2">Project Share Application</a></p></div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:3:58"></div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:4:55"></div>
+<div style="color:#111111;" class="rounded p-6 gap-3" data-zesty-id="content:wysiwyg_basic:5:45"><p style="text-align:center;">
+	<span style="font-size:18px;"><strong>Our partner Agencies</strong></span>
+</p></div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:6:12"></div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:7:91"></div>
+<div style="color:#111111;" class="rounded p-6 gap-3" data-zesty-id="content:wysiwyg_basic:8:37"><div class="btgrid">
+	<div class="row row-1">
+		<div class="col-lg-6 col-md-12 col-sm-12">
+			<div class="content">
+				<p style="text-align:center;">
+					<a href="https://www.firststepstaffing.com/" target=""><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/62aa7674-16ae-439c-9648-7754d10948d5_allteal.png" class="d-block mx-auto img-fluid rounded"></a>
+				</p>
+			</div>
+		</div>
+
+		<div class="col-lg-6 col-md-12 col-sm-12">
+			<div class="content">
+				<p style="text-align:center;">
+					<a href="https://www.uwcsra.org/" target=""><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/2f2ee4a1-bc5d-44b0-a80b-fa754042c90f_UWCSRA_nobackground.png" class="d-block mx-auto img-fluid rounded"></a>
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row row-2">
+		<div class="col-lg-6 col-md-12 col-sm-12">
+			<div class="content">
+				<p style="text-align:center;">
+					<a href="https://www.csraeoa.org/" target=""><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/ca793f04-3659-4028-b3dd-2b6df847420e_agencylogo.png" class="d-block mx-auto img-fluid rounded"></a>
+				</p>
+			</div>
+		</div>
+
+		<div class="col-lg-6 col-md-12 col-sm-12">
+			<div class="content">
+				<p style="text-align:center;">
+					<a href="https://dhs.georgia.gov/" target=""><img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/4f60a922-3de4-414b-b0ed-13775a2b3bac_Unknown.png" style="max-width:100%;height:auto;" class="d-block mx-auto img-fluid rounded"></a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<p>
+	 
+</p></div>
+		</div>
+	</div>
+</div>

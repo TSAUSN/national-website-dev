@@ -1,0 +1,18 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:2:0:15">{{block('/-/block/hero_full.html?variant=7-cca8d2eb86-2gzxzx')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:4:61">
+<div class="column" data-zesty-id="design:columns:1 Column:4:61-1:1 Column:0">
+<div class="mt-4" data-zesty-id="content:wysiwyg_basic:1:32"><style type="text/css">
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}</style>
+<div class="container">
+	<div class="iframe-container">
+		<div class="ratio ratio-16x9"><iframe src="https://tampasalvationarmyfl.cervistech.com/acts/webreg/eventwebreglist.php?org_id=0019" title="Video" allowfullscreen="" loading="lazy"></iframe></div>
+	</div>
+</div></div>
+		</div>
+	</div>
+</div>

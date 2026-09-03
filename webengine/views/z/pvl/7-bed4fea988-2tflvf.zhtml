@@ -1,0 +1,12 @@
+<div classname="{styles.pvlRoot}">
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:8:7">
+<div class="column" data-zesty-id="design:columns:1 Column:8:7-1:1 Column:0">
+<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/d5744387-ceb1-456c-97fe-046637a36b79_AFTER+School+Enrichment+Program+Flyer+%281%29+%285%29-1.png" alt="placeholder" style="max-width:100%;height:auto;" loading="lazy" class="img-fluid d-block my-3 rounded mx-auto" data-zesty-id="content:images:1:91">
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:3:93"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:31">
+	<span><span style="color:#ed1c2b;"><strong>Registration Begins July 7th</strong></span></span>
+</p>
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center" data-zesty-id="content:wysiwyg_basic:5:83"><a href="https://s3.amazonaws.com/uss-cache.salvationarmy.org/778bcb18-ad6b-43d5-93ca-ce5c1a73c224_DOC061825-06182025133448+%282%29.pdf" class="btn btn-secondary gap-1 mt-2">Download and Complete Registration Form</a></p>
+		</div>
+	</div>
+</div>

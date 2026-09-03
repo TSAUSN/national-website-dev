@@ -1,0 +1,23 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:12:0:33">{{block('/-/block/hero_full.html?variant=7-bcd88399ff-rd5472')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:15:14">
+<div class="column" data-zesty-id="design:columns:1 Column:15:14-1:1 Column:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:1:7">Using god's love to uplift every neighbor</h5>
+<p style="text-align:center;" data-zesty-id="content:textarea:2:49">
+		From weekly worship services and youth programming, to outreach to communities in need,
+	</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:3:19">
+		The Richmond Citadel Corps (church) aims to meet human need through spreading the word of God.
+	</p>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:68">
+		The Richmond Citadel Corps offers everyone a place for healing and hope through the love of God. 
+	</p>
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-start" data-zesty-id="content:wysiwyg_basic:5:4"><a href="https://forms.office.com/r/ZixXtzwRWg" class="btn btn-secondary gap-1 mt-2">Sign Up for Our Monthly Newsletter</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:6:5"></div>
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-start" data-zesty-id="content:wysiwyg_basic:7:65"><a href="https://cvac.salvationarmypotomac.org/centralvirginia/news/julies-journey" class="btn btn-secondary gap-1 mt-2">Corps Success Story: from Mom to Ministry</a></p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:8:84"></div>
+<img width="341" height="275" src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/3b1d2c79-8ee8-4422-80d5-96de4c35388d_Corps+External.jpeg" alt="placeholder" style="max-width:100%;height:auto;" loading="lazy" class="img-fluid d-block my-3 rounded mx-auto" data-zesty-id="content:images:9:9">
+		</div>
+	</div>
+	<div data-zesty-id="content:block:6-caf0f4baac-ctljlz:2:4">{{block('/-/block/general_accordion.html?variant=7-bec5828f97-jn1gb0')}}</div>
+</div>

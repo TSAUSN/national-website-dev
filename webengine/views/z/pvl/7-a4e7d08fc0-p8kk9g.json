@@ -1,0 +1,237 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"design:columns:1 Column:17:77": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:17:77",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:17:77-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:1:42": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h6>Past Events</h6>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Past Events",
+								"position": 0,
+								"fullName": "content:text:1:42",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:1:42",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:17:77-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:2:15": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tThe event might have passed but the memories and sponsor appreciation remains steadfast.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "The event might have passed but the memories and sponsor appreciation remains steadfast.",
+								"position": 1,
+								"fullName": "content:textarea:2:15",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:2:15",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:17:77-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:3:42": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tEnjoy a look back at our past events. We hope to see you at an upcoming, community event.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "Enjoy a look back at our past events. We hope to see you at an upcoming, community event.",
+								"position": 2,
+								"fullName": "content:textarea:3:42",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:3:42",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:17:77-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-xl:4:55": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 3,
+								"fullName": "design:design:whitespace-xl:4:55",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:17:77-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:5:98": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 bg-light text-dark\"><h5><span style=\"color:#f2c75d;\">Signature Events</span></h5>\n\n<p>\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/428af846-7c5b-40d5-b2cc-a0c037718c17_Sig+Events+Updated+1.2025.pdf\"><img class=\"img-fluid rounded\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/84348c12-b126-48c3-9033-8442c3a5ccb5_Sig+Banner+Updated+%281200x250%29.svg\"></a>\n</p>\n\n<p>\n\tClick the image above or the link here to view the <a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/720c2cbb-8ada-43fb-9eb2-cf2af3066f9c_Sig+Events+Updated+May+2025.pdf\">Signature Events Flyer</a>\n</p></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 bg-light text-dark\"><h5><span style=\"color:#f2c75d;\">Signature Events</span></h5>\n\n<p>\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/428af846-7c5b-40d5-b2cc-a0c037718c17_Sig+Events+Updated+1.2025.pdf\"><img class=\"img-fluid rounded\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/84348c12-b126-48c3-9033-8442c3a5ccb5_Sig+Banner+Updated+%281200x250%29.svg\"></a>\n</p>\n\n<p>\n\tClick the image above or the link here to view the <a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/720c2cbb-8ada-43fb-9eb2-cf2af3066f9c_Sig+Events+Updated+May+2025.pdf\">Signature Events Flyer</a>\n</p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 4,
+								"fullName": "content:wysiwyg_basic:5:98",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:5:98",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:17:77-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3\"><h5><span style=\"color:#f2c75d;\">Signature Events</span></h5>\n\n<p>\n\t<a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/428af846-7c5b-40d5-b2cc-a0c037718c17_Sig+Events+Updated+1.2025.pdf\"><img class=\"img-fluid rounded\" src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/84348c12-b126-48c3-9033-8442c3a5ccb5_Sig+Banner+Updated+%281200x250%29.svg\"></a>\n</p>\n\n<p>\n\tClick the image above or the link here to view the <a href=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/720c2cbb-8ada-43fb-9eb2-cf2af3066f9c_Sig+Events+Updated+May+2025.pdf\">Signature Events Flyer</a>\n</p></div>"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			},
+			"content:block:6-caf0f4baac-ctljlz:1:36": {
+				"html": "<div>{{block('/-/block/general_accordion.html?variant=7-f0fcf1f5dd-j0jdr5')}}</div>",
+				"content": "{{block('/-/block/general_accordion.html?variant=7-f0fcf1f5dd-j0jdr5')}}",
+				"model": "6-caf0f4baac-ctljlz",
+				"name": "General Accordion",
+				"position": 1,
+				"fullName": "content:block:6-caf0f4baac-ctljlz:1:36",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"id": "content:block:6-caf0f4baac-ctljlz:1:36",
+				"styles": {},
+				"contentOverride": false
+			},
+			"design:columns:1 Column:18:86": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 2,
+				"fullName": "design:columns:1 Column:18:86",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:18:86-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:9:87": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 bg-light text-dark\"><h5><span style=\"color:#005788;\">Other Events</span></h5></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 bg-light text-dark\"><h5><span style=\"color:#005788;\">Other Events</span></h5></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:9:87",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:9:87",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:18:86-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3\"><h5><span style=\"color:#005788;\">Other Events</span></h5></div>"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			},
+			"content:block:6-caf0f4baac-ctljlz:3:87": {
+				"html": "<div>{{block('/-/block/general_accordion.html?variant=7-baabe7c7e9-r46xwz')}}</div>",
+				"content": "{{block('/-/block/general_accordion.html?variant=7-baabe7c7e9-r46xwz')}}",
+				"model": "6-caf0f4baac-ctljlz",
+				"name": "General Accordion",
+				"position": 3,
+				"fullName": "content:block:6-caf0f4baac-ctljlz:3:87",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"id": "content:block:6-caf0f4baac-ctljlz:3:87",
+				"styles": {},
+				"contentOverride": false
+			}
+		}
+	}
+}

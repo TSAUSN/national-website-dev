@@ -1,0 +1,33 @@
+<div classname="{styles.pvlRoot}">
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:4:45">
+<div class="column" data-zesty-id="design:columns:1 Column:4:45-1:1 Column:0">
+<div style="position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/5487f41f-5560-42ab-8184-5a1423fbb4a1_Newsletter-1.png');background-position:center center;background-repeat:no-repeat;background-size:cover;" class="text-white rounded p-6 gap-3 my-5" data-zesty-id="content:wysiwyg_basic:1:71">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <div class="btgrid" style="padding:30px;">
+	<div class="row row-1">
+		<div class="col col-md-6 col-sm-12">
+			<div class="content">
+				
+			</div>
+		</div>
+
+		<div class="col col-md-5 col-sm-12">
+			<div class="content">
+				<div class="ctct-inline-form" data-form-id="c6bbb878-7b0d-48ce-88f3-4ca982a37034">
+					&nbsp;
+				</div>
+				
+				
+				
+			</div>
+		</div>
+	</div>
+</div>
+                </div>
+            </div>
+        </div>
+		</div>
+	</div>
+</div>

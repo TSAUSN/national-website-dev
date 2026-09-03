@@ -1,0 +1,82 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"design:columns:1 Column:4:45": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 0,
+				"fullName": "design:columns:1 Column:4:45",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:4:45-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:1:71": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/5487f41f-5560-42ab-8184-5a1423fbb4a1_Newsletter-1.png');background-position:center center;background-repeat:no-repeat;background-size:cover;\" class=\"text-white rounded p-6 gap-3 my-5\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <div class=\"btgrid\" style=\"padding:30px;\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-5 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<div class=\"ctct-inline-form\" data-form-id=\"c6bbb878-7b0d-48ce-88f3-4ca982a37034\">\n\t\t\t\t\t&nbsp;\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n                </div>\n            </div>\n        </div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"text-white rounded p-6 gap-3 my-5\" style=\"position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/5487f41f-5560-42ab-8184-5a1423fbb4a1_Newsletter-1.png');background-position:center center;background-repeat:no-repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <div class=\"btgrid\" style=\"padding:30px;\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-5 col-sm-12\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<div class=\"ctct-inline-form\" data-form-id=\"c6bbb878-7b0d-48ce-88f3-4ca982a37034\">\n\t\t\t\t\t&nbsp;\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n                </div>\n            </div>\n        </div>",
+								"model": "6",
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:1:71",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:1:71",
+								"styles": {
+									"position": "relative",
+									"overflow": "hidden",
+									"minHeight": "300px",
+									"background": "#f8f9fa url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/5487f41f-5560-42ab-8184-5a1423fbb4a1_Newsletter-1.png') center center / cover no-repeat",
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/5487f41f-5560-42ab-8184-5a1423fbb4a1_Newsletter-1.png')",
+									"backgroundPosition": "center center",
+									"backgroundRepeat": "no-repeat",
+									"backgroundSize": "cover"
+								},
+								"classes": "text-white rounded p-6 gap-3 my-5",
+								"newLoc": "design:columns:1 Column:4:45-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

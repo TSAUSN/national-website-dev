@@ -1,0 +1,38 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:48:0:27">{{block('/-/block/hero_full.html?variant=7-b8b886c3fe-fzs193')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:11:89">
+<div class="column" data-zesty-id="design:columns:1 Column:11:89-1:1 Column:0">
+<div style="position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/d66aa8be-9105-4e58-b95b-3484d0e03f67_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;" class="text-white rounded p-6 gap-3 my-5" data-zesty-id="content:wysiwyg_basic:1:62">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <p style="text-align:center;color:#fff;">
+	Due to COVID19 our donation pick up and drop off times/locations have temporarily changed
+</p>
+
+<h6 style="text-align:center;">Donations May Be Dropped Off at</h6>
+
+<p style="text-align:center;color:#fff;">
+	<strong>10420 Coursey Blvd.<br>
+	Baton Rouge, LA 70816</strong>
+</p>
+
+<p style="text-align:center;color:#fff;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://maps.app.goo.gl/apA4S3jEoiFyA3CY9" target="_blank" class="btn btn-secondary gap-1 mt-2">Get Directions</a></p>
+
+<p style="text-align:center;color:#fff;">
+	Donations Drop Off Open Daily.<br>
+	Store hours vary.
+</p>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:2:39"></div>
+<p style="text-align:center;" data-zesty-id="content:textarea:4:29">
+	Tax Deductible Receipts for Your Donation are Available
+</p>
+<div class="my-4" data-zesty-id="design:design:whitespace-md:5:80"></div>
+<h5 style="text-align:center;" data-zesty-id="content:text:6:92"><span style="color:#ed1c2b;">&nbsp;FOR More information</span></h5>
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center" data-zesty-id="content:wysiwyg_basic:7:10"><a href="/baton-rouge/contact" class="btn btn-secondary gap-1 mt-2">Contact Us</a></p>
+		</div>
+	</div>
+</div>

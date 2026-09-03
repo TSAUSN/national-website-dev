@@ -1,0 +1,123 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:23:0:40": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-ba83b8acde-xxbvld')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-ba83b8acde-xxbvld')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:23:0:40",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:7:41": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:7:41",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:7:41-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:1:22": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5>Adult Rehabilitation Centers</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Adult Rehabilitation Centers",
+								"position": 0,
+								"fullName": "content:text:1:22",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:1:22",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:7:41-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:2:29": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p>\n\tThe Salvation Army’s Adult Rehabilitation Centers provide spiritual, social and emotional assistance for men who have lost the ability to cope with their problems and provide for themselves. Each center offers residential housing, work, and group and individual counseling, all in a clean, wholesome environment. The physical and spiritual care that program participants receive prepares them to re-enter society and return to gainful employment. Many of those who have been rehabilitated are reunited with their families and resume a normal life.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "The Salvation Army’s Adult Rehabilitation Centers provide spiritual, social and emotional assistance for men who have lost the ability to cope with their problems and provide for themselves. Each center offers residential housing, work, and group and individual counseling, all in a clean, wholesome environment. The physical and spiritual care that program participants receive prepares them to re-enter society and return to gainful employment. Many of those who have been rehabilitated are reunited with their families and resume a normal life.",
+								"position": 1,
+								"fullName": "content:textarea:2:29",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:2:29",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:7:41-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:3:14": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul class=\"fa-ul\">\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>FORT LAUDERDALE</strong><p>\n\t\t\t\t\t\t1901 W. Broward Blvd. Ft. Lauderdale, FL 33312<br>\n\t\t\t\t\t\t<a href=\"tel:954-463-3725\" target=\"\">954-463-3725</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>JACKSONVILLE</strong><p>\n\t\t\t\t\t\t10900 Beach Blvd. Jacksonville, FL 32246<br>\n\t\t\t\t\t\t<a href=\"tel:904-641-2122\" target=\"\">904-641-2122</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>MIAMI</strong><p>\n\t\t\t\t\t\t2236 NW Miami Court Miami, Fl. 33127<br>\n\t\t\t\t\t\t<a href=\"tel:305-573-4200\" target=\"\">305-573-4200</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul class=\"fa-ul\">\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>ORLANDO</strong>\n<p>\n\t\t\t\t\t\t3955 W. Colonial Drive Orlando, FL 32808<br>\n\t\t\t\t\t\t<a href=\"tel:407-295-9311\" target=\"\">407-295-9311</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>ST. PETERSBURG</strong><p>\n\t\t\t\t\t\t5885 66th Street, N., St. Petersburg, Fl 33706<br>\n\t\t\t\t\t\t<a href=\"tel:727-541-7781\" target=\"\">727-541-7781</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>TAMPA</strong><p>\n\t\t\t\t\t\t13815 N. Salvation Army Lane., Tampa, Fl 33613<br>\n\t\t\t\t\t\t<a href=\"tel:813-972-0471\" target=\"\">813-972-0471</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<hr>\n<h6>Please Visit&nbsp;<a href=\"https://gethelp.salvationarmyusa.org/\" target=\"_blank\">gethelp.salvationarmyusa.org</a>&nbsp;to Find out More.</h6>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul class=\"fa-ul\">\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>FORT LAUDERDALE</strong><p>\n\t\t\t\t\t\t1901 W. Broward Blvd. Ft. Lauderdale, FL 33312<br>\n\t\t\t\t\t\t<a href=\"tel:954-463-3725\" target=\"\">954-463-3725</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>JACKSONVILLE</strong><p>\n\t\t\t\t\t\t10900 Beach Blvd. Jacksonville, FL 32246<br>\n\t\t\t\t\t\t<a href=\"tel:904-641-2122\" target=\"\">904-641-2122</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>MIAMI</strong><p>\n\t\t\t\t\t\t2236 NW Miami Court Miami, Fl. 33127<br>\n\t\t\t\t\t\t<a href=\"tel:305-573-4200\" target=\"\">305-573-4200</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<ul class=\"fa-ul\">\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>ORLANDO</strong>\n<p>\n\t\t\t\t\t\t3955 W. Colonial Drive Orlando, FL 32808<br>\n\t\t\t\t\t\t<a href=\"tel:407-295-9311\" target=\"\">407-295-9311</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>ST. PETERSBURG</strong><p>\n\t\t\t\t\t\t5885 66th Street, N., St. Petersburg, Fl 33706<br>\n\t\t\t\t\t\t<a href=\"tel:727-541-7781\" target=\"\">727-541-7781</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li><span class=\"fa-li\"><i class=\"ministriesGrid-icon icon icon-shield\"></i></span><strong>TAMPA</strong><p>\n\t\t\t\t\t\t13815 N. Salvation Army Lane., Tampa, Fl 33613<br>\n\t\t\t\t\t\t<a href=\"tel:813-972-0471\" target=\"\">813-972-0471</a>\n\t\t\t\t\t</p>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<hr>\n<h6>Please Visit&nbsp;<a href=\"https://gethelp.salvationarmyusa.org/\" target=\"_blank\">gethelp.salvationarmyusa.org</a>&nbsp;to Find out More.</h6>",
+								"model": "6",
+								"position": 2,
+								"fullName": "content:wysiwyg_basic:3:14",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:3:14",
+								"styles": {
+									"fontWeight": "700",
+									"fontStyle": "italic"
+								},
+								"newLoc": "design:columns:1 Column:7:41-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

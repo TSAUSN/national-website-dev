@@ -1,0 +1,27 @@
+<div id="image-text-button-{{this.zuid}}" data-component-type="image-text-button" class="image-text-button module bg-light mt-16 p-lg-8 p-sm-4 rounded-5 mb-16" data-component-index="{{@index}}">
+  <div class="row">
+  <div class="col-12 col-lg-6">
+    <div class="w-100 overflow-hidden rounded-5 ratio ratio-16x9">
+      <img src="{{ this.image.getImage(800,450,fit) }}" alt="{{ this.image.getTitle() }}" class="rounded-5 object-fit-cover">
+    </div>
+  </div>
+  <div class="col-12 col-lg-6 d-flex flex-column">
+    <div>
+      <h3 class="fw-normal">
+        {{ this.title }}
+      </h3>
+      <div class="text-dark-50 mb-2">
+        {{ this.description }}
+      </div>
+    </div>
+    <div class="mt-lg-auto">
+      <a data-location-type="body:card-section" data-function-type="other" data-format-type="button" data-link-type="internal" onclick="LinkTrackingClickEvent(this,'cta_click')" href="{{ this.button_link }}" class="btn btn-secondary w-sm-100 w-lg-auto" rel="noopener noreferrer">
+        <div class="d-flex align-items-center">
+          <span class="material-symbols-outlined text-light me-2">arrow_outward</span>
+          {{ this.button_text }}
+        </div>
+      </a>
+      </div>
+    </div>
+  </div>
+</div>

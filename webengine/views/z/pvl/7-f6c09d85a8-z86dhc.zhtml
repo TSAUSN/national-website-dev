@@ -1,0 +1,34 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:37:0:83">{{block('/-/block/hero_full.html?variant=7-94d2dee1ba-d1wrz6')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:9:16">
+<div class="column" data-zesty-id="design:columns:1 Column:9:16-1:1 Column:0">
+<h5 style="text-align:center;" data-zesty-id="content:text:1:91">Give the gift of a good night's sleep.</h5>
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center" data-zesty-id="content:wysiwyg_basic:2:27"><a href="https://give.salvationarmygeorgia.org/give/522199/#!/donation/checkout" class="btn btn-primary gap-1 mt-2">Donate Now</a></p>
+<div style="color:#111111;" class="rounded p-6 gap-3" data-zesty-id="content:wysiwyg_basic:5:49"><h5 style="text-align:center;">Emergency Overnight Shelter</h5>
+
+<p>
+	<span style="color:#ed1c2b;"><strong>The Salvation Army Of Augusta's Center of Hope:</strong></span>
+</p>
+
+<ul>
+	<li>Emergency Shelter (for single women and women with children): the line begins at 3:30 PM, and check-in begins at 4:00 PM until 7:00 PM. Dinner is at 5:00 PM. Check-out Is at 8:00 AM.</li>
+	<li>Emergency Shelter (Men): the line starts at 3:30 PM. Check-in Is from 4:30 PM to 7:00 PM. Dinner at 4:30 PM. Check-out At 8:00 AM.</li>
+	<li>Emergency Shelter (Family): the line begins at 3:30 PM, and check-in is at 4:00 PM. Dinner is at 5:00 PM.</li>
+</ul>
+
+<p>
+	For more information, or to set up an appointment with a caseworker to find out more about our program, please call  <a href="tel:7068267933">(706)-826-7933</a> or fill out the form below.
+</p>
+
+<p style="text-align:center;">
+	<a href="https://southernusa.salvationarmy.org/augusta/contact" class="btn btn-secondary gap-1 mt-2">Request Homeless Service</a>
+</p>
+
+<p style="text-align:center;">
+	 
+</p>
+
+<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://migration.salvationarmy.org/augusta/cold-weather-resources-in-augusta" class="btn btn-secondary gap-1 mt-2">Cold Weather Resources</a></p></div>
+		</div>
+	</div>
+</div>

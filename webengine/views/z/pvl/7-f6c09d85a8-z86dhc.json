@@ -1,0 +1,127 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:37:0:83": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-94d2dee1ba-d1wrz6')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-94d2dee1ba-d1wrz6')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:37:0:83",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:9:16": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:9:16",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:9:16-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:1:91": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\">Give the gift of a good night's sleep.</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Give the gift of a good night's sleep.",
+								"position": 0,
+								"fullName": "content:text:1:91",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:1:91",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:9:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:2:27": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmygeorgia.org/give/522199/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Donate Now</a></p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmygeorgia.org/give/522199/#!/donation/checkout\" class=\"btn btn-primary gap-1 mt-2\">Donate Now</a></p>",
+								"model": "6",
+								"manualContent": "<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://give.salvationarmygeorgia.org/give/522199/#!/donation/checkout\" class=\"btn btn-solid btn-red\">Donate Now</a></p>",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:2:27",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:2:27",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:9:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:5:49": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h5 style=\"text-align:center;\">Emergency Overnight Shelter</h5>\n\n<p>\n\t<span style=\"color:#ed1c2b;\"><strong>The Salvation Army Of Augusta's Center of Hope:</strong></span>\n</p>\n\n<ul>\n\t<li>Emergency Shelter (for single women and women with children): the line begins at 3:30 PM, and check-in begins at 4:00 PM until 7:00 PM. Dinner is at 5:00 PM. Check-out Is at 8:00 AM.</li>\n\t<li>Emergency Shelter (Men): the line starts at 3:30 PM. Check-in Is from 4:30 PM to 7:00 PM. Dinner at 4:30 PM. Check-out At 8:00 AM.</li>\n\t<li>Emergency Shelter (Family): the line begins at 3:30 PM, and check-in is at 4:00 PM. Dinner is at 5:00 PM.</li>\n</ul>\n\n<p>\n\tFor more information, or to set up an appointment with a caseworker to find out more about our program, please call  <a href=\"tel:7068267933\">(706)-826-7933</a> or fill out the form below.\n</p>\n\n<p style=\"text-align:center;\">\n\t<a href=\"https://southernusa.salvationarmy.org/augusta/contact\" class=\"btn btn-secondary gap-1 mt-2\">Request Homeless Service</a>\n</p>\n\n<p style=\"text-align:center;\">\n\t \n</p>\n\n<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://migration.salvationarmy.org/augusta/cold-weather-resources-in-augusta\" class=\"btn btn-secondary gap-1 mt-2\">Cold Weather Resources</a></p></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h5 style=\"text-align:center;\">Emergency Overnight Shelter</h5>\n\n<p>\n\t<span style=\"color:#ed1c2b;\"><strong>The Salvation Army Of Augusta's Center of Hope:</strong></span>\n</p>\n\n<ul>\n\t<li>Emergency Shelter (for single women and women with children): the line begins at 3:30 PM, and check-in begins at 4:00 PM until 7:00 PM. Dinner is at 5:00 PM. Check-out Is at 8:00 AM.</li>\n\t<li>Emergency Shelter (Men): the line starts at 3:30 PM. Check-in Is from 4:30 PM to 7:00 PM. Dinner at 4:30 PM. Check-out At 8:00 AM.</li>\n\t<li>Emergency Shelter (Family): the line begins at 3:30 PM, and check-in is at 4:00 PM. Dinner is at 5:00 PM.</li>\n</ul>\n\n<p>\n\tFor more information, or to set up an appointment with a caseworker to find out more about our program, please call  <a href=\"tel:7068267933\">(706)-826-7933</a> or fill out the form below.\n</p>\n\n<p style=\"text-align:center;\">\n\t<a href=\"https://southernusa.salvationarmy.org/augusta/contact\" class=\"btn btn-secondary gap-1 mt-2\">Request Homeless Service</a>\n</p>\n\n<p style=\"text-align:center;\">\n\t \n</p>\n\n<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://migration.salvationarmy.org/augusta/cold-weather-resources-in-augusta\" class=\"btn btn-secondary gap-1 mt-2\">Cold Weather Resources</a></p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 2,
+								"fullName": "content:wysiwyg_basic:5:49",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:5:49",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:9:16-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3\"><h5 style=\"text-align:center;\">Emergency Overnight Shelter</h5>\n\n<p>\n\t<span style=\"color:#ed1c2b;\"><strong>The Salvation Army Of Augusta's Center of Hope:</strong></span>\n</p>\n\n<ul>\n\t<li>Emergency Shelter (for single women and women with children): the line begins at 3:30 PM, and check-in begins at 4:00 PM until 7:00 PM. Dinner is at 5:00 PM. Check-out Is at 8:00 AM.</li>\n\t<li>Emergency Shelter (Men): the line starts at 3:30 PM. Check-in Is from 4:30 PM to 7:00 PM. Dinner at 4:30 PM. Check-out At 8:00 AM.</li>\n\t<li>Emergency Shelter (Family): the line begins at 3:30 PM, and check-in is at 4:00 PM. Dinner is at 5:00 PM.</li>\n</ul>\n\n<p>\n\tFor more information, or to set up an appointment with a caseworker to find out more about our program, please call  <a href=\"tel:7068267933\">(706)-826-7933</a> or fill out the form below.\n</p>\n\n<p style=\"text-align:center;\">\n\t<span class=\"btn btn-light\"><a href=\"https://southernusa.salvationarmy.org/augusta/contact\" target=\"\">Request Homeless Service</a>s</span>\n</p>\n\n<p style=\"text-align:center;\">\n\t \n</p>\n\n<p style=\"text-align:center;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://migration.salvationarmy.org/augusta/cold-weather-resources-in-augusta\" class=\"btn btn-light\">Cold Weather Resources</a></p></div>"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

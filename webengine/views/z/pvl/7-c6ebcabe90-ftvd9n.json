@@ -1,0 +1,200 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:52:0:27": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-9acda9ccb3-9jsq6n')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-9acda9ccb3-9jsq6n')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:52:0:27",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:13:69": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:13:69",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:13:69-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:1:96": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:1:96",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:2:36": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\"><style type=\"text/css\">\n.localSite [class^=dn-] {\n    font-size: 50px !important;\n    color: #3c5169 !important;\n}  \n  \n.localSite :not(.preview-container) hr {\n    margin: 1em 0 2em 0;\n}\n  \n  .newsroom-section-item .btn {\n    padding: 3px 0;\n    margin-bottom: 15px;\n    text-transform: uppercase;\n    font-size: 15px;\n}\n  \n  .newsroom-section-item {\n    max-width: 190px;\n    margin: 0 auto;\n}</style>\n<div class=\"row\">\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"javascript:void(0)\" onclick=\"symphony.site.animateScrollTo($('#stories-container-0'))\" class=\"btn btn-secondary gap-1 mt-2\"><i class=\"fa fa-align-left\"></i> Recent Stories </a>\n\t</div>\n\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"javascript:void(0)\" onclick=\"symphony.site.animateScrollTo($('#freeTextArea-2'))\" class=\"btn btn-secondary gap-1 mt-2\"><i class=\"far fa-address-card\"></i> PR Contacts </a>\n\t</div>\n\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"https://www.salvationarmyusa.org/usn/tell-us-a-story/\" style=\"border-color:#9ca6ae;color:#fff;\" class=\"btn btn-secondary gap-1 mt-2\">Tell Us A Story </a>\n\t</div>\n</div>\n\n<hr></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\"><style type=\"text/css\">\n.localSite [class^=dn-] {\n    font-size: 50px !important;\n    color: #3c5169 !important;\n}  \n  \n.localSite :not(.preview-container) hr {\n    margin: 1em 0 2em 0;\n}\n  \n  .newsroom-section-item .btn {\n    padding: 3px 0;\n    margin-bottom: 15px;\n    text-transform: uppercase;\n    font-size: 15px;\n}\n  \n  .newsroom-section-item {\n    max-width: 190px;\n    margin: 0 auto;\n}</style>\n<div class=\"row\">\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"javascript:void(0)\" onclick=\"symphony.site.animateScrollTo($('#stories-container-0'))\" class=\"btn btn-secondary gap-1 mt-2\"><i class=\"fa fa-align-left\"></i> Recent Stories </a>\n\t</div>\n\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"javascript:void(0)\" onclick=\"symphony.site.animateScrollTo($('#freeTextArea-2'))\" class=\"btn btn-secondary gap-1 mt-2\"><i class=\"far fa-address-card\"></i> PR Contacts </a>\n\t</div>\n\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"https://www.salvationarmyusa.org/usn/tell-us-a-story/\" style=\"border-color:#9ca6ae;color:#fff;\" class=\"btn btn-secondary gap-1 mt-2\">Tell Us A Story </a>\n\t</div>\n</div>\n\n<hr></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:2:36",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:2:36",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3 mt-3\"><style type=\"text/css\">\n.localSite [class^=dn-] {\n    font-size: 50px !important;\n    color: #3c5169 !important;\n}  \n  \n.localSite :not(.preview-container) hr {\n    margin: 1em 0 2em 0;\n}\n  \n  .newsroom-section-item .btn {\n    padding: 3px 0;\n    margin-bottom: 15px;\n    text-transform: uppercase;\n    font-size: 15px;\n}\n  \n  .newsroom-section-item {\n    max-width: 190px;\n    margin: 0 auto;\n}</style>\n<div class=\"row\">\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"javascript:void(0)\" onclick=\"symphony.site.animateScrollTo($('#stories-container-0'))\" class=\"btn btn-light newsroom-btn2\"><i class=\"fa fa-align-left\"></i> Recent Stories </a>\n\t</div>\n\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"javascript:void(0)\" onclick=\"symphony.site.animateScrollTo($('#freeTextArea-2'))\" class=\"btn btn-light newsroom-btn2\"><i class=\"far fa-address-card\"></i> PR Contacts </a>\n\t</div>\n\n\t<div class=\"col-sm-4 margin-bottom-md\">\n\t\t<a href=\"https://www.salvationarmyusa.org/usn/tell-us-a-story/\" style=\"background-color:#9ca6ae;border-color:#9ca6ae;color:#fff;\" class=\"btn btn-light newsroom-btn2\">Tell Us A Story </a>\n\t</div>\n</div>\n\n<hr></div>"
+							},
+							"design:design:whitespace-xl:3:24": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 2,
+								"fullName": "design:design:whitespace-xl:3:24",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"design:design:whitespace-xl:4:69": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 3,
+								"fullName": "design:design:whitespace-xl:4:69",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:5:30": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\"><style type=\"text/css\">\n.story-title.u-textGreyDark {\n    display: -webkit-box;\n    overflow: hidden;\n    -webkit-line-clamp: 2;\n    -webkit-box-orient: vertical;\n}\n\n.story-description.u-textSm.u-textGrey.margin-top-md {\n  overflow: hidden;\n  max-width: 75ch;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n</style></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\"><style type=\"text/css\">\n.story-title.u-textGreyDark {\n    display: -webkit-box;\n    overflow: hidden;\n    -webkit-line-clamp: 2;\n    -webkit-box-orient: vertical;\n}\n\n.story-description.u-textSm.u-textGrey.margin-top-md {\n  overflow: hidden;\n  max-width: 75ch;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n</style></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 4,
+								"fullName": "content:wysiwyg_basic:5:30",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:5:30",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3 mt-3\"><style type=\"text/css\">\n.story-title.u-textGreyDark {\n    display: -webkit-box;\n    overflow: hidden;\n    -webkit-line-clamp: 2;\n    -webkit-box-orient: vertical;\n}\n\n.story-description.u-textSm.u-textGrey.margin-top-md {\n  overflow: hidden;\n  max-width: 75ch;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n</style></div>"
+							},
+							"design:design:whitespace-xl:6:34": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 5,
+								"fullName": "design:design:whitespace-xl:6:34",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"design:design:whitespace-xl:7:65": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 6,
+								"fullName": "design:design:whitespace-xl:7:65",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:8:52": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\">\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p>\n\t\t\t\t\t \n\t\t\t\t</p>\n\n\t\t\t\t<h5>MEDIA CONTACTS</h5>\n\n\t\t\t\t<p>\n\t\t\t\t\tFollowing is a media relations contact list for The Salvation Army in Florida. State media relations are handled by Florida Divisional Headquarters. All local media are asked to first contact their local Salvation Army representative for requests for spokespersons and other inquiries.\n\t\t\t\t</p>\n\n\t\t\t\t<p>\n\t\t\t\t\t \n\t\t\t\t</p>\n\n\t\t\t\t<div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3\"><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">Divisional Headquarters:</h5><p class=\"card-text\">Divisional Communications Director <br>\n\t\t\t\t\t\t\t\t<a href=\"tel:8133835668\">813.383.5668</a></p><a href=\"https://salvationarmyflorida.org\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div></div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t\n\t\t\t\t\n\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<p>\n\t \n</p>\n\n<p>\n\t\n</p>\n\n<div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3\"><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">PENSACOLA:</h5><p class=\"card-text\">Captain Stephan Wildish <a href=\"mailto:Stephan.Wildish@uss.salvationarmy.org\">Stephan.Wildish@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:4079734628\">407-973-4628</a></p><a href=\"https://pensacola.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">PANAMA CITY:</h5><p class=\"card-text\">Captain Arnaldo Pena <a href=\"mailto:arnaldo.pena@uss.salvationarmy.org\">arnaldo.pena@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:8507695359\">850-769-5359</a></p><a href=\"https://panamacity.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">TALLAHASSEE:</h5><p class=\"card-text\">Jeremy Bridges <a href=\"mailto:Jeremy.Bridges@uss.salvationarmy.org\">Jeremy.Bridges@uss.salvationarmy.org</a> <a href=\"tel:8502220304\">850-222-0304</a></p><a href=\"https://TALLAHASSEE.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">GAINESVILLE:</h5><p class=\"card-text\">Major Ernest Hull <a href=\"mailto:ernest.hull@uss.salvationarmy.org\">ernest.hull@uss.salvationarmy.org</a> <a href=\"tel:3523761743\">352-376-1743</a></p><a href=\"https://gainesville.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">JACKSONVILLE:</h5><p class=\"card-text\">Lillie Carnes <a href=\"mailto:lillie.carnes@uss.salvationarmy.org\">lillie.carnes@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9043014839\">904-301-4839</a></p><a href=\"https://nefl.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">ORLANDO:</h5><p class=\"card-text\">Natasha Player <a href=\"mailto:Natasha.Player@uss.salvationarmy.org\">Natasha.Player@uss.salvationarmy.org</a> <a href=\"tel:4073888258\">407-388-8258</a></p><a href=\"https://orlando.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">TAMPA:</h5><p class=\"card-text\">Aaron DeWinter <a href=\"mailto:aaron.deWinter@uss.salvationarmy.org\">aaron.deWinter@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:8133744331\">813-374-4331</a></p><a href=\"https://tampa.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">FT. MYERS:</h5><p class=\"card-text\">David Asselin <a href=\"mailto:David.Asselin@uss.salvationarmy.org\">David.Asselin@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:2392787725\">239-278-7725</a></p><a href=\"https://fortmyers.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">WEST PALM BEACH:</h5><p class=\"card-text\">Major James Hall <a href=\"mailto:James.Hall@uss.salvationarmy.org\">James.Hall@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:5612329143\">561-232-9143</a></p><a href=\"https://palmbeachcounty.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">MIAMI:</h5><p class=\"card-text\">Joanne Joseph<br>\n\t\t\t\t<a href=\"mailto:Joanne.Joseph@uss.salvationarmy.org\">Joanne.Joseph@uss.salvationarmy.org</a> <a href=\"tel:3056376700;ext=26644\">305-637-6700 ext. 26644</a></p><a href=\"https://miami.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">FORT LAUDERDALE:</h5><p class=\"card-text\">David Hayton <a href=\"mailto:David.Hayton@uss.salvationarmy.org\">David.Hayton@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9545246991\">954-524-6991</a></p><a href=\"https://fortlauderdale.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">SARASOTA:</h5><p class=\"card-text\">Kelley Granahan <a href=\"mailto:Kelley.Granahan@uss.salvationarmy.org\">Kelley.Granahan@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9415525148\">941-552-5148</a></p><a href=\"https://sarasota.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div></div></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3 mt-3 bg-light text-dark\">\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p>\n\t\t\t\t\t \n\t\t\t\t</p>\n\n\t\t\t\t<h5>MEDIA CONTACTS</h5>\n\n\t\t\t\t<p>\n\t\t\t\t\tFollowing is a media relations contact list for The Salvation Army in Florida. State media relations are handled by Florida Divisional Headquarters. All local media are asked to first contact their local Salvation Army representative for requests for spokespersons and other inquiries.\n\t\t\t\t</p>\n\n\t\t\t\t<p>\n\t\t\t\t\t \n\t\t\t\t</p>\n\n\t\t\t\t<div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3\"><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">Divisional Headquarters:</h5><p class=\"card-text\">Divisional Communications Director <br>\n\t\t\t\t\t\t\t\t<a href=\"tel:8133835668\">813.383.5668</a></p><a href=\"https://salvationarmyflorida.org\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div></div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t\n\t\t\t\t\n\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<p>\n\t \n</p>\n\n<p>\n\t\n</p>\n\n<div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3\"><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">PENSACOLA:</h5><p class=\"card-text\">Captain Stephan Wildish <a href=\"mailto:Stephan.Wildish@uss.salvationarmy.org\">Stephan.Wildish@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:4079734628\">407-973-4628</a></p><a href=\"https://pensacola.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">PANAMA CITY:</h5><p class=\"card-text\">Captain Arnaldo Pena <a href=\"mailto:arnaldo.pena@uss.salvationarmy.org\">arnaldo.pena@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:8507695359\">850-769-5359</a></p><a href=\"https://panamacity.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">TALLAHASSEE:</h5><p class=\"card-text\">Jeremy Bridges <a href=\"mailto:Jeremy.Bridges@uss.salvationarmy.org\">Jeremy.Bridges@uss.salvationarmy.org</a> <a href=\"tel:8502220304\">850-222-0304</a></p><a href=\"https://TALLAHASSEE.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">GAINESVILLE:</h5><p class=\"card-text\">Major Ernest Hull <a href=\"mailto:ernest.hull@uss.salvationarmy.org\">ernest.hull@uss.salvationarmy.org</a> <a href=\"tel:3523761743\">352-376-1743</a></p><a href=\"https://gainesville.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">JACKSONVILLE:</h5><p class=\"card-text\">Lillie Carnes <a href=\"mailto:lillie.carnes@uss.salvationarmy.org\">lillie.carnes@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9043014839\">904-301-4839</a></p><a href=\"https://nefl.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">ORLANDO:</h5><p class=\"card-text\">Natasha Player <a href=\"mailto:Natasha.Player@uss.salvationarmy.org\">Natasha.Player@uss.salvationarmy.org</a> <a href=\"tel:4073888258\">407-388-8258</a></p><a href=\"https://orlando.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">TAMPA:</h5><p class=\"card-text\">Aaron DeWinter <a href=\"mailto:aaron.deWinter@uss.salvationarmy.org\">aaron.deWinter@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:8133744331\">813-374-4331</a></p><a href=\"https://tampa.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">FT. MYERS:</h5><p class=\"card-text\">David Asselin <a href=\"mailto:David.Asselin@uss.salvationarmy.org\">David.Asselin@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:2392787725\">239-278-7725</a></p><a href=\"https://fortmyers.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">WEST PALM BEACH:</h5><p class=\"card-text\">Major James Hall <a href=\"mailto:James.Hall@uss.salvationarmy.org\">James.Hall@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:5612329143\">561-232-9143</a></p><a href=\"https://palmbeachcounty.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">MIAMI:</h5><p class=\"card-text\">Joanne Joseph<br>\n\t\t\t\t<a href=\"mailto:Joanne.Joseph@uss.salvationarmy.org\">Joanne.Joseph@uss.salvationarmy.org</a> <a href=\"tel:3056376700;ext=26644\">305-637-6700 ext. 26644</a></p><a href=\"https://miami.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">FORT LAUDERDALE:</h5><p class=\"card-text\">David Hayton <a href=\"mailto:David.Hayton@uss.salvationarmy.org\">David.Hayton@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9545246991\">954-524-6991</a></p><a href=\"https://fortlauderdale.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">SARASOTA:</h5><p class=\"card-text\">Kelley Granahan <a href=\"mailto:Kelley.Granahan@uss.salvationarmy.org\">Kelley.Granahan@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9415525148\">941-552-5148</a></p><a href=\"https://sarasota.salvationarmyflorida.org/\" class=\"btn btn-secondary gap-1 mt-2 btn-sm\">Website</a></div></div></div></div></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 7,
+								"fullName": "content:wysiwyg_basic:8:52",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:8:52",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:13:69-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3 mt-3\">\n<div class=\"btgrid\">\n\t<div class=\"row row-1\">\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t<p>\n\t\t\t\t\t \n\t\t\t\t</p>\n\n\t\t\t\t<h5>MEDIA CONTACTS</h5>\n\n\t\t\t\t<p>\n\t\t\t\t\tFollowing is a media relations contact list for The Salvation Army in Florida. State media relations are handled by Florida Divisional Headquarters. All local media are asked to first contact their local Salvation Army representative for requests for spokespersons and other inquiries.\n\t\t\t\t</p>\n\n\t\t\t\t<p>\n\t\t\t\t\t \n\t\t\t\t</p>\n\n\t\t\t\t<div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3\"><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">Divisional Headquarters:</h5><p class=\"card-text\">Divisional Communications Director <br>\n\t\t\t\t\t\t\t\t<a href=\"tel:8133835668\">813.383.5668</a></p><a href=\"https://salvationarmyflorida.org\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div></div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class=\"col col-md-6\">\n\t\t\t<div class=\"content\">\n\t\t\t\t\n\t\t\t\t\n\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\n<p>\n\t \n</p>\n\n<p>\n\t\n</p>\n\n<div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3\"><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">PENSACOLA:</h5><p class=\"card-text\">Captain Stephan Wildish <a href=\"mailto:Stephan.Wildish@uss.salvationarmy.org\">Stephan.Wildish@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:4079734628\">407-973-4628</a></p><a href=\"https://pensacola.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">PANAMA CITY:</h5><p class=\"card-text\">Captain Arnaldo Pena <a href=\"mailto:arnaldo.pena@uss.salvationarmy.org\">arnaldo.pena@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:8507695359\">850-769-5359</a></p><a href=\"https://panamacity.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">TALLAHASSEE:</h5><p class=\"card-text\">Jeremy Bridges <a href=\"mailto:Jeremy.Bridges@uss.salvationarmy.org\">Jeremy.Bridges@uss.salvationarmy.org</a> <a href=\"tel:8502220304\">850-222-0304</a></p><a href=\"https://TALLAHASSEE.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">GAINESVILLE:</h5><p class=\"card-text\">Major Ernest Hull <a href=\"mailto:ernest.hull@uss.salvationarmy.org\">ernest.hull@uss.salvationarmy.org</a> <a href=\"tel:3523761743\">352-376-1743</a></p><a href=\"https://gainesville.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">JACKSONVILLE:</h5><p class=\"card-text\">Lillie Carnes <a href=\"mailto:lillie.carnes@uss.salvationarmy.org\">lillie.carnes@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9043014839\">904-301-4839</a></p><a href=\"https://nefl.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">ORLANDO:</h5><p class=\"card-text\">Natasha Player <a href=\"mailto:Natasha.Player@uss.salvationarmy.org\">Natasha.Player@uss.salvationarmy.org</a> <a href=\"tel:4073888258\">407-388-8258</a></p><a href=\"https://orlando.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">TAMPA:</h5><p class=\"card-text\">Aaron DeWinter <a href=\"mailto:aaron.deWinter@uss.salvationarmy.org\">aaron.deWinter@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:8133744331\">813-374-4331</a></p><a href=\"https://tampa.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">FT. MYERS:</h5><p class=\"card-text\">David Asselin <a href=\"mailto:David.Asselin@uss.salvationarmy.org\">David.Asselin@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:2392787725\">239-278-7725</a></p><a href=\"https://fortmyers.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">WEST PALM BEACH:</h5><p class=\"card-text\">Major James Hall <a href=\"mailto:James.Hall@uss.salvationarmy.org\">James.Hall@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:5612329143\">561-232-9143</a></p><a href=\"https://palmbeachcounty.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">MIAMI:</h5><p class=\"card-text\">Joanne Joseph<br>\n\t\t\t\t<a href=\"mailto:Joanne.Joseph@uss.salvationarmy.org\">Joanne.Joseph@uss.salvationarmy.org</a> <a href=\"tel:3056376700;ext=26644\">305-637-6700 ext. 26644</a></p><a href=\"https://miami.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">FORT LAUDERDALE:</h5><p class=\"card-text\">David Hayton <a href=\"mailto:David.Hayton@uss.salvationarmy.org\">David.Hayton@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9545246991\">954-524-6991</a></p><a href=\"https://fortlauderdale.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div><div class=\"col\"><div class=\"card h-100 border\"><div class=\"card-body\"><h5 class=\"card-title text-primary-emphasis\">SARASOTA:</h5><p class=\"card-text\">Kelley Granahan <a href=\"mailto:Kelley.Granahan@uss.salvationarmy.org\">Kelley.Granahan@uss.salvationarmy.org</a><br>\n\t\t\t\t<a href=\"tel:9415525148\">941-552-5148</a></p><a href=\"https://sarasota.salvationarmyflorida.org/\" class=\"btn btn-sm btn-secondary\">Website</a></div></div></div></div></div>"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

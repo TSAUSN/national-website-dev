@@ -1,0 +1,100 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:15:0:0": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-dac8a5dcfc-51q2ff')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-dac8a5dcfc-51q2ff')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:15:0:0",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:5:13": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:5:13",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:5:13-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:1:56": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:1:56",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:5:13-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:2:0": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#FFFFFF;\" class=\"rounded p-6 gap-3 bg-dark-50 text-light\"><p style=\"text-align:center;\">\n\t<strong>PEACHCREST YOUTH Ministry</strong>\n</p>\n\n<p style=\"text-align:center;\">\n\t3500 Sherrydale Lane\n</p>\n\n<p style=\"text-align:center;\">\n\tDecatur, GA 30032\n</p>\n\n<p style=\"text-align:center;\">\n\t<a href=\"tel:4044862880\">404-486-2880</a>\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Club Manager: Jordan Truesdale</strong>\n</p>\n\n<p style=\"text-align:center;\">\n\t \n</p>\n\n<p style=\"text-align:center;\">\n\t<u>Hours of Operation</u>\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>School Year</strong><br>\n\tMonday through Friday<br>\n\t2:30 p.m. To 8:30 p.m.\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Summer</strong><br>\n\tMonday through Friday<br>\n\t7:30 a.m. To 6:00 p.m. \n</p>\n\n<p style=\"text-align:center;\">\n\t YOUTH Ages 6 to 18\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Membership Fees</strong><br>\n\tAfter School Program: $35 annually<br>\n\tSummer Program: $150 for year-round members<br>\n\t$250 For Summer Only Members\n</p></div>",
+								"content": "<div style=\"color:#FFFFFF;\" class=\"rounded p-6 gap-3 bg-dark-50 text-light\"><p style=\"text-align:center;\">\n\t<strong>PEACHCREST YOUTH Ministry</strong>\n</p>\n\n<p style=\"text-align:center;\">\n\t3500 Sherrydale Lane\n</p>\n\n<p style=\"text-align:center;\">\n\tDecatur, GA 30032\n</p>\n\n<p style=\"text-align:center;\">\n\t<a href=\"tel:4044862880\">404-486-2880</a>\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Club Manager: Jordan Truesdale</strong>\n</p>\n\n<p style=\"text-align:center;\">\n\t \n</p>\n\n<p style=\"text-align:center;\">\n\t<u>Hours of Operation</u>\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>School Year</strong><br>\n\tMonday through Friday<br>\n\t2:30 p.m. To 8:30 p.m.\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Summer</strong><br>\n\tMonday through Friday<br>\n\t7:30 a.m. To 6:00 p.m. \n</p>\n\n<p style=\"text-align:center;\">\n\t YOUTH Ages 6 to 18\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Membership Fees</strong><br>\n\tAfter School Program: $35 annually<br>\n\tSummer Program: $150 for year-round members<br>\n\t$250 For Summer Only Members\n</p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:2:0",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:2:0",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:5:13-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#0072CE;color:#FFFFFF;\" class=\"rounded p-6 gap-3\"><p style=\"text-align:center;\">\n\t<strong>PEACHCREST YOUTH Ministry</strong>\n</p>\n\n<p style=\"text-align:center;\">\n\t3500 Sherrydale Lane\n</p>\n\n<p style=\"text-align:center;\">\n\tDecatur, GA 30032\n</p>\n\n<p style=\"text-align:center;\">\n\t<a href=\"tel:4044862880\">404-486-2880</a>\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Club Manager: Jordan Truesdale</strong>\n</p>\n\n<p style=\"text-align:center;\">\n\t \n</p>\n\n<p style=\"text-align:center;\">\n\t<u>Hours of Operation</u>\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>School Year</strong><br>\n\tMonday through Friday<br>\n\t2:30 p.m. To 8:30 p.m.\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Summer</strong><br>\n\tMonday through Friday<br>\n\t7:30 a.m. To 6:00 p.m. \n</p>\n\n<p style=\"text-align:center;\">\n\t YOUTH Ages 6 to 18\n</p>\n\n<p style=\"text-align:center;\">\n\t<strong>Membership Fees</strong><br>\n\tAfter School Program: $35 annually<br>\n\tSummer Program: $150 for year-round members<br>\n\t$250 For Summer Only Members\n</p></div>"
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

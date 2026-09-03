@@ -1,0 +1,149 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:87:0:96": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-909cfcf096-trxl9v')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-909cfcf096-trxl9v')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:87:0:96",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:10:26": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:10:26",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:10:26-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"design:design:whitespace-xl:1:56": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 0,
+								"fullName": "design:design:whitespace-xl:1:56",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:10:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"content:wysiwyg_basic:2:7": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h4>About The Salvation Army Center of Hope</h4>\n\n<p>\n\tThe Salvation Army Center of Hope serves as an emergency overnight shelter for individuals and families experiencing homelessness in the Augusta area. \n</p>\n\n<p>\n\tWhile we remain committed to serving our community during extreme cold weather, the Center of Hope <strong>does not operate as a daytime warming shelter or a drop-in warming location</strong>.\n</p>\n\n<p>\n\tWe provide:\n</p>\n\n<ul>\n\t<li>Overnight shelter</li>\n\t<li>Meals</li>\n\t<li>Clothing and hygiene products</li>\n\t<li>Supportive services and case management</li>\n</ul>\n\n<p>\n\tWe serve:\n</p>\n\n<ul>\n\t<li>Single men</li>\n\t<li>Single women</li>\n\t<li>Families with children</li>\n</ul>\n\n<p>\n\tLocation: 1384 Greene Street, Augusta, GA<br>\n\t<em>Services are subject to availability and standard intake procedures.</em>\n</p>\n\n<p>\n\t \n</p>\n\n<p>\n\t \n</p>\n\n<h5>Daytime Warming Shelter Information</h5>\n\n<p>\n\tDuring extreme cold weather events, the City of Augusta may activate a daytime or overnight warming shelter at May Park.\n</p>\n\n<p>\n\tDaytime warming shelters are intended to provide temporary relief from cold temperatures and are typically coordinated by local emergency management. Hours, capacity, and activation periods may vary depending on weather conditions and staffing.\n</p>\n\n<p>\n\tFor the most current information regarding the May Park warming shelter or other temporary warming locations:\n</p>\n\n<ul>\n\t<li>Call 2-1-1</li>\n\t<li>Contact Augusta Emergency Management</li>\n\t<li>Refer to official City communications during severe weather events</li>\n</ul>\n\n<p>\n\tThe Salvation Army Does not operate the May Park warming shelter and does not manage its hours or availability.\n</p></div>",
+								"content": "<div style=\"color:#111111;\" class=\"rounded p-6 gap-3\"><h4>About The Salvation Army Center of Hope</h4>\n\n<p>\n\tThe Salvation Army Center of Hope serves as an emergency overnight shelter for individuals and families experiencing homelessness in the Augusta area. \n</p>\n\n<p>\n\tWhile we remain committed to serving our community during extreme cold weather, the Center of Hope <strong>does not operate as a daytime warming shelter or a drop-in warming location</strong>.\n</p>\n\n<p>\n\tWe provide:\n</p>\n\n<ul>\n\t<li>Overnight shelter</li>\n\t<li>Meals</li>\n\t<li>Clothing and hygiene products</li>\n\t<li>Supportive services and case management</li>\n</ul>\n\n<p>\n\tWe serve:\n</p>\n\n<ul>\n\t<li>Single men</li>\n\t<li>Single women</li>\n\t<li>Families with children</li>\n</ul>\n\n<p>\n\tLocation: 1384 Greene Street, Augusta, GA<br>\n\t<em>Services are subject to availability and standard intake procedures.</em>\n</p>\n\n<p>\n\t \n</p>\n\n<p>\n\t \n</p>\n\n<h5>Daytime Warming Shelter Information</h5>\n\n<p>\n\tDuring extreme cold weather events, the City of Augusta may activate a daytime or overnight warming shelter at May Park.\n</p>\n\n<p>\n\tDaytime warming shelters are intended to provide temporary relief from cold temperatures and are typically coordinated by local emergency management. Hours, capacity, and activation periods may vary depending on weather conditions and staffing.\n</p>\n\n<p>\n\tFor the most current information regarding the May Park warming shelter or other temporary warming locations:\n</p>\n\n<ul>\n\t<li>Call 2-1-1</li>\n\t<li>Contact Augusta Emergency Management</li>\n\t<li>Refer to official City communications during severe weather events</li>\n</ul>\n\n<p>\n\tThe Salvation Army Does not operate the May Park warming shelter and does not manage its hours or availability.\n</p></div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"model": "6",
+								"position": 1,
+								"fullName": "content:wysiwyg_basic:2:7",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:2:7",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:10:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false,
+								"manualContent": "<div style=\"background-color:#FFFFFF;color:#111111;\" class=\"rounded p-6 gap-3\"><h4>About The Salvation Army Center of Hope</h4>\n\n<p>\n\tThe Salvation Army Center of Hope serves as an emergency overnight shelter for individuals and families experiencing homelessness in the Augusta area. \n</p>\n\n<p>\n\tWhile we remain committed to serving our community during extreme cold weather, the Center of Hope <strong>does not operate as a daytime warming shelter or a drop-in warming location</strong>.\n</p>\n\n<p>\n\tWe provide:\n</p>\n\n<ul>\n\t<li>Overnight shelter</li>\n\t<li>Meals</li>\n\t<li>Clothing and hygiene products</li>\n\t<li>Supportive services and case management</li>\n</ul>\n\n<p>\n\tWe serve:\n</p>\n\n<ul>\n\t<li>Single men</li>\n\t<li>Single women</li>\n\t<li>Families with children</li>\n</ul>\n\n<p>\n\tLocation: 1384 Greene Street, Augusta, GA<br>\n\t<em>Services are subject to availability and standard intake procedures.</em>\n</p>\n\n<p>\n\t \n</p>\n\n<p>\n\t \n</p>\n\n<h5>Daytime Warming Shelter Information</h5>\n\n<p>\n\tDuring extreme cold weather events, the City of Augusta may activate a daytime or overnight warming shelter at May Park.\n</p>\n\n<p>\n\tDaytime warming shelters are intended to provide temporary relief from cold temperatures and are typically coordinated by local emergency management. Hours, capacity, and activation periods may vary depending on weather conditions and staffing.\n</p>\n\n<p>\n\tFor the most current information regarding the May Park warming shelter or other temporary warming locations:\n</p>\n\n<ul>\n\t<li>Call 2-1-1</li>\n\t<li>Contact Augusta Emergency Management</li>\n\t<li>Refer to official City communications during severe weather events</li>\n</ul>\n\n<p>\n\tThe Salvation Army Does not operate the May Park warming shelter and does not manage its hours or availability.\n</p></div>"
+							},
+							"design:design:whitespace-xl:3:21": {
+								"uid": "354",
+								"name": "Whitespace - Extra Large",
+								"type": "design",
+								"classes": "py-5",
+								"html": "<div class=\"py-5\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:50px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 2,
+								"fullName": "design:design:whitespace-xl:3:21",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:10:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"preserveRequired": true
+							},
+							"design:design:whitespace-sm:4:2": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 3,
+								"fullName": "design:design:whitespace-sm:4:2",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:10:26-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:wysiwyg_basic:5:5": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<p>\n\t\t\t\t\tLearn more about the city's efforts <a href=\"https://www.augustaga.gov/m/newsflash/home/detail/3930\" target=\"\">here</a>.\n\t\t\t\t</p>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<p>\n\t\t\t\t\tLearn more about the city's efforts <a href=\"https://www.augustaga.gov/m/newsflash/home/detail/3930\" target=\"\">here</a>.\n\t\t\t\t</p>",
+								"model": "6",
+								"manualContent": "<p>\r\n\t\t\t\t\tLearn more about the city's efforts <a href=\"https://www.augustaga.gov/m/newsflash/home/detail/3930\" target=\"\">here</a>.\r\n\t\t\t\t</p>",
+								"position": 4,
+								"fullName": "content:wysiwyg_basic:5:5",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:5:5",
+								"styles": {},
+								"newLoc": "design:columns:1 Column:10:26-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

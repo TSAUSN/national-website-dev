@@ -1,0 +1,36 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:23:0:1">{{block('/-/block/hero_full.html?variant=7-acae98a3e9-sj090n')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:12:87">
+<div class="column" data-zesty-id="design:columns:1 Column:12:87-1:1 Column:0">
+<p data-zesty-id="content:textarea:1:25">
+	<strong>The First Chapter IN Florida</strong>
+</p>
+<div class="row my-3 g-4" data-zesty-id="design:columns:2columns:6:78">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" data-zesty-id="design:columns:2columns:6:78-1:2 Columns - Equal:0">
+<h6 data-zesty-id="content:text:2:7">Our Mission</h6>
+<p data-zesty-id="content:textarea:3:92">Echelon seeks to mobilize the next generation for The Salvation Army by providing opportunities for young adults to engage with the organization through fellowship and networking, donations and fundraising, and service and volunteering.</p>
+				</div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" data-zesty-id="design:columns:2columns:6:78-1:2 Columns - Equal:1">
+<h6 data-zesty-id="content:text:4:42">Members</h6>
+<p data-zesty-id="content:textarea:5:18">Echelon members participate in a variety of networking, volunteer, and fundraising activities. These&nbsp;activities directly support Salvation Army services within a chapter’s local community.&nbsp;Whether we are serving, attending one of our social events, or raising money. Echelon is a connected community full of people who are making a difference.</p>
+				</div>
+			</div>
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:7:48"></div>
+<div style="color:#111111;" class="rounded p-6 gap-3 bg-light text-dark" data-zesty-id="content:wysiwyg_basic:8:96"><p style="text-align:center;">
+	Annual Membership Fee: $10
+</p>
+
+<p>
+	Make checks payable to <em>The Salvation Army of Northeast Florida - Echelon: </em>328 North Ocean Street Jacksonville, FL 32202<em> </em>
+</p>
+
+<p>
+	Or utilize the qr Code below.
+</p>
+
+<p>
+	<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/97a16b4b-05aa-4588-acfc-165baa8461ad_EchelonUpdated2025.png" style="width:179px;height:179px;" class="d-block mx-auto img-fluid rounded">
+</p></div>
+		</div>
+	</div>
+</div>

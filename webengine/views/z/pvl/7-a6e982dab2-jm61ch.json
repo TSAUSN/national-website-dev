@@ -1,0 +1,177 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:84:0:4": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-d4a0dee8ca-q6q0qg')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-d4a0dee8ca-q6q0qg')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:84:0:4",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:10:82": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:10:82",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:10:82-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:wysiwyg_basic:1:14": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;\" class=\"text-white rounded p-6 gap-3 my-5\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5 style=\"text-align:center;\"><br>\nServing Hinds, Madison, Rankin,<br>\nCopiah, Scott, and Yazoo Counties<br>\n&nbsp;</h5>\n                </div>\n            </div>\n        </div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"text-white rounded p-6 gap-3 my-5\" style=\"position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5 style=\"text-align:center;\"><br>\nServing Hinds, Madison, Rankin,<br>\nCopiah, Scott, and Yazoo Counties<br>\n&nbsp;</h5>\n                </div>\n            </div>\n        </div>",
+								"model": "6",
+								"position": 0,
+								"fullName": "content:wysiwyg_basic:1:14",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:1:14",
+								"styles": {
+									"position": "relative",
+									"overflow": "hidden",
+									"minHeight": "300px",
+									"background": "#000000 url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png') center center / cover no-repeat",
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png')",
+									"backgroundPosition": "center center",
+									"backgroundRepeat": "no-repeat",
+									"backgroundSize": "cover"
+								},
+								"classes": "text-white rounded p-6 gap-3 my-5",
+								"newLoc": "design:columns:1 Column:10:82-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-sm:2:23": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 1,
+								"fullName": "design:design:whitespace-sm:2:23",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:10:82-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:3:76": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h5 style=\"text-align:center;\"><br>\nTuesdays &amp; Thursdays (except holidays)<br>\nOnce every 90 days</h5>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Tuesdays &amp; Thursdays (except holidays) Once every 90 days",
+								"position": 2,
+								"fullName": "content:text:3:76",
+								"htmlElement": "h5",
+								"primarytype": "content",
+								"id": "content:text:3:76",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:10:82-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:4:87": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t9am-12pm<br>\n\t1pm-4pm<br>\n\t&nbsp;\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "9am-12pm 1pm-4pm &nbsp;",
+								"position": 3,
+								"fullName": "content:textarea:4:87",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:4:87",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:10:82-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:wysiwyg_basic:5:87": {
+								"icon": "outdent",
+								"name": "WYSIWYG",
+								"type": "wysiwyg_basic",
+								"html": "<div style=\"position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;\" class=\"text-white rounded p-6 gap-3 my-5\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5 style=\"text-align:center;\"><br>\nQuestions?</h5>\n\n<p style=\"text-align:center;color:#fff;\">\n\tContact Us for More Information.\n</p>\n\n<p style=\"text-align:center;color:#fff;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://southernusa.salvationarmy.org/jackson-ms/contact-us\" class=\"btn btn-secondary gap-1 mt-2\">Contact Us</a></p>\n                </div>\n            </div>\n        </div>",
+								"description": "Text with HTML references.",
+								"draggable": true,
+								"content": "<div class=\"text-white rounded p-6 gap-3 my-5\" style=\"position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;\">\n            <div style=\"position:absolute;inset:0;z-index:2;\"></div>\n            <div style=\"position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;\">\n                <div style=\"width:100%;padding:40px;color:#ffffff;\">\n                    <h5 style=\"text-align:center;\"><br>\nQuestions?</h5>\n\n<p style=\"text-align:center;color:#fff;\">\n\tContact Us for More Information.\n</p>\n\n<p style=\"text-align:center;color:#fff;\" class=\"cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center\"><a href=\"https://southernusa.salvationarmy.org/jackson-ms/contact-us\" class=\"btn btn-secondary gap-1 mt-2\">Contact Us</a></p>\n                </div>\n            </div>\n        </div>",
+								"model": "6",
+								"position": 4,
+								"fullName": "content:wysiwyg_basic:5:87",
+								"htmlElement": "html",
+								"primarytype": "content",
+								"id": "content:wysiwyg_basic:5:87",
+								"styles": {
+									"position": "relative",
+									"overflow": "hidden",
+									"minHeight": "300px",
+									"background": "#000000 url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png') center center / cover no-repeat",
+									"backgroundImage": "url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png')",
+									"backgroundPosition": "center center",
+									"backgroundRepeat": "no-repeat",
+									"backgroundSize": "cover"
+								},
+								"classes": "text-white rounded p-6 gap-3 my-5",
+								"newLoc": "design:columns:1 Column:10:82-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}

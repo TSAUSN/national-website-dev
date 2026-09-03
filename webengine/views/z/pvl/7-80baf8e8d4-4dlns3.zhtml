@@ -1,0 +1,43 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:68:0:36">{{block('/-/block/hero_full.html?variant=7-c2cce495e6-gb7j61')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:11:41">
+<div class="column" data-zesty-id="design:columns:1 Column:11:41-1:1 Column:0">
+<div style="position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;" class="text-white rounded p-6 gap-3 my-5" data-zesty-id="content:wysiwyg_basic:1:78">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5 style="text-align:center;"><br>
+Serving Hinds, Madison, Rankin,<br>
+Copiah, Scott, and Yazoo Counties<br>
+&nbsp;</h5>
+                </div>
+            </div>
+        </div>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:2:43"></div>
+<p data-zesty-id="content:wysiwyg_basic:3:68">
+	<br>
+	Rent, utility, mortgage, clothing vouchers, fire relief and other emergency assistance - speak to receptionist for questions or call Mondays at 8:30am for appointment and follow prompts to leave message and number for callback <a href="tel:+16019824881" target="">601-982-4881</a> ext. 0 (Appointments are made on a first come basis through the messaging system.)
+</p>
+<div class="my-2" data-zesty-id="design:design:whitespace-sm:4:29"></div>
+<p data-zesty-id="content:textarea:5:1">
+	<strong>Office Hours:</strong> Monday - Friday 8:30am-4:30pm (closed 12-1pm for lunch)<br>
+	&nbsp;
+</p>
+<div style="position:relative;overflow:hidden;min-height:300px;background-image:url('https://s3.amazonaws.com/uss-cache.salvationarmy.org/0848a12b-c18a-464f-949d-80479b708809_Blue+BG.png');background-position:center center;background-repeat:no-repeat;background-size:cover;" class="text-white rounded p-6 gap-3 my-5" data-zesty-id="content:wysiwyg_basic:6:8">
+            <div style="position:absolute;inset:0;z-index:2;"></div>
+            <div style="position:relative;z-index:3;display:flex;align-items:center;justify-content:flex-start;min-height:300px;">
+                <div style="width:100%;padding:40px;color:#ffffff;">
+                    <h5 style="text-align:center;"><br>
+Questions?</h5>
+
+<p style="text-align:center;color:#fff;">
+	Contact Us for More Information.
+</p>
+
+<p style="text-align:center;color:#fff;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://southernusa.salvationarmy.org/jackson-ms/contact-us" class="btn btn-secondary gap-1 mt-2">Contact Us</a></p>
+                </div>
+            </div>
+        </div>
+		</div>
+	</div>
+</div>

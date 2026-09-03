@@ -1,0 +1,20 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:66:0:46": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-fedf909d94-r5b64b')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-fedf909d94-r5b64b')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:66:0:46",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			}
+		}
+	}
+}

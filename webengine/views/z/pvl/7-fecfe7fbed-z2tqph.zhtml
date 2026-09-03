@@ -1,0 +1,183 @@
+<div classname="{styles.pvlRoot}">
+	<div data-zesty-id="content:block:6-bcfbdaa6d3-vjj3qs:27:5:0:90">{{block('/-/block/hero_full.html?variant=7-a0dfffac88-xqs2kz')}}</div>
+	<div style="background-color:;display:block !important;" class="p-6 rounded-5 bg-light mb-18" data-zesty-id="design:columns:1 Column:5:94">
+<div class="column" data-zesty-id="design:columns:1 Column:5:94-1:1 Column:0">
+<div class="py-5" data-zesty-id="design:design:whitespace-xl:1:68"></div>
+<div style="color:#111111;" class="rounded p-6 gap-3" data-zesty-id="content:wysiwyg_basic:2:2"><h5 style="text-align:center;">The Salvation Army Of Georgia's Planned Giving</h5>
+
+<hr>
+<p style="text-align:center;">
+	<em>Thank you for considering supporting the future work of The Salvation Army through the impact of your charitable legacy. We are pleased to offer you opportunities to realize the value of your estate for yourself, your family, and your community by supporting the causes that matter most to you.</em>
+</p>
+
+<p>
+	<em>We would enjoy hearing of the human needs that that you feel most passionate about, and how we can partner together to help alleviate those needs. As we learn more about your interests and your situation, we can help you determine the best ways for you to give that will help meet the needs that are most concerning to you.</em>
+</p>
+
+<p>
+	<em>There are many popular giving options for you to choose from, such as:</em>
+</p>
+
+<ul>
+	<li><em>A gift in your Will (often referred to as a bequest)</em></li>
+	<li><em>Charitable trust</em></li>
+	<li><em>Gift of real estate</em></li>
+	<li><em>Charitable Gift Annuity</em></li>
+	<li><a href="https://bnymelloncharitablegiftfund.org/salvationarmy/" target=""><em>Donor-Advised Fund</em></a></li>
+	<li><em>Cryptocurrency</em></li>
+	<li><em>Endowment</em></li>
+	<li><em>Qualified Charitable Distribution from an IRA</em></li>
+	<li><em>Beneficiary designation in a life insurance policy, a retirement account, or a bank or investment account</em></li>
+</ul>
+
+<div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-3 col-lg-3 col-sm-12 col-xs-12">
+			<div class="content">
+				<p>
+					<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/b09f4579-8250-4e2e-af6b-c6f7c9c3061d_Cryptocurrency.png" style="display:block;margin-left:auto;margin-right:auto;max-width:100%;height:auto;" class="d-block mx-auto img-fluid rounded">
+				</p>
+
+				<p style="text-align:center;">
+					<span style="font-size:20px;"><strong>Donate Cryptocurrency</strong></span>
+				</p>
+
+				<p style="text-align:center;">
+					The Salvation Army Southern Territory now accepts donations via cryptocurrency such as Bitcoin.
+				</p>
+
+				<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://platform.engiven.com/give/258/widget/156" class="btn btn-primary gap-1 mt-2">Donate Crypto</a></p>
+			</div>
+		</div>
+
+		<div class="col col-md-3 col-lg-3 col-sm-12 col-xs-12">
+			<div class="content">
+				<p>
+					<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/cf69c0e7-6c39-41cc-9fe4-3d4adf4e942d_Donor+Advised+Funds.png" style="max-width:100%;height:auto;display:block;margin-left:auto;margin-right:auto;" class="d-block mx-auto img-fluid rounded">
+				</p>
+
+				<p style="text-align:center;">
+					<strong><span style="font-size:20px;">Donor Advised Funds</span></strong>
+				</p>
+
+				<p style="text-align:center;">
+					Create a gift through your Donor Advised Fund.<br>
+					You can also schedule a recurring gift through your daf.
+				</p>
+
+				<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://bnymelloncharitablegiftfund.org/salvationarmy/" class="btn btn-secondary gap-1 mt-2">Give Today</a></p>
+			</div>
+		</div>
+
+		<div class="col col-md-3 col-lg-3 col-sm-12 col-xs-12">
+			<div class="content">
+				<p>
+					<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/9448f514-efc1-42bd-a8d9-06e126e7b8dc_bonds%2C+funds%2C+stocks.png" style="max-width:100%;height:auto;display:block;margin-left:auto;margin-right:auto;" class="d-block mx-auto img-fluid rounded">
+				</p>
+
+				<p style="text-align:center;">
+					<span style="font-size:20px;"><strong>Bonds, Funds, Stocks and Qualified Charitable Donation</strong></span>
+				</p>
+
+				<p style="text-align:center;">
+					You can make a gift of your bonds, funds, stocks and other securities to help those who need it most.
+				</p>
+
+				<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="https://southernusa.salvationarmy.org/uss/donate-stock" class="btn btn-primary gap-1 mt-2">Give Today</a></p>
+			</div>
+		</div>
+
+		<div class="col col-md-3 col-lg-3 col-sm-12 col-xs-12">
+			<div class="content">
+				<p>
+					<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/df311b85-5fd7-49c9-93fa-43fe0fb50a95_Planning+Giving%2C+Wills+and+Gift+Annuities.png" style="max-width:100%;height:auto;display:block;margin-left:auto;margin-right:auto;" class="d-block mx-auto img-fluid rounded">
+				</p>
+
+				<p style="text-align:center;">
+					<strong><span style="font-size:20px;">Planned Giving, Wills and Gift<br>
+					Annuities</span></strong>
+				</p>
+
+				<p style="text-align:center;">
+					You can provide hope for the future with the gift of a planned donation.
+				</p>
+
+				<p style="text-align:center;" class="cta-button-group d-flex flex-wrap gap-2 my-3 justify-content-center"><a href="http:// https://www.tsalegacyoflove.com/" class="btn btn-secondary gap-1 mt-2">Leave a Legacy</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<p>
+	<em>A Charitable Gift Annuity, backed by The Salvation Army, can be a compelling means of giving that benefits you by providing lifetime income to you. If you would like to receive an illustration of how a gift annuity could work for you, please contact us below. If you would like to gain a greater understanding of how Planned Giving can help you achieve your charitable intentions, please <a href="https://www.tsalegacyoflove.org/" target="">click here</a> to view our Planned Giving site which has more information about the giving options listed above.</em>
+</p>
+
+<p>
+	<em>Thank you again for supporting The Salvation Army's mission to meet human needs in His name, without discrimination. Please contact us if you would like to explore the charitable planning options available to you. We are glad to have a conversation with you and provide helpful planning resources.</em>
+</p>
+
+<p>
+	<em>Sincerely,</em>
+</p>
+
+<p>
+	Doug Cozart<br>
+	<span style="color:#999999;">Divisional Planned Giving Director</span>
+</p>
+
+<div class="btgrid">
+	<div class="row row-1">
+		<div class="col col-md-4 col-lg-4 col-sm-12 col-xs-12">
+			<div class="content">
+				<p>
+					<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/e95fd878-0de7-43b0-b86e-933f5a3a7ae3_Doug-Cozart-webNEW-240x300.jpeg" style="display:block;margin-left:auto;margin-right:auto;" class="d-block mx-auto img-fluid rounded">
+				</p>
+
+				<p style="text-align:center;">
+					Doug Cozart<br>
+					Planned Giving Director<br>
+					Metro Atlanta, Northwest Georgia, South &amp; Coastal Georgia<br>
+					<a href="mailto:doug.cozart@uss.salvationarmy.org" target="">doug.cozart@uss.salvationarmy.org</a> | <a href="tel:6784184605">678-418-4605</a>
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-lg-4 col-sm-12 col-xs-12">
+			<div class="content">
+				<p>
+					 
+				</p>
+			</div>
+		</div>
+
+		<div class="col col-md-4 col-lg-4 col-sm-12 col-xs-12">
+			<div class="content">
+				<p>
+					<img src="https://s3.amazonaws.com/uss-cache.salvationarmy.org/e26ee1af-7112-480e-b2af-56601b5c5327_mark.jpeg" style="display:block;margin-left:auto;margin-right:auto;" class="d-block mx-auto img-fluid rounded">
+				</p>
+
+				<p style="text-align:center;">
+					Mark Walker<br>
+					Associate Planned Giving Director<br>
+					Central &amp; Northeast Georgia<br>
+					<a href="mailto:mark.walker@uss.salvationarmy.org" target="">mark.walker@uss.salvationarmy.org</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<p>
+	   
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	 
+</p></div>
+		</div>
+	</div>
+</div>

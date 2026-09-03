@@ -1,0 +1,304 @@
+{
+	"layout:root:column:0": {
+		"name": "layout:root:column:0",
+		"html": "<div classname=\"{styles.pvlRoot}\">*</div>",
+		"children": {
+			"content:block:6-bcfbdaa6d3-vjj3qs:27:83:0:19": {
+				"html": "{{block('/-/block/hero_full.html?variant=7-a0c3f0b7c8-wg4vhs')}}",
+				"content": "{{block('/-/block/hero_full.html?variant=7-a0c3f0b7c8-wg4vhs')}}",
+				"model": "6-bcfbdaa6d3-vjj3qs",
+				"name": "27",
+				"position": 0,
+				"fullName": "content:block:6-bcfbdaa6d3-vjj3qs:27:83:0:19",
+				"type": "block",
+				"primarytype": "content",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "layout:root:column:0"
+			},
+			"design:columns:1 Column:17:8": {
+				"uid": "NaN",
+				"name": "1 Column",
+				"type": "columns",
+				"classes": "p-6 rounded-5 bg-light mb-18",
+				"html": "<div style=\"background-color:;display:block !important;\" class=\"p-6 rounded-5 bg-light mb-18\">*</div>",
+				"preview": "<div style=\"display:flex;flex-direction:row;min-height:20px;\"><div style=\"flex:1\" className={styles.pvlColumn}></div></div>",
+				"droppable": false,
+				"numberOfColumns": 1,
+				"widthPerColumns": "1",
+				"columns": [
+					{
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true
+					}
+				],
+				"groupCategory": "isNew",
+				"group": "",
+				"position": 1,
+				"fullName": "design:columns:1 Column:17:8",
+				"primarytype": "design",
+				"newLoc": "layout:root:column:0",
+				"oldLoc": "bank",
+				"children": {
+					"design:columns:1 Column:17:8-1:1 Column:0": {
+						"width": 1,
+						"html": "<div class=\"column\">*</div>",
+						"classes": "column",
+						"droppable": true,
+						"children": {
+							"content:text:1:91": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h4 style=\"text-align:center;\">Community Center Hours</h4>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Community Center Hours",
+								"position": 0,
+								"fullName": "content:text:1:91",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:1:91",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:2:96": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\t7 AM. - 6 PM. | Monday - Friday \n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "7 AM. - 6 PM. | Monday - Friday",
+								"position": 1,
+								"fullName": "content:textarea:2:96",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:2:96",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-md:3:86": {
+								"uid": "352",
+								"name": "Whitespace - Medium",
+								"type": "design",
+								"classes": "my-4",
+								"html": "<div class=\"my-4\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 2,
+								"fullName": "design:design:whitespace-md:3:86",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:4:5": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h4 style=\"text-align:center;\">After School Program Hours:</h4>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "After School Program Hours:",
+								"position": 3,
+								"fullName": "content:text:4:5",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:4:5",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:5:2": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\"><strong>When School Is in Session:</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "When School Is in Session:",
+								"position": 4,
+								"fullName": "content:textarea:5:2",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:5:2",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:6:59": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">3:00 PM. - 6:00 PM. | Monday-Friday</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "3:00 PM. - 6:00 PM. | Monday-Friday",
+								"position": 5,
+								"fullName": "content:textarea:6:59",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:6:59",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:7:66": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\"><strong>When School Is Not in Session:</strong></p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "When School Is Not in Session:",
+								"position": 6,
+								"fullName": "content:textarea:7:66",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:7:66",
+								"styles": {
+									"textAlign": "center",
+									"fontWeight": "700"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:8:65": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">7:00 AM. - 6:00 PM. | Monday-Friday</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "7:00 AM. - 6:00 PM. | Monday-Friday",
+								"position": 7,
+								"fullName": "content:textarea:8:65",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:8:65",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"design:design:whitespace-md:9:62": {
+								"uid": "352",
+								"name": "Whitespace - Medium",
+								"type": "design",
+								"classes": "my-4",
+								"html": "<div class=\"my-4\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:20px; width:100%;\"></div>",
+								"droppable": false,
+								"position": 8,
+								"fullName": "design:design:whitespace-md:9:62",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:images:9:59": {
+								"icon": "images",
+								"name": "Image",
+								"type": "images",
+								"description": "Reference to image ZUIDs in Zesty.io",
+								"html": "<img src=\"https://s3.amazonaws.com/uss-cache.salvationarmy.org/18cab063-7017-4861-a412-1fc5e4834a00_IMG_8794.JPG\" alt=\"placeholder\" style=\"max-width:100%;height:auto;\" loading=\"lazy\" class=\"img-fluid d-block my-4 rounded mx-auto\">",
+								"draggable": true,
+								"content": "https://s3.amazonaws.com/uss-cache.salvationarmy.org/18cab063-7017-4861-a412-1fc5e4834a00_IMG_8794.JPG",
+								"position": 9,
+								"fullName": "content:images:9:59",
+								"htmlElement": "img",
+								"primarytype": "content",
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"design:design:whitespace-sm:11:80": {
+								"uid": "351",
+								"name": "Whitespace - Small",
+								"type": "design",
+								"classes": "my-2",
+								"html": "<div class=\"my-2\"></div>",
+								"preview": "<div style=\"border-style:dashed; height:10px; width:100%;\"></div>",
+								"droppable": true,
+								"position": 10,
+								"fullName": "design:design:whitespace-sm:11:80",
+								"primarytype": "design",
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank"
+							},
+							"content:text:12:91": {
+								"icon": "text-height",
+								"name": "Heading",
+								"type": "text",
+								"html": "<h4 style=\"text-align:center;\">Our Programs</h4>",
+								"description": "Plain Text",
+								"draggable": true,
+								"content": "Our Programs",
+								"position": 11,
+								"fullName": "content:text:12:91",
+								"htmlElement": "h4",
+								"primarytype": "content",
+								"id": "content:text:12:91",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							},
+							"content:textarea:13:16": {
+								"icon": "align-justify",
+								"name": "Paragraph",
+								"type": "textarea",
+								"html": "<p style=\"text-align:center;\">\n\tThe Salvation Army Red Shield Youth Center programs are an invaluable resource for children and teenagers, offering a wide range of activities and opportunities for growth and development. These programs are designed to create a safe and supportive environment where young individuals can thrive and reach their full potential. Through a combination of educational, recreational, and character-building activities, The Salvation Army Red Shield Youth Center instills important life skills, fosters academic success, and promotes healthy lifestyles. From mentoring programs and homework assistance to sports, arts, and leadership development initiatives, these programs empower young children to become responsible, confident, and compassionate individuals. By providing a nurturing community and comprehensive programming, The Salvation Army Red Shield Youth Center inspires young minds, promotes positive relationships, and prepares them for a better future.\n</p>",
+								"description": "Mixed Plain and Rich Text",
+								"draggable": true,
+								"content": "The Salvation Army Red Shield Youth Center programs are an invaluable resource for children and teenagers, offering a wide range of activities and opportunities for growth and development. These programs are designed to create a safe and supportive environment where young individuals can thrive and reach their full potential. Through a combination of educational, recreational, and character-building activities, The Salvation Army Red Shield Youth Center instills important life skills, fosters academic success, and promotes healthy lifestyles. From mentoring programs and homework assistance to sports, arts, and leadership development initiatives, these programs empower young children to become responsible, confident, and compassionate individuals. By providing a nurturing community and comprehensive programming, The Salvation Army Red Shield Youth Center inspires young minds, promotes positive relationships, and prepares them for a better future.",
+								"position": 12,
+								"fullName": "content:textarea:13:16",
+								"htmlElement": "p",
+								"primarytype": "content",
+								"id": "content:textarea:13:16",
+								"styles": {
+									"textAlign": "center"
+								},
+								"newLoc": "design:columns:1 Column:17:8-1:1 Column:0",
+								"oldLoc": "bank",
+								"contentOverride": false
+							}
+						},
+						"preserveClassName": true,
+						"skipClassSync": true,
+						"position": 0
+					}
+				},
+				"styles": {
+					"backgroundColor": "",
+					"display": "block !important"
+				},
+				"preserveClassName": true,
+				"skipClassSync": true
+			}
+		}
+	}
+}
