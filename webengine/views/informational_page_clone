@@ -1,2 +1,18 @@
-(** default code https://zesty.org/services/web-engine/introduction-to-parsley/parsley-autolayout **)
-{{this.autolayout()}}
+{{if {this.template_layout} == 1 }}
+    {{ this.autolayout(auto) }}
+
+{{else}}
+
+    {{if {!this.external_link} == '' }}
+        {{ include modules/generic }}
+    {{else}}
+        {{response.redirect301({this.external_link})}}"
+    {{/if}}
+{{/if}}
+
+
+<script>
+
+console.log({{ isPublished({this.zuid}) }})
+
+</script>
