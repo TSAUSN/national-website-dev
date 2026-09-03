@@ -218,6 +218,87 @@
     classyCampaignURL: `classy_campaign_url`
   };
 
+  function normalizeInformationalRelationships(value) {
+    const relationshipZUIDs = [];
+
+    function addRelationship(candidate) {
+      if (candidate === null || typeof candidate === `undefined`) {
+        return;
+      }
+
+      if (Array.isArray(candidate)) {
+        candidate.forEach(addRelationship);
+        return;
+      }
+
+      if (typeof candidate === `object`) {
+        if (candidate.meta?.zuid) {
+          addRelationship(candidate.meta.zuid);
+        } else if (candidate.zuid || candidate.ZUID) {
+          addRelationship(candidate.zuid || candidate.ZUID);
+        } else if (candidate.data) {
+          addRelationship(candidate.data);
+        }
+        return;
+      }
+
+      const normalizedValue = String(candidate).trim();
+      if (
+        !normalizedValue ||
+        normalizedValue.toLowerCase() === `null` ||
+        normalizedValue.toLowerCase() === `undefined`
+      ) {
+        return;
+      }
+
+      const zuids = normalizedValue.match(/\b7-[a-z0-9]+-[a-z0-9]+\b/gi) || [];
+      relationshipZUIDs.push(...zuids);
+    }
+
+    addRelationship(value);
+    return [...new Set(relationshipZUIDs)];
+  }
+
+  function resolveInformationalPageContext(relationships) {
+    const normalizedRelationships = {
+      locations: normalizeInformationalRelationships(relationships?.locations),
+      divisions: normalizeInformationalRelationships(relationships?.divisions),
+      territories: normalizeInformationalRelationships(relationships?.territories)
+    };
+
+    if (normalizedRelationships.locations.length === 1) {
+      return {
+        type: `location`,
+        zuid: normalizedRelationships.locations[0]
+      };
+    }
+
+    if (
+      normalizedRelationships.locations.length > 1 &&
+      normalizedRelationships.divisions.length === 1
+    ) {
+      return {
+        type: `division`,
+        zuid: normalizedRelationships.divisions[0]
+      };
+    }
+
+    if (
+      normalizedRelationships.divisions.length > 1 &&
+      normalizedRelationships.territories.length === 1
+    ) {
+      return {
+        type: `territory`,
+        zuid: normalizedRelationships.territories[0]
+      };
+    }
+
+    return {
+      type: `national`,
+      zuid: national
+    };
+  }
+
   async function setDefaultCookies() {
     if (!cookieManager.get(cookieKeys.locationZUID)) {
       cookieManager.set(cookieKeys.locationModel, currentModel);
@@ -1234,6 +1315,29 @@
 
         break;
 
+      case `6-ced7fce1d9-76hr5q`: // Informational Page Clone (one-to-many)
+        const informationalCloneContext = resolveInformationalPageContext({
+          locations: `{{!this.location}}`,
+          divisions: `{{!this.division}}`,
+          territories: `{{!this.territory}}`
+        });
+
+        if (informationalCloneContext.type === `national`) {
+          await setInformationalNationalContext();
+          break;
+        }
+
+        const informationalCloneContextWasSet =
+          await setInformationalPageContextCookies(
+            informationalCloneContext.type,
+            informationalCloneContext.zuid
+          );
+
+        if (!informationalCloneContextWasSet) {
+          await setInformationalNationalContext();
+        }
+        break;
+
       case `6-a2dbc1a6e2-x4pzmx`: // Events
         await handleEventCookies();
         break;
@@ -1417,6 +1521,290 @@
       return body;
     } catch (err) {
       console.error(`error: `, err);
+    }
+  }
+
+  function hasInformationalValue(value) {
+    if (value === null || typeof value === `undefined`) {
+      return false;
+    }
+
+    const normalizedValue = String(value).trim().toLowerCase();
+    return Boolean(
+      normalizedValue &&
+      normalizedValue !== `null` &&
+      normalizedValue !== `undefined`
+    );
+  }
+
+  function getInformationalRelationshipItem(value) {
+    if (!value) {
+      return null;
+    }
+
+    if (Array.isArray(value)) {
+      return value.find((item) => item && typeof item === `object`) || null;
+    }
+
+    if (Array.isArray(value.data)) {
+      return value.data.find((item) => item && typeof item === `object`) || null;
+    }
+
+    if (value.data && typeof value.data === `object`) {
+      return value.data;
+    }
+
+    return typeof value === `object` ? value : null;
+  }
+
+  function getInformationalValue(value, preferredKeys = []) {
+    const relatedItem = getInformationalRelationshipItem(value);
+
+    if (relatedItem) {
+      for (const key of preferredKeys) {
+        if (hasInformationalValue(relatedItem[key])) {
+          return relatedItem[key];
+        }
+      }
+      return ``;
+    }
+
+    if (!hasInformationalValue(value)) {
+      return ``;
+    }
+
+    const normalizedValue = String(value).trim();
+    return /^7-[a-z0-9]+-[a-z0-9]+$/i.test(normalizedValue)
+      ? ``
+      : normalizedValue;
+  }
+
+  function getInformationalZUID(content) {
+    return String(content?.meta?.zuid || content?.zuid || ``).trim();
+  }
+
+  function hasValidInformationalZUID(zuid) {
+    return /^7-[a-z0-9]+-[a-z0-9]+$/i.test(String(zuid || ``).trim());
+  }
+
+  function setInformationalCookieValue(key, value) {
+    if (hasInformationalValue(value)) {
+      cookieManager.set(key, value);
+    } else {
+      cookieManager.delete(key);
+    }
+  }
+
+  function setInformationalContactUsCookies(contexts) {
+    const validContexts = contexts.filter(Boolean);
+    const image = validContexts
+      .map((context) => getInformationalValue(context.contact_us_image, [`url`]))
+      .find(hasInformationalValue);
+    const title = validContexts
+      .map((context) => getInformationalValue(context.contact_us_title))
+      .find(hasInformationalValue);
+    const header = validContexts
+      .map((context) => getInformationalValue(context.contact_us_cta_header))
+      .find(hasInformationalValue);
+
+    cookieManager.set(
+      cookieKeys.contactUsImage,
+      image || `{{homepage.first().contact_us_image.getImage()}}`
+    );
+    cookieManager.set(
+      cookieKeys.contactUsTitle,
+      title || `{{homepage.first().contact_us_title}}`
+    );
+    cookieManager.set(
+      cookieKeys.contactUsHeader,
+      header || `{{homepage.first().contact_us_cta_header}}`
+    );
+  }
+
+  function setInformationalDonationCookies(contexts) {
+    const donationContext = contexts
+      .filter(Boolean)
+      .find((context) => hasInformationalValue(context.classy_url));
+
+    if (!donationContext) {
+      return;
+    }
+
+    cookieManager.set(cookieKeys.locationDonateForm, donationContext.classy_url);
+    setInformationalCookieValue(cookieKeys.classyID, donationContext.classy_campaign_id);
+    setInformationalCookieValue(cookieKeys.classyOrganizationID, donationContext.classy_org_id);
+    setInformationalCookieValue(cookieKeys.classyCampaignURL, donationContext.classy_url);
+  }
+
+  async function setInformationalNationalContext() {
+    cookieManager.set(cookieKeys.locationModel, `6-a0898ca2c1-krnm0f`);
+    cookieManager.set(cookieKeys.locationZUID, national);
+    cookieManager.set(cookieKeys.locationHomeURL, `/`);
+    cookieManager.set(cookieKeys.locationName, `NATIONAL`);
+    cookieManager.set(cookieKeys.volunteerUrl, `{{$nationalVolunteer}}`);
+    cookieManager.set(cookieKeys.employmentUrl, `{{$nationalEmployment}}`);
+    cookieManager.set(cookieKeys.waysToGiveUrl, `{{$nationalWaysToGive}}`);
+    cookieManager.set(cookieKeys.plannedGivingUrl, `{{$nationalPlannedGiving}}`);
+    cookieManager.set(cookieKeys.mutualFundsUrl, `{{$nationalMutualFunds}}`);
+    cookieManager.set(cookieKeys.locationDonateForm, `{{homepage.first().classy_url}}`);
+    cookieManager.set(cookieKeys.tealiumprofile, tealiumProfile.national);
+    cookieManager.set(cookieKeys.organizationLevel, levels.national);
+    cookieManager.set(cookieKeys.contactUsImage, `{{homepage.first().contact_us_image.getImage()}}`);
+    cookieManager.set(cookieKeys.contactUsTitle, `{{homepage.first().contact_us_title}}`);
+    cookieManager.set(cookieKeys.contactUsHeader, `{{homepage.first().contact_us_cta_header}}`);
+    cookieManager.set(cookieKeys.classyID, `{{homepage.first().classy_campaign_id}}`);
+    cookieManager.set(cookieKeys.classyOrganizationID, `{{homepage.first().classy_org_id}}`);
+    cookieManager.set(cookieKeys.classyCampaignURL, `{{homepage.first().classy_url}}`);
+
+    cookieManager.delete(cookieKeys.territoryZUID);
+    cookieManager.delete(cookieKeys.divisionZUID);
+    cookieManager.delete(cookieKeys.organizationCorp);
+    cookieManager.delete(cookieKeys.organizationDivision);
+    cookieManager.delete(cookieKeys.organizationTerritory);
+    cookieManager.delete(cookieKeys.locationPropertyType);
+    cookieManager.delete(cookieKeys.locationAddress);
+    cookieManager.delete(cookieKeys.locationCity);
+    cookieManager.delete(cookieKeys.locationState);
+    cookieManager.delete(cookieKeys.locationZipcode);
+
+    await setCodeCookie(national, `6-a0898ca2c1-krnm0f`);
+  }
+
+  async function setInformationalPageContextCookies(contextType, zuid) {
+    const modelZUIDs = {
+      location: `6-b4c9aba69c-h2nqvm`,
+      division: `6-acb19a94bd-4q8ftj`,
+      territory: `6-deab97cfd9-wb5km4`
+    };
+    const expectedModelNames = {
+      location: `locations`,
+      division: `divisions`,
+      territory: `territories`
+    };
+    const modelZUID = modelZUIDs[contextType];
+
+    if (!modelZUID || !hasValidInformationalZUID(zuid)) {
+      return false;
+    }
+
+    try {
+      const response = await fetchInformation(`model-info`, zuid);
+      const content = Array.isArray(response?.data)
+        ? response.data[0]
+        : response;
+      const modelName = content?.meta?.model_name || content?.meta?.model?.name;
+      const contentZUID = getInformationalZUID(content);
+
+      if (
+        !content ||
+        !hasValidInformationalZUID(contentZUID) ||
+        (modelName && modelName !== expectedModelNames[contextType])
+      ) {
+        return false;
+      }
+
+      const division = getInformationalRelationshipItem(
+        content.division || content.divisions
+      );
+      const directTerritory = getInformationalRelationshipItem(
+        content.territory || content.territories
+      );
+      const territory = contextType === `territory`
+        ? content
+        : directTerritory || getInformationalRelationshipItem(division?.territory);
+      const divisionZUID = contextType === `division`
+        ? contentZUID
+        : getInformationalZUID(division);
+      const territoryZUID = contextType === `territory`
+        ? contentZUID
+        : getInformationalZUID(territory);
+      const locationName =
+        getInformationalValue(content.site_name) ||
+        getInformationalValue(content.name);
+      const homeURL = content?.meta?.web?.uri || content?.meta?.web?.url || `/`;
+
+      if (contextType === `location`) {
+        const redirectURL = getInformationalValue(content.redirect_url);
+        const shouldRedirect = `{{!this.should_redirect}}`;
+        const instanceEnv = `{{instance.env}}`;
+
+        if (
+          redirectURL &&
+          (instanceEnv !== `dev` || shouldRedirect === `1`)
+        ) {
+          window.location.replace(redirectURL);
+        }
+      }
+
+      cookieManager.set(cookieKeys.locationModel, modelZUID);
+      cookieManager.set(cookieKeys.locationZUID, contentZUID);
+      cookieManager.set(cookieKeys.locationHomeURL, homeURL);
+      cookieManager.set(cookieKeys.locationName, locationName);
+      setInformationalCookieValue(cookieKeys.locationAddress, getInformationalValue(content.address));
+      setInformationalCookieValue(
+        cookieKeys.locationCity,
+        getInformationalValue(content.city, [`title`, `name`])
+      );
+      setInformationalCookieValue(
+        cookieKeys.locationState,
+        getInformationalValue(content.state, [`name`, `title`])
+      );
+      setInformationalCookieValue(cookieKeys.locationZipcode, getInformationalValue(content.zipcode));
+
+      if (hasValidInformationalZUID(territoryZUID)) {
+        setLocationCookiesByTerritory(territoryZUID);
+      } else {
+        cookieManager.delete(cookieKeys.territoryZUID);
+      }
+
+      if (contextType === `location`) {
+        const propertyType = getInformationalRelationshipItem(content.property_type);
+        const pageLayout =
+          getInformationalValue(content.page_layout) ||
+          getInformationalValue(propertyType?.page_layout);
+
+        setInformationalCookieValue(cookieKeys.locationPropertyType, pageLayout);
+        setInformationalCookieValue(cookieKeys.divisionZUID, divisionZUID);
+        cookieManager.set(cookieKeys.organizationCorp, locationName);
+        setInformationalCookieValue(
+          cookieKeys.organizationDivision,
+          getInformationalValue(division?.name)
+        );
+        setInformationalCookieValue(
+          cookieKeys.organizationTerritory,
+          getInformationalValue(territory?.name)
+        );
+        cookieManager.set(cookieKeys.organizationLevel, levels.corp);
+        setInformationalContactUsCookies([content, division, territory]);
+        setInformationalDonationCookies([content, division, territory]);
+      } else if (contextType === `division`) {
+        cookieManager.set(cookieKeys.divisionZUID, contentZUID);
+        cookieManager.set(cookieKeys.organizationDivision, locationName);
+        setInformationalCookieValue(
+          cookieKeys.organizationTerritory,
+          getInformationalValue(territory?.name)
+        );
+        cookieManager.set(cookieKeys.organizationLevel, levels.division);
+        cookieManager.delete(cookieKeys.organizationCorp);
+        cookieManager.delete(cookieKeys.locationPropertyType);
+        setInformationalContactUsCookies([content, territory]);
+        setInformationalDonationCookies([content, territory]);
+      } else {
+        cookieManager.set(cookieKeys.organizationTerritory, locationName);
+        cookieManager.set(cookieKeys.organizationLevel, levels.territory);
+        cookieManager.delete(cookieKeys.divisionZUID);
+        cookieManager.delete(cookieKeys.organizationCorp);
+        cookieManager.delete(cookieKeys.organizationDivision);
+        cookieManager.delete(cookieKeys.locationPropertyType);
+        setInformationalContactUsCookies([content]);
+        setInformationalDonationCookies([content]);
+      }
+
+      await setCodeCookie(contentZUID, modelZUID);
+      return true;
+    } catch (err) {
+      console.error(`Unable to set Informational Page Clone context:`, err);
+      return false;
     }
   }
 

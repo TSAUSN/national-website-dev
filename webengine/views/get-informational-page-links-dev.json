@@ -1,0 +1,72 @@
+{{$zuid = {request.queryParam(zuid)} }}
+{{$navParent = {request.queryParam(navParent)} }}
+
+{{$zuidFoundIn = 0}}
+{{if {$zuidFoundIn} == 0 }}
+    {{each locations as loc WHERE z.zuid = '{$zuid}' LIMIT 1 }}
+        {{$zuidFoundIn = 1 }}
+    {{/each}}
+{{/if}}
+
+{{if {$zuidFoundIn} == 0 }}
+    {{each divisions as div WHERE z.zuid = '{$zuid}' LIMIT 1 }}
+        {{$zuidFoundIn = 2 }}
+    {{/each}}
+{{/if}}
+
+{{if {$zuidFoundIn} == 0 }}
+    {{each territories as ter WHERE z.zuid = '{$zuid}' LIMIT 1 }}
+        {{$zuidFoundIn = 3 }}
+    {{/each}}
+{{/if}}
+
+{{if !{$navParent} }}
+    {{$navParent = more}}
+{{/if}}
+
+[
+    (** Location **)
+    {{if {$zuidFoundIn} == 1 }}
+        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.location) SORT by z.sort }}
+            {
+                "title": "{{ip.title.escapeForJs()}}",
+                "url": "{{truepath({ip.zuid})}}",
+                "external_link": "{{ip.external_link}}",
+                "page_type": "{{ip.page_type}}"
+            }{{ip._arraycomma}}
+        {{/each}}
+
+    (** Division **)
+    {{else-if {$zuidFoundIn} == 2 }}
+        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.division) SORT by z.sort }}
+            {
+                "title": "{{ip.title.escapeForJs()}}",
+                "url": "{{truepath({ip.zuid})}}",
+                "external_link": "{{ip.external_link}}",
+                "page_type": "{{ip.page_type}}"
+            }{{ip._arraycomma}}
+        {{/each}}
+
+    (** Territory **)
+    {{else-if {$zuidFoundIn} == 3 }}
+        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.territory) SORT by z.sort }}
+            {
+                "title": "{{ip.title.escapeForJs()}}",
+                "url": "{{truepath({ip.zuid})}}",
+                "external_link": "{{ip.external_link}}",
+                "page_type": "{{ip.page_type}}"
+            }{{ip._arraycomma}}
+        {{/each}}
+
+    (** National **)
+    {{else}}
+        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND ip.national = 1 SORT by z.sort }}
+            {
+                "title": "{{ip.title.escapeForJs()}}",
+                "url": "{{truepath({ip.zuid})}}",
+                "external_link": "{{ip.external_link}}",
+                "page_type": "{{ip.page_type}}"
+            }{{ip._arraycomma}}
+        {{/each}}
+    {{/if}}
+]

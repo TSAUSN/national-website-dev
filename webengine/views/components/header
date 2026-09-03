@@ -899,10 +899,15 @@
 </script>
 
 <script>
+  const informationalLinksEndpoint =
+    `{{ $model_zuid }}` === `6-ced7fce1d9-76hr5q`
+      ? `get-informational-page-links-dev`
+      : `get-informational-page-links`;
+
   async function fetchInformationalLinks(zuid, navParent) {
     try {
       const res = await fetch(
-        `https://{{instance.domain}}/get-informational-page-links.json?zuid=${zuid}&navParent=${navParent}`
+        `https://{{instance.domain}}/${informationalLinksEndpoint}.json?zuid=${zuid}&navParent=${navParent}`
       );
       const body = await res.json();
 
@@ -1321,6 +1326,13 @@ function setDynamicColumnCount() {
 }
 
   async function init() {
+    if (
+      `{{ $model_zuid }}` === `6-ced7fce1d9-76hr5q` &&
+      window.cookiesReady
+    ) {
+      await window.cookiesReady;
+    }
+
     sortServices();
     await setupInformationalPages();
     setUpCookieValues();
