@@ -9213,18 +9213,6 @@
                 "updatedAt": "2026-09-02T12:41:44Z",
                 "createdAt": "2026-09-02T12:41:44Z",
                 "lastSyncedAt": "2026-09-02T12:41:44Z"
-            },
-            "/get-informational-page-dev.json": {
-                "zuid": "11-9afec0dfee-1vrvlr",
-                "type": "ajax-json",
-                "updatedAt": "2026-09-03T17:59:04Z",
-                "createdAt": "2026-09-03T17:59:04Z"
-            },
-            "/get-informational-page-links-dev.json": {
-                "zuid": "11-ce84b4fcc8-c0qsw6",
-                "type": "ajax-json",
-                "updatedAt": "2026-09-03T18:00:59Z",
-                "createdAt": "2026-09-03T18:00:59Z"
             }
         },
         "styles": {
