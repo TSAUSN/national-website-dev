@@ -1,5 +1,5 @@
 [
-    {{each informational_page_clone as ipage }}
+    {{each informational_pages as ipage }}
     {
         "national":"{{service.national}}",
         "territory": "{{territories.filter(z.zuid = '{ipage.territory}').name.escapeForJs()}}",

@@ -1006,11 +1006,11 @@
         }
         break;
 
-      case `6-ced7fce1d9-76hr5q`: // Informational Page Clone
+      case `6-c2b7f2a9ad-k4frxv`: // Informational Page
         const informationalContext = resolveInformationalPageContext({
-          locations: `{{!this.location}}`,
-          divisions: `{{!this.division}}`,
-          territories: `{{!this.territory}}`
+          locations: `{{!this.locations}}`,
+          divisions: `{{!this.divisions}}`,
+          territories: `{{!this.territories}}`
         });
 
         if (informationalContext.type === `national`) {

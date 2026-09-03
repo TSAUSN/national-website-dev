@@ -1,26 +1,26 @@
 {{$zuid = {request.queryParam(zuid)} }}
 {{$pageFound = 0}}
 
-{{each informational_page_clone as ip WHERE z.zuid = '{$zuid}' LIMIT 1}}
+{{each informational_pages as ip WHERE z.zuid = '{$zuid}' LIMIT 1}}
     {{$pageFound = 1}}
     {{$locationCount = 0}}
     {{$divisionCount = 0}}
     {{$territoryCount = 0}}
 
-    {{if {ip.location} }}
-        {{each {ip.location} as relatedLocation}}
+    {{if {ip.locations} }}
+        {{each {ip.locations} as relatedLocation}}
             {{$locationCount = {relatedLocation._length} }}
         {{/each}}
     {{/if}}
 
-    {{if {ip.division} }}
-        {{each {ip.division} as relatedDivision}}
+    {{if {ip.divisions} }}
+        {{each {ip.divisions} as relatedDivision}}
             {{$divisionCount = {relatedDivision._length} }}
         {{/each}}
     {{/if}}
 
-    {{if {ip.territory} }}
-        {{each {ip.territory} as relatedTerritory}}
+    {{if {ip.territories} }}
+        {{each {ip.territories} as relatedTerritory}}
             {{$territoryCount = {relatedTerritory._length} }}
         {{/each}}
     {{/if}}
@@ -28,7 +28,7 @@
     {
         "page_zuid": "{{ip.zuid}}",
         {{if {$locationCount} == 1}}
-            {{each {ip.location} as location}}
+            {{each {ip.locations} as location}}
                 {{$cityZUID = {location.city} }}
                 {{$stateZUID = {location.state} }}
                 "content": {{location.toJSON()}},
@@ -38,7 +38,7 @@
                 "zipcode": "{{location.zipcode.escapeForJs()}}"
             {{/each}}
         {{else-if {$locationCount} > 1 && {$divisionCount} == 1}}
-            {{each {ip.division} as division}}
+            {{each {ip.divisions} as division}}
                 {{$cityZUID = {division.city} }}
                 {{$stateZUID = {division.state} }}
                 "content": {{division.toJSON()}},
@@ -48,7 +48,7 @@
                 "zipcode": "{{division.zipcode.escapeForJs()}}"
             {{/each}}
         {{else-if {$divisionCount} > 1 && {$territoryCount} == 1}}
-            {{each {ip.territory} as territory}}
+            {{each {ip.territories} as territory}}
                 {{$cityZUID = {territory.city} }}
                 {{$stateZUID = {territory.state} }}
                 "content": {{territory.toJSON()}},

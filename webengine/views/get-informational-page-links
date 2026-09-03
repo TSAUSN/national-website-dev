@@ -27,7 +27,7 @@
 [
     (** Location **)
     {{if {$zuidFoundIn} == 1 }}
-        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.location) SORT by z.sort }}
+        {{each informational_pages AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.locations) SORT by z.sort }}
             {
                 "title": "{{ip.title.escapeForJs()}}",
                 "url": "{{truepath({ip.zuid})}}",
@@ -38,7 +38,7 @@
 
     (** Division **)
     {{else-if {$zuidFoundIn} == 2 }}
-        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.division) SORT by z.sort }}
+        {{each informational_pages AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.divisions) SORT by z.sort }}
             {
                 "title": "{{ip.title.escapeForJs()}}",
                 "url": "{{truepath({ip.zuid})}}",
@@ -49,7 +49,7 @@
 
     (** Territory **)
     {{else-if {$zuidFoundIn} == 3 }}
-        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.territory) SORT by z.sort }}
+        {{each informational_pages AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND find_in_set('{$zuid}', ip.territories) SORT by z.sort }}
             {
                 "title": "{{ip.title.escapeForJs()}}",
                 "url": "{{truepath({ip.zuid})}}",
@@ -60,7 +60,7 @@
 
     (** National **)
     {{else}}
-        {{each informational_page_clone AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND ip.national = 1 SORT by z.sort }}
+        {{each informational_pages AS ip WHERE ip.display_on_header_navigation = 1 AND ip.navigation_parent = '{$navParent}' AND ip.national = 1 SORT by z.sort }}
         {
             "title": "{{ip.title.escapeForJs()}}",
             "url": "{{truepath({ip.zuid})}}",
