@@ -108,6 +108,16 @@
   }
 }
 
+// Editor-embedded videos fill their column at 16:9; :where() keeps specificity 0 so video wrappers (.ratio, .wrapVideo, .ja-video-wrapper) still win.
+:where(main) :where(iframe[src*='youtube.com/embed'], iframe[src*='youtube-nocookie.com/embed'], iframe[src*='player.vimeo.com']) {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  margin-inline: auto;
+}
+
 .stories-body {
   h1 {
     font-size: 2.5rem;
