@@ -1,0 +1,79 @@
+# zesty-ai project configuration — DRAFT, pending review (generated 2026-10-14 by project-discovery).
+# Validated by the zesty-ai plugin's schemas/project.schema.json.
+# NEVER put credentials here. Tokens come from .env (gitignored) or CI secrets.
+
+schema_version: 1
+
+project:
+  id: tsa-national-website
+  name: The Salvation Army National Website
+  type: website
+  repository: TSAUSN/national-website-dev
+  description: >-
+    Zesty.io WebEngine site (Parsley views, SCSS, JS) for The Salvation Army USA national
+    website. Code is synced to the Zesty instance by scripts/sync-to-zesty.js from GitHub Actions.
+
+stack:
+  languages: [parsley, html, scss, javascript]
+  frameworks: [zesty-webengine, bootstrap-5]
+  package_manager: null # no package.json; Node is used only to run the sync script
+  runtime: node 20 # .github/workflows/*.yml (actions/setup-node, node-version: 20)
+
+commands:
+  install: null
+  lint: null
+  format_check: null
+  typecheck: null
+  test: null
+  e2e: null
+  build: null
+  dev: null
+  # Read-only: writes zesty-report.md and never calls a write endpoint (REPORT implies dry-run).
+  # Needs ZESTY_INSTANCE_ZUID + ZESTY_TOKEN in the environment for the dev/live comparison,
+  # plus BRANCH=stage|production and DIFF_BASE/DIFF_HEAD SHAs. Run it from Git Bash or CI; on Windows
+  # the changed-file scope never matches (see docs/custom-patterns.md D-03).
+  sync_report: node scripts/sync-to-zesty.js --report
+
+quality_gates:
+  lint: disabled # no linter in the repo
+  typecheck: disabled
+  tests: disabled # no automated tests in the repo
+  build: disabled # WebEngine compiles views/SCSS on the platform; no build step
+  code_review: required
+  staging_qa: required
+  sync_preview: required # read the sync preview comment (.github/workflows/zesty-pr-preview.yml) before merging
+  human_release_approval: required
+
+release:
+  environments:
+    - name: branch-preview
+      kind:
+        preview # per-branch WebEngine preview rendered from GitHub:
+        #   https://hr1cm7dt-{branch-name}.webengine.zesty.io/  (e.g. hr1cm7dt-coda-1234)
+      requires_approval: false
+    - name: stage
+      kind: staging # push to `stage` saves files to the instance's dev version (no publish)
+      url: https://hr1cm7dt-dev.webengine.zesty.io/
+      requires_approval: false
+    - name: production
+      kind: production # push to `production` publishes dev → live
+      url: https://thesalvationarmyinternaldev.zesty.dev/
+      requires_approval: true
+  approvers: [lead, programmer]
+
+source_control:
+  promotion_branches: [stage, production] # feature branch (coda-####) → stage → production; `main` is retired
+  platform_owned_paths:
+    - webengine/views/z/ # Zesty Layout-editor output (z/pvl/*, z/layouts/*) — CURRENTLY TRACKED, see CLAUDE.md
+  human_only_paths:
+    - .github/workflows/
+    - scripts/sync-to-zesty.js # the deploy script
+
+integrations:
+  knowledge:
+    provider: zesty
+    enabled: true
+    instance_zuid: 8-b28282a4fe-dszqwn # from zesty.config.json; matches .env
+  tasks:
+    provider: coda
+    enabled: false # set enabled: true and add doc_id (and table) once the Coda doc ID is known
